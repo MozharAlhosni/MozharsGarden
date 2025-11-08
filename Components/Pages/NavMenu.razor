@@ -1,0 +1,76 @@
+﻿@inject HttpClient HttpClient
+
+<RadzenPanelMenu Multiple=true>
+    @if (!_manifestLoaded)
+    {
+        <RadzenPanelMenuItem 
+            Text="Loading..." 
+            Style="cursor: not-allowed; pointer-events: none" />
+    }
+
+    @if (_manifestLoaded)
+    {
+        @if (_standaloneMarkdownPosts.Any())
+        {
+            foreach (string markdownFilePath in _standaloneMarkdownPosts)
+            {
+                <MarkdownPostNavMenuItem MarkdownFilePath=@($"{markdownFilePath}") />
+            }
+        }
+
+        @if (_nestedMarkdownPosts.Any())
+        {
+            foreach (KeyValuePair<string, List<string>> nestedMarkdownPost in _nestedMarkdownPosts)
+            {
+                <CategoryNavMenuItem NestedMarkdownPosts=@nestedMarkdownPost />
+            }
+        }
+    }
+</RadzenPanelMenu>
+
+@code {
+    private bool _manifestLoaded;
+    private HashSet<string> _standaloneMarkdownPosts = new();
+    private Dictionary<string, List<string>> _nestedMarkdownPosts = new();
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            string manifest = await HttpClient.GetStringAsync("DigitalGarden/manifest.txt");
+
+            ProcessManifest(manifest);
+
+            _manifestLoaded = true;
+        } catch (Exception) {}
+    }
+
+    private void ProcessManifest(string manifest)
+    {
+        List<string> paths = manifest
+            .Split('\n', StringSplitOptions.RemoveEmptyEntries | StringSplitOptions.TrimEntries)
+            .ToList();
+
+        paths.RemoveAll(line => line.Contains(".DS_Store", StringComparison.OrdinalIgnoreCase));
+        paths.RemoveAll(line => line.StartsWith("assets/", StringComparison.OrdinalIgnoreCase));
+
+        _standaloneMarkdownPosts = paths
+            .Where(path => !path.Contains('/')
+                           && path.EndsWith(".md", StringComparison.OrdinalIgnoreCase)
+                           && !string.Equals(path, "Home.md", StringComparison.OrdinalIgnoreCase))
+            .Select(path => path[..^3])
+            .ToHashSet();
+
+        int indexToSplitAt = 0;
+        _nestedMarkdownPosts = paths
+            .Where(path => path.Contains('/'))
+            .GroupBy(
+                path => path.Split('/')[indexToSplitAt],
+                path => path
+            )
+            .ToDictionary(
+                group => group.Key,
+                group => group.ToList()
+            );
+    }
+}

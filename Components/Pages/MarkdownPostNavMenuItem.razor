@@ -1,0 +1,30 @@
+@using System.Text
+
+<RadzenPanelMenuItem 
+    Text=@_markdownFileName
+    Path=@($"DigitalGarden/{MarkdownFilePath}")
+    Icon="Markdown"
+    Style=@GetMenuItemStyle() 
+/>
+
+@code {
+    [Parameter] public required string MarkdownFilePath { get; set; }
+    [Parameter] public bool IsNestedMenuItem { get; set; } = false;
+
+    private string _markdownFileName = string.Empty;
+
+    protected override void OnParametersSet()
+    {
+        _markdownFileName = Path.GetFileNameWithoutExtension(MarkdownFilePath);
+    }
+
+    private string GetMenuItemStyle()
+    {
+        string style = "overflow-wrap:anywhere;";
+
+        if (IsNestedMenuItem)
+            style += " margin-left:10px;";
+
+        return style;
+    }
+}

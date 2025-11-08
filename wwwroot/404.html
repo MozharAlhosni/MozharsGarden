@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <meta charset="utf-8" />
+      <title>Redirecting...</title>
+      <meta name="robots" content="noindex" />
+      <script type="text/javascript">
+         (function() {
+         const redirectUrl = window.location.href;
+         
+         fetch('/index.html', { cache: 'no-store' })
+             .then(response => {
+             if (!response.ok) throw new Error('Failed to load index.html: ' + response.status);
+             return response.text();
+             })
+             .then(html => {
+             document.open();
+             document.write(html);
+             document.close();
+         
+             history.replaceState(null, '', redirectUrl);
+             })
+             .catch(err => {
+             console.error('Blazor redirect error:', err);
+             window.location.replace('/');
+             });
+         })();
+      </script>
+   </head>
+   <body></body>
+</html>

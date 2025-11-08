@@ -1,0 +1,5 @@
+# Links
+
+- [https://db.cs.cmu.edu/papers/2025/zeng-sigmod2025.pdf](https://db.cs.cmu.edu/papers/2025/zeng-sigmod2025.pdf)
+- [https://github.com/apache/hudi](https://github.com/apache/hudi)
+- [https://rocketreach.co](https://rocketreach.co)

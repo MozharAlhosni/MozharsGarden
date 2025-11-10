@@ -7,4 +7,5 @@
 - [https://github.com/es3n1n/defendnot](https://github.com/es3n1n/defendnot)
 - [https://specterops.io/blog/2025/10/23/catching-credential-guard-off-guard/](https://specterops.io/blog/2025/10/23/catching-credential-guard-off-guard/)
 - [https://www.legitsecurity.com/](https://www.legitsecurity.com/)
-- [https://0xda.de/](https://0xda.de/)
+- [https://pixnapping.com](https://pixnapping.com)
+- [https://github.com/Xacone/BestEdrOfTheMarket](https://github.com/Xacone/BestEdrOfTheMarket)

@@ -7,3 +7,7 @@
 - [https://xhr.spec.whatwg.org/#biblio-infra](https://xhr.spec.whatwg.org/#biblio-infra)
 - [https://docs.particular.net/](https://docs.particular.net/)
 - [https://docs.particular.net/nservicebus/scaling?utm_source=manning.com&utm_medium=book](https://docs.particular.net/nservicebus/scaling?utm_source=manning.com&utm_medium=book)
+- [https://tambo.co](https://tambo.co)
+- [https://stackblitz.com](https://stackblitz.com)
+- [https://webcontainers.io](https://webcontainers.io)
+- [https://www.punycoder.com](https://www.punycoder.com)

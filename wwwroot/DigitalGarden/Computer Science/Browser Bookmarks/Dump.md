@@ -563,8 +563,6 @@ Later on I will need to clean it up and categorize things.
 - [A Tour of WebAuthn](https://www.imperialviolet.org/tourofwebauthn/tourofwebauthn.pdf)
 - [JSON Crack - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=AykutSarac.jsoncrack-vscode)
 - [Radmin: Reliable Remote Desktop Software for IT Pros](https://www.radmin.com/download/)
-- [https://hackingthe.cloud/](https://hackingthe.cloud/)
-- [Discover secrets in public AMIs - Hacking The Cloud](https://hackingthe.cloud/aws/enumeration/discover_secrets_in_public_aims/)
 - [High-performance Open Source API Gateway | KrakenD](https://www.krakend.io/)
 - [offsec.tools - A vast collection of security tools](https://offsec.tools/)
 - [Pico CSS • Minimal CSS Framework for semantic HTML](https://picocss.com/)

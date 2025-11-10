@@ -7,3 +7,5 @@
 - [https://github.com/BishopFox/sliver](https://github.com/BishopFox/sliver)
 - [https://docs.mythic-c2.net/home](https://docs.mythic-c2.net/home)
 - [https://github.com/its-a-feature/Mythic](https://github.com/its-a-feature/Mythic)
+- [https://github.com/LeighlinRamsay/GunnerC2](https://github.com/LeighlinRamsay/GunnerC2)
+- [https://nighthawkc2.io/](https://nighthawkc2.io/)

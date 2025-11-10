@@ -9,4 +9,5 @@
 - [https://labs.lares.com/living-off-the-land/](https://labs.lares.com/living-off-the-land/)
 - [https://labs.lares.com/introducing-scraping-kit/](https://labs.lares.com/introducing-scraping-kit/)
 - [https://github.com/mgreen27/mcp-velociraptor](https://github.com/mgreen27/mcp-velociraptor)
+- [https://saxrag.com](https://saxrag.com)
 - 

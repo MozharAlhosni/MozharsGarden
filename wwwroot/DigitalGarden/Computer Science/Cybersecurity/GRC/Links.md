@@ -11,3 +11,4 @@
 - [https://www.cisecurity.org/controls/implementation-groups](https://www.cisecurity.org/controls/implementation-groups)
 - [https://compliancescorecard.com/risk-frameworks/](https://compliancescorecard.com/risk-frameworks/)
 - [https://www.isc2.org/certifications/cgrc](https://www.isc2.org/certifications/cgrc)
+- [https://www.forcepoint.com/lp/data-loss-prevention](https://www.forcepoint.com/lp/data-loss-prevention)

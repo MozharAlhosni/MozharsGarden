@@ -6,3 +6,5 @@
 - [https://davidmytton.blog/](https://davidmytton.blog/)
 - [https://toolbrew.co/](https://toolbrew.co/)
 - [https://www.openstreetmap.org/](https://www.openstreetmap.org/)
+- [https://thedailywtf.com](https://thedailywtf.com)
+- [https://spectrum.ieee.org]

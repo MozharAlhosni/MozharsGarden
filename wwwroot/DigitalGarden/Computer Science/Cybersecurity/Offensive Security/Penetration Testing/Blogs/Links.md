@@ -11,3 +11,4 @@
 - [https://labs.watchtowr.com](https://labs.watchtowr.com)
 - [https://blacksnufkin.github.io](https://blacksnufkin.github.io)
 - [https://dfir.ch](https://dfir.ch)
+- [https://blog.ar-lacroix.fr/](https://blog.ar-lacroix.fr/)

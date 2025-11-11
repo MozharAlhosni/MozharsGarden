@@ -19,3 +19,4 @@
 - [https://tetragon.io/](https://tetragon.io/)
 - [https://www.collaboraonline.com/](https://www.collaboraonline.com/)
 - [https://workbench.cisecurity.org/](https://workbench.cisecurity.org/)
+- [https://blog.badsectorlabs.com/](https://blog.badsectorlabs.com/)

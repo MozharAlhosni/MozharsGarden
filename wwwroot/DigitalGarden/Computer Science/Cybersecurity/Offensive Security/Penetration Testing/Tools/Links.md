@@ -5,3 +5,5 @@
 - [https://github.com/carloslack/kv-demos](https://github.com/carloslack/kv-demos)
 - [https://github.com/MegaManSec/SSH-Snake](https://github.com/MegaManSec/SSH-Snake)
 - [https://github.com/EgeBalci/evilreplay](https://github.com/EgeBalci/evilreplay)
+- [https://github.com/CravateRouge/bloodyAD](https://github.com/CravateRouge/bloodyAD)
+- [https://github.com/CravateRouge/autobloody](https://github.com/CravateRouge/autobloody)

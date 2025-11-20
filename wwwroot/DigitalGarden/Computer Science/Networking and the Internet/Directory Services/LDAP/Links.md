@@ -5,3 +5,4 @@
 - [https://www.dogtagpki.org/wiki/PKI_Main_Page](https://www.dogtagpki.org/wiki/PKI_Main_Page)
 - [https://www.openldap.org/](https://www.openldap.org/)
 - [https://www.redbooks.ibm.com/redbooks/pdfs/sg244986.pdf](https://www.redbooks.ibm.com/redbooks/pdfs/sg244986.pdf)
+- [https://github.com/heimdal/heimdal](https://github.com/heimdal/heimdal)

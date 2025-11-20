@@ -7,4 +7,5 @@
 - [https://toolbrew.co/](https://toolbrew.co/)
 - [https://www.openstreetmap.org/](https://www.openstreetmap.org/)
 - [https://thedailywtf.com](https://thedailywtf.com)
-- [https://spectrum.ieee.org]
+- [https://spectrum.ieee.org](https://spectrum.ieee.org)
+- [https://bitsgalore.org/](https://bitsgalore.org/)

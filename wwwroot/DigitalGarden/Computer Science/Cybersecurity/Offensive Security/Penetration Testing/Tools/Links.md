@@ -7,3 +7,4 @@
 - [https://github.com/EgeBalci/evilreplay](https://github.com/EgeBalci/evilreplay)
 - [https://github.com/CravateRouge/bloodyAD](https://github.com/CravateRouge/bloodyAD)
 - [https://github.com/CravateRouge/autobloody](https://github.com/CravateRouge/autobloody)
+- [https://docs.ludus.cloud/](https://docs.ludus.cloud/)

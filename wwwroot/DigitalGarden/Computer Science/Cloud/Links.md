@@ -6,3 +6,6 @@
 - [https://kuma.io/](https://kuma.io/)
 - [https://openservicemesh.io/](https://openservicemesh.io/)
 - [https://github.com/pmqs/Fix-OneDrive-Zip](https://github.com/pmqs/Fix-OneDrive-Zip)
+- [https://www.envoyproxy.io/](https://www.envoyproxy.io/)
+- [https://newrelic.com/](https://newrelic.com/)
+- [https://www.lansweeper.com/](https://www.lansweeper.com/)

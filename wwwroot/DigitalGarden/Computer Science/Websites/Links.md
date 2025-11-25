@@ -9,3 +9,4 @@
 - [https://thedailywtf.com](https://thedailywtf.com)
 - [https://spectrum.ieee.org](https://spectrum.ieee.org)
 - [https://bitsgalore.org/](https://bitsgalore.org/)
+- [https://temp-mail.org/en/](https://temp-mail.org/en/)

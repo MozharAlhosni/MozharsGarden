@@ -8,3 +8,4 @@
 - [https://env.fail](https://env.fail/posts/aws-s3/)
 - [https://aws-samples.github.io/threat-technique-catalog-for-aws/](https://aws-samples.github.io/threat-technique-catalog-for-aws/)
 - [https://hackingthe.cloud/](https://hackingthe.cloud/)
+- [https://www.cyberark.com/resources/hybrid-and-multi-cloud-security](https://www.cyberark.com/resources/hybrid-and-multi-cloud-security)

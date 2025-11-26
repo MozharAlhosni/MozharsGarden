@@ -13,3 +13,4 @@
 - [https://dfir.ch](https://dfir.ch)
 - [https://blog.ar-lacroix.fr/](https://blog.ar-lacroix.fr/)
 - [https://matheuzsecurity.github.io/](https://matheuzsecurity.github.io/)
+- [https://www.cyberark.com/resources/threat-research-blog](https://www.cyberark.com/resources/threat-research-blog)

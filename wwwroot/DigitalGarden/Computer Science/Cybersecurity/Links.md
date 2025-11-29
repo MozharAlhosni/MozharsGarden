@@ -23,3 +23,4 @@
 - [https://grell.dev](https://grell.dev)
 - [https://pagedout.institue](https://pagedout.institue)
 - [https://linuxsecurity.expert](https://linuxsecurity.expert)
+- [https://security-soup.net/](https://security-soup.net/)

@@ -4,3 +4,5 @@
 - [https://www.screenconnect.com](https://www.screenconnect.com)
 - [https://www.strongdm.com](https://www.strongdm.com)
 - [https://ghost.org](https://ghost.org)
+- [https://netwitness.com](https://netwitness.com)
+- [https://geminiprotocol.net](https://geminiprotocol.net)

@@ -14,3 +14,7 @@
 - [https://itoa.hex.dance](https://itoa.hex.dance)
 - [https://www.asciiart.eu](https://www.asciiart.eu)
 - [https://www.ready.gov](https://www.ready.gov)
+- [https://beej.us/](https://beej.us/)
+- [https://www.barrons.com](https://www.barrons.com)
+- [https://github.com/ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook)
+- [https://untested.sonnet.io](https://untested.sonnet.io)

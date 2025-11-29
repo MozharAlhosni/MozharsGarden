@@ -11,3 +11,6 @@
 - [https://bitsgalore.org/](https://bitsgalore.org/)
 - [https://jsteuernagel.de](https://jsteuernagel.de)
 - [https://sealos.io](https://sealos.io)
+- [https://itoa.hex.dance](https://itoa.hex.dance)
+- [https://www.asciiart.eu](https://www.asciiart.eu)
+- [https://www.ready.gov](https://www.ready.gov)

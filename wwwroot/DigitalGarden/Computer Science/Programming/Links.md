@@ -7,3 +7,4 @@
 - [https://codeproject.com/articles/Codeplusreviewplusguidelines](https://codeproject.com/articles/Codeplusreviewplusguidelines)
 - [https://red-gate.com/simple-talk/articles](https://red-gate.com/simple-talk/articles)
 - [https://qlty.sh](https://qlty.sh)
+- [https://docs.guzzlephp.org](https://docs.guzzlephp.org)

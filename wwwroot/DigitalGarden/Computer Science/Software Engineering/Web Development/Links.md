@@ -15,4 +15,5 @@
 - [https://docs.imageflow.io/introduction.html](https://docs.imageflow.io/introduction.html)
 - [https://github.com/imazen/imageflow-server](https://github.com/imazen/imageflow-server)
 - [https://surge.sh](https://surge.sh)
-- [https://web.dev]
+- [https://web.dev](https://web.dev)
+- [https://httpwg.org](https://httpwg.org)

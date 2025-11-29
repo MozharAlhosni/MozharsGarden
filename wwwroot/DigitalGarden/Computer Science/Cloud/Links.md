@@ -10,3 +10,4 @@
 - [https://newrelic.com/](https://newrelic.com/)
 - [https://www.lansweeper.com/](https://www.lansweeper.com/)
 - [https://opentofu.org](https://opentofu.org)
+- [https://www.finops.org](https://www.finops.org)

@@ -15,3 +15,4 @@
 - [https://0xanalyst.github.io/Project-Lost/](https://0xanalyst.github.io/Project-Lost/)
 - [https://cloud.google.com/blog/topics/threat-intelligence/bring-your-own-land-novel-red-teaming-technique/](https://cloud.google.com/blog/topics/threat-intelligence/bring-your-own-land-novel-red-teaming-technique/)
 - [https://wtfbins.wtf/](https://wtfbins.wtf/)
+- [https://github.com/magisterquis/lutlol](https://github.com/magisterquis/lutlol)

@@ -9,3 +9,5 @@
 - [https://cloudcustodian.io/](https://cloudcustodian.io/)
 - [https://github.com/forseti-security/forseti-security](https://github.com/forseti-security/forseti-security)
 - [https://opensource.google/projects/forsetisecurity](https://opensource.google/projects/forsetisecurity)
+- [https://www.microsoft.com/en-us/security/business/security-101/what-is-cnapp](https://www.microsoft.com/en-us/security/business/security-101/what-is-cnapp)
+- [https://kubernetes.io/docs/concepts/security/cloud-native-security/](https://kubernetes.io/docs/concepts/security/cloud-native-security/)

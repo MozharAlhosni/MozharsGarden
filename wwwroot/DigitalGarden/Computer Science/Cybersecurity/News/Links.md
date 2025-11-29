@@ -5,3 +5,5 @@
 - [https://thehackernews.com/](https://thehackernews.com/)
 - [https://www.politico.eu/](https://www.politico.eu/)
 - [https://www.intelligenceonline.com/rub/cybersecurity](https://www.intelligenceonline.com/rub/cybersecurity)
+- [https://therecord.media](https://therecord.media)
+- [https://www.gendigital.com](https://www.gendigital.com)

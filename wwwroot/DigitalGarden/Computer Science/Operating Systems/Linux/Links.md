@@ -8,3 +8,4 @@
 - [https://netdata.cloud/blog](https://netdata.cloud/blog)
 - [https://zenodo.org/records/15234151](https://zenodo.org/records/15234151)
 - [https://phk.freebsd.dk](https://phk.freebsd.dk)
+- [https://ebpf.io](https://ebpf.io)

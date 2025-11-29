@@ -34,3 +34,4 @@
 - [https://www.resolver.com/grc-software/](https://www.resolver.com/grc-software/)
 - [https://cdn.prod.website-files.com/64009032676f24f376f002fc/686c4e24a25210c2d043d32f_US53615325tabfig_1.png](https://cdn.prod.website-files.com/64009032676f24f376f002fc/686c4e24a25210c2d043d32f_US53615325tabfig_1.png)
 - [https://www.firstsanfranciscopartners.com/blog/data-governance-as-a-managed-service/](https://www.firstsanfranciscopartners.com/blog/data-governance-as-a-managed-service/)
+- [https://qmulos.com/wp-content/uploads/Rethinking-Compliance-Executive-Guide.pdf](https://qmulos.com/wp-content/uploads/Rethinking-Compliance-Executive-Guide.pdf)

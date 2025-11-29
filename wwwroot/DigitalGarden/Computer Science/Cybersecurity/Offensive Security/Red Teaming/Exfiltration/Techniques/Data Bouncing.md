@@ -1,12 +1,11 @@
-# Links
+# Data Bouncing
+
+## Links
 
 - [https://github.com/Unit-259/dataBouncing](https://github.com/Unit-259/dataBouncing)
 - [https://github.com/N1ckDunn/DataBouncing](https://github.com/N1ckDunn/DataBouncing)
 - [https://github.com/N1ckDunn/Interocitor](https://github.com/N1ckDunn/Interocitor)
 - [https://thecontractor.io/data-bouncing/](https://thecontractor.io/data-bouncing/)
-- [https://github.com/projectdiscovery/interactsh](https://github.com/projectdiscovery/interactsh)
-- [https://app.interactsh.com/#/](https://app.interactsh.com/#/)
-- [https://pinggy.io/](https://pinggy.io/)
 
 ## Demo
 

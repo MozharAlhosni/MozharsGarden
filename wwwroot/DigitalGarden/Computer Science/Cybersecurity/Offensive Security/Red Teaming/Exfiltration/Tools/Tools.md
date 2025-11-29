@@ -1,0 +1,15 @@
+# Tools
+
+- [https://github.com/projectdiscovery/interactsh](https://github.com/projectdiscovery/interactsh)
+- [https://app.interactsh.com/#/](https://app.interactsh.com/#/)
+- [https://pinggy.io/](https://pinggy.io/)
+- [https://requestbin.net/](https://requestbin.net/)
+- [https://pastebin.com/](https://pastebin.com/)
+- [https://github.com/Arno0x/DNSExfiltrator](https://github.com/Arno0x/DNSExfiltrator)
+- [https://github.com/yarrick/iodine](https://github.com/yarrick/iodine)
+- [https://code.kryo.se/iodine/](https://code.kryo.se/iodine/)
+- [https://github.com/iagox86/dnscat2](https://github.com/iagox86/dnscat2)
+- [https://www.hackingarticles.in/category/red-teaming/exfiltration/](https://www.hackingarticles.in/category/red-teaming/exfiltration/)
+- [https://github.com/m57/dnsteal](https://github.com/m57/dnsteal)
+- [https://github.com/ytisf/PyExfil](https://github.com/ytisf/PyExfil)
+- [https://pyexfil.morirt.com/](https://pyexfil.morirt.com/)

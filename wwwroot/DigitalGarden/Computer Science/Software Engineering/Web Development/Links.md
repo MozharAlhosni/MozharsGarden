@@ -12,3 +12,5 @@
 - [https://webcontainers.io](https://webcontainers.io)
 - [https://www.punycoder.com](https://www.punycoder.com)
 - [https://codeberg.org/JoanVC/apps.apple.com](https://codeberg.org/JoanVC/apps.apple.com)
+- [https://docs.imageflow.io/introduction.html](https://docs.imageflow.io/introduction.html)
+- [https://github.com/imazen/imageflow-server](https://github.com/imazen/imageflow-server)

@@ -7,3 +7,5 @@
 - [https://github.com/barodeur/llm_rescuer](https://github.com/barodeur/llm_rescuer)
 - [https://evanhahn.com](https://evanhahn.com)
 - [https://mathiasbynens.be/](https://mathiasbynens.be/)
+- [https://codebutler.com](https://codebutler.com)
+- [https://container.dev](https://container.dev)

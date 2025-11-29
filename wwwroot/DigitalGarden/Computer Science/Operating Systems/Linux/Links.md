@@ -9,3 +9,5 @@
 - [https://zenodo.org/records/15234151](https://zenodo.org/records/15234151)
 - [https://phk.freebsd.dk](https://phk.freebsd.dk)
 - [https://ebpf.io](https://ebpf.io)
+- [https://lwn.net](https://lwn.net)
+- [https://github.com/liske/needrestart](https://github.com/liske/needrestart)

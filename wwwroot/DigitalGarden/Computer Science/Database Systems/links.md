@@ -7,3 +7,4 @@
 - [https://dbdiagram.io/home](https://dbdiagram.io/home)
 - [https://jyu.dev/blog/why-dev-null-is-an-acid-compliant-database/](https://jyu.dev/blog/why-dev-null-is-an-acid-compliant-database/)
 - [https://postgresqlco.nf](https://postgresqlco.nf)
+- [https://dev.mysql.com/worklog](https://dev.mysql.com/worklog)

@@ -9,5 +9,5 @@
 - [https://thedailywtf.com](https://thedailywtf.com)
 - [https://spectrum.ieee.org](https://spectrum.ieee.org)
 - [https://bitsgalore.org/](https://bitsgalore.org/)
-- 
-- 
+- [https://jsteuernagel.de](https://jsteuernagel.de)
+- [https://sealos.io](https://sealos.io)

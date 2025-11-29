@@ -18,3 +18,4 @@
 - [https://web.dev](https://web.dev)
 - [https://httpwg.org](https://httpwg.org)
 - [https://spacelift.io](https://spacelift.io)
+- [Introduction - BFF Patterns](https://bff-patterns.com/)

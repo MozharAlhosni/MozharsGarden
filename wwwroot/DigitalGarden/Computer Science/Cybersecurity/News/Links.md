@@ -17,3 +17,5 @@
 - [https://www.openwall.com](https://www.openwall.com)
 - [https://cybernews.com](https://cybernews.com)
 - [https://cybersecuritynews.com/](https://cybersecuritynews.com/)
+- [Cyber Security News](https://lizedin.net/)
+- [The Hacker‘s Choice (@thc@infosec.exchange) - Infosec Exchange](https://infosec.exchange/@thc)

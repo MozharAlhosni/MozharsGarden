@@ -15,3 +15,4 @@
 - [https://matheuzsecurity.github.io/](https://matheuzsecurity.github.io/)
 - [https://www.cyberark.com/resources/threat-research-blog](https://www.cyberark.com/resources/threat-research-blog)
 - [https://blog.ankursundara.com](https://blog.ankursundara.com)
+- [https://pentest.jonathan.com.ar/](https://pentest.jonathan.com.ar/)

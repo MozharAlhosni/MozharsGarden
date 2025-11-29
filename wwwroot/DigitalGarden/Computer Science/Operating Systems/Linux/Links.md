@@ -12,3 +12,4 @@
 - [https://lwn.net](https://lwn.net)
 - [https://github.com/liske/needrestart](https://github.com/liske/needrestart)
 - [https://tuxcare.com](https://tuxcare.com)
+- [What Is Auditd in Linux: A Brief Tutorial - Sematext](https://sematext.com/glossary/auditd/)

@@ -11,3 +11,4 @@
 - [https://container.dev](https://container.dev)
 - [https://agilemanifesto.org](https://agilemanifesto.org)
 - [https://wundergraph.com](https://wundergraph.com)
+- [Vale.sh - A linter for prose](https://vale.sh/)

@@ -20,3 +20,4 @@
 - [https://bishopfox.com/blog/introducing-cloudfox](https://bishopfox.com/blog/introducing-cloudfox)
 - [https://github.com/turbot/steampipe](https://github.com/turbot/steampipe)
 - [https://github.com/RhinoSecurityLabs/GCPBucketBrute](https://github.com/RhinoSecurityLabs/GCPBucketBrute)
+- [https://github.com/hotnops/apeman](https://github.com/hotnops/apeman)

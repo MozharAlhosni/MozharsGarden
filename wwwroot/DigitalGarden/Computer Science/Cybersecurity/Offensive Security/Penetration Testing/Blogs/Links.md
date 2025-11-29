@@ -14,3 +14,4 @@
 - [https://blog.ar-lacroix.fr/](https://blog.ar-lacroix.fr/)
 - [https://matheuzsecurity.github.io/](https://matheuzsecurity.github.io/)
 - [https://www.cyberark.com/resources/threat-research-blog](https://www.cyberark.com/resources/threat-research-blog)
+- [https://blog.ankursundara.com](https://blog.ankursundara.com)

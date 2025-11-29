@@ -9,3 +9,4 @@
 - [https://www.legitsecurity.com/](https://www.legitsecurity.com/)
 - [https://pixnapping.com](https://pixnapping.com)
 - [https://github.com/Xacone/BestEdrOfTheMarket](https://github.com/Xacone/BestEdrOfTheMarket)
+- [https://github.com/SpecterOps/Nemesis](https://github.com/SpecterOps/Nemesis)

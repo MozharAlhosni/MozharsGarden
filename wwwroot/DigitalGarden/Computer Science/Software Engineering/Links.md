@@ -9,3 +9,5 @@
 - [https://mathiasbynens.be/](https://mathiasbynens.be/)
 - [https://codebutler.com](https://codebutler.com)
 - [https://container.dev](https://container.dev)
+- [https://agilemanifesto.org](https://agilemanifesto.org)
+- [https://wundergraph.com](https://wundergraph.com)

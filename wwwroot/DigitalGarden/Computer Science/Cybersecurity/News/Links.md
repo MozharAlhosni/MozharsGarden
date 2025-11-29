@@ -12,3 +12,7 @@
 - [https://www.infoq.com](https://www.infoq.com)
 - [https://synacktiv.com](https://synacktiv.com)
 - [https://www.imperva.com/blog/](https://www.imperva.com/blog/)
+- [https://www.theregister.com](https://www.theregister.com)
+- [https://www.huntress.com/blog]([https://www.huntress.com/blog)
+- [https://www.openwall.com](https://www.openwall.com)
+- [https://cybernews.com](https://cybernews.com)

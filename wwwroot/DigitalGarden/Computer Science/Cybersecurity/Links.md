@@ -25,3 +25,4 @@
 - [https://linuxsecurity.expert](https://linuxsecurity.expert)
 - [https://security-soup.net/](https://security-soup.net/)
 - [https://s0cm0nkey.gitbook.io/s0cm0nkeys-security-reference-guide](https://s0cm0nkey.gitbook.io/s0cm0nkeys-security-reference-guide)
+- [https://auditboard.com/blog/generally-accepted-auditing-standards](https://auditboard.com/blog/generally-accepted-auditing-standards)

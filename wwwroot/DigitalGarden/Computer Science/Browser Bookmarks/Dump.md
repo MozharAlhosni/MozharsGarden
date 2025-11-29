@@ -140,7 +140,6 @@ Later on I will need to clean it up and categorize things.
 - [New Relic - Observability Platform for Developers | New Relic](https://newrelic.com/lp/developersignup-wglp)
 - [Enable per-user multifactor authentication - Microsoft Entra ID | Microsoft Learn](https://learn.microsoft.com/en-us/entra/identity/authentication/howto-mfa-userstates)
 - [VPN using OpenWRT and Windows built-in client. | Kicken's World](https://aoeex.com/phile/windows-vpn-openwrt/)
-- [DDoS Attack Vectors - Latest Cyber Threat Intelligence Report](https://www.netscout.com/threatreport/ddos-attack-vectors)
 - [internet-albedo.net](https://internet-albedo.net/)
 - [User Agents Analysis :: udger.com](https://udger.com/)
 - [Greg's blog](https://roumache.com/en/blog/bypass-fail2ban-with-ipv6/)

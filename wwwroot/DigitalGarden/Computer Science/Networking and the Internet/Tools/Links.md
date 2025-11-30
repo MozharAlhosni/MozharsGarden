@@ -4,3 +4,4 @@
 - [https://github.com/antoniomika/sish](https://github.com/antoniomika/sish)
 - [https://juri.host/](https://juri.host/)
 - [https://www.netscaler.com/](https://www.netscaler.com/)
+- [https://www.graphon.com/blog/citrix-competitors](https://www.graphon.com/blog/citrix-competitors)

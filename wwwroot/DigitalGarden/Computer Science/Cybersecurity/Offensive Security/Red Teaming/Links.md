@@ -11,3 +11,4 @@
 - [https://github.com/mgreen27/mcp-velociraptor](https://github.com/mgreen27/mcp-velociraptor)
 - [https://saxrag.com](https://saxrag.com)
 - [https://www.netscout.com/threatreport/ddos-attack-vectors/](https://www.netscout.com/threatreport/ddos-attack-vectors/)
+- [https://github.com/winscripting/UAC-bypass](https://github.com/winscripting/UAC-bypass)

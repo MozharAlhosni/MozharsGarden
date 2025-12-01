@@ -13,3 +13,4 @@
 - [https://www.browserstack.com/guide/what-is-system-integration-testing](https://www.browserstack.com/guide/what-is-system-integration-testing)
 - [https://sucuri.net/](https://sucuri.net/)
 - [Introduction | XS-Leaks Wiki](https://xsleaks.dev/)
+- [https://github.com/OWASP/www-project-automated-threats-to-web-applications](https://github.com/OWASP/www-project-automated-threats-to-web-applications)

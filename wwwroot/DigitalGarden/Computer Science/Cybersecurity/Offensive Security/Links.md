@@ -33,3 +33,4 @@
 - [HackTricks - HackTricks](https://book.hacktricks.wiki/en/index.html)
 - [threlfall_hax](https://5stars217.github.io/)
 - [https://owasp.org/API-Security/editions/2023/en/0x10-api-security-risks/](https://owasp.org/API-Security/editions/2023/en/0x10-api-security-risks/)
+- [https://www.resecurity.com/blog](https://www.resecurity.com/blog)

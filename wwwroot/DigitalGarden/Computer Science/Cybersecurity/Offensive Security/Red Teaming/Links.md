@@ -12,3 +12,5 @@
 - [https://saxrag.com](https://saxrag.com)
 - [https://www.netscout.com/threatreport/ddos-attack-vectors/](https://www.netscout.com/threatreport/ddos-attack-vectors/)
 - [https://github.com/winscripting/UAC-bypass](https://github.com/winscripting/UAC-bypass)
+- [https://github.com/p0dalirius/shareql](https://github.com/p0dalirius/shareql)
+- [https://github.com/google/syzkaller](https://github.com/google/syzkaller)

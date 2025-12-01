@@ -52,3 +52,6 @@
 - [https://isc.sans.edu/](https://isc.sans.edu/)
 - [https://www.cisa.gov/](https://www.cisa.gov/)
 - [https://vm.misp-project.org/latest/](https://vm.misp-project.org/latest/)
+- [https://assets.recordedfuture.com/Reports/2025-State-of-Threat-Intelligence.pdf](https://assets.recordedfuture.com/Reports/2025-State-of-Threat-Intelligence.pdf)
+- [https://www.open-scap.org/](https://www.open-scap.org/)
+- [https://blog.sucuri.net/#](https://blog.sucuri.net/#)

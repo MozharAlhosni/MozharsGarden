@@ -57,4 +57,5 @@
 - [https://www.open-scap.org/](https://www.open-scap.org/)
 - [https://blog.sucuri.net/#](https://blog.sucuri.net/#)
 - [https://digital.nhs.uk/cyber-alerts](https://digital.nhs.uk/cyber-alerts)
-- 
+- [https://vulners.com/](https://vulners.com/)
+- [https://cvedb.shodan.io/](https://cvedb.shodan.io/)

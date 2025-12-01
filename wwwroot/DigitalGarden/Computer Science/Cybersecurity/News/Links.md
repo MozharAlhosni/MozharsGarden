@@ -19,3 +19,4 @@
 - [https://cybersecuritynews.com/](https://cybersecuritynews.com/)
 - [Cyber Security News](https://lizedin.net/)
 - [The Hacker‘s Choice (@thc@infosec.exchange) - Infosec Exchange](https://infosec.exchange/@thc)
+- [https://www.idtheftcenter.org/](https://www.idtheftcenter.org/)

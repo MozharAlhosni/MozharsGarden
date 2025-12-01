@@ -8,3 +8,5 @@
 - [The DFIR Report – Real Intrusions by Real Attackers, The Truth Behind the Intrusion](https://thedfirreport.com/)
 - [Web Security](https://infosec.mozilla.org/guidelines/web_security#content-security-policy)
 - [Hardening a Selfhosted Vaultwarden Password Manager](https://blog.lrvt.de/securing-vaultwarden-with-fail2ban/)
+- [https://owasp.org/www-project-secure-headers/](https://owasp.org/www-project-secure-headers/)
+- [https://owasp.org/API-Security/editions/2023/en/0x10-api-security-risks/](https://owasp.org/API-Security/editions/2023/en/0x10-api-security-risks/)

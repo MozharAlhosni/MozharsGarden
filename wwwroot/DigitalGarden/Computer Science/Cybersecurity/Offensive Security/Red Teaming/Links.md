@@ -14,3 +14,5 @@
 - [https://github.com/winscripting/UAC-bypass](https://github.com/winscripting/UAC-bypass)
 - [https://github.com/p0dalirius/shareql](https://github.com/p0dalirius/shareql)
 - [https://github.com/google/syzkaller](https://github.com/google/syzkaller)
+- [https://github.com/redcanaryco/atomic-red-team](https://github.com/redcanaryco/atomic-red-team)
+- [https://www.atomicredteam.io/](https://www.atomicredteam.io/)

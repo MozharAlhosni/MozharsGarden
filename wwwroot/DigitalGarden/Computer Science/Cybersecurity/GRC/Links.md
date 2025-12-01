@@ -35,3 +35,6 @@
 - [https://cdn.prod.website-files.com/64009032676f24f376f002fc/686c4e24a25210c2d043d32f_US53615325tabfig_1.png](https://cdn.prod.website-files.com/64009032676f24f376f002fc/686c4e24a25210c2d043d32f_US53615325tabfig_1.png)
 - [https://www.firstsanfranciscopartners.com/blog/data-governance-as-a-managed-service/](https://www.firstsanfranciscopartners.com/blog/data-governance-as-a-managed-service/)
 - [https://qmulos.com/wp-content/uploads/Rethinking-Compliance-Executive-Guide.pdf](https://qmulos.com/wp-content/uploads/Rethinking-Compliance-Executive-Guide.pdf)
+- [https://www.digitalguardian.com/](https://www.digitalguardian.com/)
+- [https://www.fortra.com/products/cloud-access-security-broker](https://www.fortra.com/products/cloud-access-security-broker)
+- [https://dataclassification.fortra.com/](https://dataclassification.fortra.com/)

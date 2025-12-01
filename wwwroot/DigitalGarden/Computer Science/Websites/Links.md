@@ -18,3 +18,4 @@
 - [https://www.barrons.com](https://www.barrons.com)
 - [https://github.com/ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook)
 - [https://untested.sonnet.io](https://untested.sonnet.io)
+- [https://webtechsurvey.com/](https://webtechsurvey.com/)

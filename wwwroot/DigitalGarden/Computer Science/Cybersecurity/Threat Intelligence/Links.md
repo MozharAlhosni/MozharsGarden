@@ -1,5 +1,6 @@
 # Links
 
+- [https://oasis-open.github.io/cti-documentation/](https://oasis-open.github.io/cti-documentation/)
 - [https://s0cm0nkey.gitbook.io/s0cm0nkeys-security-reference-guide/cyber-intelligence](https://s0cm0nkey.gitbook.io/s0cm0nkeys-security-reference-guide/cyber-intelligence)
 - [https://oasis-open.github.io/cti-documentation/](https://oasis-open.github.io/cti-documentation/)
 - [https://www.misp-project.org/](https://www.misp-project.org/)

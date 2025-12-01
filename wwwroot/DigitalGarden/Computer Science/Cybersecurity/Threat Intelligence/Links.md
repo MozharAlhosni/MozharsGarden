@@ -59,3 +59,4 @@
 - [https://digital.nhs.uk/cyber-alerts](https://digital.nhs.uk/cyber-alerts)
 - [https://vulners.com/](https://vulners.com/)
 - [https://cvedb.shodan.io/](https://cvedb.shodan.io/)
+- [https://www.resecurity.com/fr/blog/article/f5-big-ip-source-code-leak-tied-to-state-linked-campaigns-using-brickstorm-backdoor](https://www.resecurity.com/fr/blog/article/f5-big-ip-source-code-leak-tied-to-state-linked-campaigns-using-brickstorm-backdoor)

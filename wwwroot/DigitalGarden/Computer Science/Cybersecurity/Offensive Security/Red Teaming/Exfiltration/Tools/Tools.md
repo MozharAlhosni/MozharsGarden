@@ -13,3 +13,8 @@
 - [https://github.com/m57/dnsteal](https://github.com/m57/dnsteal)
 - [https://github.com/ytisf/PyExfil](https://github.com/ytisf/PyExfil)
 - [https://pyexfil.morirt.com/](https://pyexfil.morirt.com/)
+- [https://oldweb.today/](https://oldweb.today/)
+- [https://kasm.com/](https://kasm.com/)
+- [https://www.browserstack.com/](https://www.browserstack.com/)
+- [https://www.browserling.com/](https://www.browserling.com/)
+- [https://browser.lol/](https://browser.lol/)

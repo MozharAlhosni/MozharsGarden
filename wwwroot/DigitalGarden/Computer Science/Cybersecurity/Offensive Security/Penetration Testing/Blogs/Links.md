@@ -16,3 +16,4 @@
 - [https://www.cyberark.com/resources/threat-research-blog](https://www.cyberark.com/resources/threat-research-blog)
 - [https://blog.ankursundara.com](https://blog.ankursundara.com)
 - [https://pentest.jonathan.com.ar/](https://pentest.jonathan.com.ar/)
+- [https://flatt.tech/research/](https://flatt.tech/research/)

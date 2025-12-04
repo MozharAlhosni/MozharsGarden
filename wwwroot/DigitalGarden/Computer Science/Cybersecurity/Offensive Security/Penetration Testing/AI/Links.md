@@ -2,3 +2,8 @@
 
 - [https://www.cyberark.com/resources/threat-research-blog/jailbreaking-every-llm-with-one-simple-click](https://www.cyberark.com/resources/threat-research-blog/jailbreaking-every-llm-with-one-simple-click)
 - [https://www.cyberark.com/resources/threat-research-blog/anatomy-of-an-llm-rce](https://www.cyberark.com/resources/threat-research-blog/anatomy-of-an-llm-rce)
+- [https://www.microsoft.com/en-us/security/blog/2025/11/07/whisper-leak-a-novel-side-channel-cyberattack-on-remote-language-models/](https://www.microsoft.com/en-us/security/blog/2025/11/07/whisper-leak-a-novel-side-channel-cyberattack-on-remote-language-models/)
+- [https://github.com/yo-yo-yo-jbo/whisper_leak](https://github.com/yo-yo-yo-jbo/whisper_leak)
+- [https://securityaffairs.com/184372/hacking/ai-chat-privacy-at-risk-microsoft-details-whisper-leak-side-channel-attack.html](https://securityaffairs.com/184372/hacking/ai-chat-privacy-at-risk-microsoft-details-whisper-leak-side-channel-attack.html)
+- [https://github.com/p-e-w/heretic](https://github.com/p-e-w/heretic)
+- [https://flatt.tech/research/](https://flatt.tech/research/)

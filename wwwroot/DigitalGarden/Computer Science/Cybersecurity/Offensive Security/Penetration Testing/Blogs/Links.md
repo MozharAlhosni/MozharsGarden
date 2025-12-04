@@ -17,3 +17,4 @@
 - [https://blog.ankursundara.com](https://blog.ankursundara.com)
 - [https://pentest.jonathan.com.ar/](https://pentest.jonathan.com.ar/)
 - [https://flatt.tech/research/](https://flatt.tech/research/)
+- [https://blog.ryotak.net/](https://blog.ryotak.net/)

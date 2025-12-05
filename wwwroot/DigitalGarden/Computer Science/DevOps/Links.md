@@ -2,3 +2,4 @@
 
 - [https://forge.laravel.com](https://forge.laravel.com)
 - [https://tailscale.com/](https://tailscale.com/)
+- [https://openbao.org/](https://openbao.org/)

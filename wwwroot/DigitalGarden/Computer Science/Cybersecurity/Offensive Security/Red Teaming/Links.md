@@ -16,3 +16,4 @@
 - [https://github.com/google/syzkaller](https://github.com/google/syzkaller)
 - [https://github.com/redcanaryco/atomic-red-team](https://github.com/redcanaryco/atomic-red-team)
 - [https://www.atomicredteam.io/](https://www.atomicredteam.io/)
+- [https://book.hacktricks.wiki/en/index.html](https://book.hacktricks.wiki/en/index.html)

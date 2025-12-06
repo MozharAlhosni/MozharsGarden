@@ -19,3 +19,7 @@
 - [https://github.com/ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook)
 - [https://untested.sonnet.io](https://untested.sonnet.io)
 - [https://webtechsurvey.com/](https://webtechsurvey.com/)
+- [https://handbook.gitlab.com/](https://handbook.gitlab.com/)
+- [https://frappe.io/erpnext](https://frappe.io/erpnext)
+- [https://obsidian.md/](https://obsidian.md/)
+- [https://www.theirm.org/](https://www.theirm.org/)

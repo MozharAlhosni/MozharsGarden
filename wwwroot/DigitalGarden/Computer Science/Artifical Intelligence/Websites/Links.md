@@ -7,3 +7,4 @@
 - [Prompt Engineering Guide | Prompt Engineering Guide](https://www.promptingguide.ai/)
 - [DAIR.AI](https://dair-ai.thinkific.com/)
 - [https://github.com/karpathy/nanochat](https://github.com/karpathy/nanochat)
+- [https://optuna.org/](https://optuna.org/)

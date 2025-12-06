@@ -54,3 +54,4 @@ TestResult.xml
 nunit-*.xml
 
 *.DS_Store
+wwwroot/DigitalGarden/manifest.txt

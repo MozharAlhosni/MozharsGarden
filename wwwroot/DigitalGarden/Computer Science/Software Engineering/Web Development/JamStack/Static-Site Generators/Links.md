@@ -7,3 +7,4 @@
 - [https://sdomi.pl](https://sdomi.pl)
 - [https://www.docsy.dev/](https://www.docsy.dev/)
 - [https://gohugo.io/](https://gohugo.io/)
+- [https://learn.netlify.app/en/](https://learn.netlify.app/en/)

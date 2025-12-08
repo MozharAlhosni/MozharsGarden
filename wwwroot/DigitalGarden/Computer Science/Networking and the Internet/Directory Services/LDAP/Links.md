@@ -6,3 +6,4 @@
 - [https://www.openldap.org/](https://www.openldap.org/)
 - [https://www.redbooks.ibm.com/redbooks/pdfs/sg244986.pdf](https://www.redbooks.ibm.com/redbooks/pdfs/sg244986.pdf)
 - [https://github.com/heimdal/heimdal](https://github.com/heimdal/heimdal)
+- [https://en.wikipedia.org/wiki/Apple_Open_Directory](https://en.wikipedia.org/wiki/Apple_Open_Directory)

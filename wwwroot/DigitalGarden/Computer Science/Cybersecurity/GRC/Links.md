@@ -38,3 +38,4 @@
 - [https://www.digitalguardian.com/](https://www.digitalguardian.com/)
 - [https://www.fortra.com/products/cloud-access-security-broker](https://www.fortra.com/products/cloud-access-security-broker)
 - [https://dataclassification.fortra.com/](https://dataclassification.fortra.com/)
+- [https://www.nist.gov/itl/ai-risk-management-framework](https://www.nist.gov/itl/ai-risk-management-framework)

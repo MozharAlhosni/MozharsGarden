@@ -34,3 +34,4 @@
 - [threlfall_hax](https://5stars217.github.io/)
 - [https://owasp.org/API-Security/editions/2023/en/0x10-api-security-risks/](https://owasp.org/API-Security/editions/2023/en/0x10-api-security-risks/)
 - [https://www.resecurity.com/blog](https://www.resecurity.com/blog)
+- [Greg's blog](https://roumache.com/en/blog/bypass-fail2ban-with-ipv6/)

@@ -14,3 +14,4 @@
 - [Vale.sh - A linter for prose](https://vale.sh/)
 - [https://projects.apache.org/projects.html?name](https://projects.apache.org/projects.html?name)
 - [https://hexmos.com/freedevtools/](https://hexmos.com/freedevtools/)
+- [https://tristen.ca/tablesort/demo/](https://tristen.ca/tablesort/demo/)

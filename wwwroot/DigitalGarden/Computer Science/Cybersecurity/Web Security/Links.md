@@ -15,3 +15,4 @@
 - [Introduction | XS-Leaks Wiki](https://xsleaks.dev/)
 - [https://github.com/OWASP/www-project-automated-threats-to-web-applications](https://github.com/OWASP/www-project-automated-threats-to-web-applications)
 - [https://owasp.org/www-project-application-security-verification-standard/](https://owasp.org/www-project-application-security-verification-standard/)
+- [https://github.com/OWASP/ASVS](https://github.com/OWASP/ASVS)

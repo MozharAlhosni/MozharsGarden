@@ -23,3 +23,8 @@
 - [https://frappe.io/erpnext](https://frappe.io/erpnext)
 - [https://obsidian.md/](https://obsidian.md/)
 - [https://www.theirm.org/](https://www.theirm.org/)
+- [https://www.opensourcealternative.to/](https://www.opensourcealternative.to/)
+- [https://www.opensourcealternatives.to/](https://www.opensourcealternatives.to/)
+- [https://openalternative.co/](https://openalternative.co/)
+- [https://hexmos.com/freedevtools/](https://hexmos.com/freedevtools/)
+- [https://numi.app/](https://numi.app/)

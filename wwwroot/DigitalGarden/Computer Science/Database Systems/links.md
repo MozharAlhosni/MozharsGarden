@@ -16,3 +16,5 @@
 - [Adminer - Database management in a single PHP file](https://www.adminer.org/en/)
 - [https://www.pgbouncer.org/](https://www.pgbouncer.org/)
 - [Couchbase: Best NoSQL Cloud Database Service](https://www.couchbase.com/)
+- [https://github.com/electric-sql/pglite](https://github.com/electric-sql/pglite)
+- [https://pglite.dev/](https://pglite.dev/)

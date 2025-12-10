@@ -1,3 +1,3 @@
 # Me
 
-In the future, I aspire to work in Cyberwarfare Intelligence.
+In the future, I aspire to be a Cyberwarfare Intelligence Officer.

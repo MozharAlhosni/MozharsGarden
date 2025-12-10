@@ -5,3 +5,5 @@
 - [Threat Modeling Manifesto](https://www.threatmodelingmanifesto.org/)
 - [https://www.threatdragon.com/docs/](https://www.threatdragon.com/docs/)
 - [OWASP Cornucopia - Threat modeling for everyone everywhere - Don't gamble with your security play games with it](https://cornucopia.owasp.org/)
+- [https://www.iriusrisk.com/threat-modeling-training](https://www.iriusrisk.com/threat-modeling-training)
+- [https://community.iriusrisk.com/](https://community.iriusrisk.com/)

@@ -8,3 +8,4 @@
 - [https://github.com/CravateRouge/bloodyAD](https://github.com/CravateRouge/bloodyAD)
 - [https://github.com/CravateRouge/autobloody](https://github.com/CravateRouge/autobloody)
 - [https://docs.ludus.cloud/](https://docs.ludus.cloud/)
+- [https://horizon3.ai/nodezero/](https://horizon3.ai/nodezero/)

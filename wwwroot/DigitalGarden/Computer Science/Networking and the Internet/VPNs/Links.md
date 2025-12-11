@@ -14,3 +14,4 @@
 - [kota65535/github-openvpn-connect-action: GitHub Action for connecting to OpenVPN server.](https://github.com/kota65535/github-openvpn-connect-action)
 - [Configure OpenVPN client as service on Windows](https://privatevpnsupportguy.github.io/Configure%20OpenVPN%20client%20as%20service%20on%20Windows.html)
 - [Configuration of OPNsense Intrusion Detection and Intrusion Prevention - Thomas-Krenn-Wiki-en](https://www.thomas-krenn.com/en/wiki/Configuration_of_OPNsense_Intrusion_Detection_and_Intrusion_Prevention)
+- [Setting up Tailscale on Ubuntu - Pi My Life Up](https://pimylifeup.com/ubuntu-tailscale/)

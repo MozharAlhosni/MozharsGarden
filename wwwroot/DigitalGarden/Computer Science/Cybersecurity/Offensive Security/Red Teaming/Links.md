@@ -23,3 +23,4 @@
 - [Welcome to the From zero to hero: creating a reflective loader in C# workshop! - From zero to hero: creating a reflective loader in](https://jfmaes-1.gitbook.io/reflection-workshop/)
 - [Home | Metasploit Documentation Penetration Testing Software, Pen Testing Security](https://docs.metasploit.com/)
 - [Active Directory Certi... | HideAndSec](https://hideandsec.sh/books/cheatsheets-82c/page/active-directory-certificate-services)
+- [GitHub - kurogai/100-redteam-projects: Projects for security students](https://github.com/kurogai/100-redteam-projects)

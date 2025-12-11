@@ -19,3 +19,8 @@
 - [Rook](https://rook.io/)
 - [etcd](https://etcd.io/)
 - [High-performance Open Source API Gateway | KrakenD](https://www.krakend.io/)
+- [Why Portainer](https://www.portainer.io/why-portainer)
+- [https://major.io/](https://major.io/)
+- [OperatorHub.io | The registry for Kubernetes Operators](https://operatorhub.io/)
+- [Git - Git Attributes](https://git-scm.com/book/en/v2/Customizing-Git-Git-Attributes)
+- [Platform for API Design, Development &amp; Documentation | Apiary](https://apiary.io/)

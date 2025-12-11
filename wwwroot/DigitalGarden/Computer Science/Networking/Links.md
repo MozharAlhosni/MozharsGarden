@@ -7,3 +7,5 @@
 - [https://openwisp.org/](https://openwisp.org/)
 - [Domotz | Network and IT infrastructure Monitoring software](https://www.domotz.com/)
 - [ipaddress — IPv4/IPv6 manipulation library — Python 3.11.5 documentation](https://docs.python.org/3/library/ipaddress.html)
+- [Open Source Zero Trust Networking – OpenZiti is an open source zero trust network applying zero trust principles directly into applications through SDKs or to existing networks using tunnelers](https://openziti.io/)
+- [Overview · Cloudflare Zero Trust docs](https://developers.cloudflare.com/cloudflare-one/)

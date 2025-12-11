@@ -35,3 +35,5 @@
 - [Open CRE](https://www.opencre.org/)
 - [CyBOK – The Cyber Security Body of Knowledge v1.1](https://www.cybok.org/knowledgebase1_1/)
 - [Cybersecurity Toolkits | NCA](https://nca.gov.sa/en/regulatory-documents/guidelines-list/665/)
+- [CybersecTools | Find Cybersecurity Tools and Resources](https://cybersectools.com/)
+- [https://www.secjuice.com/](https://www.secjuice.com/)

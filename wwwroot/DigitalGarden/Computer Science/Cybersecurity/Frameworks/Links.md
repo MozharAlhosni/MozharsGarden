@@ -7,3 +7,4 @@
 - [https://cpstic.ccn.cni.es/en/](https://cpstic.ccn.cni.es/en/)
 - [LINCE Certification | SGS](https://www.sgs.com/en/services/lince-certification)
 - [Security Standards](https://publications.opengroup.org/standards/security)
+- [Third Party Cybersecurity Compliance Certificate | Aramco](https://www.aramco.com/en/what-we-do/suppliers/supplier-resources/cybersecurity-compliance-certificate-program#authorized-audit-firms)

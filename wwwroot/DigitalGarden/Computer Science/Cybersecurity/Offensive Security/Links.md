@@ -51,3 +51,4 @@
 - [GitHub - HackTricks-wiki/hacktricks: Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.](https://github.com/HackTricks-wiki/hacktricks)
 - [GitHub - Mayter/mssql-command-tool: xp_cmdshell与sp_oacreate执行命令回显和clr加载程序集执行相应操作，上传，job等相应操作。](https://github.com/Mayter/mssql-command-tool)
 - [offsec.tools - A vast collection of security tools](https://offsec.tools/)
+- [https://ssdeep-project.github.io/ssdeep/index.html](https://ssdeep-project.github.io/ssdeep/index.html)

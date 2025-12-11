@@ -45,3 +45,8 @@
 - [JSON Web Token attacks and vulnerabilities | Invicti](https://www.invicti.com/blog/web-security/json-web-token-jwt-attacks-vulnerabilities/)
 - [GitHub - tanc7/hacking-books](https://github.com/tanc7/hacking-books)
 - [owtf/owtf: Offensive Web Testing Framework (OWTF), is a framework which tries to unite great tools and make pen testing more efficient http://owtf.org https://twitter.com/owtfp](https://github.com/owtf/owtf)
+- [Unicode Injection - HackTricks](https://book.hacktricks.wiki/en/pentesting-web/unicode-injection/index.html?highlight=worst%20fit#windows-best-fitworst-fit)
+- [CAPEC - CAPEC-111: JSON Hijacking (aka JavaScript Hijacking) (Version 3.9)](https://capec.mitre.org/data/definitions/111.html)
+- [GitHub - GamehunterKaan/AutoPWN-Suite: AutoPWN Suite is a project for scanning vulnerabilities and exploiting systems automatically.](https://github.com/GamehunterKaan/AutoPWN-Suite)
+- [GitHub - HackTricks-wiki/hacktricks: Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.](https://github.com/HackTricks-wiki/hacktricks)
+- [GitHub - Mayter/mssql-command-tool: xp_cmdshell与sp_oacreate执行命令回显和clr加载程序集执行相应操作，上传，job等相应操作。](https://github.com/Mayter/mssql-command-tool)

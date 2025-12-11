@@ -10,3 +10,7 @@
 - [Business VPN For Secure Networking | OpenVPN](https://openvpn.net/)
 - [Access Private Server with GitHub Actions (VPN connection) | by Ali Sahin | Medium](https://medium.com/@mahmutali.mas/access-private-server-with-github-actions-vpn-connection-cf20313abdd5)
 - [A Site to Site IPSec VPN between Alibaba Cloud VPC and pfSense Firewall using VPN Gateway – ˙·٠•● Nuwan's TechTalk ●•٠·˙](https://nuwan.vip/a-site-to-site-ipsec-vpn-between-alibaba-cloud-vpc-and-pfsense-firewall-using-vpn-gateway/)
+- [VPN using OpenWRT and Windows built-in client. | Kicken's World](https://aoeex.com/phile/windows-vpn-openwrt/)
+- [kota65535/github-openvpn-connect-action: GitHub Action for connecting to OpenVPN server.](https://github.com/kota65535/github-openvpn-connect-action)
+- [Configure OpenVPN client as service on Windows](https://privatevpnsupportguy.github.io/Configure%20OpenVPN%20client%20as%20service%20on%20Windows.html)
+- [Configuration of OPNsense Intrusion Detection and Intrusion Prevention - Thomas-Krenn-Wiki-en](https://www.thomas-krenn.com/en/wiki/Configuration_of_OPNsense_Intrusion_Detection_and_Intrusion_Prevention)

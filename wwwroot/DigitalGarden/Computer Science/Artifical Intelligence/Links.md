@@ -21,3 +21,4 @@
 - [AI Exchange](https://owaspai.org/)
 - [OpenRouter](https://openrouter.ai/)
 - [Alibaba-NLP/ZeroSearch: ZeroSearch: Incentivize the Search Capability of LLMs without Searching](https://github.com/Alibaba-nlp/ZeroSearch)
+- [Introducing Scribe AI](https://get.scribehow.com/ai-scribe/)

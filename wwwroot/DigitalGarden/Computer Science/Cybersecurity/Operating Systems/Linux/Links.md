@@ -14,3 +14,4 @@
 - [Using systemd features to secure services](https://www.redhat.com/en/blog/systemd-secure-services)
 - [Linux GECOS information demystified](https://www.redhat.com/en/blog/linux-gecos-demystified)
 - [Update-Motd Privilege Escalation | Linux Privilege Escalation](https://morgan-bin-bash.gitbook.io/linux-privilege-escalation/update-motd-privilege-escalation)
+- [A guide to infrastructure hardening (1).pdf](https://pages.ubuntu.com/rs/066-EOV-335/images/A%20guide%20to%20infrastructure%20hardening%20(1).pdf)

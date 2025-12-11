@@ -16,3 +16,5 @@
 - [https://podman.io/docs](https://podman.io/docs)
 - [GitHub - FiloSottile/mkcert: A simple zero-config tool to make locally trusted development certificates with any names you'd like.](https://github.com/FiloSottile/mkcert)
 - [Apache ZooKeeper](https://zookeeper.apache.org/)
+- [Rook](https://rook.io/)
+- [etcd](https://etcd.io/)

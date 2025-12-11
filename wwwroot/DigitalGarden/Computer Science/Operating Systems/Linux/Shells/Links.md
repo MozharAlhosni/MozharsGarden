@@ -8,3 +8,4 @@
 - [Tabby - a terminal for a more modern age](https://tabby.sh/)
 - [https://helix-editor.com/](https://helix-editor.com/)
 - [https://neovim.io/](https://neovim.io/)
+- [GitHub - ajeetdsouza/zoxide: A smarter cd command. Supports all major shells.](https://github.com/ajeetdsouza/zoxide)

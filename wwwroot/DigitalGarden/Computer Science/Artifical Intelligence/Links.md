@@ -23,3 +23,4 @@
 - [Alibaba-NLP/ZeroSearch: ZeroSearch: Incentivize the Search Capability of LLMs without Searching](https://github.com/Alibaba-nlp/ZeroSearch)
 - [Introducing Scribe AI](https://get.scribehow.com/ai-scribe/)
 - [LM Studio - Discover, download, and run local LLMs](https://lmstudio.ai/)
+- [https://openwebui.com/](https://openwebui.com/)

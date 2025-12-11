@@ -13,3 +13,4 @@
 - [https://www.cisa.gov/news-events/directives/bod-19-02-vulnerability-remediation-requirements-internet-accessible-systems](https://www.cisa.gov/news-events/directives/bod-19-02-vulnerability-remediation-requirements-internet-accessible-systems)
 - [https://www.cisa.gov/sites/default/files/publications/CISAInsights-Cyber-RemediateVulnerabilitiesforInternetAccessibleSystems_S508C.pdf](https://www.cisa.gov/sites/default/files/publications/CISAInsights-Cyber-RemediateVulnerabilitiesforInternetAccessibleSystems_S508C.pdf)
 - [45542.pdf](https://storage.googleapis.com/gweb-research2023-media/pubtools/pdf/45542.pdf)
+- [ConfuserEx 2](https://mkaring.github.io/ConfuserEx/)

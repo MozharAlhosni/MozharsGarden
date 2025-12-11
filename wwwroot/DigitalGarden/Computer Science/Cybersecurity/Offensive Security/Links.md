@@ -43,3 +43,4 @@
 - [RedTeam Pentesting GmbH - Seeing your network from the attacker's perspective](https://www.redteam-pentesting.de/en/-seeing-your-network-from-the-attackers-perspective)
 - [A Detailed Guide on Evil-Winrm - Hacking Articles](https://www.hackingarticles.in/a-detailed-guide-on-evil-winrm/)
 - [JSON Web Token attacks and vulnerabilities | Invicti](https://www.invicti.com/blog/web-security/json-web-token-jwt-attacks-vulnerabilities/)
+- [GitHub - tanc7/hacking-books](https://github.com/tanc7/hacking-books)

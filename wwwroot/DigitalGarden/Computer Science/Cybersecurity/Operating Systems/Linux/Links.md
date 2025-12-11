@@ -11,3 +11,5 @@
 - [https://wiki.termux.com/wiki/PRoot](https://wiki.termux.com/wiki/PRoot)
 - [https://lwn.net/Articles/738975/](https://lwn.net/Articles/738975/)
 - [https://apparmor.net/](https://apparmor.net/)
+- [Using systemd features to secure services](https://www.redhat.com/en/blog/systemd-secure-services)
+- [Linux GECOS information demystified](https://www.redhat.com/en/blog/linux-gecos-demystified)

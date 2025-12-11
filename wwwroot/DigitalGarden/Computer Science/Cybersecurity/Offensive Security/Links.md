@@ -36,3 +36,4 @@
 - [https://owasp.org/API-Security/editions/2023/en/0x10-api-security-risks/](https://owasp.org/API-Security/editions/2023/en/0x10-api-security-risks/)
 - [https://www.resecurity.com/blog](https://www.resecurity.com/blog)
 - [Greg's blog](https://roumache.com/en/blog/bypass-fail2ban-with-ipv6/)
+- [Cross-Site Scripting (XSS) Cheat Sheet - 2025 Edition | Web Security Academy](https://portswigger.net/web-security/cross-site-scripting/cheat-sheet)

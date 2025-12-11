@@ -28,3 +28,7 @@
 - [https://openalternative.co/](https://openalternative.co/)
 - [https://hexmos.com/freedevtools/](https://hexmos.com/freedevtools/)
 - [https://numi.app/](https://numi.app/)
+- [https://emojidb.org/](https://emojidb.org/)
+- [Self-Hosted Software and Apps](https://selfh.st/apps/)
+- [awesome-selfhosted](https://awesome-selfhosted.net/)
+- [https://excalidraw.com/](https://excalidraw.com/)

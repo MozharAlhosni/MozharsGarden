@@ -7,6 +7,9 @@
 - [https://exploit-notes.hdks.org/](https://exploit-notes.hdks.org/)
 - [https://subdomainfinder.c99.nl/](https://subdomainfinder.c99.nl/)
 - [Dedicated Servers | Premium Dedicated Server Hosting](https://phoenixnap.com/dedicated-servers)
+- [KVM over IP - PiKVM](https://pikvm.org/)
+- [GeoIP web services demo | MaxMind](https://www.maxmind.com/en/geoip-web-services-demo)
+- [DNS Propagation Checker - Global DNS Testing Tool](https://www.whatsmydns.net/)
 
 ## Printing Password Protected PDFs
 

@@ -27,3 +27,5 @@
 - [https://s0cm0nkey.gitbook.io/s0cm0nkeys-security-reference-guide](https://s0cm0nkey.gitbook.io/s0cm0nkeys-security-reference-guide)
 - [https://auditboard.com/blog/generally-accepted-auditing-standards](https://auditboard.com/blog/generally-accepted-auditing-standards)
 - [OWASP SAMM](https://owaspsamm.org/)
+- [https://reversebrain.github.io/](https://reversebrain.github.io/)
+- [hoop.dev - Invisible Security for Developers, Command-line Control for Admins, Built-in Oversight for Security](https://hoop.dev/)

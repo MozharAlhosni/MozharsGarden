@@ -7,3 +7,5 @@
 - [Viscosity - OpenVPN Client for Mac and Windows](https://www.sparklabs.com/viscosity/)
 - [WireGuard for Windows Downloads](https://download.wireguard.com/windows-client/)
 - [Installation - WireGuard](https://www.wireguard.com/install/)
+- [Business VPN For Secure Networking | OpenVPN](https://openvpn.net/)
+- [Access Private Server with GitHub Actions (VPN connection) | by Ali Sahin | Medium](https://medium.com/@mahmutali.mas/access-private-server-with-github-actions-vpn-connection-cf20313abdd5)

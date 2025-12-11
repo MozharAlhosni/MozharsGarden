@@ -18,3 +18,6 @@
 - [Couchbase: Best NoSQL Cloud Database Service](https://www.couchbase.com/)
 - [https://github.com/electric-sql/pglite](https://github.com/electric-sql/pglite)
 - [https://pglite.dev/](https://pglite.dev/)
+- [darold/pgbadger: A fast PostgreSQL Log Analyzer](https://github.com/darold/pgbadger)
+- [PostgreSQL: Documentation: 17: 20.1.&nbsp;The pg_hba.conf File](https://www.postgresql.org/docs/current/auth-pg-hba-conf.html)
+- [cybertec-postgresql/pgwatch: 🔬PGWATCH: PostgreSQL metrics monitor/dashboard](https://github.com/cybertec-postgresql/pgwatch/)

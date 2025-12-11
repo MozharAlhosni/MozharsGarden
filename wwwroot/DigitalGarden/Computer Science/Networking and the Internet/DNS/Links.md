@@ -5,3 +5,5 @@
 - [https://github.com/acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh)
 - [https://www.kermitproject.org](https://www.kermitproject.org)
 - [https://www.duckdns.org/](https://www.duckdns.org/)
+- [DNSCrypt - Official Project Home Page](https://www.dnscrypt.org/)
+- [How to Set Up DNSCrypt and AdGuard Home on OPNsense - paulsorensen.io](https://paulsorensen.io/dnscrypt-adguard-home-opnsense/)

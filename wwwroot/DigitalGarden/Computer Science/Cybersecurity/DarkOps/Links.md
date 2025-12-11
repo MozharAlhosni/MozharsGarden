@@ -6,6 +6,7 @@
 - [https://grapheneos.org/](https://grapheneos.org/)
 - [https://exploit-notes.hdks.org/](https://exploit-notes.hdks.org/)
 - [https://subdomainfinder.c99.nl/](https://subdomainfinder.c99.nl/)
+- [Dedicated Servers | Premium Dedicated Server Hosting](https://phoenixnap.com/dedicated-servers)
 
 ## Printing Password Protected PDFs
 

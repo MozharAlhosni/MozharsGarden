@@ -14,3 +14,4 @@
 - [https://github.com/karpathy/nanochat](https://github.com/karpathy/nanochat)
 - [https://optuna.org/](https://optuna.org/)
 - [Warp: The Agentic Development Environment](https://www.warp.dev/)
+- [ServiceNow - Put AI to Work](https://www.servicenow.com/)

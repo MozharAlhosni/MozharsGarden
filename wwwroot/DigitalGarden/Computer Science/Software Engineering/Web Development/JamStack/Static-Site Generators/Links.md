@@ -11,3 +11,4 @@
 - [https://zensical.org/](https://zensical.org/)
 - [Pelican – A Python Static Site Generator](https://getpelican.com/)
 - [Introduction | Docusaurus](https://docusaurus.io/docs)
+- [Wiki.js](https://js.wiki/)

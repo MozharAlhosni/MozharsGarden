@@ -14,3 +14,4 @@
 - [https://itefix.net/](https://itefix.net/)
 - [New Relic - Observability Platform for Developers | New Relic](https://newrelic.com/lp/developersignup-wglp)
 - [https://podman.io/docs](https://podman.io/docs)
+- [GitHub - FiloSottile/mkcert: A simple zero-config tool to make locally trusted development certificates with any names you'd like.](https://github.com/FiloSottile/mkcert)

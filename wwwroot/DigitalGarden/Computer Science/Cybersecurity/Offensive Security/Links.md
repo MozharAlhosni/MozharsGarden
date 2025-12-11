@@ -39,3 +39,7 @@
 - [Cross-Site Scripting (XSS) Cheat Sheet - 2025 Edition | Web Security Academy](https://portswigger.net/web-security/cross-site-scripting/cheat-sheet)
 - [CAPEC - CAPEC-137: Parameter Injection (Version 3.9)](https://capec.mitre.org/data/definitions/137.html)
 - [CAPEC - CAPEC-6: Argument Injection (Version 3.9)](https://capec.mitre.org/data/definitions/6.html)
+- [The AFL++ fuzzing framework | AFLplusplus](https://aflplus.plus/)
+- [RedTeam Pentesting GmbH - Seeing your network from the attacker's perspective](https://www.redteam-pentesting.de/en/-seeing-your-network-from-the-attackers-perspective)
+- [A Detailed Guide on Evil-Winrm - Hacking Articles](https://www.hackingarticles.in/a-detailed-guide-on-evil-winrm/)
+- [JSON Web Token attacks and vulnerabilities | Invicti](https://www.invicti.com/blog/web-security/json-web-token-jwt-attacks-vulnerabilities/)

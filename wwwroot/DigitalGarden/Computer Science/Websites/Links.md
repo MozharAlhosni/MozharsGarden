@@ -32,3 +32,4 @@
 - [Self-Hosted Software and Apps](https://selfh.st/apps/)
 - [awesome-selfhosted](https://awesome-selfhosted.net/)
 - [https://excalidraw.com/](https://excalidraw.com/)
+- [Mermaid | Diagramming and charting tool](https://mermaid.js.org/)

@@ -414,7 +414,6 @@ Later on I will need to clean it up and categorize things.
 - [Intro to Spark Java Framework | Baeldung](https://www.baeldung.com/spark-framework-rest-api)
 - [Identificator](https://identificator.space/)
 - [Home | Substack](https://substack.com/home/post/p-156004330)
-
 - [JSON Crack - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=AykutSarac.jsoncrack-vscode)
 - [Radmin: Reliable Remote Desktop Software for IT Pros](https://www.radmin.com/download/)
 - [High-performance Open Source API Gateway | KrakenD](https://www.krakend.io/)
@@ -434,11 +433,10 @@ Later on I will need to clean it up and categorize things.
 - [The Linux System Administrator's Guide](https://tldp.org/LDP/sag/sag.pdf)
 - [PRoot - Termux Wiki](https://wiki.termux.com/wiki/PRoot)
 - [Homepage | JohnG4lt](https://blog.johng4lt.com/)
-- [kind](https://kind.sigs.k8s.io/)
 - [logangoins/SharpSuccessor: SharpSuccessor is a .NET Proof of Concept (POC) for fully weaponizing Yuval Gordon’s (@YuG0rd) BadSuccessor attack from Akamai.](https://github.com/logangoins/SharpSuccessor)
 - [Community - DefectDojo](https://defectdojo.com/community)
 - [Archer® Technologies LLC](https://www.archerirm.com/)
-- [Configuring NTLM with Burp Suite - PortSwigger](https://portswigger.net/support/configuring-ntlm-with-burp-suite#:~:text=Use%20the%20Add%20function%20to,the%20destination%20application%20web%20server.)
+
 - [The Third Bit: Time Spent on Hardening](https://third-bit.com/2025/09/18/time-spent-on-hardening/)
 - [The Hacker’s Choice | Founded in 1995](https://www.thc.org/segfault/buy-an-upgrade/)
 - [iden3 | Circom](https://iden3.io/circom)

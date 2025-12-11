@@ -11,6 +11,7 @@
 - [GeoIP web services demo | MaxMind](https://www.maxmind.com/en/geoip-web-services-demo)
 - [DNS Propagation Checker - Global DNS Testing Tool](https://www.whatsmydns.net/)
 - [Simple Email Reputation](https://emailrep.io/)
+- [https://www.thc.org/segfault/](https://www.thc.org/segfault/)
 
 ## Printing Password Protected PDFs
 

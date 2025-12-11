@@ -35,9 +35,8 @@ Later on I will need to clean it up and categorize things.
 - [NuGet Gallery | Elastic.Serilog.Sinks 8.12.3](https://www.nuget.org/packages/Elastic.Serilog.Sinks)
 - [HKcyberstark/wazuh-ecs: Parse wazuh[HIDS] alerts into ECS mapping using Filebeat](https://github.com/HKcyberstark/wazuh-ecs)
 - [serilog-contrib/serilog-sinks-elasticsearch: A Serilog sink that writes events to Elasticsearch](https://github.com/serilog-contrib/serilog-sinks-elasticsearch?tab=readme-ov-file)
-- [11 Strategies of a World-Class Cybersecurity Operations Center](https://www.mitre.org/sites/default/files/2022-04/11-strategies-of-a-world-class-cybersecurity-operations-center.pdf)
-- [Alibaba-NLP/ZeroSearch: ZeroSearch: Incentivize the Search Capability of LLMs without Searching](https://github.com/Alibaba-nlp/ZeroSearch)
-- [Surge](https://surge.sh/)
+
+
 - [Buddy Pricing and Plans](https://buddy.works/pricing)
 - [Hostman Cloud Service Pricing Overview | Clear Cloud Computing Costs](https://hostman.com/pricing/)
 

@@ -20,3 +20,4 @@
 - [https://github.com/LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp)
 - [AI Exchange](https://owaspai.org/)
 - [OpenRouter](https://openrouter.ai/)
+- [Alibaba-NLP/ZeroSearch: ZeroSearch: Incentivize the Search Capability of LLMs without Searching](https://github.com/Alibaba-nlp/ZeroSearch)

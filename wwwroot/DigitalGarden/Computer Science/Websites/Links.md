@@ -34,3 +34,4 @@
 - [https://excalidraw.com/](https://excalidraw.com/)
 - [Mermaid | Diagramming and charting tool](https://mermaid.js.org/)
 - [Kroki!](https://kroki.io/)
+- [https://elgoog.im/](https://elgoog.im/)

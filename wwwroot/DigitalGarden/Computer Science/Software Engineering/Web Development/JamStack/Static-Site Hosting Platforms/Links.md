@@ -9,3 +9,4 @@
 - [https://vercel.com/](https://vercel.com/)
 - [https://pfcloud.io/](https://pfcloud.io/)
 - [Free Static Site Hosting - Kinsta®](https://kinsta.com/static-site-hosting/)
+- [Surge](https://surge.sh/)

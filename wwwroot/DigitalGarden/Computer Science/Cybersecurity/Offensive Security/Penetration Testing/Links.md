@@ -10,3 +10,4 @@
 - [https://pixnapping.com](https://pixnapping.com)
 - [https://github.com/Xacone/BestEdrOfTheMarket](https://github.com/Xacone/BestEdrOfTheMarket)
 - [https://github.com/SpecterOps/Nemesis](https://github.com/SpecterOps/Nemesis)
+- [https://github.com/shadow1ng/fscan](https://github.com/shadow1ng/fscan)

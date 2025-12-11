@@ -8,3 +8,4 @@
 - [https://github.com/gravitational/teleport](https://github.com/gravitational/teleport)
 - [https://github.com/warpdotdev/Warp](https://github.com/warpdotdev/Warp)
 - [https://www.warp.dev/](https://www.warp.dev/)
+- [hoop.dev - Invisible Security for Developers, Command-line Control for Admins, Built-in Oversight for Security](https://hoop.dev/)

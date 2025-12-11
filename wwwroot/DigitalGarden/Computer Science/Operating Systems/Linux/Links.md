@@ -14,3 +14,4 @@
 - [https://tuxcare.com](https://tuxcare.com)
 - [What Is Auditd in Linux: A Brief Tutorial - Sematext](https://sematext.com/glossary/auditd/)
 - [mknod(2) - Linux manual page](https://man7.org/linux/man-pages/man2/mknod.2.html)
+- [Welcome - Armbian](https://www.armbian.com/)

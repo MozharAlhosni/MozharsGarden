@@ -28,4 +28,7 @@
 - [https://auditboard.com/blog/generally-accepted-auditing-standards](https://auditboard.com/blog/generally-accepted-auditing-standards)
 - [OWASP SAMM](https://owaspsamm.org/)
 - [https://reversebrain.github.io/](https://reversebrain.github.io/)
-- [hoop.dev - Invisible Security for Developers, Command-line Control for Admins, Built-in Oversight for Security](https://hoop.dev/)
+- [https://cs155.stanford.edu/syllabus.html](https://cs155.stanford.edu/syllabus.html)
+- [https://cs155.stanford.edu/papers/ossecurity.pdf](https://cs155.stanford.edu/syllabus.html)
+- [https://github.com/owasp-modsecurity/ModSecurity](https://github.com/owasp-modsecurity/ModSecurity)
+- [GitHub - notthehiddenwiki/NTHW: Not The Hidden Wiki - The largest repository of links related to cybersecurity](https://github.com/notthehiddenwiki/NTHW)

@@ -21,3 +21,4 @@
 - [The Hacker‘s Choice (@thc@infosec.exchange) - Infosec Exchange](https://infosec.exchange/@thc)
 - [https://www.idtheftcenter.org/](https://www.idtheftcenter.org/)
 - [https://about.gitlab.com/blog/categories/security/](https://about.gitlab.com/blog/categories/security/)
+- [The Infosec Newsletter](https://weekly.infosecwriteups.com/)

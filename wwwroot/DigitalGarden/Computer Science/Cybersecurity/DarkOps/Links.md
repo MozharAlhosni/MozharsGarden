@@ -10,6 +10,7 @@
 - [KVM over IP - PiKVM](https://pikvm.org/)
 - [GeoIP web services demo | MaxMind](https://www.maxmind.com/en/geoip-web-services-demo)
 - [DNS Propagation Checker - Global DNS Testing Tool](https://www.whatsmydns.net/)
+- [Simple Email Reputation](https://emailrep.io/)
 
 ## Printing Password Protected PDFs
 

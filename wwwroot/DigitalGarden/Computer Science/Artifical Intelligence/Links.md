@@ -15,3 +15,7 @@
 - [https://optuna.org/](https://optuna.org/)
 - [Warp: The Agentic Development Environment](https://www.warp.dev/)
 - [ServiceNow - Put AI to Work](https://www.servicenow.com/)
+- [v0 by Vercel](https://v0.dev/)
+- [Introduction | 🦜️🔗 LangChain](https://python.langchain.com/docs/introduction/)
+- [https://github.com/LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp)
+- [AI Exchange](https://owaspai.org/)

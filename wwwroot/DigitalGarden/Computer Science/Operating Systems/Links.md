@@ -7,3 +7,4 @@
 - [MeshCentral](https://meshcentral.com/)
 - [GitHub - warp-tech/warpgate: Fully transparent SSH, HTTPS, MySQL and Postgres bastion/PAM that doesn't need additional client-side software](https://github.com/warp-tech/warpgate)
 - [Boundary | HashiCorp Developer](https://developer.hashicorp.com/boundary)
+- [https://www.amazon.com/Operating-System-Concepts-Abraham-Silberschatz-ebook/dp/B07CVKH7BD](https://www.amazon.com/Operating-System-Concepts-Abraham-Silberschatz-ebook/dp/B07CVKH7BD)

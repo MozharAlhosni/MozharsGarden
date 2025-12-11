@@ -37,3 +37,5 @@
 - [https://www.resecurity.com/blog](https://www.resecurity.com/blog)
 - [Greg's blog](https://roumache.com/en/blog/bypass-fail2ban-with-ipv6/)
 - [Cross-Site Scripting (XSS) Cheat Sheet - 2025 Edition | Web Security Academy](https://portswigger.net/web-security/cross-site-scripting/cheat-sheet)
+- [CAPEC - CAPEC-137: Parameter Injection (Version 3.9)](https://capec.mitre.org/data/definitions/137.html)
+- [CAPEC - CAPEC-6: Argument Injection (Version 3.9)](https://capec.mitre.org/data/definitions/6.html)

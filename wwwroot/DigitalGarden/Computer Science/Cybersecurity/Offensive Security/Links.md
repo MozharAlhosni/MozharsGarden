@@ -52,3 +52,4 @@
 - [GitHub - Mayter/mssql-command-tool: xp_cmdshell与sp_oacreate执行命令回显和clr加载程序集执行相应操作，上传，job等相应操作。](https://github.com/Mayter/mssql-command-tool)
 - [offsec.tools - A vast collection of security tools](https://offsec.tools/)
 - [https://ssdeep-project.github.io/ssdeep/index.html](https://ssdeep-project.github.io/ssdeep/index.html)
+- [Ansible Playbook Privilege Escalation | Linux Privilege Escalation](https://morgan-bin-bash.gitbook.io/linux-privilege-escalation)

@@ -16,3 +16,4 @@
 - [mknod(2) - Linux manual page](https://man7.org/linux/man-pages/man2/mknod.2.html)
 - [Welcome - Armbian](https://www.armbian.com/)
 - [Zentyal: Best Linux Server with Active Directory Integration](https://www.zentyal.com/)
+- [The Linux System Administrator's Guide](https://tldp.org/LDP/sag/sag.pdf)

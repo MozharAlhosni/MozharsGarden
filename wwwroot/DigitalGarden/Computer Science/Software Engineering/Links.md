@@ -21,3 +21,4 @@
 - [https://marianoguerra.github.io/json.human.js/](https://marianoguerra.github.io/json.human.js/)
 - [Tauri 2.0 | Tauri](https://v2.tauri.app/)
 - [Platform for API Design, Development &amp; Documentation | Apiary](https://apiary.io/)
+- [EditorConfig](https://editorconfig.org/)

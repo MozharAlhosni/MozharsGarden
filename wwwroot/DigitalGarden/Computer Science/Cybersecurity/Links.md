@@ -37,3 +37,4 @@
 - [Cybersecurity Toolkits | NCA](https://nca.gov.sa/en/regulatory-documents/guidelines-list/665/)
 - [CybersecTools | Find Cybersecurity Tools and Resources](https://cybersectools.com/)
 - [https://www.secjuice.com/](https://www.secjuice.com/)
+- [https://adamr88.github.io/hacking/](https://adamr88.github.io/hacking/)

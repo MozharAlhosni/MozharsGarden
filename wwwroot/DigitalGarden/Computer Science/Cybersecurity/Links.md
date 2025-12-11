@@ -32,3 +32,4 @@
 - [https://cs155.stanford.edu/papers/ossecurity.pdf](https://cs155.stanford.edu/syllabus.html)
 - [https://github.com/owasp-modsecurity/ModSecurity](https://github.com/owasp-modsecurity/ModSecurity)
 - [GitHub - notthehiddenwiki/NTHW: Not The Hidden Wiki - The largest repository of links related to cybersecurity](https://github.com/notthehiddenwiki/NTHW)
+- [Open CRE](https://www.opencre.org/)

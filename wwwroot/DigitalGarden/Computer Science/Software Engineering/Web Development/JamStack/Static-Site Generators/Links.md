@@ -9,3 +9,4 @@
 - [https://gohugo.io/](https://gohugo.io/)
 - [https://learn.netlify.app/en/](https://learn.netlify.app/en/)
 - [https://zensical.org/](https://zensical.org/)
+- [Pelican – A Python Static Site Generator](https://getpelican.com/)

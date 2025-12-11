@@ -19,3 +19,4 @@
 - [Introduction | 🦜️🔗 LangChain](https://python.langchain.com/docs/introduction/)
 - [https://github.com/LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp)
 - [AI Exchange](https://owaspai.org/)
+- [OpenRouter](https://openrouter.ai/)

@@ -13,3 +13,4 @@
 - [https://apparmor.net/](https://apparmor.net/)
 - [Using systemd features to secure services](https://www.redhat.com/en/blog/systemd-secure-services)
 - [Linux GECOS information demystified](https://www.redhat.com/en/blog/linux-gecos-demystified)
+- [Update-Motd Privilege Escalation | Linux Privilege Escalation](https://morgan-bin-bash.gitbook.io/linux-privilege-escalation/update-motd-privilege-escalation)

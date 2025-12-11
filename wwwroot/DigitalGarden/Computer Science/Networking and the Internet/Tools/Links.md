@@ -6,3 +6,5 @@
 - [https://www.netscaler.com/](https://www.netscaler.com/)
 - [https://www.graphon.com/blog/citrix-competitors](https://www.graphon.com/blog/citrix-competitors)
 - [Everything curl - everything curl](https://everything.curl.dev/index.html)
+- [Nextcloud - Open source content collaboration platform](https://nextcloud.com/)
+- [ONLYOFFICE - Secure Online Office | ONLYOFFICE](https://www.onlyoffice.com/)

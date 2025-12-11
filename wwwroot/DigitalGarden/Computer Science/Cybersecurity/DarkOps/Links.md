@@ -4,6 +4,8 @@
 - [https://lunaproxy.com](https://lunaproxy.com)
 - [https://natro92.fun/](https://natro92.fun/)
 - [https://grapheneos.org/](https://grapheneos.org/)
+- [https://exploit-notes.hdks.org/](https://exploit-notes.hdks.org/)
+- [https://subdomainfinder.c99.nl/](https://subdomainfinder.c99.nl/)
 
 ## Printing Password Protected PDFs
 

@@ -10,3 +10,4 @@
 - [https://major.io/](https://major.io/)
 - [https://wiki.termux.com/wiki/PRoot](https://wiki.termux.com/wiki/PRoot)
 - [https://lwn.net/Articles/738975/](https://lwn.net/Articles/738975/)
+- [https://apparmor.net/](https://apparmor.net/)

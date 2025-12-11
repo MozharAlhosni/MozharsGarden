@@ -45,8 +45,6 @@ Later on I will need to clean it up and categorize things.
 - [Revamp Your Job Search | Skillsire](https://www.skillsire.com/)
 - [RustDesk: Open-Source Remote Desktop with Self-Hosted Server Solutions](https://rustdesk.com/)
 - [Plugins | AliasVault](https://www.aliasvault.net/plugins)
-- [Dedication](https://csharp-networking.com/dedication/)
-- [owtf/owtf: Offensive Web Testing Framework (OWTF), is a framework which tries to unite great tools and make pen testing more efficient http://owtf.org https://twitter.com/owtfp](https://github.com/owtf/owtf)
 - [Verify the encryption for tables, tablespaces, and schemas - Percona Server for MySQL](https://docs.percona.com/percona-server/8.0/verifying-encryption.html)
 - [Fingerprint on Linux Mint - breadNET Documentation](https://documentation.breadnet.co.uk/kb/authentication/fingerprint-on-linux-mint/)
 - [BSI - Extended search](https://www.bsi.bund.de/SiteGlobals/Forms/Suche/EN/Servicesuche_Formular.html?nn=907774&amp;resourceId=149134&amp;input_=907774&amp;pageLocale=en&amp;templateQueryString=group+policy&amp;submit.x=0&amp;submit.y=0)

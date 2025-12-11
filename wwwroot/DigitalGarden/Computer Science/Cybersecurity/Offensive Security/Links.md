@@ -44,3 +44,4 @@
 - [A Detailed Guide on Evil-Winrm - Hacking Articles](https://www.hackingarticles.in/a-detailed-guide-on-evil-winrm/)
 - [JSON Web Token attacks and vulnerabilities | Invicti](https://www.invicti.com/blog/web-security/json-web-token-jwt-attacks-vulnerabilities/)
 - [GitHub - tanc7/hacking-books](https://github.com/tanc7/hacking-books)
+- [owtf/owtf: Offensive Web Testing Framework (OWTF), is a framework which tries to unite great tools and make pen testing more efficient http://owtf.org https://twitter.com/owtfp](https://github.com/owtf/owtf)

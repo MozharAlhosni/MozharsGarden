@@ -24,3 +24,4 @@
 - [Introducing Scribe AI](https://get.scribehow.com/ai-scribe/)
 - [LM Studio - Discover, download, and run local LLMs](https://lmstudio.ai/)
 - [https://openwebui.com/](https://openwebui.com/)
+- [One Useful Thing | Ethan Mollick | Substack](https://www.oneusefulthing.org/)

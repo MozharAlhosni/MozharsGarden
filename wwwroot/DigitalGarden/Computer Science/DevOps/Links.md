@@ -18,3 +18,4 @@
 - [Apache ZooKeeper](https://zookeeper.apache.org/)
 - [Rook](https://rook.io/)
 - [etcd](https://etcd.io/)
+- [High-performance Open Source API Gateway | KrakenD](https://www.krakend.io/)

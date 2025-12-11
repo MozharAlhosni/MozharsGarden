@@ -19,3 +19,4 @@
 - [https://flatt.tech/research/](https://flatt.tech/research/)
 - [https://blog.ryotak.net/](https://blog.ryotak.net/)
 - [Breakpoint](https://breakpoint.purrfect.fr/index.html)
+- [Homepage | JohnG4lt](https://blog.johng4lt.com/)

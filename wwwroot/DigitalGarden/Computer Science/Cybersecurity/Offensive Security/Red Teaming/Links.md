@@ -19,3 +19,7 @@
 - [https://book.hacktricks.wiki/en/index.html](https://book.hacktricks.wiki/en/index.html)
 - [Configuring NTLM with Burp Suite - PortSwigger](https://portswigger.net/support/configuring-ntlm-with-burp-suite)
 - [Embrace The Red · Embrace The Red](https://embracethered.com/blog/)
+- [tarunkant/Gopherus: This tool generates gopher link for exploiting SSRF and gaining RCE in various servers](https://github.com/tarunkant/Gopherus)
+- [Welcome to the From zero to hero: creating a reflective loader in C# workshop! - From zero to hero: creating a reflective loader in](https://jfmaes-1.gitbook.io/reflection-workshop/)
+- [Home | Metasploit Documentation Penetration Testing Software, Pen Testing Security](https://docs.metasploit.com/)
+- [Active Directory Certi... | HideAndSec](https://hideandsec.sh/books/cheatsheets-82c/page/active-directory-certificate-services)

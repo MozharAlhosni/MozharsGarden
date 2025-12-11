@@ -3,3 +3,4 @@
 - [Trivy](https://trivy.dev/latest/)
 - [DefectDojo/django-DefectDojo: DevSecOps, ASPM, Vulnerability Management. All on one platform.](https://github.com/DefectDojo/django-DefectDojo)
 - [Introduction | Dependency-Track](https://docs.dependencytrack.org/)
+- [Configuration file format - Chaos Monkey](https://netflix.github.io/chaosmonkey/Configuration-file-format/)

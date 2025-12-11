@@ -33,3 +33,5 @@
 - [https://github.com/owasp-modsecurity/ModSecurity](https://github.com/owasp-modsecurity/ModSecurity)
 - [GitHub - notthehiddenwiki/NTHW: Not The Hidden Wiki - The largest repository of links related to cybersecurity](https://github.com/notthehiddenwiki/NTHW)
 - [Open CRE](https://www.opencre.org/)
+- [CyBOK – The Cyber Security Body of Knowledge v1.1](https://www.cybok.org/knowledgebase1_1/)
+- [Cybersecurity Toolkits | NCA](https://nca.gov.sa/en/regulatory-documents/guidelines-list/665/)

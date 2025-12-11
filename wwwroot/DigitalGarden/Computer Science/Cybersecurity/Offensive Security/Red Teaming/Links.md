@@ -18,3 +18,4 @@
 - [https://www.atomicredteam.io/](https://www.atomicredteam.io/)
 - [https://book.hacktricks.wiki/en/index.html](https://book.hacktricks.wiki/en/index.html)
 - [Configuring NTLM with Burp Suite - PortSwigger](https://portswigger.net/support/configuring-ntlm-with-burp-suite)
+- [Embrace The Red · Embrace The Red](https://embracethered.com/blog/)

@@ -9,3 +9,4 @@
 - [https://github.com/its-a-feature/Mythic](https://github.com/its-a-feature/Mythic)
 - [https://github.com/LeighlinRamsay/GunnerC2](https://github.com/LeighlinRamsay/GunnerC2)
 - [https://nighthawkc2.io/](https://nighthawkc2.io/)
+- [https://www.c2workbench.com/](https://www.c2workbench.com/)

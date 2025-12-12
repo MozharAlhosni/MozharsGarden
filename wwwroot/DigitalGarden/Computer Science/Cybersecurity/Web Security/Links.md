@@ -19,3 +19,4 @@
 - [GitHub - infoslack/awesome-web-hacking: A list of web application security](https://github.com/infoslack/awesome-web-hacking)
 - [Goodbye Feature Policy and hello Permissions Policy!](https://scotthelme.co.uk/goodbye-feature-policy-and-hello-permissions-policy/)
 - [https://securityrat.github.io/](https://securityrat.github.io/)
+- [https://projectdiscovery.io/blog/how-to-research-web-vulnerabilities](https://projectdiscovery.io/blog/how-to-research-web-vulnerabilities)

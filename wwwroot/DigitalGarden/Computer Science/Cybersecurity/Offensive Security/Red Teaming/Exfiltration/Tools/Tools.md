@@ -18,3 +18,5 @@
 - [https://www.browserstack.com/](https://www.browserstack.com/)
 - [https://www.browserling.com/](https://www.browserling.com/)
 - [https://browser.lol/](https://browser.lol/)
+- [https://www.prodefense.io/blog/hawks-prey-snatching-ssh-credentials](https://www.prodefense.io/blog/hawks-prey-snatching-ssh-credentials)
+- [https://github.com/AnvithLobo/EvilNFSClient](https://github.com/AnvithLobo/EvilNFSClient)

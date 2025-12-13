@@ -3,13 +3,7 @@
 
 <PageTitle>@_pageTitle</PageTitle>
 
-<RadzenMarkdown 
-    class="rz-p-0 rz-p-md-12" 
-    AutoLinkHeadingDepth="6" 
-    Text="@_markdownFileContent"
-    AllowHtml=true
-    AllowedHtmlTags=@allowedHtmlTags
-/>
+<MudMarkdown Value="@_markdownFileContent" />
 
 @code {
     [Parameter] public required string MarkdownFilePath { get; set; }

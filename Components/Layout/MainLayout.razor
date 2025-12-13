@@ -1,32 +1,69 @@
 ﻿@inherits LayoutComponentBase
-@inject HttpClient HttpClient
 
-<RadzenLayout>
-    <RadzenHeader>
-        <RadzenStack Orientation="Orientation.Horizontal" AlignItems="AlignItems.Center" Gap="7">
-            <RadzenSidebarToggle Click="@(() => _sidebarExpanded = !_sidebarExpanded)" />
-            <RadzenLink Text="Mozhar's Digital Garden" Style="white-space: nowrap" Path="/" />
-            <RadzenSplitter />
-            <RadzenAppearanceToggle />
-            <RadzenLabel Text="Theme" />
-            <ThemeSelector />
-        </RadzenStack>
-    </RadzenHeader>
-    <HeadContent>
-        <RadzenTheme Theme="material-dark" />
-    </HeadContent>
-    <RadzenComponents />
-    <RadzenSidebar @bind-Expanded="@_sidebarExpanded">
+<MudThemeProvider IsDarkMode="@IsDarkMode" Theme="@CustomTheme" />
+
+<MudLayout>
+    <MudAppBar Elevation="1" Color="Color.Primary" Fixed="true">
+        <MudIconButton Icon="@Icons.Material.Filled.Menu" 
+                       Color="Color.Inherit"
+                        Edge="Edge.Start"
+                         OnClick="DrawerToggle" />
+        <MudText Typo="Typo.h6" Class="ml-3">Mozhar's Digital Garden</MudText>
+        <MudSpacer />
+        <MudIconButton Icon="@Icons.Material.Outlined.LightMode"
+                       Size="Size.Medium"
+                       Color="Color.Dark"
+                       OnClick="ChangeThemeAsync">
+        </MudIconButton>
+    </MudAppBar>
+
+    <MudDrawer @bind-Open="_drawerOpen"
+               Variant="DrawerVariant.Persistent"
+               ClipMode="DrawerClipMode.Always"
+               Elevation="2">
         <NavMenu />
-    </RadzenSidebar>
-    <RadzenBody>
-        <div class="rz-p-4">
-            @Body
-        </div>
-    </RadzenBody>
-</RadzenLayout>
-
+    </MudDrawer>
+    <MudMainContent Style="padding-left: 190px;">
+        @Body
+    </MudMainContent>
+</MudLayout>
 
 @code {
-    private bool _sidebarExpanded = true;
+    private bool _drawerOpen = true;
+    public static bool IsDarkMode { get; private set; } = true;
+    private void DrawerToggle() => _drawerOpen = !_drawerOpen;
+    private void ChangeThemeAsync()
+    {
+        IsDarkMode = !IsDarkMode ? true : false;
+    }
+    private MudTheme CustomTheme = new MudTheme
+    {
+       PaletteLight = new PaletteLight
+       {
+            Primary = "#00FF7F",
+            Secondary = "#1DE9B6",
+            Tertiary = "#00E676",
+            Background = "#050A08",
+            Surface = "#0B1510",
+            TextPrimary = "#D6FFE5",
+            TextSecondary = "#7CFFB2",
+            AppbarBackground = "#0B1510",
+            AppbarText = "#00FF7F",
+            DrawerBackground = "#0B1510",
+            DrawerText = "#00FF7F"
+        },
+
+        PaletteDark = new PaletteDark
+        {
+            Primary = "#8F43EE",
+            TextPrimary = "#E6D9FF",
+            Background = "#120914",
+            Surface = "#1A0F23",
+            AppbarBackground = "#1F0F2B",
+            AppbarText = "#8F43EE",
+            DrawerBackground = "#1F0F2B",
+            DrawerText = "#8F43EE",
+            Tertiary = "#AF79F3"
+        }
+    };   
 }

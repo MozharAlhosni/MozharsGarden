@@ -1,7 +1,8 @@
 @using System.Text.RegularExpressions
 
-<RadzenPanelMenuItem 
-    Text=@NestedMarkdownPosts.Key 
+<MudNavGroup 
+    Title=@NestedMarkdownPosts.Key
+    Expanded="false"
     Icon="folder"
     Style=@GetCategoryMenuItemStyle()>
 
@@ -26,7 +27,7 @@
             />
         }
     }
-</RadzenPanelMenuItem>
+</MudNavGroup>
 
 @code {
     [Parameter] public required KeyValuePair<string, List<string>> NestedMarkdownPosts { get; set; }
@@ -72,8 +73,8 @@
     {
         string style = "overflow-wrap:anywhere;";
 
-        if (IsNestedCategoryMenuItem)
-            style += "margin-left:10px;";
+        //if (IsNestedCategoryMenuItem)
+        //    style += "margin-left:10px;";
 
         return style;
     }

@@ -9,7 +9,8 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly" Version="9.0.9" />
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.DevServer" Version="9.0.9" PrivateAssets="all" />
-    <PackageReference Include="Radzen.Blazor" Version="7.1.0" />
+    <PackageReference Include="MudBlazor" Version="8.15.0" />
+    <PackageReference Include="MudBlazor.Markdown" Version="8.11.0" />
   </ItemGroup>
 
   <Target Name="GenerateDigitalGardenManifest" BeforeTargets="Build">

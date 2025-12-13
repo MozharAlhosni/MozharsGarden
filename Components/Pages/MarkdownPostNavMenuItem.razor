@@ -1,11 +1,10 @@
 @using System.Text
 
-<RadzenPanelMenuItem 
-    Text=@_markdownFileName
-    Path=@($"DigitalGarden/{MarkdownFilePath}")
-    Icon="Markdown"
-    Style=@GetMenuItemStyle() 
-/>
+<MudNavLink Href=@($"DigitalGarden/{MarkdownFilePath}") 
+            Icon="Markdown" 
+            Style=@GetMenuItemStyle()>
+            @_markdownFileName
+</MudNavLink>
 
 @code {
     [Parameter] public required string MarkdownFilePath { get; set; }

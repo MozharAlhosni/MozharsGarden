@@ -15,7 +15,7 @@ body {
   margin: 0 !important;
   padding: 0 8px !important;
   box-sizing: border-box;
-  margin-left: 110px !important;
+  margin-left: 80px !important;
 }
 
 .center-wrap .mud-markdown,
@@ -29,4 +29,10 @@ body {
 
 .mud-drawer .mud-list-item {
   align-items: flex-start;
+}
+
+@media (max-width: 600px) {
+  .center-wrap {
+    margin-left: 12px !important;
+  }
 }

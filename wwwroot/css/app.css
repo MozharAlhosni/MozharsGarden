@@ -1,11 +1,32 @@
-.mud-typography {
-    letter-spacing: 0.03em;
+html,
+body {
+  overflow-x: hidden;
 }
 
-.mud-paper {
-    border: 1px solid rgba(143, 67, 238, 0.15);
+.main-content {
+  padding: 24px 12px !important;
+  width: 100% !important;
+  box-sizing: border-box;
 }
 
-.mud-appbar {
-    backdrop-filter: blur(6px);
+.center-wrap {
+  max-width: 900px !important;
+  width: 100% !important;
+  margin: 0 !important;
+  padding: 0 8px !important;
+  box-sizing: border-box;
+  margin-left: 110px !important;
+}
+
+.center-wrap .mud-markdown,
+.center-wrap .mud-markdown-body {
+  max-width: none !important;
+  margin: 0 !important;
+  width: 100% !important;
+  overflow-wrap: anywhere;
+  padding-top: 40px;
+}
+
+.mud-drawer .mud-list-item {
+  align-items: flex-start;
 }

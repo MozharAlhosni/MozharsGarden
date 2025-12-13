@@ -4,27 +4,23 @@
 
 <MudLayout>
     <MudAppBar Elevation="1" Color="Color.Primary" Fixed="true">
-        <MudIconButton Icon="@Icons.Material.Filled.Menu" 
-                       Color="Color.Inherit"
-                        Edge="Edge.Start"
-                         OnClick="DrawerToggle" />
-        <MudText Typo="Typo.h6" Class="ml-3">Mozhar's Digital Garden</MudText>
+        <MudIconButton Icon="@Icons.Material.Filled.Menu" Color="Color.Inherit" Edge="Edge.Start"
+            OnClick="DrawerToggle" />
+        <MudLink Typo="Typo.h6" Color="Color.Inherit" Href="/">Mozhar's Digital Garden</MudLink>
         <MudSpacer />
-        <MudIconButton Icon="@Icons.Material.Outlined.LightMode"
-                       Size="Size.Medium"
-                       Color="Color.Dark"
-                       OnClick="ChangeThemeAsync">
+        <MudIconButton Icon="@Icons.Material.Outlined.LightMode" Size="Size.Medium" Color="Color.Dark"
+            OnClick="ChangeThemeAsync">
         </MudIconButton>
     </MudAppBar>
 
-    <MudDrawer @bind-Open="_drawerOpen"
-               Variant="DrawerVariant.Persistent"
-               ClipMode="DrawerClipMode.Always"
-               Elevation="2">
+    <MudDrawer @bind-Open="_drawerOpen" Variant="DrawerVariant.Persistent" ClipMode="DrawerClipMode.Always"
+        Elevation="2" Style="font-size:16px">
         <NavMenu />
     </MudDrawer>
-    <MudMainContent>
-        @Body
+    <MudMainContent Class="main-content">
+        <div class="center-wrap">
+            @Body
+        </div>
     </MudMainContent>
 </MudLayout>
 
@@ -38,32 +34,33 @@
     }
     private MudTheme CustomTheme = new MudTheme
     {
-       PaletteLight = new PaletteLight
-       {
-            Primary = "#00FF7F",
-            Secondary = "#1DE9B6",
-            Tertiary = "#00E676",
+        PaletteLight = new PaletteLight
+        {
+            Primary = "#2E7D5B",
+            Secondary = "#3F8F6E",
+            Tertiary = "#5FAF8D",
             Background = "#050A08",
             Surface = "#0B1510",
-            TextPrimary = "#D6FFE5",
-            TextSecondary = "#7CFFB2",
+            TextPrimary = "#DCE8E1",
+            TextSecondary = "#8FAFA0",
             AppbarBackground = "#0B1510",
-            AppbarText = "#00FF7F",
+            AppbarText = "#9FD6BD",
             DrawerBackground = "#0B1510",
-            DrawerText = "#00FF7F"
+            DrawerText = "#9FD6BD"
         },
-
         PaletteDark = new PaletteDark
         {
-            Primary = "#8F43EE",
-            TextPrimary = "#E6D9FF",
-            Background = "#120914",
-            Surface = "#1A0F23",
-            AppbarBackground = "#1F0F2B",
-            AppbarText = "#8F43EE",
-            DrawerBackground = "#1F0F2B",
-            DrawerText = "#8F43EE",
-            Tertiary = "#AF79F3"
+            Primary = "#5A3A7A",
+            Secondary = "#6E4C8F",
+            Tertiary = "#8A6AA8",
+            Background = "#0E0A12",
+            Surface = "#15101C",
+            TextPrimary = "#E2DBEC",
+            TextSecondary = "#A69CB6",
+            AppbarBackground = "#15101C",
+            AppbarText = "#C7BDD6",
+            DrawerBackground = "#15101C",
+            DrawerText = "#C7BDD6"
         }
-    };   
+    };
 }

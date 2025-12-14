@@ -1,6 +1,6 @@
 # Me
 
-I’m a **Cybersecurity Engineer** with experience across both **Offensive** and **Defensive Security** domains.
+Just a tech.
 
 ## Technical Hobbies & Projects
 
@@ -18,4 +18,12 @@ I’m a **Cybersecurity Engineer** with experience across both **Offensive** and
 
 Below you can find my CV:
 
-<iframe src="DigitalGarden/assets/mozhars_cv.pdf" width="100%" height="950px" style="border: 2px solid #0c91e3ff; border-radius: 8px;"></iframe>
+<iframe 
+  src="DigitalGarden/assets/mozhars_cv.pdf" 
+  style="
+    width: 100%;
+    height: min(100vh, 1000px);
+    border: 2px solid #0c91e3ff; 
+    border-radius: 8px;
+    ">
+</iframe>

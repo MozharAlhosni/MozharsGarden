@@ -16,3 +16,8 @@
 - [https://fluxsec.red/creating-implant-dll-exports-wyrm-c2](https://fluxsec.red/creating-implant-dll-exports-wyrm-c2)
 - [https://github.com/entropy-z/Kharon-Agent](https://github.com/entropy-z/Kharon-Agent)
 - [https://github.com/NtDallas/BOF_RunPe](https://github.com/NtDallas/BOF_RunPe)
+- [https://github.com/Flangvik/Apollo](https://github.com/Flangvik/Apollo)
+- [https://github.com/0xflux/Wyrm](https://github.com/0xflux/Wyrm)
+- [https://github.com/TierZeroSecurity/teams-cookies-bof](https://github.com/TierZeroSecurity/teams-cookies-bof)
+- [https://github.com/NtDallas/BOF_Spawn/](https://github.com/NtDallas/BOF_Spawn/)
+- [https://github.com/drwscefn/AxHound](https://github.com/drwscefn/AxHound)

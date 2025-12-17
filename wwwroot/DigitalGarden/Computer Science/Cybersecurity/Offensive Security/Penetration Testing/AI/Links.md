@@ -11,3 +11,5 @@
 - [https://maccarita.com/](https://maccarita.com/)
 - [https://specterops.io/blog/2025/11/21/an-evening-with-claude-code/](https://specterops.io/blog/2025/11/21/an-evening-with-claude-code/)
 - [https://www.reddit.com/r/google_antigravity/comments/1p82or6/google_antigravity_just_deleted_the_contents_of/](https://www.reddit.com/r/google_antigravity/comments/1p82or6/google_antigravity_just_deleted_the_contents_of/)
+- [https://github.com/SECFORCE/LLMGoat](https://github.com/SECFORCE/LLMGoat)
+- [https://brave.com/blog/unseeable-prompt-injections/](https://brave.com/blog/unseeable-prompt-injections/)

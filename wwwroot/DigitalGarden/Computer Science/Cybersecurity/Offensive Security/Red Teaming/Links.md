@@ -28,3 +28,6 @@
 - [https://labs.watchtowr.com/](https://labs.watchtowr.com/)
 - [https://github.com/3lp4tr0n/SessionHop](https://github.com/3lp4tr0n/SessionHop)
 - [https://rastamouse.me/pic-symphony/](https://rastamouse.me/pic-symphony/)
+- [https://github.com/r3drun3/magnet](https://github.com/r3drun3/magnet)
+- [https://docs.wyrm-c2.com/](https://docs.wyrm-c2.com/)
+- [https://tradecraftgarden.org/references.html](https://tradecraftgarden.org/references.html)

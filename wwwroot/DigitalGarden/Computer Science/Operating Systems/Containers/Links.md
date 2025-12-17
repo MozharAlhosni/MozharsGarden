@@ -9,3 +9,4 @@
 - [Monitor your Service Uptime with Uptime Kuma and Docker - Pi My Life Up](https://pimylifeup.com/uptime-kuma-docker/)
 - [GitHub - abiosoft/colima: Container runtimes on macOS (and Linux) with minimal setup](https://github.com/abiosoft/colima)
 - [containers/netavark: Container network stack](https://github.com/containers/netavark)
+- [https://discuss.linuxcontainers.org/t/announcing-incusos/25139](https://discuss.linuxcontainers.org/t/announcing-incusos/25139)

@@ -56,3 +56,4 @@
 - [Ansible Playbook Privilege Escalation | Linux Privilege Escalation](https://morgan-bin-bash.gitbook.io/linux-privilege-escalation)
 - [https://theevilbit.github.io/posts/](https://theevilbit.github.io/posts/)
 - [https://aff-wg.org/2025/12/01/tradecraft-orchestration-in-the-garden/](https://aff-wg.org/2025/12/01/tradecraft-orchestration-in-the-garden/)
+- [https://aff-wg.org/2025/10/27/tradecraft-gardens-pic-parterre/](https://aff-wg.org/2025/10/27/tradecraft-gardens-pic-parterre/)

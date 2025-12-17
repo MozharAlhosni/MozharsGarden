@@ -25,3 +25,4 @@
 - [LM Studio - Discover, download, and run local LLMs](https://lmstudio.ai/)
 - [https://openwebui.com/](https://openwebui.com/)
 - [One Useful Thing | Ethan Mollick | Substack](https://www.oneusefulthing.org/)
+- [https://github.com/noperator/siftrank](https://github.com/noperator/siftrank)

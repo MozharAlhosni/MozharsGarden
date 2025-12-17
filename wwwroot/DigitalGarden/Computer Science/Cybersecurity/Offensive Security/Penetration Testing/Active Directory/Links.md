@@ -15,3 +15,4 @@
 - [https://github.com/P0142/LDAP-Bof-Collection](https://github.com/P0142/LDAP-Bof-Collection)
 - [https://decoder.cloud/2025/11/24/reflecting-your-authentication-when-windows-ends-up-talking-to-itself/](https://decoder.cloud/2025/11/24/reflecting-your-authentication-when-windows-ends-up-talking-to-itself/)
 - [https://specterops.io/blog/2025/11/19/sccm-hierarchy-takeover-via-entra-integrationbecause-of-the-implication/](https://specterops.io/blog/2025/11/19/sccm-hierarchy-takeover-via-entra-integrationbecause-of-the-implication/)
+- [https://github.com/ricardojoserf/SAMDump](https://github.com/ricardojoserf/SAMDump)

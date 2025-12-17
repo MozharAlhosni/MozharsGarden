@@ -20,3 +20,6 @@
 - [https://blog.ryotak.net/](https://blog.ryotak.net/)
 - [Breakpoint](https://breakpoint.purrfect.fr/index.html)
 - [Homepage | JohnG4lt](https://blog.johng4lt.com/)
+- [https://kiddo-pwn.github.io/blog/](https://kiddo-pwn.github.io/blog/)
+- [https://tishina.in/home](https://tishina.in/home)
+- [https://blog.zsec.uk/](https://blog.zsec.uk/)

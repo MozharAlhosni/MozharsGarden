@@ -23,3 +23,4 @@
 - [https://about.gitlab.com/blog/categories/security/](https://about.gitlab.com/blog/categories/security/)
 - [The Infosec Newsletter](https://weekly.infosecwriteups.com/)
 - [Technology News and Analysis - BetaNews](https://betanews.com/)
+- [https://trigger.dev/blog/shai-hulud-postmortem](https://trigger.dev/blog/shai-hulud-postmortem)

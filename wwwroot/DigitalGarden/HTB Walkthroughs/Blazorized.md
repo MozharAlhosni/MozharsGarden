@@ -79,10 +79,6 @@ After exploiting the SQLi on the `Blazor Server` web app, players need to get a 
 
 After cracking the password of `RSA_4810`, players will discover, via manual enumeration of DACLs, that `RSA_4810` has `write scriptPath` on `LSA_3214`. Therefore, they need to abuse this to get a reverse shell as `LSA_3214`. Once they get a reverse shell as `LSA_3214`, they will discover that `LSA_3214` has `read scriptPath` on `SSA_6010`, a privileged user account that can DCSync the domain. Although `LSA_3214` does not have `write scriptPath` on `SSA_6010`, players will discover, via `icacls`, that `LSA_3214` has write permissions on the `scriptPath` file of `SSA_6010`, the location is random and unguessable within `NETLOGON`, forcing players to abuse `read scriptPath`.
 
-See the graph below describing the AD environment and the DACL misconfigurations `Blazorized` suffers from:
-
-![Blazorized_walkthrough_image_13.png](DigitalGarden/assets/HTB_Walkthroughs/Blazorized/Blazorized_walkthrough_image_13.png)
-
 # Writeup
 
 ## Enumeration

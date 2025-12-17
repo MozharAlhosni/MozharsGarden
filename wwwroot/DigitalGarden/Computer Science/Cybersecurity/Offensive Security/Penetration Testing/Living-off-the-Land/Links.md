@@ -8,6 +8,7 @@
 - [https://filesec.io/](https://filesec.io/)
 - [https://lolc2.github.io/](https://lolc2.github.io/)
 - [https://lolapps-project.github.io/](https://lolapps-project.github.io/)
+- [https://lolprox.yxz.red/](https://lolprox.yxz.red/)
 - [https://lolesxi-project.github.io/LOLESXi/](https://lolesxi-project.github.io/LOLESXi/)
 - [https://lolbins-ctidriven.vercel.app/#](https://lolbins-ctidriven.vercel.app/#)
 - [https://lotwebhooks.github.io/index.html](https://lotwebhooks.github.io/index.html)

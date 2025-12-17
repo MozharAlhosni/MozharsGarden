@@ -9,3 +9,6 @@
 - [https://github.com/CravateRouge/autobloody](https://github.com/CravateRouge/autobloody)
 - [https://docs.ludus.cloud/](https://docs.ludus.cloud/)
 - [https://horizon3.ai/nodezero/](https://horizon3.ai/nodezero/)
+- [https://github.com/SpecterOps/Nemesis](https://github.com/SpecterOps/Nemesis)
+- [https://github.com/shadow1ng/fscan](https://github.com/shadow1ng/fscan)
+- [https://github.com/outflanknl/seccomp-notify-injection](https://github.com/outflanknl/seccomp-notify-injection)

@@ -9,5 +9,7 @@
 - [https://www.legitsecurity.com/](https://www.legitsecurity.com/)
 - [https://pixnapping.com](https://pixnapping.com)
 - [https://github.com/Xacone/BestEdrOfTheMarket](https://github.com/Xacone/BestEdrOfTheMarket)
-- [https://github.com/SpecterOps/Nemesis](https://github.com/SpecterOps/Nemesis)
-- [https://github.com/shadow1ng/fscan](https://github.com/shadow1ng/fscan)
+
+- [https://horizon3.ai/attack-research/the-freepbx-rabbit-hole-cve-2025-66039-and-others/](https://horizon3.ai/attack-research/the-freepbx-rabbit-hole-cve-2025-66039-and-others/)
+- [https://labs.watchtowr.com/soapwn-pwning-net-framework-applications-through-http-client-proxies-and-wsdl/](https://labs.watchtowr.com/soapwn-pwning-net-framework-applications-through-http-client-proxies-and-wsdl/)
+- [https://www.outflank.nl/blog/2025/12/09/seccomp-notify-injection/](https://www.outflank.nl/blog/2025/12/09/seccomp-notify-injection/)

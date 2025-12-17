@@ -6,3 +6,4 @@
 - [Matrix.org](https://matrix.org/)
 - [Termux | F-Droid - Free and Open Source Android App Repository](https://f-droid.org/en/packages/com.termux/)
 - [Modern ITSM | Siit](https://www.siit.io/)
+- [https://github.com/rustmailer/bichon](https://github.com/rustmailer/bichon)

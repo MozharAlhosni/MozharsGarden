@@ -8,3 +8,5 @@
 - [Modern ITSM | Siit](https://www.siit.io/)
 - [https://github.com/rustmailer/bichon](https://github.com/rustmailer/bichon)
 - [https://github.com/Techlm77/LinuxPlay](https://github.com/Techlm77/LinuxPlay)
+- [https://insights.samsung.com/2022/12/06/byod-cyod-cope-cobo-cosu-what-do-they-really-mean/](https://insights.samsung.com/2022/12/06/byod-cyod-cope-cobo-cosu-what-do-they-really-mean/)
+- [https://www.usenix.org/publications](https://www.usenix.org/publications)

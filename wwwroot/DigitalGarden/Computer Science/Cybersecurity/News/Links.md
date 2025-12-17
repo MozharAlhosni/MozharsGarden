@@ -25,3 +25,4 @@
 - [Technology News and Analysis - BetaNews](https://betanews.com/)
 - [https://trigger.dev/blog/shai-hulud-postmortem](https://trigger.dev/blog/shai-hulud-postmortem)
 - [https://www.scientificamerican.com/article/a-solution-to-the-cias-kryptos-code-is-found-after-35-years/](https://www.scientificamerican.com/article/a-solution-to-the-cias-kryptos-code-is-found-after-35-years/)
+- [https://www.datacenterdynamics.com/en/](https://www.datacenterdynamics.com/en/)

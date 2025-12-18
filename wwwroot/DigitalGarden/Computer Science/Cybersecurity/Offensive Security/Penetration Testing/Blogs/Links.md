@@ -23,3 +23,4 @@
 - [https://kiddo-pwn.github.io/blog/](https://kiddo-pwn.github.io/blog/)
 - [https://tishina.in/home](https://tishina.in/home)
 - [https://blog.zsec.uk/](https://blog.zsec.uk/)
+- [https://mdisec.com/posts/](https://mdisec.com/posts/)

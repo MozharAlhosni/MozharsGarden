@@ -23,3 +23,4 @@
 - [cybertec-postgresql/pgwatch: 🔬PGWATCH: PostgreSQL metrics monitor/dashboard](https://github.com/cybertec-postgresql/pgwatch/)
 - [What's New in PostgreSQL 18 - a Developer's Perspective](https://www.bytebase.com/blog/what-is-new-in-postgres-18-for-developer/)
 - [Verify the encryption for tables, tablespaces, and schemas - Percona Server for MySQL](https://docs.percona.com/percona-server/8.0/verifying-encryption.html)
+- [https://clickhouse.com/](https://clickhouse.com/)

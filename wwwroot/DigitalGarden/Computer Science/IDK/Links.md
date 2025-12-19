@@ -12,3 +12,4 @@
 - [https://www.usenix.org/publications](https://www.usenix.org/publications)
 - [https://quill-os.org/](https://quill-os.org/)
 - [https://www.infotech.com/](https://www.infotech.com/)
+- [https://docs.glean.com/get-started/welcome](https://docs.glean.com/get-started/welcome)

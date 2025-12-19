@@ -24,3 +24,4 @@
 - [https://tishina.in/home](https://tishina.in/home)
 - [https://blog.zsec.uk/](https://blog.zsec.uk/)
 - [https://mdisec.com/posts/](https://mdisec.com/posts/)
+- [https://www.thehacker.recipes/](https://www.thehacker.recipes/)

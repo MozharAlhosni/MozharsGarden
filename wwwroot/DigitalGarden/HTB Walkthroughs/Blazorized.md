@@ -336,7 +336,7 @@ PS C:\Users\NU_1055> .\SharpHound.exe
 2024-02-02T08:04:10.3773742-06:00|INFORMATION|Initializing SharpHound at 8:04 AM on 2/2/2024
 2024-02-02T08:04:10.6586326-06:00|INFORMATION|[CommonLib LDAPUtils]Found usable Domain Controller for blazorized.htb : DC1.blazorized.htb
 2024-02-02T08:04:10.7054942-06:00|INFORMATION|Flags: Group, LocalAdmin, Session, Trusts, ACL, Container, RDP, ObjectProps, DCOM, SPNTargets, PSRemote
-<SNIPP>
+<SNIP>
 ```
 
 Convert the ZIP into a base64 string and save it in a file:

@@ -14,6 +14,8 @@
 - [https://www.thc.org/segfault/](https://www.thc.org/segfault/)
 - [Interactsh | Web Client](https://app.interactsh.com/#/)
 - [https://pfcloud.io/](https://pfcloud.io/)
+- [https://github.com/jermanuts/bad-opsec](https://github.com/jermanuts/bad-opsec)
+- [https://links.libroot.org/](https://links.libroot.org/)
 
 ## Printing Password Protected PDFs
 

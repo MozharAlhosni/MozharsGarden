@@ -13,3 +13,4 @@
 - [https://www.finops.org](https://www.finops.org)
 - [https://redcanary.com/blog/threat-detection/bav2ropc/](https://redcanary.com/blog/threat-detection/bav2ropc/)
 - [https://cycle.io/](https://cycle.io/)
+- [https://static.googleusercontent.com/media/sre.google/en//static/pdf/practical-guide-to-cloud-migration.pdf](https://static.googleusercontent.com/media/sre.google/en//static/pdf/practical-guide-to-cloud-migration.pdf)

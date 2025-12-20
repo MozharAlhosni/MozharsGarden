@@ -21,3 +21,4 @@
 - [https://github.com/TierZeroSecurity/teams-cookies-bof](https://github.com/TierZeroSecurity/teams-cookies-bof)
 - [https://github.com/NtDallas/BOF_Spawn/](https://github.com/NtDallas/BOF_Spawn/)
 - [https://github.com/drwscefn/AxHound](https://github.com/drwscefn/AxHound)
+- [https://xenon-2.gitbook.io/writeups/](https://xenon-2.gitbook.io/writeups/)

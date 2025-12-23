@@ -30,3 +30,4 @@
 - [https://www.runpulse.com/](https://www.runpulse.com/)
 - [https://moge.ai](https://moge.ai)
 - [https://qdrant.tech/](https://qdrant.tech/)
+- [https://sider.ai/](https://sider.ai/)

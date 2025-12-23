@@ -4,3 +4,5 @@
 - [https://www.nist.gov/system/files/documents/2017/06/08/20131213_charles_alsup_insa_part4.pdf](https://www.nist.gov/system/files/documents/2017/06/08/20131213_charles_alsup_insa_part4.pdf)
 - [https://www.nationalinsiderthreatsig.org/itrmresources/Intel%20Insider%20Threat%20Field%20Guide.pdf](https://www.nationalinsiderthreatsig.org/itrmresources/Intel%20Insider%20Threat%20Field%20Guide.pdf)
 - [https://www.sei.cmu.edu/insider-threat/](https://www.sei.cmu.edu/insider-threat/)
+- [https://www.sei.cmu.edu/documents/2457/2017_015_001_452233.pdf](https://www.sei.cmu.edu/documents/2457/2017_015_001_452233.pdf)
+- [https://www.dni.gov/index.php/ncsc-how-we-work/ncsc-nittf](https://www.dni.gov/index.php/ncsc-how-we-work/ncsc-nittf)

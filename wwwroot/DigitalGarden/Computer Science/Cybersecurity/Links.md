@@ -38,3 +38,4 @@
 - [https://www.secjuice.com/](https://www.secjuice.com/)
 - [https://adamr88.github.io/hacking/](https://adamr88.github.io/hacking/)
 - [https://developers.cloudflare.com/](https://developers.cloudflare.com/)
+- [https://github.com/tidalcyber/cyber-threat-profiling](https://github.com/tidalcyber/cyber-threat-profiling)

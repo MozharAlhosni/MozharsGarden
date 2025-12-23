@@ -4,3 +4,4 @@
 - [https://www.infotech.com/browse/security/security-risk-strategy-governance/governance-risk-compliance](https://www.infotech.com/browse/security/security-risk-strategy-governance/governance-risk-compliance)
 - [https://www.itil.com/](https://www.itil.com/)
 - [https://www.coso.org/erm-framework](https://www.coso.org/erm-framework)
+- [https://github.com/tidalcyber/cyber-threat-profiling](https://github.com/tidalcyber/cyber-threat-profiling)

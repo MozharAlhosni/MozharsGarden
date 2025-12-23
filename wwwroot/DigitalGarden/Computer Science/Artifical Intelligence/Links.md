@@ -29,3 +29,4 @@
 - [https://www.letta.com/blog/letta-code](https://www.letta.com/blog/letta-code)
 - [https://www.runpulse.com/](https://www.runpulse.com/)
 - [https://moge.ai](https://moge.ai)
+- [https://qdrant.tech/](https://qdrant.tech/)

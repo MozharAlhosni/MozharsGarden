@@ -12,3 +12,4 @@
 - [https://dod-executiveagent.osd.mil/](https://dod-executiveagent.osd.mil/)
 - [https://www.archives.gov/isoo](https://www.archives.gov/isoo)
 - [https://itif.org/](https://itif.org/)
+- [https://intelligence.dlapiper.com/about.html](https://intelligence.dlapiper.com/about.html)

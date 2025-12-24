@@ -31,3 +31,5 @@
 - [https://moge.ai](https://moge.ai)
 - [https://qdrant.tech/](https://qdrant.tech/)
 - [https://sider.ai/](https://sider.ai/)
+- [https://openai.com/research/index/](https://openai.com/research/index/)
+- [https://cdn.openai.com/pdf/18a02b5d-6b67-4cec-ab64-68cdfbddebcd/preparedness-framework-v2.pdf](https://cdn.openai.com/pdf/18a02b5d-6b67-4cec-ab64-68cdfbddebcd/preparedness-framework-v2.pdf)

@@ -65,3 +65,4 @@
 - [https://unit42.paloaltonetworks.com/operation-rewrite-seo-poisoning-campaign/](https://unit42.paloaltonetworks.com/operation-rewrite-seo-poisoning-campaign/)
 - [internet-albedo.net](https://internet-albedo.net/)
 - [Documentation | CrowdSec](https://docs.crowdsec.net/)
+- [https://www.cisecurity.org/cybersecurity-threats](https://www.cisecurity.org/cybersecurity-threats)

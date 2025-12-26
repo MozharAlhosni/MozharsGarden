@@ -7,3 +7,4 @@
 - [https://www.sei.cmu.edu/documents/2457/2017_015_001_452233.pdf](https://www.sei.cmu.edu/documents/2457/2017_015_001_452233.pdf)
 - [https://www.dni.gov/index.php/ncsc-how-we-work/ncsc-nittf](https://www.dni.gov/index.php/ncsc-how-we-work/ncsc-nittf)
 - [https://obamawhitehouse.archives.gov/the-press-office/2011/10/07/executive-order-13587-structural-reforms-improve-security-classified-net](https://obamawhitehouse.archives.gov/the-press-office/2011/10/07/executive-order-13587-structural-reforms-improve-security-classified-net)
+- [https://www.sei.cmu.edu/library/cert-insider-threat-center/](https://www.sei.cmu.edu/library/cert-insider-threat-center/)

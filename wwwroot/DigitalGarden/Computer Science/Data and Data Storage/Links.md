@@ -10,3 +10,4 @@
 - [https://www.sailpoint.com/](https://www.sailpoint.com/)
 - [https://posthog.com/](https://posthog.com/)
 - [https://www.glean.com/](https://www.glean.com/)
+- [https://www.denodo.com/en](https://www.denodo.com/en)

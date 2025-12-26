@@ -21,3 +21,7 @@
 - [https://www.opm.gov/information-management/freedom-of-information-act/](https://www.opm.gov/information-management/freedom-of-information-act/)
 - [https://securitywalay.com/](https://securitywalay.com/)
 - [https://www.uipath.com/](https://www.uipath.com/)
+- [https://velero.io/](https://velero.io/)
+- [https://research.google/pubs/dapper-a-large-scale-distributed-systems-tracing-infrastructure/](https://research.google/pubs/dapper-a-large-scale-distributed-systems-tracing-infrastructure/)
+- [https://gist.github.com/OBrutus/71b4ceca320a8e8119f06009687356a2](https://gist.github.com/OBrutus/71b4ceca320a8e8119f06009687356a2)
+- [https://www.hotjar.com/](https://www.hotjar.com/)

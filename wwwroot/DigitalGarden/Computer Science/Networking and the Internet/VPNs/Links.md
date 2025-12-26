@@ -16,3 +16,7 @@
 - [Configuration of OPNsense Intrusion Detection and Intrusion Prevention - Thomas-Krenn-Wiki-en](https://www.thomas-krenn.com/en/wiki/Configuration_of_OPNsense_Intrusion_Detection_and_Intrusion_Prevention)
 - [Setting up Tailscale on Ubuntu - Pi My Life Up](https://pimylifeup.com/ubuntu-tailscale/)
 - [https://tailscale.com/blog/peer-relays-beta](https://tailscale.com/blog/peer-relays-beta)
+- [https://psiphon.ca/en/index.html](https://psiphon.ca/en/index.html)
+- [https://proxy.org/](https://proxy.org/)
+- [https://proxy.org/vpn_comparison.shtml](https://proxy.org/vpn_comparison.shtml)
+- [https://github.com/vincentclee/glype](https://github.com/vincentclee/glype)

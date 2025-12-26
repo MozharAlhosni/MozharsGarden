@@ -20,3 +20,5 @@
 - [https://proxy.org/](https://proxy.org/)
 - [https://proxy.org/vpn_comparison.shtml](https://proxy.org/vpn_comparison.shtml)
 - [https://github.com/vincentclee/glype](https://github.com/vincentclee/glype)
+- [https://github.com/Athlon1600/php-proxy-app](https://github.com/Athlon1600/php-proxy-app)
+- [https://www.php-proxy.com/](https://www.php-proxy.com/)

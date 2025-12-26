@@ -11,3 +11,4 @@
 - [https://posthog.com/](https://posthog.com/)
 - [https://www.glean.com/](https://www.glean.com/)
 - [https://www.denodo.com/en](https://www.denodo.com/en)
+- [https://openrefine.org/](https://openrefine.org/)

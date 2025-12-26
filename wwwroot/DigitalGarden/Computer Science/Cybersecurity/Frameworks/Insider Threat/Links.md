@@ -8,3 +8,5 @@
 - [https://www.dni.gov/index.php/ncsc-how-we-work/ncsc-nittf](https://www.dni.gov/index.php/ncsc-how-we-work/ncsc-nittf)
 - [https://obamawhitehouse.archives.gov/the-press-office/2011/10/07/executive-order-13587-structural-reforms-improve-security-classified-net](https://obamawhitehouse.archives.gov/the-press-office/2011/10/07/executive-order-13587-structural-reforms-improve-security-classified-net)
 - [https://www.sei.cmu.edu/library/cert-insider-threat-center/](https://www.sei.cmu.edu/library/cert-insider-threat-center/)
+- [https://www.sei.cmu.edu/library/positive-incentives-for-reducing-insider-threat/](https://www.sei.cmu.edu/library/positive-incentives-for-reducing-insider-threat/)
+- [https://www.sei.cmu.edu/credentials/cert-insider-threat-program-manager-certificate/](https://www.sei.cmu.edu/credentials/cert-insider-threat-program-manager-certificate/term)

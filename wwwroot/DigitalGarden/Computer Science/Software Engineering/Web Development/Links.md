@@ -24,3 +24,4 @@
 - [https://pleasejusttryhtmx.com/](https://pleasejusttryhtmx.com/)
 - [https://chromestatus.com/roadmap](https://chromestatus.com/roadmap)
 - [https://github.com/domWalters/mkdocs-to-pdf](https://github.com/domWalters/mkdocs-to-pdf)
+- [https://github.com/ruby/webrick](https://github.com/ruby/webrick)

@@ -5,3 +5,5 @@
 - [https://github.com/zero2504/Fairy-Law](https://github.com/zero2504/Fairy-Law)
 - [https://offsec.almond.consulting/evading-elastic-callstack-signatures.html](https://offsec.almond.consulting/evading-elastic-callstack-signatures.html)
 - [https://github.com/BlWasp/PhantomTask](https://github.com/BlWasp/PhantomTask)
+- [https://github.com/phra/PEzor](https://github.com/phra/PEzor)
+- [https://github.com/Veil-Framework/Veil](https://github.com/Veil-Framework/Veil)

@@ -58,3 +58,4 @@
 - [https://aff-wg.org/2025/12/01/tradecraft-orchestration-in-the-garden/](https://aff-wg.org/2025/12/01/tradecraft-orchestration-in-the-garden/)
 - [https://aff-wg.org/2025/10/27/tradecraft-gardens-pic-parterre/](https://aff-wg.org/2025/10/27/tradecraft-gardens-pic-parterre/)
 - [https://alexschapiro.com/security/vulnerability/2025/11/20/avelo-airline-reservation-api-vulnerability](https://alexschapiro.com/security/vulnerability/2025/11/20/avelo-airline-reservation-api-vulnerability)
+- [https://github.com/trustedsec/COFFLoader](https://github.com/trustedsec/COFFLoader)

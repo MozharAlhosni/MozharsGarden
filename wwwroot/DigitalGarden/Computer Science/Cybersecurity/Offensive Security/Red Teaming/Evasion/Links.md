@@ -7,3 +7,5 @@
 - [https://github.com/BlWasp/PhantomTask](https://github.com/BlWasp/PhantomTask)
 - [https://github.com/phra/PEzor](https://github.com/phra/PEzor)
 - [https://github.com/Veil-Framework/Veil](https://github.com/Veil-Framework/Veil)
+- [https://www.balliskit.com/](https://www.balliskit.com/)
+- [https://blog.balliskit.com/tutorial-sliver-c2-with-balliskit-macropack-and-shellcodepack-452e94c24b19](https://blog.balliskit.com/tutorial-sliver-c2-with-balliskit-macropack-and-shellcodepack-452e94c24b19)

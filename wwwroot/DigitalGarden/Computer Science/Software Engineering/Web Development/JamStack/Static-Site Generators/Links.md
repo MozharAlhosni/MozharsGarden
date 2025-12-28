@@ -12,3 +12,4 @@
 - [Pelican – A Python Static Site Generator](https://getpelican.com/)
 - [Introduction | Docusaurus](https://docusaurus.io/docs)
 - [Wiki.js](https://js.wiki/)
+- [https://github.com/cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)

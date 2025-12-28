@@ -25,3 +25,4 @@
 - [https://research.google/pubs/dapper-a-large-scale-distributed-systems-tracing-infrastructure/](https://research.google/pubs/dapper-a-large-scale-distributed-systems-tracing-infrastructure/)
 - [https://gist.github.com/OBrutus/71b4ceca320a8e8119f06009687356a2](https://gist.github.com/OBrutus/71b4ceca320a8e8119f06009687356a2)
 - [https://www.hotjar.com/](https://www.hotjar.com/)
+- [https://www.puppet.com/](https://www.puppet.com/)

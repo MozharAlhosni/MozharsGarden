@@ -12,3 +12,4 @@
 - [https://www.tiraniddo.dev/2017/05/reading-your-way-around-uac-part-3.html](https://www.tiraniddo.dev/2017/05/reading-your-way-around-uac-part-3.html)
 - [https://www.100daysofredteam.com/p/using-havoc-c2-to-bypass-uac](https://www.100daysofredteam.com/p/using-havoc-c2-to-bypass-uac)
 - [https://splintercod3.blogspot.com/p/bypassing-uac-with-sspi-datagram.html](https://splintercod3.blogspot.com/p/bypassing-uac-with-sspi-datagram.html)
+- [https://github.com/antonioCoco/RunasCs](https://github.com/antonioCoco/RunasCs)

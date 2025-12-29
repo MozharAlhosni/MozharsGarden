@@ -28,3 +28,5 @@
 - [https://www.puppet.com/](https://www.puppet.com/)
 - [https://github.com/sharkdp/hyperfine](https://github.com/sharkdp/hyperfine)
 - [https://learn.microsoft.com/en-us/office/ltsc/2024/overview](https://learn.microsoft.com/en-us/office/ltsc/2024/overview)
+- [https://itefix.net/cwrsync](https://itefix.net/cwrsync)
+- [https://www.asterisk.org/downloads/security-advisories/](https://www.asterisk.org/downloads/security-advisories/)

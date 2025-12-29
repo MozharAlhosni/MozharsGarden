@@ -18,3 +18,11 @@ pattern = r"!\[\[(?P<imageName>\S*)\]\]";
 patternToReplaceWith = r'![\g<imageName>][assets\\HTB Walkthroughs\\Blazorized\\\g<imageName>]'
 life = re.sub(pattern, patternToReplaceWith, xx)
 ```
+
+## wget
+
+To download a website:
+
+```bash
+wget --mirror --convert-links --adjust-extensions --page-requisites --no-parent https://website
+```

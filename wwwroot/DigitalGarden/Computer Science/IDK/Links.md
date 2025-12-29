@@ -27,3 +27,4 @@
 - [https://www.hotjar.com/](https://www.hotjar.com/)
 - [https://www.puppet.com/](https://www.puppet.com/)
 - [https://github.com/sharkdp/hyperfine](https://github.com/sharkdp/hyperfine)
+- [https://learn.microsoft.com/en-us/office/ltsc/2024/overview](https://learn.microsoft.com/en-us/office/ltsc/2024/overview)

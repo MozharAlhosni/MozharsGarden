@@ -22,3 +22,4 @@
 - [https://github.com/NtDallas/BOF_Spawn/](https://github.com/NtDallas/BOF_Spawn/)
 - [https://github.com/drwscefn/AxHound](https://github.com/drwscefn/AxHound)
 - [https://xenon-2.gitbook.io/writeups/](https://xenon-2.gitbook.io/writeups/)
+- [https://scythe.io/](https://scythe.io/)

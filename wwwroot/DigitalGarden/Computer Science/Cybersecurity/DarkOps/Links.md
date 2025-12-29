@@ -21,3 +21,11 @@
 ## Printing Password Protected PDFs
 
 - One technique to print a password-protected PDF on MacOS is to open the file with `ColorSync Utility` and then print it. It won't bother asking for the password.
+
+## BitLocker Encrypted Devices
+
+If you have a BitLocker encrypted drive and you know the password (for example cracking it with `bitlocker2john`) of BitLocker but NOT any password for any account within it, this can be easily bypassed by attaching the drive as a second drive to any Windows device you own and decrypt it to access all the contents of the disk freely using [manage-bde](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/manage-bde):
+
+```powershell
+manage-bde -unlock D: -Password
+```

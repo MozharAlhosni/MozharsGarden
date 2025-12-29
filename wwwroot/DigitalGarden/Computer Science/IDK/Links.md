@@ -26,3 +26,4 @@
 - [https://gist.github.com/OBrutus/71b4ceca320a8e8119f06009687356a2](https://gist.github.com/OBrutus/71b4ceca320a8e8119f06009687356a2)
 - [https://www.hotjar.com/](https://www.hotjar.com/)
 - [https://www.puppet.com/](https://www.puppet.com/)
+- [https://github.com/sharkdp/hyperfine](https://github.com/sharkdp/hyperfine)

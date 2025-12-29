@@ -25,3 +25,4 @@
 - [Verify the encryption for tables, tablespaces, and schemas - Percona Server for MySQL](https://docs.percona.com/percona-server/8.0/verifying-encryption.html)
 - [https://clickhouse.com/](https://clickhouse.com/)
 - [https://www.pgcon.org/2009/schedule/attachments/129_Encrypted%20PostgreSQL.pdf](https://www.pgcon.org/2009/schedule/attachments/129_Encrypted%20PostgreSQL.pdf)
+- [https://mysql-mmm.org/](https://mysql-mmm.org/)

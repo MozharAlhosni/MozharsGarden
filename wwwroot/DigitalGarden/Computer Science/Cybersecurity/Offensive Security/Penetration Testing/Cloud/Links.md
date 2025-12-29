@@ -22,3 +22,4 @@
 - [https://github.com/RhinoSecurityLabs/GCPBucketBrute](https://github.com/RhinoSecurityLabs/GCPBucketBrute)
 - [https://github.com/hotnops/apeman](https://github.com/hotnops/apeman)
 - [https://dirkjanm.io/](https://dirkjanm.io/)
+- [https://github.com/ine-labs/AWSGoat](https://github.com/ine-labs/AWSGoat)

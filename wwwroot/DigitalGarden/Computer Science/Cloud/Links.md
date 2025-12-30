@@ -14,3 +14,4 @@
 - [https://redcanary.com/blog/threat-detection/bav2ropc/](https://redcanary.com/blog/threat-detection/bav2ropc/)
 - [https://cycle.io/](https://cycle.io/)
 - [https://static.googleusercontent.com/media/sre.google/en//static/pdf/practical-guide-to-cloud-migration.pdf](https://static.googleusercontent.com/media/sre.google/en//static/pdf/practical-guide-to-cloud-migration.pdf)
+- [https://www.alibabacloud.com/blog/load-balancing-on-the-cloud-alb-nlb-and-clb_600076](https://www.alibabacloud.com/blog/load-balancing-on-the-cloud-alb-nlb-and-clb_600076)

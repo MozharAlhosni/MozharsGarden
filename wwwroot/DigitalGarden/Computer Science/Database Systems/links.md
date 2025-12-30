@@ -27,3 +27,4 @@
 - [https://www.pgcon.org/2009/schedule/attachments/129_Encrypted%20PostgreSQL.pdf](https://www.pgcon.org/2009/schedule/attachments/129_Encrypted%20PostgreSQL.pdf)
 - [https://mysql-mmm.org/](https://mysql-mmm.org/)
 - [https://www.mysql.com/products/enterprise/](https://www.mysql.com/products/enterprise/)
+- [https://www.mysql.com/why-mysql/white-papers/mysql-reference-architectures-for-security/](https://www.mysql.com/why-mysql/white-papers/mysql-reference-architectures-for-security/)

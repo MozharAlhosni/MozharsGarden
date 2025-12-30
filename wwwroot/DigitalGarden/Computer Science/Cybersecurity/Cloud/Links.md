@@ -5,3 +5,4 @@
 - [https://www.cisecurity.org/benchmark/oracle_cloud](https://www.cisecurity.org/benchmark/oracle_cloud)
 - [https://www.ateam-oracle.com/oci-tenancy-security-best-practices-guide-overview](https://www.ateam-oracle.com/oci-tenancy-security-best-practices-guide-overview)
 - [https://education.oracle.com/oracle-cloud-infrastructure-2025-security-professional/pexam_1Z0-1104-25](https://education.oracle.com/oracle-cloud-infrastructure-2025-security-professional/pexam_1Z0-1104-25)
+- [https://docs.limacharlie.io/](https://docs.limacharlie.io/)

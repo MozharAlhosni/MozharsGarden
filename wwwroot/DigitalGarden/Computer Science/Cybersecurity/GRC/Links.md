@@ -6,3 +6,4 @@
 - [https://www.coso.org/erm-framework](https://www.coso.org/erm-framework)
 - [https://github.com/tidalcyber/cyber-threat-profiling](https://github.com/tidalcyber/cyber-threat-profiling)
 - [https://www.vanta.com/downloads/the-soc-2-compliance-checklist](https://www.vanta.com/downloads/the-soc-2-compliance-checklist)
+- [https://blog.adobe.com/security/now-available-adobe-ccfv5](https://blog.adobe.com/security/now-available-adobe-ccfv5)

@@ -29,3 +29,16 @@ If you have a BitLocker encrypted drive and you know the password (for example c
 ```powershell
 manage-bde -unlock D: -Password
 ```
+
+## SOAR
+
+In Cybersecurity literature, SOAR can be either `Security Orchestration, Automation, and Response` or `State-of-the-Art Resources`.
+
+## docx to Markdown
+
+https://gist.github.com/plembo/409a8d7b1bae66622dbcd26337bbb185
+
+```bash
+$ myfilename="example"
+pandoc -t markdown_strict --extract-media='./attachments/$myfilename' $myfilename.docx -o $myfilename.md
+```

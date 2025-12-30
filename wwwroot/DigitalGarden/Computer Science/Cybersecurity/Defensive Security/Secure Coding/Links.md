@@ -17,3 +17,4 @@
 - [https://www.jtsec.es/files/CCN-LINCE-002_v0.1_final_EN.pdf](https://www.jtsec.es/files/CCN-LINCE-002_v0.1_final_EN.pdf)
 - [https://commoncriteriaportal.org/files/ccfiles/CC2022PART1R1.pdf](https://commoncriteriaportal.org/files/ccfiles/CC2022PART1R1.pdf)
 - [LINCE Certification | SGS](https://www.sgs.com/en/services/lince-certification)
+- [https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-218.pdf](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-218.pdf)

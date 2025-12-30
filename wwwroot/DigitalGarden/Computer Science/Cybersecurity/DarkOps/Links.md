@@ -42,3 +42,7 @@ https://gist.github.com/plembo/409a8d7b1bae66622dbcd26337bbb185
 $ myfilename="example"
 pandoc -t markdown_strict --extract-media='./attachments/$myfilename' $myfilename.docx -o $myfilename.md
 ```
+
+## SSL Passthrough
+
+[SSL Passthrough](https://www.ssl2buy.com/wiki/ssl-passthrough-work) is the opposite of [SSL Termination/Offloading](https://www.ssl2buy.com/wiki/ssl-offloading).

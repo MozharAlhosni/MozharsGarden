@@ -10,3 +10,4 @@
 - [https://www.amazon.com/Operating-System-Concepts-Abraham-Silberschatz-ebook/dp/B07CVKH7BD](https://www.amazon.com/Operating-System-Concepts-Abraham-Silberschatz-ebook/dp/B07CVKH7BD)
 - [sveinbjornt/Sloth: Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof.](https://github.com/sveinbjornt/Sloth)
 - [Royal Apps](https://royalapps.com/ts/mac/buy)
+- [https://github.com/ading2210/linuxpdf](https://github.com/ading2210/linuxpdf)

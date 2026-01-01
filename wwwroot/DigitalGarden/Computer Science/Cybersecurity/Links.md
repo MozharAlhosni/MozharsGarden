@@ -39,3 +39,4 @@
 - [https://adamr88.github.io/hacking/](https://adamr88.github.io/hacking/)
 - [https://developers.cloudflare.com/](https://developers.cloudflare.com/)
 - [https://github.com/tidalcyber/cyber-threat-profiling](https://github.com/tidalcyber/cyber-threat-profiling)
+- [https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/detecting-and-remediating-impossible-travel/3366017](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/detecting-and-remediating-impossible-travel/3366017)

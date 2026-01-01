@@ -17,6 +17,7 @@
 - [https://github.com/jermanuts/bad-opsec](https://github.com/jermanuts/bad-opsec)
 - [https://links.libroot.org/](https://links.libroot.org/)
 - [https://github.com/jery0843/torforge](https://github.com/jery0843/torforge)
+- [https://github.com/gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile)
 
 ## Printing Password Protected PDFs
 

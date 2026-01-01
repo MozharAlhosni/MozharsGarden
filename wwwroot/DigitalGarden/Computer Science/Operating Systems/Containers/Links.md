@@ -10,3 +10,4 @@
 - [GitHub - abiosoft/colima: Container runtimes on macOS (and Linux) with minimal setup](https://github.com/abiosoft/colima)
 - [containers/netavark: Container network stack](https://github.com/containers/netavark)
 - [https://discuss.linuxcontainers.org/t/announcing-incusos/25139](https://discuss.linuxcontainers.org/t/announcing-incusos/25139)
+- [https://medium.com/@jonsbun/why-need-to-be-careful-when-mounting-single-files-into-a-docker-container-4f929340834](https://medium.com/@jonsbun/why-need-to-be-careful-when-mounting-single-files-into-a-docker-container-4f929340834)

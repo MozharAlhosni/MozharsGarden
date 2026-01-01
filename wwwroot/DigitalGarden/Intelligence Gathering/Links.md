@@ -13,3 +13,5 @@
 - [https://www.archives.gov/isoo](https://www.archives.gov/isoo)
 - [https://itif.org/](https://itif.org/)
 - [https://intelligence.dlapiper.com/about.html](https://intelligence.dlapiper.com/about.html)
+- [https://app.skyfi.com/analytics/annotated-naval-dataset](https://app.skyfi.com/analytics/annotated-naval-dataset)
+- [http://www.navweaps.com/](http://www.navweaps.com/)

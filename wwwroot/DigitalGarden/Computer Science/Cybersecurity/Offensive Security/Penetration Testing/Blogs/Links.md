@@ -27,3 +27,4 @@
 - [https://www.thehacker.recipes/](https://www.thehacker.recipes/)
 - [https://alexschapiro.com/](https://alexschapiro.com/)
 - [https://dominicbreuker.com/](https://dominicbreuker.com/)
+- [https://vuln.dev/](https://vuln.dev/)

@@ -12,3 +12,4 @@
 - [https://opensource.google/projects/forsetisecurity](https://opensource.google/projects/forsetisecurity)
 - [https://www.microsoft.com/en-us/security/business/security-101/what-is-cnapp](https://www.microsoft.com/en-us/security/business/security-101/what-is-cnapp)
 - [https://kubernetes.io/docs/concepts/security/cloud-native-security/](https://kubernetes.io/docs/concepts/security/cloud-native-security/)
+- [https://github.com/aquasecurity/cloud-security-remediation-guides](https://github.com/aquasecurity/cloud-security-remediation-guides)

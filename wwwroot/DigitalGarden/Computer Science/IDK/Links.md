@@ -32,3 +32,4 @@
 - [https://www.asterisk.org/downloads/security-advisories/](https://www.asterisk.org/downloads/security-advisories/)
 - [https://www.framer.com/](https://www.framer.com/)
 - [https://www.featurebase.app/](https://www.featurebase.app/)
+- [https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Range_requests](https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Range_requests)

@@ -1168,11 +1168,14 @@ Read the `Sleep` flag:
 cat C:/Users/bruce.smith/Desktop/flag.txt
 ```
 
-```bash
-
-
+```bash-shell
 sliver (BLUSHING_ERROR) > cat C:/Users/bruce.smith/Desktop/flag.txt
 
 PUPPET{1c1740d66f7071**********}
 ```
 
+run mimikatz:
+
+```bash
+
+```

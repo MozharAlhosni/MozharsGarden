@@ -62,28 +62,32 @@ const DevToolsProtection = (() => {
     'use strict';
 
     const CONFIG = Object.freeze({
-        timingThreshold: 120,
+        timingThreshold: 100,
         sizeThreshold: 160,
-        checkIntervalMs: 250,
-        maxTimingAttempts: 8,
+        checkIntervalMs: 300,
+        maxTimingAttempts: 6,
         blockedCombos: [
-            { code: 'F12', name: 'F12' },
-            { code: 'KeyI', ctrl: true, shift: true, alt: false, name: 'Ctrl+Shift+I / Cmd+Shift+I' },
-            { code: 'KeyI', ctrl: false, meta: true, shift: true, alt: false, name: 'Cmd+Shift+I (Mac)' },
-            { code: 'KeyI', ctrl: false, meta: true, alt: true, name: 'Cmd+Option+I (Mac DevTools)' },
-            { code: 'KeyJ', ctrl: true, shift: true, name: 'Ctrl+Shift+J' },
-            { code: 'KeyJ', ctrl: false, meta: true, alt: true, name: 'Cmd+Option+J (Mac Console)' },
-            { code: 'KeyC', ctrl: true, shift: true, name: 'Ctrl+Shift+C (Inspect)' },
-            { code: 'KeyU', ctrl: true, name: 'Ctrl+U (View Source)' },
-            { code: 'KeyS', ctrl: true, name: 'Ctrl+S (Save)' },
-            { code: 'KeyP', ctrl: true, name: 'Ctrl+P (Print)' },
-            { code: 'F5', name: 'F5 (hard refresh bypass attempt)' },
-            { code: 'F3', name: 'F3 (search)' }
+            { code: 'F12' },
+            { code: 'KeyI', ctrl: true, shift: true },
+            { code: 'KeyI', meta: true, shift: true },
+            { code: 'KeyI', meta: true, alt: true },
+            { code: 'KeyJ', ctrl: true, shift: true },
+            { code: 'KeyJ', meta: true, alt: true },
+            { code: 'KeyC', ctrl: true, shift: true },
+            { code: 'KeyC', meta: true, shift: true },
+            { code: 'KeyU', ctrl: true },
+            { code: 'KeyU', meta: true },
+            { code: 'KeyS', ctrl: true },
+            { code: 'KeyS', meta: true },
+            { code: 'KeyP', ctrl: true },
+            { code: 'KeyP', meta: true },
+            { code: 'F3' }
         ]
     });
 
     let isActive = true;
     let timingAttempts = 0;
+    let detectionCount = 0;
 
     const detectByTiming = () => {
         if (!isActive) return;
@@ -92,47 +96,68 @@ const DevToolsProtection = (() => {
         debugger;
         const elapsed = performance.now() - start;
 
-        if (elapsed > CONFIG.timingThreshold) { handleDevToolsDetected('timing'); return; }
+        if (elapsed > CONFIG.timingThreshold) {
+            handleDevToolsDetected('timing');
+            return;
+        }
 
-        if (++timingAttempts < CONFIG.maxTimingAttempts) { setTimeout(detectByTiming, 100); }
+        if (++timingAttempts < CONFIG.maxTimingAttempts) {
+            setTimeout(detectByTiming, 150);
+        }
     };
 
     const detectBySize = () => {
-        if (!isActive) return;
+        if (!isActive) return false;
 
         const widthDiff = Math.abs((window.outerWidth || 0) - window.innerWidth);
         const heightDiff = Math.abs((window.outerHeight || 0) - window.innerHeight);
 
-        if (widthDiff > CONFIG.sizeThreshold || heightDiff > CONFIG.sizeThreshold) {
-            handleDevToolsDetected('size');
-        }
+        return widthDiff > CONFIG.sizeThreshold || heightDiff > CONFIG.sizeThreshold;
     };
 
     const detectByConsole = () => {
-        if (!isActive) return;
+        if (!isActive) return false;
 
         try {
-            const isNative = /native code/.test(Function.prototype.toString.call(console.log));
-            const isPatched = console.log.toString().includes('[Command Line API]');
+            const element = new Image();
+            let isOpen = false;
 
-            if (!isNative || isPatched) {
-                handleDevToolsDetected('console');
-            }
-        } catch (e) { }
+            Object.defineProperty(element, 'id', {
+                get: function() {
+                    isOpen = true;
+                    return 'detect';
+                }
+            });
+
+            requestAnimationFrame(() => console.dir(element));
+            
+            return isOpen;
+        } catch (e) {
+            return false;
+        }
     };
 
     const checkLoop = () => {
         if (!isActive) return;
 
-        detectBySize();
-        detectByConsole();
+        const sizeOpen = detectBySize();
+        const consoleOpen = detectByConsole();
+
+        if (sizeOpen || consoleOpen) {
+            detectionCount++;
+            if (detectionCount >= 2) {
+                handleDevToolsDetected('detection');
+                return;
+            }
+        } else {
+            detectionCount = Math.max(0, detectionCount - 1);
+        }
 
         try { console.clear(); } catch (e) { }
 
         setTimeout(checkLoop, CONFIG.checkIntervalMs);
     };
 
-    // Action when DevTools detected
     const handleDevToolsDetected = (method) => {
         if (!isActive) return;
         isActive = false;
@@ -140,16 +165,18 @@ const DevToolsProtection = (() => {
         console.clear();
         document.documentElement.innerHTML = `
             <style>
-                body { margin:0; height:100vh; display:grid; place-items:center; background:#0d1117; color:#fff; font-family:system-ui }
-                div { text-align:center; padding:2rem; background:#161b22; border-radius:12px; border:1px solid #30363d; }
-                h1 { margin:0 0 1rem; font-size:3rem; }
-                p { margin:0; opacity:0.8; }
+                * { margin:0; padding:0; box-sizing:border-box; }
+                body { height:100vh; display:grid; place-items:center; background:#0d1117; color:#fff; font-family:system-ui,-apple-system,sans-serif; overflow:hidden; }
+                .container { text-align:center; padding:3rem 2rem; background:#161b22; border-radius:16px; border:1px solid #30363d; box-shadow:0 8px 32px rgba(0,0,0,0.5); max-width:500px; }
+                h1 { margin:0 0 1rem; font-size:2.5rem; font-weight:700; color:#f85149; }
+                p { margin:0.5rem 0; opacity:0.85; font-size:1.1rem; line-height:1.6; }
+                .countdown { margin-top:1.5rem; font-size:0.9rem; opacity:0.6; }
             </style>
             <body>
-                <div>
-                    <h1>Developer Tools Detected</h1>
+                <div class="container">
+                    <h1>⚠️ Developer Tools Detected</h1>
                     <p>This page cannot be viewed with DevTools open.</p>
-                    <p>Reloading in 3s...</p>
+                    <p class="countdown">Reloading in 3 seconds...</p>
                 </div>
             </body>`;
 
@@ -161,7 +188,6 @@ const DevToolsProtection = (() => {
         }, 3000);
     };
 
-    // Universal event blocker
     const block = (e) => {
         e.preventDefault();
         e.stopPropagation();
@@ -169,23 +195,38 @@ const DevToolsProtection = (() => {
         return false;
     };
 
-    // Modern key combo checker
     const isBlockedCombo = (e) => {
         if (!e.code) return false;
 
         return CONFIG.blockedCombos.some(combo => {
-            const codeMatch = e.code === combo.code;
-            const ctrlMatch = !combo.ctrl || e.ctrlKey || e.metaKey;
-            const shiftMatch = combo.shift === undefined || e.shiftKey === combo.shift;
-            const altMatch = combo.alt === undefined || e.altKey === combo.alt;
-            const metaMatch = combo.meta === undefined || e.metaKey === !!combo.meta;
+            // Must match key code
+            if (e.code !== combo.code) return false;
 
-            return codeMatch && ctrlMatch && shiftMatch && altMatch && metaMatch;
+            // Check Ctrl/Cmd requirement
+            if (combo.ctrl !== undefined || combo.meta !== undefined) {
+                const needsCtrlOrMeta = combo.ctrl || combo.meta;
+                const hasCtrlOrMeta = e.ctrlKey || e.metaKey;
+                if (needsCtrlOrMeta && !hasCtrlOrMeta) return false;
+            }
+
+            // Check Shift requirement
+            if (combo.shift !== undefined && e.shiftKey !== combo.shift) {
+                return false;
+            }
+
+            // Check Alt requirement
+            if (combo.alt !== undefined && e.altKey !== combo.alt) {
+                return false;
+            }
+
+            return true;
         });
     };
 
     const handleKeyDown = (e) => {
-        if (isBlockedCombo(e)) { block(e); }
+        if (isBlockedCombo(e)) {
+            block(e);
+        }
     };
 
     const reinforceListeners = () => {
@@ -193,28 +234,28 @@ const DevToolsProtection = (() => {
 
         const opts = { capture: true, passive: false };
 
-        document.removeEventListener('contextmenu', block, opts);
-        document.removeEventListener('keydown', handleKeyDown, opts);
-        document.removeEventListener('selectstart', block, opts);
-        document.removeEventListener('dragstart', block, opts);
+        ['contextmenu', 'selectstart', 'dragstart'].forEach(event => {
+            document.removeEventListener(event, block, opts);
+            document.addEventListener(event, block, opts);
+        });
 
-        document.addEventListener('contextmenu', block, opts);
+        document.removeEventListener('keydown', handleKeyDown, opts);
         document.addEventListener('keydown', handleKeyDown, opts);
-        document.addEventListener('selectstart', block, opts);
-        document.addEventListener('dragstart', block, opts);
 
         document.documentElement.style.userSelect = 'none';
         document.documentElement.style.webkitUserSelect = 'none';
+        document.documentElement.style.mozUserSelect = 'none';
+        document.documentElement.style.msUserSelect = 'none';
 
         setTimeout(reinforceListeners, 4000);
     };
 
-    // Public API
     const init = () => {
         if (!isActive) return;
-        isActive = true;
-
-        reinforceListeners(); checkLoop(); detectByTiming();
+        
+        reinforceListeners();
+        checkLoop();
+        detectByTiming();
     };
 
     const stop = () => { isActive = false; };
@@ -222,75 +263,139 @@ const DevToolsProtection = (() => {
     return { init, stop };
 })();
 
-if (document.readyState === 'loading') { document.addEventListener('DOMContentLoaded', DevToolsProtection.init); }
-else { DevToolsProtection.init(); }
+// Initialize
+if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', DevToolsProtection.init);
+} else {
+    DevToolsProtection.init();
+}
 
+// SingleFile Protection
 (() => {
     'use strict';
 
-    const SINGLEFILE_DETECTION = () => {
-        if (document.getElementById('singlefile-stylesheet')) { return true; }
-        if (document.querySelector('meta[name="singlefile"]')) { return true; }
-        if (document.getElementById('singlefile-infobar-stylesheet')) { return true; }
-        if (document.documentElement && document.documentElement.innerHTML.includes('saved with SingleFile')) { return true; }
+    const MARKERS = [
+        'singlefile-stylesheet',
+        'singlefile-infobar-stylesheet',
+        'single-file-stylesheet',
+        'data-singlefile',
+        'saved with SingleFile',
+        'data-single-file'
+    ];
 
-        const sfRules = Array.from(document.styleSheets).some(ss => {
-            try {
-                return Array.from(ss.cssRules || []).some(rule => rule.cssText && rule.cssText.includes('singlefile'));
-            } catch (e) { return false; }
-        });
-        if (sfRules) return true;
+    const checkDOM = () => {
+        // Check for elements
+        for (const marker of MARKERS) {
+            if (document.getElementById(marker)) return true;
+            if (document.querySelector(`[id*="${marker}"]`)) return true;
+        }
 
-        let detected = false;
-        const observer = new MutationObserver(mutations => {
-            for (const m of mutations) {
-                for (const node of m.addedNodes) {
-                    if (node.nodeType === 1) {
-                        if (node.id?.includes('singlefile') || node.tagName === 'LINK' && node.getAttribute('rel') === 'stylesheet' && node.href?.includes('singlefile')) {
-                            detected = true; observer.disconnect(); nukePage();
+        // Check meta tags
+        if (document.querySelector('meta[name="singlefile"]')) return true;
+        if (document.querySelector('meta[content*="SingleFile"]')) return true;
+
+        // Check HTML content
+        const html = document.documentElement.innerHTML;
+        if (MARKERS.some(m => html.includes(m))) return true;
+
+        return false;
+    };
+
+    const checkStyleSheets = () => {
+        try {
+            for (const sheet of document.styleSheets) {
+                try {
+                    const rules = sheet.cssRules || sheet.rules;
+                    for (const rule of rules) {
+                        if (rule.cssText && rule.cssText.toLowerCase().includes('singlefile')) {
+                            return true;
                         }
                     }
+                } catch (e) {
+                    // Cross-origin stylesheet, skip
                 }
             }
-        });
-
-        observer.observe(document.documentElement, { childList: true, subtree: true });
-
-        const sweep = () => {
-            if (!detected && (
-                document.getElementById('singlefile-stylesheet') || document.querySelector('style[data-singlefile]')
-            )) { detected = true; nukePage(); }
-            if (!detected) setTimeout(sweep, 300);
-        };
-        sweep();
+        } catch (e) {
+            return false;
+        }
         return false;
     };
 
     const nukePage = () => {
         document.documentElement.innerHTML = `
             <style>
-                body,html{margin:0;height:100%;background:#000;color:#f00;display:grid;place-items:center;font:bold 9vw/1.2 system-ui}
-                div{transform:scale(1.1);animation:pulse 1.5s infinite}
-                @keyframes pulse{0%,100%{transform:scale(1.1)}50%{transform:scale(1.25)}}
+                * { margin:0; padding:0; }
+                body,html { height:100%; background:#000; color:#f00; display:grid; place-items:center; font:bold clamp(2rem,8vw,6rem)/1.2 system-ui; overflow:hidden; }
+                .warn { text-align:center; transform:scale(1); animation:pulse 1.2s ease-in-out infinite; text-shadow:0 0 20px #f00; }
+                @keyframes pulse { 0%,100% { transform:scale(1); opacity:1; } 50% { transform:scale(1.15); opacity:0.8; } }
             </style>
-            <body><div>ACCESS DENIED<br>Saving this page is prohibited.</div></body>
+            <body>
+                <div class="warn">⛔<br>ACCESS<br>DENIED</div>
+            </body>
         `;
 
-        window.location = 'about:blank';
-        document.write('');
-        window.top.location = 'about:blank';
-        setTimeout(() => { window.location.replace('about:blank'); }, 50);
+        setTimeout(() => {
+            try {
+                window.location.href = 'about:blank';
+                window.location.replace('about:blank');
+                if (window.top !== window.self) {
+                    window.top.location.href = 'about:blank';
+                }
+            } catch (e) {
+                document.write('');
+            }
+        }, 100);
     };
 
-    let attempts = 0;
-    const check = () => {
-        if (SINGLEFILE_DETECTION()) { nukePage(); return; }
-        if (++attempts < 90) setTimeout(check, 166);
+    let detected = false;
+    let checkAttempts = 0;
+    const maxChecks = 120;
+
+    const performCheck = () => {
+        if (detected) return;
+
+        if (checkDOM() || checkStyleSheets()) {
+            detected = true;
+            nukePage();
+            return;
+        }
+
+        if (++checkAttempts < maxChecks) { setTimeout(performCheck, 200);}
     };
-    check();
+
+    const observer = new MutationObserver(mutations => {
+        if (detected) return;
+
+        for (const mutation of mutations) {
+            for (const node of mutation.addedNodes) {
+                if (node.nodeType === Node.ELEMENT_NODE) {
+                    const id = node.id || '';
+                    const className = node.className || '';
+                    
+                    if (MARKERS.some(m => id.includes(m) || className.includes(m))) {
+                        detected = true;
+                        observer.disconnect();
+                        nukePage();
+                        return;
+                    }
+                }
+            }
+        }
+    });
+
+    observer.observe(document.documentElement, {
+        childList: true,
+        subtree: true,
+        attributes: true,
+        attributeFilter: ['id', 'class', 'data-singlefile']
+    });
 
     window.addEventListener('beforeunload', () => {
-        if (document.getElementById('singlefile-stylesheet')) { throw new Error('SingleFile blocked') }
-    })
+        if (checkDOM()) { nukePage(); throw new Error('SingleFile blocked'); }
+    }, { capture: true });
+
+    document.addEventListener('visibilitychange', () => {
+        if (!document.hidden && checkDOM()) { nukePage(); }
+    });
 })();
 ```

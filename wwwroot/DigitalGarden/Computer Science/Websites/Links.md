@@ -36,3 +36,4 @@
 - [Kroki!](https://kroki.io/)
 - [https://elgoog.im/](https://elgoog.im/)
 - [https://monodraw.helftone.com/](https://monodraw.helftone.com/)
+- [https://minify-js.com/](https://minify-js.com/)

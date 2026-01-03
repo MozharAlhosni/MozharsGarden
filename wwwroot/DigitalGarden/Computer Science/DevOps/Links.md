@@ -35,3 +35,4 @@
 - [https://www.meetecho.com/en/](https://www.meetecho.com/en/)
 - [https://octopus.com/](https://octopus.com/)
 - [https://en.wikipedia.org/wiki/Blue%E2%80%93green_deployment](https://en.wikipedia.org/wiki/Blue%E2%80%93green_deployment)
+- [https://github.com/nubskr/walrus](https://github.com/nubskr/walrus)

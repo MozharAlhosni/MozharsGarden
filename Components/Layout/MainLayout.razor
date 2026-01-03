@@ -4,14 +4,16 @@
 
 <MudLayout>
     <MudAppBar Elevation="1" Color="Color.Primary" Fixed="true">
+        <MudIconButton Icon=@Icons.Material.Filled.Menu Color=Color.Primary Edge=Edge.Start OnClick=DrawerToggle />
         <MudLink Typo="Typo.h6" Color="Color.Inherit" Href="/">Mozhar's Digital Garden</MudLink>
         <MudSpacer />
-        <MudIconButton Icon="@Icons.Material.Outlined.LightMode" Size="Size.Medium" Color="Color.Dark"
+        <MudIconButton Icon=@Icons.Material.Outlined.LightMode Size=Size.Medium Color=Color.Dark
             OnClick="ChangeThemeAsync">
         </MudIconButton>
     </MudAppBar>
 
-    <MudDrawer Open="true" Variant="DrawerVariant.Persistent" ClipMode="DrawerClipMode.Always" Elevation="2" Style="font-size:18px;min-width:200px">
+    <MudDrawer @bind-Open=_drawerOpen Variant=DrawerVariant.Persistent 
+               ClipMode="DrawerClipMode.Always" Elevation="2" Style="font-size:14px;">
         <NavMenu />
     </MudDrawer>
     <MudMainContent Class="main-content">
@@ -22,8 +24,8 @@
 </MudLayout>
 
 @code {
-    //private bool _drawerOpen = true;
-    //private void DrawerToggle() => _drawerOpen = !_drawerOpen;
+    private bool _drawerOpen = true;
+    private void DrawerToggle() => _drawerOpen = !_drawerOpen;
     public static bool IsDarkMode { get; private set; } = true;
     private void ChangeThemeAsync()
     {
@@ -34,44 +36,20 @@
     {
         PaletteLight = new PaletteLight
         {
-            // Brand / accents
-            Primary = "#2FBF8F",          // Brighter emerald, strong CTA
-            Secondary = "#5AD6A3",        // Fresh seafoam
-            Tertiary = "#8FE6C6",         // Soft mint highlight
-
-            // Surfaces
-            Background = "#040806",       // Near-black green
-            Surface = "#0F1F18",          // Clear elevation separation
-
-            // Text
-            TextPrimary = "#EAFBF4",      // Very high contrast, clean
-            TextSecondary = "#A7D8C2",    // Muted but readable
-
-            // App / navigation
-            AppbarBackground = "#0F1F18",
-            AppbarText = "#9AF0CB",
-            DrawerBackground = "#0C1A14",
+            Primary = "#2FBF8F", Secondary = "#5AD6A3",
+            Tertiary = "#8FE6C6", Background = "#040806",
+            Surface = "#0F1F18", TextPrimary = "#EAFBF4",
+            TextSecondary = "#A7D8C2", AppbarBackground = "#0F1F18",
+            AppbarText = "#9AF0CB", DrawerBackground = "#0C1A14",
             DrawerText = "#9AF0CB"
         },
         PaletteDark = new PaletteDark
         {
-            // Brand / accents
-            Primary = "#8B5CF6",          // Modern violet (Material 3–style)
-            Secondary = "#A78BFA",        // Softer lavender
-            Tertiary = "#C4B5FD",         // Accent highlight
-
-            // Surfaces
-            Background = "#0B0812",       // Deep violet-black
-            Surface = "#181326",          // Elevated surface
-
-            // Text
-            TextPrimary = "#F3EEFF",      // Crisp, readable
-            TextSecondary = "#C7BCE6",    // Muted lavender gray
-
-            // App / navigation
-            AppbarBackground = "#181326",
-            AppbarText = "#DAD1FF",
-            DrawerBackground = "#141022",
+            Primary = "#8B5CF6", Secondary = "#A78BFA",
+            Tertiary = "#C4B5FD", Background = "#0B0812",
+            Surface = "#181326", TextPrimary = "#F3EEFF",
+            TextSecondary = "#C7BCE6", AppbarBackground = "#181326",
+            AppbarText = "#DAD1FF", DrawerBackground = "#141022",
             DrawerText = "#DAD1FF"
         }
     };

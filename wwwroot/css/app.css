@@ -8,16 +8,18 @@ html, body { overflow-x: hidden; }
 
 .center-wrap {
   max-width: 900px !important;
-  width: calc(100% - 200px) !important; /* subtract drawer width */
+  width: calc(100% - 200px) !important; /* account for drawer width on desktop */
   margin-left: 200px !important;
   padding: 0 12px !important;
   box-sizing: border-box;
 }
 
+/* MOBILE: shrink content to fit viewport */
 @media (max-width: 768px) {
   .center-wrap {
-    width: calc(100% - 200px) !important;
-    margin-left: 200px !important;
+    width: 100% !important;    /* full width on mobile */
+    margin-left: 0 !important; /* ignore drawer margin */
+    padding: 0 12px !important;
   }
 }
 

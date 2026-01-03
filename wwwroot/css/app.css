@@ -1,3 +1,4 @@
+/* ===================== Base Layout ===================== */
 html, body { overflow-x: hidden; }
 
 .main-content {
@@ -8,17 +9,17 @@ html, body { overflow-x: hidden; }
 
 .center-wrap {
   max-width: 900px !important;
-  width: calc(100% - 200px) !important; /* account for drawer width on desktop */
+  width: calc(100% - 200px) !important; /* account for drawer width */
   margin-left: 200px !important;
   padding: 0 12px !important;
   box-sizing: border-box;
 }
 
-/* MOBILE: shrink content to fit viewport */
+/* MOBILE: fit content full width */
 @media (max-width: 768px) {
   .center-wrap {
-    width: 100% !important;    /* full width on mobile */
-    margin-left: 0 !important; /* ignore drawer margin */
+    width: 100% !important;
+    margin-left: 0 !important;
     padding: 0 12px !important;
   }
 }
@@ -34,7 +35,7 @@ html, body { overflow-x: hidden; }
   font-size: 16px;
 }
 
-/* Typography */
+/* ===================== Typography ===================== */
 .mud-markdown-body h1 { font-size: 2.2em; font-weight: 600; margin: 1.5em 0 0.8em; letter-spacing: -0.02em; color: var(--mud-palette-text-primary); }
 .mud-markdown-body h2 { font-size: 1.6em; font-weight: 600; margin: 1.8em 0 0.6em; color: var(--mud-palette-text-primary); }
 .mud-markdown-body h3 { font-size: 1.3em; font-weight: 500; margin: 1.5em 0 0.5em; color: var(--mud-palette-text-secondary); }
@@ -45,7 +46,9 @@ html, body { overflow-x: hidden; }
   font-family:'JetBrains Mono','Fira Code','Cascadia Code','Consolas',monospace;
   font-size:0.9em;
   background: color-mix(in srgb,var(--mud-palette-primary) 20%,transparent);
-  padding:2px 6px; border-radius:4px; border:1px solid color-mix(in srgb,var(--mud-palette-primary) 45%,transparent);
+  padding:2px 6px;
+  border-radius:4px;
+  border:1px solid color-mix(in srgb,var(--mud-palette-primary) 45%,transparent);
   color: var(--mud-palette-primary);
 }
 
@@ -54,7 +57,9 @@ html, body { overflow-x: hidden; }
   background: color-mix(in srgb,var(--mud-palette-surface) 92%,black) !important;
   border:1px solid color-mix(in srgb,var(--mud-palette-primary) 60%,transparent);
   border-radius:10px;
-  padding:16px; overflow-x:auto; margin:1.5em 0;
+  padding:16px;
+  overflow-x:auto;
+  margin:1.5em 0;
 }
 .mud-markdown-body pre code { background:none !important; padding:0; border:none; color:var(--mud-palette-secondary); }
 
@@ -68,8 +73,11 @@ html, body { overflow-x: hidden; }
 
 /* Blockquotes */
 .mud-markdown-body blockquote {
-  margin:1.5em 0; padding:0.8em 1.2em; border-left:3px solid var(--mud-palette-primary);
-  background: color-mix(in srgb,var(--mud-palette-primary) 8%,transparent); color: var(--mud-palette-text-secondary);
+  margin:1.5em 0;
+  padding:0.8em 1.2em;
+  border-left:3px solid var(--mud-palette-primary);
+  background: color-mix(in srgb,var(--mud-palette-primary) 8%,transparent);
+  color: var(--mud-palette-text-secondary);
 }
 
 /* Tables */
@@ -80,7 +88,12 @@ html, body { overflow-x: hidden; }
 /* Divider */
 .mud-markdown-body hr { all:unset; display:block; width:100%; height:1px; margin:2em 0; background-color:rgba(0,0,0,0.18) !important; }
 
-/* Drawer items */
+/* ===================== Drawer ===================== */
+.mud-drawer {
+  width: 200px;         /* fixed drawer width */
+  max-width: 80vw;      /* shrink on small screens if needed */
+}
+
 .mud-drawer .mud-list-item { align-items:flex-start; padding:10px 16px; margin:4px 8px; border-radius:6px; transition: background-color 0.15s; }
 .mud-drawer .mud-list-item:hover { background: color-mix(in srgb, black 4%, transparent); }
 .mud-drawer .mud-list-item-selected { background: color-mix(in srgb,var(--mud-palette-primary) 12%,transparent) !important; }
@@ -91,9 +104,16 @@ html, body { overflow-x: hidden; }
 ::-webkit-scrollbar-thumb { background:rgba(0,0,0,0.18); border-radius:4px; }
 ::-webkit-scrollbar-thumb:hover { background:rgba(0,0,0,0.26); }
 
-/* Header separators */
+/* ===================== Header separators ===================== */
 .mud-typography-h1, .mud-typography-h2 { border-bottom:none !important; position:relative; }
 .mud-typography-h1 { margin-bottom:1.8em; }
 .mud-typography-h1::after { content:""; display:block; width:100%; height:1px; margin-top:0.6em; background-color: rgba(128,128,128,0.5); }
 .mud-typography-h2 { margin-bottom:1.4em; }
 .mud-typography-h2::after { content:""; display:block; width:100%; height:1px; margin-top:0.5em; background-color: rgba(128,128,128,0.5); }
+
+/* ===================== Mobile typography ===================== */
+@media (max-width: 768px) {
+  .mud-markdown-body { font-size:15px; }
+  .mud-markdown-body h1 { font-size:1.8em; }
+  .mud-markdown-body h2 { font-size:1.4em; }
+}

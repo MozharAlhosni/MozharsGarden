@@ -22,3 +22,4 @@
 - [https://projectdiscovery.io/blog/how-to-research-web-vulnerabilities](https://projectdiscovery.io/blog/how-to-research-web-vulnerabilities)
 - [https://security.googleblog.com/2025/10/https-by-default.html](https://security.googleblog.com/2025/10/https-by-default.html)
 - [https://codebutler.com/2010/10/24/firesheep/](https://codebutler.com/2010/10/24/firesheep/)
+- [https://www.crawlspider.com/content-security/](https://www.crawlspider.com/content-security/)

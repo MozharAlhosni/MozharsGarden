@@ -10,3 +10,5 @@
 - [https://www.danbp.org/p/en](https://www.danbp.org/p/en)
 - [https://www.regular-expressions.info/tutorial.html](https://www.regular-expressions.info/tutorial.html)
 - [https://regex101.com/](https://regex101.com/)
+- [https://zellij.dev/](https://zellij.dev/)
+- [https://github.com/sourcegraph/zoekt](https://github.com/sourcegraph/zoekt)

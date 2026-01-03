@@ -1,19 +1,20 @@
 ﻿@inherits LayoutComponentBase
 
-<MudThemeProvider IsDarkMode="@IsDarkMode" Theme="@CustomTheme" />
+<MudThemeProvider IsDarkMode=@IsDarkMode Theme=@CustomTheme />
 
 <MudLayout>
-    <MudAppBar Elevation="1" Color="Color.Primary" Fixed="true">
-        <MudIconButton Icon=@Icons.Material.Filled.Menu Color=Color.Primary Edge=Edge.Start OnClick=DrawerToggle />
+    <MudAppBar Elevation=1 Color=Color.Primary Fixed=true>
+        <MudIconButton Icon=@Icons.Material.Filled.Menu Color=Color.Tertiary Edge=Edge.Start OnClick=DrawerToggle />
         <MudLink Typo="Typo.h6" Color="Color.Inherit" Href="/">Mozhar's Digital Garden</MudLink>
         <MudSpacer />
-        <MudIconButton Icon=@Icons.Material.Outlined.LightMode Size=Size.Medium Color=Color.Dark
-            OnClick="ChangeThemeAsync">
-        </MudIconButton>
+        <MudIconButton Icon=@Icons.Material.Outlined.LightMode 
+                       Size=Size.Medium Color=Color.Dark
+                       OnClick="ChangeThemeAsync" />
     </MudAppBar>
 
     <MudDrawer @bind-Open=_drawerOpen Variant=DrawerVariant.Persistent 
-               ClipMode="DrawerClipMode.Always" Elevation="2" Style="font-size:14px;">
+               ClipMode=DrawerClipMode.Always Elevation=2 
+               Style="font-size:14px;">
         <NavMenu />
     </MudDrawer>
     <MudMainContent Class="main-content">
@@ -27,11 +28,8 @@
     private bool _drawerOpen = true;
     private void DrawerToggle() => _drawerOpen = !_drawerOpen;
     public static bool IsDarkMode { get; private set; } = true;
-    private void ChangeThemeAsync()
-    {
-        IsDarkMode = !IsDarkMode ? true : false;
-    }
-
+    private void ChangeThemeAsync() => IsDarkMode = !IsDarkMode ? true : false;
+    
     private MudTheme CustomTheme = new MudTheme
     {
         PaletteLight = new PaletteLight

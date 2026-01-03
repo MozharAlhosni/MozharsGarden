@@ -1,7 +1,4 @@
-html,
-body {
-  overflow-x: hidden;
-}
+html, body { overflow-x: hidden; }
 
 .main-content {
   padding: 24px 12px !important;
@@ -14,7 +11,8 @@ body {
   width: 100% !important;
   padding: 0 12px !important;
   box-sizing: border-box;
-  margin-left: 64px !important;
+  margin: 0 auto !important;
+  margin-left: 90px !important;
 }
 
 .center-wrap .mud-markdown,
@@ -24,21 +22,108 @@ body {
   width: 100% !important;
   overflow-wrap: anywhere;
   padding-top: 40px;
+  line-height: 1.7;
+  font-size: 16px;
 }
 
+/* Typography hierarchy */
+.mud-markdown-body h1 { font-size: 2.2em; font-weight: 600; margin: 1.5em 0 0.8em; letter-spacing: -0.02em; color: var(--mud-palette-text-primary); }
+.mud-markdown-body h2 { font-size: 1.6em; font-weight: 600; margin: 1.8em 0 0.6em; color: var(--mud-palette-text-primary); }
+.mud-markdown-body h3 { font-size: 1.3em; font-weight: 500; margin: 1.5em 0 0.5em; color: var(--mud-palette-text-secondary); }
+.mud-markdown-body p { margin-bottom: 1.2em; color: var(--mud-palette-text-primary); }
+
+/* Inline code */
+.mud-markdown-body code {
+  font-family: 'JetBrains Mono','Fira Code','Cascadia Code','Consolas',monospace;
+  font-size: 0.9em;
+  background: color-mix(in srgb,var(--mud-palette-primary) 20%,transparent);
+  padding: 2px 6px;
+  border-radius: 4px;
+  border: 1px solid color-mix(in srgb,var(--mud-palette-primary) 45%,transparent);
+  color: var(--mud-palette-primary);
+}
+
+/* Code blocks */
+.mud-markdown-body pre {
+  background: color-mix(in srgb,var(--mud-palette-surface) 92%,black) !important;
+  border: 1px solid color-mix(in srgb,var(--mud-palette-primary) 60%,transparent);
+  border-radius: 10px;
+  padding: 16px;
+  overflow-x: auto;
+  margin: 1.5em 0;
+}
+.mud-markdown-body pre code { background: none !important; padding: 0; border: none; color: var(--mud-palette-secondary); }
+
+/* Links */
+.mud-markdown-body a {
+  color: var(--mud-palette-secondary);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-bottom-color 0.2s;
+}
+.mud-markdown-body a:hover { border-bottom-color: var(--mud-palette-secondary); }
+
+/* Lists */
+.mud-markdown-body ul, .mud-markdown-body ol { padding-left: 1.5em; margin: 1em 0; }
+.mud-markdown-body li { margin: 0.4em 0; }
+
+/* Blockquotes */
+.mud-markdown-body blockquote {
+  margin: 1.5em 0;
+  padding: 0.8em 1.2em;
+  border-left: 3px solid var(--mud-palette-primary);
+  background: color-mix(in srgb,var(--mud-palette-primary) 8%,transparent);
+  color: var(--mud-palette-text-secondary);
+}
+
+/* Tables */
+.mud-markdown-body table { width: 100%; border-collapse: collapse; margin: 1.5em 0; }
+.mud-markdown-body th, .mud-markdown-body td { padding: 8px 12px; text-align: left; border-bottom: 1px solid rgba(0,0,0,0.08); }
+.mud-markdown-body th { font-weight: 600; color: var(--mud-palette-text-primary); }
+
+/* Divider */
+.mud-markdown-body hr {
+  all: unset;
+  display: block;
+  width: 100%;
+  height: 1px;
+  margin: 2em 0;
+  background-color: rgba(0,0,0,0.18) !important;
+}
+
+/* Drawer */
 .mud-drawer .mud-list-item {
   align-items: flex-start;
+  padding: 10px 16px;
+  margin: 4px 8px;
+  border-radius: 6px;
+  transition: background-color 0.15s;
+}
+.mud-drawer .mud-list-item:hover { background: color-mix(in srgb, black 4%, transparent); }
+.mud-drawer .mud-list-item-selected { background: color-mix(in srgb,var(--mud-palette-primary) 12%,transparent) !important; }
+
+/* Scrollbar */
+::-webkit-scrollbar { width: 8px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: rgba(0,0,0,0.18); border-radius: 4px; }
+::-webkit-scrollbar-thumb:hover { background: rgba(0,0,0,0.26); }
+
+/* Mobile */
+@media (max-width: 768px) {
+  .center-wrap { margin: 0 !important; max-width: 100% !important; padding: 0 12px !important; }
+  .main-content { padding: 16px 8px !important; }
+  .mud-markdown-body { font-size: 15px; }
+  .mud-markdown-body h1 { font-size: 1.8em; }
+  .mud-markdown-body h2 { font-size: 1.4em; }
 }
 
-@media (max-width: 768px) {
-  .center-wrap {
-    margin-left: 0 !important;
-    margin-right: 0 !important;
-    max-width: 100% !important;
-    padding: 0 12px !important;
-  }
-
-  .main-content {
-    padding: 16px 8px !important;
-  }
+/* Header separators */
+.mud-typography-h1, .mud-typography-h2 { border-bottom: none !important; position: relative; }
+.mud-typography-h1 { margin-bottom: 1.8em; }
+.mud-typography-h1::after {
+  content:""; display:block; width:100%; height:1px; margin-top:0.6em; background-color: rgba(128,128,128,0.5);
+}
+.mud-typography-h2 { margin-bottom:1.4em; }
+.mud-typography-h2::after {
+  content:""; display:block; width:100%; height:1px; margin-top:0.5em; background-color: rgba(128,128,128,0.5);
 }

@@ -1,9 +1,9 @@
 ﻿@inject HttpClient HttpClient
 
-<MudNavMenu Bordered="true" Color="Color.Tertiary">
+<MudNavMenu Bordered="true" Color="Color.Success">
     @if (!_manifestLoaded)
     {
-        <MudText Style="cursor:not-allowed;pointer-events:none">Loading ...</MudText>
+        <MudNavLink Style="cursor:not-allowed;pointer-events:none">Loading ...</MudNavLink>
     }
     @if (_manifestLoaded) 
     {

@@ -37,3 +37,6 @@
 - [https://elgoog.im/](https://elgoog.im/)
 - [https://monodraw.helftone.com/](https://monodraw.helftone.com/)
 - [https://minify-js.com/](https://minify-js.com/)
+- [https://www.guidde.com/](https://www.guidde.com/)
+- [https://patorjk.com/](https://patorjk.com/)
+- [https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type+Something+&x=none&v=4&h=4&w=80&we=false](https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type+Something+&x=none&v=4&h=4&w=80&we=false)

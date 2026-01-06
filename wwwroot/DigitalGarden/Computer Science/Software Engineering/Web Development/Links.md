@@ -26,3 +26,5 @@
 - [https://github.com/domWalters/mkdocs-to-pdf](https://github.com/domWalters/mkdocs-to-pdf)
 - [https://github.com/ruby/webrick](https://github.com/ruby/webrick)
 - [https://readme.com/](https://readme.com/)
+- [https://docs.rs/minijinja/latest/minijinja/](https://docs.rs/minijinja/latest/minijinja/)
+- [https://www.meteor.com/](https://www.meteor.com/)

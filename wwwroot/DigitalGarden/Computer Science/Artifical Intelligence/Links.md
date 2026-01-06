@@ -36,3 +36,4 @@
 - [https://www.eweek.com/](https://www.eweek.com/)
 - [https://owaspai.org/](https://owaspai.org/)
 - [https://windsurf.com/](https://windsurf.com/)
+- [https://zapier.com/](https://zapier.com/)

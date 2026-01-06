@@ -25,3 +25,6 @@
 - [https://entropicthoughts.com/index](https://entropicthoughts.com/index)
 - [https://www.gitkraken.com/](https://www.gitkraken.com/)
 - [https://open-vsx.org/](https://open-vsx.org/)
+- [https://posthog.com/](https://posthog.com/)
+- [https://turfjs.org/](https://turfjs.org/)
+- [https://ably.com/](https://ably.com/)

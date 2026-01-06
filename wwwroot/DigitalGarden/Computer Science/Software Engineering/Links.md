@@ -23,3 +23,5 @@
 - [Platform for API Design, Development &amp; Documentation | Apiary](https://apiary.io/)
 - [EditorConfig](https://editorconfig.org/)
 - [https://entropicthoughts.com/index](https://entropicthoughts.com/index)
+- [https://www.gitkraken.com/](https://www.gitkraken.com/)
+- [https://open-vsx.org/](https://open-vsx.org/)

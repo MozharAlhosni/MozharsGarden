@@ -15,3 +15,7 @@
 - [45542.pdf](https://storage.googleapis.com/gweb-research2023-media/pubtools/pdf/45542.pdf)
 - [ConfuserEx 2](https://mkaring.github.io/ConfuserEx/)
 - [https://community.veeam.com/cyber-security-space-95/veeam-windows-hardening-script-one-click-hardening-with-cis-contents-9376](https://community.veeam.com/cyber-security-space-95/veeam-windows-hardening-script-one-click-hardening-with-cis-contents-9376)
+- [https://observe.jabber.network/](https://observe.jabber.network/)
+- [https://connect.xmpp.net/](https://connect.xmpp.net/)
+- [https://docs.ejabberd.im/admin/guide/security/](https://docs.ejabberd.im/admin/guide/security/)
+- [https://wiki.xmpp.org/web/Securing_XMPP](https://wiki.xmpp.org/web/Securing_XMPP)

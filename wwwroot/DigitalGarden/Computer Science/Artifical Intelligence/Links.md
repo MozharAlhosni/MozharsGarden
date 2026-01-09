@@ -37,3 +37,5 @@
 - [https://owaspai.org/](https://owaspai.org/)
 - [https://windsurf.com/](https://windsurf.com/)
 - [https://zapier.com/](https://zapier.com/)
+- [https://artificialanalysis.ai/](https://artificialanalysis.ai/)
+- [https://chat.z.ai/](https://chat.z.ai/)

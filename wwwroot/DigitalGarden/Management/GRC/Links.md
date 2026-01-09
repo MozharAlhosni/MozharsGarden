@@ -1,3 +1,8 @@
 # Links
 
 - [https://assets.publishing.service.gov.uk/media/6453acadc33b460012f5e6b8/HMT_Orange_Book_May_2023.pdf](https://assets.publishing.service.gov.uk/media/6453acadc33b460012f5e6b8/HMT_Orange_Book_May_2023.pdf)
+- [https://assets.publishing.service.gov.uk/media/610d3e70e90e0706c5282b5a/Risk_Management_Skills_and_Capabilities_Framework_Final.pdf](https://assets.publishing.service.gov.uk/media/610d3e70e90e0706c5282b5a/Risk_Management_Skills_and_Capabilities_Framework_Final.pdf)
+- [https://assets.publishing.service.gov.uk/media/611642cfe90e070541075731/Good_Practice_Guide_Risk_Reporting_Final.pdf](https://assets.publishing.service.gov.uk/media/611642cfe90e070541075731/Good_Practice_Guide_Risk_Reporting_Final.pdf)
+- [https://assets.publishing.service.gov.uk/media/6453b363c33b460012f5e6bf/Portfolio_Risk_Management_Guidance_Orange_Book_Annex.pdf](https://assets.publishing.service.gov.uk/media/6453b363c33b460012f5e6bf/Portfolio_Risk_Management_Guidance_Orange_Book_Annex.pdf)
+- [https://assets.publishing.service.gov.uk/media/610d3e70e90e0706c5282b5a/Risk_Management_Skills_and_Capabilities_Framework_Final.pdf](https://assets.publishing.service.gov.uk/media/610d3e70e90e0706c5282b5a/Risk_Management_Skills_and_Capabilities_Framework_Final.pdf)
+- [https://assets.publishing.service.gov.uk/media/61239758e90e0705481fc085/20210805_-_Risk_Appetite_Guidance_Note_v2.0.pdf](https://assets.publishing.service.gov.uk/media/61239758e90e0705481fc085/20210805_-_Risk_Appetite_Guidance_Note_v2.0.pdf)

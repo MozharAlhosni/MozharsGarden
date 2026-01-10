@@ -34,3 +34,4 @@
 - [https://www.featurebase.app/](https://www.featurebase.app/)
 - [https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Range_requests](https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Range_requests)
 - [https://hunter.io/](https://hunter.io/)
+- [https://www.theregister.com/2015/05/14/venom_analysis/](https://www.theregister.com/2015/05/14/venom_analysis/)

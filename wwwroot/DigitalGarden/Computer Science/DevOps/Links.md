@@ -36,3 +36,7 @@
 - [https://octopus.com/](https://octopus.com/)
 - [https://en.wikipedia.org/wiki/Blue%E2%80%93green_deployment](https://en.wikipedia.org/wiki/Blue%E2%80%93green_deployment)
 - [https://github.com/nubskr/walrus](https://github.com/nubskr/walrus)
+- [https://katacontainers.io/](https://katacontainers.io/)
+- [https://spinframework.dev/](https://spinframework.dev/)
+- [https://etcd.io/](https://etcd.io/)
+- [https://www.alibabacloud.com/blog/load-balancing-on-the-cloud-alb-nlb-and-clb_600076](https://www.alibabacloud.com/blog/load-balancing-on-the-cloud-alb-nlb-and-clb_600076)

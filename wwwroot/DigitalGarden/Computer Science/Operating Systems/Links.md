@@ -11,3 +11,4 @@
 - [sveinbjornt/Sloth: Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof.](https://github.com/sveinbjornt/Sloth)
 - [Royal Apps](https://royalapps.com/ts/mac/buy)
 - [https://github.com/ading2210/linuxpdf](https://github.com/ading2210/linuxpdf)
+- [https://en.wikipedia.org/wiki/DIMM](https://en.wikipedia.org/wiki/DIMM)

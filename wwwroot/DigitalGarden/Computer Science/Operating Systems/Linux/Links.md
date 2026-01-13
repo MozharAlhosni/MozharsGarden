@@ -19,3 +19,7 @@
 - [The Linux System Administrator's Guide](https://tldp.org/LDP/sag/sag.pdf)
 - [https://www.phoronix.com/news/Linux-RAID-MD-Folios](https://www.phoronix.com/news/Linux-RAID-MD-Folios)
 - [https://pipewire.org/](https://pipewire.org/)
+- [https://www.liquidweb.com/blog/install-docker-on-linux-almalinux/](https://www.liquidweb.com/blog/install-docker-on-linux-almalinux/)
+- [https://docs.docker.com/engine/install/rhel/](https://docs.docker.com/engine/install/rhel/)
+- [https://rubenerd.com/xfce-is-great/](https://rubenerd.com/xfce-is-great/)
+- [https://xfce.org/](https://xfce.org/)

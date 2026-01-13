@@ -39,3 +39,5 @@
 - [https://zapier.com/](https://zapier.com/)
 - [https://artificialanalysis.ai/](https://artificialanalysis.ai/)
 - [https://chat.z.ai/](https://chat.z.ai/)
+- [https://mimo.xiaomi.com/blog/mimo-v2-flash](https://mimo.xiaomi.com/blog/mimo-v2-flash)
+- [https://rnsaffn.com/poison3/](https://rnsaffn.com/poison3/)

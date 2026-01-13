@@ -7,3 +7,5 @@
 - [Home | Substack](https://substack.com/home/post/p-156004330)
 - [https://openai.com/index/introducing-aardvark/](https://openai.com/index/introducing-aardvark/)
 - [https://github.com/noperator/slice](https://github.com/noperator/slice)
+- [https://arxiv.org/abs/2512.09882](https://arxiv.org/abs/2512.09882)
+- [https://github.com/tailwindlabs/tailwindcss.com/pull/2388](https://github.com/tailwindlabs/tailwindcss.com/pull/2388)

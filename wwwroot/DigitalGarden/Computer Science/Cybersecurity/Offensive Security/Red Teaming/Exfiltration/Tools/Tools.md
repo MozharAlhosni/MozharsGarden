@@ -20,3 +20,5 @@
 - [https://browser.lol/](https://browser.lol/)
 - [https://www.prodefense.io/blog/hawks-prey-snatching-ssh-credentials](https://www.prodefense.io/blog/hawks-prey-snatching-ssh-credentials)
 - [https://github.com/AnvithLobo/EvilNFSClient](https://github.com/AnvithLobo/EvilNFSClient)
+- [https://github.com/x011/smtp-tunnel-proxy](https://github.com/x011/smtp-tunnel-proxy)
+- [https://freedns.afraid.org/](https://freedns.afraid.org/)

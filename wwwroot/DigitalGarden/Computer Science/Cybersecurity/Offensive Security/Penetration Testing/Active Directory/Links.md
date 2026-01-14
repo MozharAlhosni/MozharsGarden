@@ -31,3 +31,4 @@
 - [https://github.com/warpnet/COM-Fuzzer](https://github.com/warpnet/COM-Fuzzer)
 - [https://github.com/7hePr0fess0r/ADCSDevilCOM](https://github.com/7hePr0fess0r/ADCSDevilCOM)
 - [https://github.com/Skeletal-Group/Hermes](https://github.com/Skeletal-Group/Hermes)
+- [https://lolad-project.github.io/](https://lolad-project.github.io/)

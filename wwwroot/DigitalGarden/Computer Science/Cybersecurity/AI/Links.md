@@ -9,3 +9,4 @@
 - [https://github.com/noperator/slice](https://github.com/noperator/slice)
 - [https://arxiv.org/abs/2512.09882](https://arxiv.org/abs/2512.09882)
 - [https://github.com/tailwindlabs/tailwindcss.com/pull/2388](https://github.com/tailwindlabs/tailwindcss.com/pull/2388)
+- [https://github.com/0x4m4/hexstrike-ai/](https://github.com/0x4m4/hexstrike-ai/)

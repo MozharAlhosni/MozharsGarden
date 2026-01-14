@@ -12,3 +12,7 @@
 - [https://github.com/madhuakula/kubernetes-goat](https://github.com/madhuakula/kubernetes-goat)
 - [https://owasp.org/www-project-kubernetes-top-ten/](https://owasp.org/www-project-kubernetes-top-ten/)
 - [https://github.com/aquasecurity/kube-hunter](https://github.com/aquasecurity/kube-hunter)
+- [https://horizon3.ai/nodezero/kubernetes-pentesting/](https://horizon3.ai/nodezero/kubernetes-pentesting/)
+- [https://heilancoos.github.io/research/2025/12/16/kubernetes.html](https://heilancoos.github.io/research/2025/12/16/kubernetes.html)
+- [https://microsoft.github.io/Threat-Matrix-for-Kubernetes/](https://microsoft.github.io/Threat-Matrix-for-Kubernetes/)
+- [https://kubenomicon.com/Kubenomicon.html](https://kubenomicon.com/Kubenomicon.html)

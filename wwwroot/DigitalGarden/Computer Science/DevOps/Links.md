@@ -41,3 +41,7 @@
 - [https://etcd.io/](https://etcd.io/)
 - [https://www.alibabacloud.com/blog/load-balancing-on-the-cloud-alb-nlb-and-clb_600076](https://www.alibabacloud.com/blog/load-balancing-on-the-cloud-alb-nlb-and-clb_600076)
 - [https://blog.sixeyed.com/](https://blog.sixeyed.com/)
+- [https://tekton.dev/](https://tekton.dev/)
+- [https://circleci.com/](https://circleci.com/)
+- [https://codefresh.io/](https://codefresh.io/)
+- [https://octopus.com/](https://octopus.com/)

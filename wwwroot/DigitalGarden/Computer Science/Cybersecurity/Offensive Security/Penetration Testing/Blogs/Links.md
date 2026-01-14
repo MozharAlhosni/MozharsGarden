@@ -28,3 +28,4 @@
 - [https://alexschapiro.com/](https://alexschapiro.com/)
 - [https://dominicbreuker.com/](https://dominicbreuker.com/)
 - [https://vuln.dev/](https://vuln.dev/)
+- [https://log.rosecurify.com/](https://log.rosecurify.com/)

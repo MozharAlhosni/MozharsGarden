@@ -19,3 +19,4 @@
 - [https://connect.xmpp.net/](https://connect.xmpp.net/)
 - [https://docs.ejabberd.im/admin/guide/security/](https://docs.ejabberd.im/admin/guide/security/)
 - [https://wiki.xmpp.org/web/Securing_XMPP](https://wiki.xmpp.org/web/Securing_XMPP)
+- [https://github.com/hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists)

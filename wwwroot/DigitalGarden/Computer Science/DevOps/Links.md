@@ -45,3 +45,4 @@
 - [https://circleci.com/](https://circleci.com/)
 - [https://codefresh.io/](https://codefresh.io/)
 - [https://octopus.com/](https://octopus.com/)
+- [https://github.com/kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way)

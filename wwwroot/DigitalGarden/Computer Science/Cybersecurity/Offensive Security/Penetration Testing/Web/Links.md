@@ -8,3 +8,4 @@
 - [https://redsiege.com/blog/2025/11/bypass-mode-taking-down-ssl-pinning-in-web-apps/](https://redsiege.com/blog/2025/11/bypass-mode-taking-down-ssl-pinning-in-web-apps/)
 - [https://redsiege.com/blog/2025/11/content-security-policy-the-web-testers-headache/](https://redsiege.com/blog/2025/11/content-security-policy-the-web-testers-headache/)
 - [https://dominicbreuker.com/encoders/](https://dominicbreuker.com/encoders/)
+- [https://github.com/maycon/TRECO](https://github.com/maycon/TRECO)

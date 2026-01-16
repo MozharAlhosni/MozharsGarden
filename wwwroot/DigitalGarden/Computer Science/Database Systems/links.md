@@ -30,3 +30,4 @@
 - [https://www.mysql.com/why-mysql/white-papers/mysql-reference-architectures-for-security/](https://www.mysql.com/why-mysql/white-papers/mysql-reference-architectures-for-security/)
 - [https://www.min.io/](https://www.min.io/)
 - [https://docs.base14.io/blog/introducing-pgx/](https://docs.base14.io/blog/introducing-pgx/)
+- [https://github.com/launchbadge/sqlx](https://github.com/launchbadge/sqlx)

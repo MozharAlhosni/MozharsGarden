@@ -23,3 +23,4 @@
 - [https://security.googleblog.com/2025/10/https-by-default.html](https://security.googleblog.com/2025/10/https-by-default.html)
 - [https://codebutler.com/2010/10/24/firesheep/](https://codebutler.com/2010/10/24/firesheep/)
 - [https://www.crawlspider.com/content-security/](https://www.crawlspider.com/content-security/)
+- [https://disable-javascript.org/](https://disable-javascript.org/)

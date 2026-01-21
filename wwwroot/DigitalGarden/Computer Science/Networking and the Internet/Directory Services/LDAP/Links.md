@@ -7,3 +7,4 @@
 - [https://www.redbooks.ibm.com/redbooks/pdfs/sg244986.pdf](https://www.redbooks.ibm.com/redbooks/pdfs/sg244986.pdf)
 - [https://github.com/heimdal/heimdal](https://github.com/heimdal/heimdal)
 - [https://en.wikipedia.org/wiki/Apple_Open_Directory](https://en.wikipedia.org/wiki/Apple_Open_Directory)
+- [https://www.oracle.com/security/identity-management/directory-services/](https://www.oracle.com/security/identity-management/directory-services/)

@@ -6,7 +6,7 @@
 - [https://infra.spec.whatwg.org/#biblio-rfc2119](https://infra.spec.whatwg.org/#biblio-rfc2119)
 - [https://xhr.spec.whatwg.org/#biblio-infra](https://xhr.spec.whatwg.org/#biblio-infra)
 - [https://docs.particular.net/](https://docs.particular.net/)
-- [https://docs.particular.net/nservicebus/scaling?utm_source=manning.com&utm_medium=book](https://docs.particular.net/nservicebus/scaling?utm_source=manning.com&utm_medium=book)
+- [https://docs.particular.net/nservicebus/scaling](https://docs.particular.net/nservicebus/scaling)
 - [https://tambo.co](https://tambo.co)
 - [https://stackblitz.com](https://stackblitz.com)
 - [https://webcontainers.io](https://webcontainers.io)

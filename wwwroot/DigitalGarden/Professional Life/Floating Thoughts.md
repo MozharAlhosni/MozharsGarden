@@ -11,7 +11,10 @@
 - When working in enterprises/companies, the less speak, the better.
 - When working in enterprises/companies, it is less likely that one's superiors will be making  wrong decisions; however, always challenge.
 - When working in enterprises/companies, one always needs to confirm whether they can challenge the decisions of superiors.
-- When working in enterprises/companies, there is no such thing as "goof-up".
+- When working in enterprises/companies, there is no such thing as "goof-up" from the higher-ups.
+- When working in enterprises/companies, experience is never an indicator of anything.
+- When working in enterprises/companies, experience without self-studying will never cut it.
+- When working in enterprises/companies, self-studying without experience will never cut it.
 - When working in enterprises/companies, always assess decisions from 1000 different angles.
 - When working in enterprises/companies, there is always a hidden cause for decisions taken, however, they are always kept secret.
 - When working in enterprises/companies, never let anything dwell, always keep it moving off your responsibility/mailbox (especially GRC).

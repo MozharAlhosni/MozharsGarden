@@ -11,3 +11,5 @@
 - [https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html](https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html)
 - [https://www.therubiconadvisorygroup.com/wp-content/uploads/2025/01/Foundational-Enterprise-Security-Architecture-Framework.pdf](https://www.therubiconadvisorygroup.com/wp-content/uploads/2025/01/Foundational-Enterprise-Security-Architecture-Framework.pdf)
 - [https://cloudsecurityalliance.org/artifacts/enterprise-architecture-reference-guide-v2](https://cloudsecurityalliance.org/artifacts/enterprise-architecture-reference-guide-v2)
+- [https://best.openssf.org/](https://best.openssf.org/)
+- [https://csrc.nist.gov/publications/sp800](https://csrc.nist.gov/publications/sp800)

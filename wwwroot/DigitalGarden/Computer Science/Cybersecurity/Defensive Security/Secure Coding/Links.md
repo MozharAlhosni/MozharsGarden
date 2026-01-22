@@ -18,3 +18,5 @@
 - [https://commoncriteriaportal.org/files/ccfiles/CC2022PART1R1.pdf](https://commoncriteriaportal.org/files/ccfiles/CC2022PART1R1.pdf)
 - [LINCE Certification | SGS](https://www.sgs.com/en/services/lince-certification)
 - [https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-218.pdf](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-218.pdf)
+- [https://jscrambler.com/blog/javascript-obfuscation-the-definitive-guide](https://jscrambler.com/blog/javascript-obfuscation-the-definitive-guide)
+- [https://scan.coverity.com/](https://scan.coverity.com/)

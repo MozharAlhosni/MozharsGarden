@@ -17,3 +17,5 @@
 - [C# Corner: AI-Powered Upskilling and Growth Platform for Software Developers](https://www.c-sharpcorner.com/)
 - [JasperFx/wolverine: Supercharged .NET server side development!](https://github.com/JasperFx/wolverine)
 - [https://rescript-lang.org/](https://rescript-lang.org/)
+- [https://nataliiadziubenko.com/2024/10/13/Java-integer-caching-how-and-why.html](https://nataliiadziubenko.com/2024/10/13/Java-integer-caching-how-and-why.html)
+- [https://medium.com/javaguides/interviewer-asked-me-why-is-1-1-true-but-1000-1000-false-in-java-af810be7fdbf](https://medium.com/javaguides/interviewer-asked-me-why-is-1-1-true-but-1000-1000-false-in-java-af810be7fdbf)

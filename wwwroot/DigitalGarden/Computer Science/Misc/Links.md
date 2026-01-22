@@ -12,3 +12,6 @@
 - [https://regex101.com/](https://regex101.com/)
 - [https://zellij.dev/](https://zellij.dev/)
 - [https://github.com/sourcegraph/zoekt](https://github.com/sourcegraph/zoekt)
+- [https://www.dynatrace.com/](https://www.dynatrace.com/)
+- [https://opensearch.org/](https://opensearch.org/)
+- [https://www.netdata.cloud/](https://www.netdata.cloud/)

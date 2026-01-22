@@ -30,3 +30,4 @@
 - [https://ably.com/](https://ably.com/)
 - [https://mitchellh.com/](https://mitchellh.com/)
 - [https://trynova.dev/blog/garbage-collection-is-contrarian](https://trynova.dev/blog/garbage-collection-is-contrarian)
+- [https://c4model.com/](https://c4model.com/)

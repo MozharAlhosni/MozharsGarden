@@ -36,3 +36,4 @@
 - [https://www.100daysofredteam.com/](https://www.100daysofredteam.com/)
 - [https://www.noip.com/](https://www.noip.com/)
 - [https://github.com/AdrMXR/KitHack](https://github.com/AdrMXR/KitHack)
+- [https://github.com/skerkour/black-hat-rust/](https://github.com/skerkour/black-hat-rust/)

@@ -46,3 +46,7 @@
 - [https://codefresh.io/](https://codefresh.io/)
 - [https://octopus.com/](https://octopus.com/)
 - [https://github.com/kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
+- [https://spacelift.io/blog/github-actions-alternatives](https://spacelift.io/blog/github-actions-alternatives)
+- [https://northflank.com/](https://northflank.com/)
+- [https://octopus.com/](https://octopus.com/)
+- [https://github.com/nektos/act](https://github.com/nektos/act)

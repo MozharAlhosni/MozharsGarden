@@ -54,3 +54,4 @@
 - [https://secureframe.com/blog/iso-27001-information-security-policy](https://secureframe.com/blog/iso-27001-information-security-policy)
 - [https://en.wikipedia.org/wiki/BadBIOS](https://en.wikipedia.org/wiki/BadBIOS)
 - [https://www.sans.org/white-papers](https://www.sans.org/white-papers)
+- [https://cloudsecurityalliance.org/research/topics](https://cloudsecurityalliance.org/research/topics)

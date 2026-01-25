@@ -15,3 +15,4 @@
 - [https://intelligence.dlapiper.com/about.html](https://intelligence.dlapiper.com/about.html)
 - [https://app.skyfi.com/analytics/annotated-naval-dataset](https://app.skyfi.com/analytics/annotated-naval-dataset)
 - [http://www.navweaps.com/](http://www.navweaps.com/)
+- [https://www.europarl.europa.eu/cmsdata/179163/20090225ATT50418EN.pdf](https://www.europarl.europa.eu/cmsdata/179163/20090225ATT50418EN.pdf)

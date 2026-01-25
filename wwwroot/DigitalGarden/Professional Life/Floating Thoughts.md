@@ -1,5 +1,7 @@
 # Floating Thoughts
 
+- When working in enterprises, creating a cause for work is what differentiates between high-performing employees and others.
+- When working in enterprises, proactively predicting work that will be required one or two months—or more—in advance is paramount.
 - When working in enterprises/companies, one always needs to pretends that they know everything in their fields, regardless of whether that is true or not.
 - When working in enterprises/companies, one always needs to pretends that they know everything in their fields, until they actually know everything in their fields.
 - When working in enterprises/companies, work is work: it must be done without any "but".

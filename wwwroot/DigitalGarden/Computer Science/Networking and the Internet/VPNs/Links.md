@@ -22,3 +22,7 @@
 - [https://github.com/vincentclee/glype](https://github.com/vincentclee/glype)
 - [https://github.com/Athlon1600/php-proxy-app](https://github.com/Athlon1600/php-proxy-app)
 - [https://www.php-proxy.com/](https://www.php-proxy.com/)
+- [https://github.com/angristan/openvpn-install](https://github.com/angristan/openvpn-install)
+- [https://github.com/angristan/wireguard-install](https://github.com/angristan/wireguard-install)
+- [https://github.com/firezone/firezone](https://github.com/firezone/firezone)
+- [https://github.com/jedisct1/dsvpn](https://github.com/jedisct1/dsvpn)

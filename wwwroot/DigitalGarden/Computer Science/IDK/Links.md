@@ -45,3 +45,8 @@
 - [https://www.reqview.com/](https://www.reqview.com/)
 - [https://leak-check.net/](https://leak-check.net/)
 - [https://hashnode.com/](https://hashnode.com/)
+- [https://github.com/GameServerManagers/LinuxGSM](https://github.com/GameServerManagers/LinuxGSM)
+- [https://github.com/umputun/remark42](https://github.com/umputun/remark42)
+- [https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation)
+- [https://github.com/Trusted-AI/adversarial-robustness-toolbox](https://github.com/Trusted-AI/adversarial-robustness-toolbox)
+- [https://github.com/lesspass/lesspass](https://github.com/lesspass/lesspass)

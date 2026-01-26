@@ -10,3 +10,4 @@
 - [GitHub - nickbabcock/dness: A dynamic dns client](https://github.com/nickbabcock/dness)
 - [OJ/gobuster: Directory/File, DNS and VHost busting tool written in Go](https://github.com/OJ/gobuster)
 - [GitHub - coredns/coredns: CoreDNS is a DNS server that chains plugins](https://github.com/coredns/coredns)
+- [https://technitium.com/dns/](https://technitium.com/dns/)

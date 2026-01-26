@@ -22,3 +22,4 @@
 - [https://github.com/AnvithLobo/EvilNFSClient](https://github.com/AnvithLobo/EvilNFSClient)
 - [https://github.com/x011/smtp-tunnel-proxy](https://github.com/x011/smtp-tunnel-proxy)
 - [https://freedns.afraid.org/](https://freedns.afraid.org/)
+- [https://technitium.com/dns/](https://technitium.com/dns/)

@@ -50,3 +50,4 @@
 - [https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation)
 - [https://github.com/Trusted-AI/adversarial-robustness-toolbox](https://github.com/Trusted-AI/adversarial-robustness-toolbox)
 - [https://github.com/lesspass/lesspass](https://github.com/lesspass/lesspass)
+- [https://github.com/anyproto/anytype-ts](https://github.com/anyproto/anytype-ts)

@@ -66,3 +66,4 @@
 - [internet-albedo.net](https://internet-albedo.net/)
 - [Documentation | CrowdSec](https://docs.crowdsec.net/)
 - [https://www.cisecurity.org/cybersecurity-threats](https://www.cisecurity.org/cybersecurity-threats)
+- [https://www.splunk.com/en_us/pdfs/gated/ebooks/top-50-cybersecurity-threats.pdf](https://www.splunk.com/en_us/pdfs/gated/ebooks/top-50-cybersecurity-threats.pdf)

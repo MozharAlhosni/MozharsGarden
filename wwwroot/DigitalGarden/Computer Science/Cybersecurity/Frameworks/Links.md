@@ -13,3 +13,4 @@
 - [https://cloudsecurityalliance.org/artifacts/enterprise-architecture-reference-guide-v2](https://cloudsecurityalliance.org/artifacts/enterprise-architecture-reference-guide-v2)
 - [https://best.openssf.org/](https://best.openssf.org/)
 - [https://csrc.nist.gov/publications/sp800](https://csrc.nist.gov/publications/sp800)
+- [https://www.splunk.com/en_us/pdfs/gated/ebooks/top-50-cybersecurity-threats.pdf](https://www.splunk.com/en_us/pdfs/gated/ebooks/top-50-cybersecurity-threats.pdf)

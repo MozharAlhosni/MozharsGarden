@@ -1,5 +1,11 @@
 # Links
 
+## Strategic
+
+- [https://www.enisa.europa.eu/publications/enisa-threat-landscape-2025](https://www.enisa.europa.eu/publications/enisa-threat-landscape-2025)
+
+## Tactical and Operational
+
 - [https://oasis-open.github.io/cti-documentation/](https://oasis-open.github.io/cti-documentation/)
 - [https://stack.watch/](https://stack.watch/)
 - [https://www.cisa.gov/known-exploited-vulnerabilities-catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)

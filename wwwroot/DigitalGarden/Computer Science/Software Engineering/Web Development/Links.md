@@ -29,3 +29,4 @@
 - [https://docs.rs/minijinja/latest/minijinja/](https://docs.rs/minijinja/latest/minijinja/)
 - [https://www.meteor.com/](https://www.meteor.com/)
 - [https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API)
+- [https://www.bbcode.org/](https://www.bbcode.org/)

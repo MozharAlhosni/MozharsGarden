@@ -23,3 +23,5 @@
 - [https://github.com/hotnops/apeman](https://github.com/hotnops/apeman)
 - [https://dirkjanm.io/](https://dirkjanm.io/)
 - [https://github.com/ine-labs/AWSGoat](https://github.com/ine-labs/AWSGoat)
+- [https://pathfinding.cloud/](https://pathfinding.cloud/)
+- [https://stratus-red-team.cloud/](https://stratus-red-team.cloud/)

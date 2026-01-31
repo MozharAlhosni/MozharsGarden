@@ -9,3 +9,4 @@
 - [https://redsiege.com/blog/2025/11/content-security-policy-the-web-testers-headache/](https://redsiege.com/blog/2025/11/content-security-policy-the-web-testers-headache/)
 - [https://dominicbreuker.com/encoders/](https://dominicbreuker.com/encoders/)
 - [https://github.com/maycon/TRECO](https://github.com/maycon/TRECO)
+- [https://www.invicti.com/learn/json-injection](https://www.invicti.com/learn/json-injection)

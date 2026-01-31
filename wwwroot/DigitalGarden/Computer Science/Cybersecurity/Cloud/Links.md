@@ -7,3 +7,5 @@
 - [https://education.oracle.com/oracle-cloud-infrastructure-2025-security-professional/pexam_1Z0-1104-25](https://education.oracle.com/oracle-cloud-infrastructure-2025-security-professional/pexam_1Z0-1104-25)
 - [https://docs.limacharlie.io/](https://docs.limacharlie.io/)
 - [https://github.com/prowler-cloud/prowler](https://github.com/prowler-cloud/prowler)
+- [https://cloudsecurityalliance.org/research/topics/top-threats](https://cloudsecurityalliance.org/research/topics/top-threats)
+- [https://cloudsecurityalliance.org/artifacts/top-threats-to-cloud-computing-2025](https://cloudsecurityalliance.org/artifacts/top-threats-to-cloud-computing-2025)

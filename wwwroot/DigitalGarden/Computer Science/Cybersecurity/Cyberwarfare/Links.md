@@ -10,3 +10,4 @@
 - [https://www.ic3.gov/CSA/2022/220418.pdf](https://www.ic3.gov/CSA/2022/220418.pdf)
 - [https://www.ic3.gov/PSA/2025/PSA250226](https://www.ic3.gov/PSA/2025/PSA250226)
 - [https://www.ic3.gov/](https://www.ic3.gov/)
+- [https://commission.europa.eu/document/download/1fedf472-1554-416e-8351-1346f80a4ff8_en?filename=communication-eu-china-a-strategic-outlook.pdf](https://commission.europa.eu/document/download/1fedf472-1554-416e-8351-1346f80a4ff8_en?filename=communication-eu-china-a-strategic-outlook.pdf)

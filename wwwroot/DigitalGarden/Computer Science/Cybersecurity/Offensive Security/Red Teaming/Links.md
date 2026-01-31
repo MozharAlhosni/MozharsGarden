@@ -38,3 +38,4 @@
 - [https://github.com/AdrMXR/KitHack](https://github.com/AdrMXR/KitHack)
 - [https://github.com/skerkour/black-hat-rust/](https://github.com/skerkour/black-hat-rust/)
 - [https://devco.re/blog/](https://devco.re/blog/)
+- [https://github.com/DataDog/stratus-red-team](https://github.com/DataDog/stratus-red-team)

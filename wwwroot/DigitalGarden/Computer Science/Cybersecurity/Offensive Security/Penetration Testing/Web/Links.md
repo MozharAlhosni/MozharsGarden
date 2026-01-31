@@ -10,3 +10,4 @@
 - [https://dominicbreuker.com/encoders/](https://dominicbreuker.com/encoders/)
 - [https://github.com/maycon/TRECO](https://github.com/maycon/TRECO)
 - [https://www.invicti.com/learn/json-injection](https://www.invicti.com/learn/json-injection)
+- [https://bishopfox.com/blog/json-interoperability-vulnerabilities](https://bishopfox.com/blog/json-interoperability-vulnerabilities)

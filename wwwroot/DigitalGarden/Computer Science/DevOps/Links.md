@@ -50,3 +50,6 @@
 - [https://northflank.com/](https://northflank.com/)
 - [https://octopus.com/](https://octopus.com/)
 - [https://github.com/nektos/act](https://github.com/nektos/act)
+- [https://cartography.dev/](https://cartography.dev/)
+- [https://github.com/cartography-cncf/cartography](https://github.com/cartography-cncf/cartography)
+- [https://github.com/allinurl/goaccess](https://github.com/allinurl/goaccess)

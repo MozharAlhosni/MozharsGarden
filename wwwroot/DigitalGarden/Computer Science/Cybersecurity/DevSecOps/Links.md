@@ -8,3 +8,5 @@
 - [https://testkube.io/](https://testkube.io/)
 - [https://zerotohero.dev/archive/](https://zerotohero.dev/archive/)
 - [https://gvisor.dev/](https://gvisor.dev/)
+- [https://github.com/tillson/git-hound](https://github.com/tillson/git-hound)
+- [https://github.com/TryCatchHCF/DumpsterFire](https://github.com/TryCatchHCF/DumpsterFire)

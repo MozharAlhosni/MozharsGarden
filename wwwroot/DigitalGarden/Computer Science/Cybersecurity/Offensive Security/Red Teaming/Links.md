@@ -39,3 +39,7 @@
 - [https://github.com/skerkour/black-hat-rust/](https://github.com/skerkour/black-hat-rust/)
 - [https://devco.re/blog/](https://devco.re/blog/)
 - [https://github.com/DataDog/stratus-red-team](https://github.com/DataDog/stratus-red-team)
+- [https://docs.octopwn.com/](https://docs.octopwn.com/)
+- [https://github.com/Binject/universal](https://github.com/Binject/universal)
+- [https://github.com/qsecure-labs/overlord](https://github.com/qsecure-labs/overlord)
+- [https://github.com/microsoft/windows-rs](https://github.com/microsoft/windows-rs)

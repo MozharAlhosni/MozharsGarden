@@ -52,3 +52,4 @@
 - [https://github.com/lesspass/lesspass](https://github.com/lesspass/lesspass)
 - [https://github.com/anyproto/anytype-ts](https://github.com/anyproto/anytype-ts)
 - [https://github.com/kangtastic/timestation](https://github.com/kangtastic/timestation)
+- [https://www.validity.com/briteverify/](https://www.validity.com/briteverify/)

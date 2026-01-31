@@ -61,3 +61,4 @@
 - [https://github.com/trustedsec/COFFLoader](https://github.com/trustedsec/COFFLoader)
 - [https://rnsaffn.com/poison3/](https://rnsaffn.com/poison3/)
 - [https://log.rosecurify.com/](https://log.rosecurify.com/)
+- [https://frida.re/](https://frida.re/)

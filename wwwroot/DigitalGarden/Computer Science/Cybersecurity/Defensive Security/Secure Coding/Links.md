@@ -21,3 +21,4 @@
 - [https://jscrambler.com/blog/javascript-obfuscation-the-definitive-guide](https://jscrambler.com/blog/javascript-obfuscation-the-definitive-guide)
 - [https://scan.coverity.com/](https://scan.coverity.com/)
 - [https://learn.microsoft.com/en-us/windows/win32/api/processenv/nf-processenv-getcommandlinea#security-remarks](https://learn.microsoft.com/en-us/windows/win32/api/processenv/nf-processenv-getcommandlinea#security-remarks)
+- [https://pkg.go.dev/cmd/cgo](https://pkg.go.dev/cmd/cgo)

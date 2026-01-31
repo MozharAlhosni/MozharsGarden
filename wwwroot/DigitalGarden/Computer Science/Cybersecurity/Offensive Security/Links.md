@@ -62,3 +62,4 @@
 - [https://rnsaffn.com/poison3/](https://rnsaffn.com/poison3/)
 - [https://log.rosecurify.com/](https://log.rosecurify.com/)
 - [https://frida.re/](https://frida.re/)
+- [https://www.invicti.com/learn-categories/vulnerabilities](https://www.invicti.com/learn-categories/vulnerabilities)

@@ -17,3 +17,5 @@
 - [https://microsoft.github.io/Threat-Matrix-for-Kubernetes/](https://microsoft.github.io/Threat-Matrix-for-Kubernetes/)
 - [https://kubenomicon.com/Kubenomicon.html](https://kubenomicon.com/Kubenomicon.html)
 - [https://cloudsecwiki.com/kubernetes.html](https://cloudsecwiki.com/kubernetes.html)
+- [https://github.com/latacora/replik8s](https://github.com/latacora/replik8s)
+- [https://infosec.rodeo/](https://infosec.rodeo/)

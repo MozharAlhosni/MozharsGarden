@@ -63,3 +63,5 @@
 - [https://log.rosecurify.com/](https://log.rosecurify.com/)
 - [https://frida.re/](https://frida.re/)
 - [https://www.invicti.com/learn-categories/vulnerabilities](https://www.invicti.com/learn-categories/vulnerabilities)
+- [https://gracker.ai/cybersecurity-tools/category/network-cloud/cloud-security](https://gracker.ai/cybersecurity-tools/category/network-cloud/cloud-security)
+- [https://cybersectools.com/](https://cybersectools.com/)

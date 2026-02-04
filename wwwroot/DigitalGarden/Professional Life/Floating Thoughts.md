@@ -2,8 +2,11 @@
 
 - When working in enterprises, creating a cause for work is what differentiates between high-performing employees and others.
 - When working in enterprises, proactively predicting work that will be required one or two months—or more—in advance is paramount.
-- When working in enterprises/companies, one always needs to pretends that they know everything in their fields, regardless of whether that is true or not.
-- When working in enterprises/companies, one always needs to pretends that they know everything in their fields, until they actually know everything in their fields.
+- When working in enterprises/companies, one always needs to avoid pathways leading to conflicts.
+- When working in enterprises/companies, one always needs to accept unpleasant happenings.
+- When working in enterprises/companies, one always needs to try turning negative opportunities to positive ones.
+- When working in enterprises/companies, one always needs to pretend that they know everything in their fields, regardless of whether that is true or not.
+- When working in enterprises/companies, one always needs to pretend that they know everything in their fields, until they actually know everything in their fields.
 - When working in enterprises/companies, work is work: it must be done without any "but".
 - When working in enterprises/companies, Achieving objectives against targets (work tasks) is a primary priority. 
 - When working in enterprises/companies, situational awareness and political understanding of the situation is of utmost importance.

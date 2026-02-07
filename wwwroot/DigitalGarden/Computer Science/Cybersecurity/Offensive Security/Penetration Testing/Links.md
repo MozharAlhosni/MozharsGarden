@@ -14,3 +14,5 @@
 - [https://labs.watchtowr.com/soapwn-pwning-net-framework-applications-through-http-client-proxies-and-wsdl/](https://labs.watchtowr.com/soapwn-pwning-net-framework-applications-through-http-client-proxies-and-wsdl/)
 - [https://www.outflank.nl/blog/2025/12/09/seccomp-notify-injection/](https://www.outflank.nl/blog/2025/12/09/seccomp-notify-injection/)
 - [https://www.errno.fr/Bitlocker_TPM_and_PIN_privesc](https://www.errno.fr/Bitlocker_TPM_and_PIN_privesc)
+- [https://github.com/OWASP/crAPI](https://github.com/OWASP/crAPI)
+- [https://github.com/roottusk/vapi](https://github.com/roottusk/vapi)

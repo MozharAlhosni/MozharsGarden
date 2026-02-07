@@ -53,3 +53,6 @@
 - [https://github.com/anyproto/anytype-ts](https://github.com/anyproto/anytype-ts)
 - [https://github.com/kangtastic/timestation](https://github.com/kangtastic/timestation)
 - [https://www.validity.com/briteverify/](https://www.validity.com/briteverify/)
+- [https://osquery.io/](https://osquery.io/)
+- [https://osctrl.net/](https://osctrl.net/)
+- [https://github.com/jmpsec/osctrl](https://github.com/jmpsec/osctrl)

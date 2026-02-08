@@ -1,7 +1,7 @@
 @using System.Text.RegularExpressions
 
 <MudNavGroup 
-    Title=@NestedMarkdownPosts.Key
+    Title=@NestedMarkdownPosts.Key.Replace("_", " ")
     Expanded="false"
     Icon="folder"
     Style=@GetCategoryMenuItemStyle()>

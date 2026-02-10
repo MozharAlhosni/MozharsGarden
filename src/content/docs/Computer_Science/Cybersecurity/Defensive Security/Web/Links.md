@@ -1,0 +1,23 @@
+---
+title: Links
+---
+
+# Links
+
+- [https://chromium.googlesource.com/chromium/src/+/lkgr/services/network/cross_origin_read_blocking_explainer.md](https://chromium.googlesource.com/chromium/src/+/lkgr/services/network/cross_origin_read_blocking_explainer.md)
+- [https://www.chromium.org/Home/chromium-security/corb-for-developers/](https://www.chromium.org/Home/chromium-security/corb-for-developers/)
+- [https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers/Cross-Origin-Opener-Policy](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers/Cross-Origin-Opener-Policy)
+- [https://andrewlock.net/understanding-security-headers-part-1-cross-origin-opener-policy-preventing-attacks-from-popups/](https://andrewlock.net/understanding-security-headers-part-1-cross-origin-opener-policy-preventing-attacks-from-popups/)
+- [https://docs.google.com/document/d/1zDlfvfTJ_9e8Jdc8ehuV4zMEu9ySMCiTGMS9y0GU92k/edit?tab=t.0](https://docs.google.com/document/d/1zDlfvfTJ_9e8Jdc8ehuV4zMEu9ySMCiTGMS9y0GU92k/edit?tab=t.0)
+- [https://http.dev/cross-origin-opener-policy](https://http.dev/cross-origin-opener-policy)
+- [https://web.dev/articles/why-coop-coep](https://web.dev/articles/why-coop-coep)
+- [https://modheader.com/usecases/headers/cross-origin-opener-policy](https://modheader.com/usecases/headers/cross-origin-opener-policy)
+- [https://caniuse.com/?search=Cross-Origin-Opener-Policy](https://caniuse.com/?search=Cross-Origin-Opener-Policy)
+- [https://developer.mozilla.org/en-US/docs/Web/API/Window/postMessage](https://developer.mozilla.org/en-US/docs/Web/API/Window/postMessage)
+- [https://medium.com/somos-pragma/an-alternative-for-sending-data-to-another-place-or-to-localstorage-postmessage-dc7e72e7ea11](https://medium.com/somos-pragma/an-alternative-for-sending-data-to-another-place-or-to-localstorage-postmessage-dc7e72e7ea11)
+- [https://www.sidechannel.blog/en/xssi-an-overview-of-the-vulnerability-in-2024/](https://www.sidechannel.blog/en/xssi-an-overview-of-the-vulnerability-in-2024/)
+- [https://www.mbsd.jp/Whitepaper/xssi.pdf](https://www.mbsd.jp/Whitepaper/xssi.pdf)
+- [https://developer.mozilla.org/en-US/docs/Web/Security/Defenses/Subresource_Integrity](https://developer.mozilla.org/en-US/docs/Web/Security/Defenses/Subresource_Integrity)
+- [https://www.w3.org/TR/sri-2/](https://www.w3.org/TR/sri-2/)
+- [https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers/Set-Cookie#cookie_prefixes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers/Set-Cookie#cookie_prefixes)
+- [https://docs.oracle.com/cd/E19146-01/821-1833/6nmpqok37/index.html](https://docs.oracle.com/cd/E19146-01/821-1833/6nmpqok37/index.html)

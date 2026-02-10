@@ -1,0 +1,27 @@
+---
+title: Links
+---
+
+# Links
+
+- [https://www.rexify.org/](https://www.rexify.org/)
+- [https://docs.gtk.org/](https://docs.gtk.org/)
+- [https://blog.baro.dev/](https://blog.baro.dev/)
+- [https://testing.googleblog.com](https://testing.googleblog.com)
+- [https://codeproject.com/articles/Codeplusreviewplusguidelines](https://codeproject.com/articles/Codeplusreviewplusguidelines)
+- [https://red-gate.com/simple-talk/articles](https://red-gate.com/simple-talk/articles)
+- [https://qlty.sh](https://qlty.sh)
+- [https://docs.guzzlephp.org](https://docs.guzzlephp.org)
+- [https://medium.com/tuanhdotnet/integer-caching-in-java-how-it-works-and-why-it-matters-cd6f09c53728](https://medium.com/tuanhdotnet/integer-caching-in-java-how-it-works-and-why-it-matters-cd6f09c53728)
+- [The ABS programming language](https://www.abs-lang.org/)
+- [Tokio - An asynchronous Rust runtime](https://tokio.rs/)
+- [GitHub - codecrafters-io/build-your-own-x: Master programming by recreating your favorite technologies from scratch.](https://github.com/codecrafters-io/build-your-own-x)
+- [Welcome to Processing! / Processing.org](https://processing.org/)
+- [Learn C++ – Skill up with our free tutorials](https://www.learncpp.com/)
+- [C# Corner: AI-Powered Upskilling and Growth Platform for Software Developers](https://www.c-sharpcorner.com/)
+- [JasperFx/wolverine: Supercharged .NET server side development!](https://github.com/JasperFx/wolverine)
+- [https://rescript-lang.org/](https://rescript-lang.org/)
+- [https://nataliiadziubenko.com/2024/10/13/Java-integer-caching-how-and-why.html](https://nataliiadziubenko.com/2024/10/13/Java-integer-caching-how-and-why.html)
+- [https://medium.com/javaguides/interviewer-asked-me-why-is-1-1-true-but-1000-1000-false-in-java-af810be7fdbf](https://medium.com/javaguides/interviewer-asked-me-why-is-1-1-true-but-1000-1000-false-in-java-af810be7fdbf)
+- [https://www.tcl-lang.org/](https://www.tcl-lang.org/)
+- [https://en.wikibooks.org/wiki/Tcl_Programming/TCL_and_ADP](https://en.wikibooks.org/wiki/Tcl_Programming/TCL_and_ADP)

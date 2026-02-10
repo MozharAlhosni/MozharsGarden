@@ -1,0 +1,19 @@
+---
+title: Links
+---
+
+# Links
+
+- [https://github.com/itm4n/PrivescCheck](https://github.com/itm4n/PrivescCheck)
+- [https://www.crowdstrike.com/en-us/blog/4-ways-adversaries-hijack-dlls/](https://www.crowdstrike.com/en-us/blog/4-ways-adversaries-hijack-dlls/)
+- [http://remoteawesomethoughts.blogspot.com/2019/05/windows-10-task-schedulerservice.html](http://remoteawesomethoughts.blogspot.com/2019/05/windows-10-task-schedulerservice.html)
+- [https://nafiez.github.io/security/eop/2019/11/05/windows-service-host-process-eop.html](https://nafiez.github.io/security/eop/2019/11/05/windows-service-host-process-eop.html)
+- [https://github.com/blackarrowsec/redteam-research/tree/master/LPE%20via%20StorSvc](https://github.com/blackarrowsec/redteam-research/tree/master/LPE%20via%20StorSvc)
+- [https://www.elastic.co/security-labs/exploring-windows-uac-bypasses-techniques-and-detection-strategies](https://www.elastic.co/security-labs/exploring-windows-uac-bypasses-techniques-and-detection-strategies)
+- [https://github.com/icyguider/UAC-BOF-Bonanza](https://github.com/icyguider/UAC-BOF-Bonanza)
+- [https://www.tiraniddo.dev/2017/05/reading-your-way-around-uac-part-1.html](https://www.tiraniddo.dev/2017/05/reading-your-way-around-uac-part-1.html)
+- [https://www.tiraniddo.dev/2017/05/reading-your-way-around-uac-part-2.html](https://www.tiraniddo.dev/2017/05/reading-your-way-around-uac-part-2.html)
+- [https://www.tiraniddo.dev/2017/05/reading-your-way-around-uac-part-3.html](https://www.tiraniddo.dev/2017/05/reading-your-way-around-uac-part-3.html)
+- [https://www.100daysofredteam.com/p/using-havoc-c2-to-bypass-uac](https://www.100daysofredteam.com/p/using-havoc-c2-to-bypass-uac)
+- [https://splintercod3.blogspot.com/p/bypassing-uac-with-sspi-datagram.html](https://splintercod3.blogspot.com/p/bypassing-uac-with-sspi-datagram.html)
+- [https://github.com/antonioCoco/RunasCs](https://github.com/antonioCoco/RunasCs)

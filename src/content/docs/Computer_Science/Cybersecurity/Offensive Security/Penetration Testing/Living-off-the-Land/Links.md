@@ -1,0 +1,25 @@
+---
+title: Links
+---
+
+# Links
+
+- [https://lolol.farm/](https://lolol.farm/)
+- [https://lolrmm.io/](https://lolrmm.io/)
+- [https://br0k3nlab.com/LoFP/](https://br0k3nlab.com/LoFP/)
+- [https://lots-project.com/](https://lots-project.com/)
+- [https://wadcoms.github.io/](https://wadcoms.github.io/)
+- [https://filesec.io/](https://filesec.io/)
+- [https://lolc2.github.io/](https://lolc2.github.io/)
+- [https://lolapps-project.github.io/](https://lolapps-project.github.io/)
+- [https://lolprox.yxz.red/](https://lolprox.yxz.red/)
+- [https://lolesxi-project.github.io/LOLESXi/](https://lolesxi-project.github.io/LOLESXi/)
+- [https://lolbins-ctidriven.vercel.app/#](https://lolbins-ctidriven.vercel.app/#)
+- [https://lotwebhooks.github.io/index.html](https://lotwebhooks.github.io/index.html)
+- [https://webhook.site/](https://webhook.site/)
+- [https://0xanalyst.github.io/Project-Lost/](https://0xanalyst.github.io/Project-Lost/)
+- [https://cloud.google.com/blog/topics/threat-intelligence/bring-your-own-land-novel-red-teaming-technique/](https://cloud.google.com/blog/topics/threat-intelligence/bring-your-own-land-novel-red-teaming-technique/)
+- [https://wtfbins.wtf/](https://wtfbins.wtf/)
+- [https://github.com/magisterquis/lutlol](https://github.com/magisterquis/lutlol)
+- [TLDRBins](https://tldrbins.github.io/)
+- [WADComs](https://wadcoms.github.io/)

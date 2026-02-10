@@ -1,0 +1,26 @@
+---
+title: Links
+---
+
+# Links
+
+- [https://www.thousandeyes.com](https://www.thousandeyes.com)
+- [https://github.com/stamparm/ipsum](https://github.com/stamparm/ipsum)
+- [https://first.org/tlp/](https://first.org/tlp/)
+- [https://phk.freebsd.dk/sagas/jails/](https://phk.freebsd.dk/sagas/jails/)
+- [NetworkSEC: Audit and harden networks.](https://nwsec.de/e_index.html#)
+- [The DFIR Report – Real Intrusions by Real Attackers, The Truth Behind the Intrusion](https://thedfirreport.com/)
+- [Web Security](https://infosec.mozilla.org/guidelines/web_security#content-security-policy)
+- [Hardening a Selfhosted Vaultwarden Password Manager](https://blog.lrvt.de/securing-vaultwarden-with-fail2ban/)
+- [https://owasp.org/www-project-secure-headers/](https://owasp.org/www-project-secure-headers/)
+- [https://owasp.org/API-Security/editions/2023/en/0x10-api-security-risks/](https://owasp.org/API-Security/editions/2023/en/0x10-api-security-risks/)
+- [https://www.cisa.gov/news-events/directives/bod-19-02-vulnerability-remediation-requirements-internet-accessible-systems](https://www.cisa.gov/news-events/directives/bod-19-02-vulnerability-remediation-requirements-internet-accessible-systems)
+- [https://www.cisa.gov/sites/default/files/publications/CISAInsights-Cyber-RemediateVulnerabilitiesforInternetAccessibleSystems_S508C.pdf](https://www.cisa.gov/sites/default/files/publications/CISAInsights-Cyber-RemediateVulnerabilitiesforInternetAccessibleSystems_S508C.pdf)
+- [45542.pdf](https://storage.googleapis.com/gweb-research2023-media/pubtools/pdf/45542.pdf)
+- [ConfuserEx 2](https://mkaring.github.io/ConfuserEx/)
+- [https://community.veeam.com/cyber-security-space-95/veeam-windows-hardening-script-one-click-hardening-with-cis-contents-9376](https://community.veeam.com/cyber-security-space-95/veeam-windows-hardening-script-one-click-hardening-with-cis-contents-9376)
+- [https://observe.jabber.network/](https://observe.jabber.network/)
+- [https://connect.xmpp.net/](https://connect.xmpp.net/)
+- [https://docs.ejabberd.im/admin/guide/security/](https://docs.ejabberd.im/admin/guide/security/)
+- [https://wiki.xmpp.org/web/Securing_XMPP](https://wiki.xmpp.org/web/Securing_XMPP)
+- [https://github.com/hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists)

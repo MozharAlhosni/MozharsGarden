@@ -1,29 +1,21 @@
-[Dd]ebug/
-[Dd]ebugPublic/
-[Rr]elease/
-[Rr]eleases/
-[Bb]in/
-[Oo]bj/
-[Ll]og/
-[Ll]ogs/
+# build output
+dist/
+# generated types
+.astro/
 
-# .NET Core
-project.lock.json
-project.fragment.lock.json
-artifacts/
+# dependencies
+node_modules/
 
-# NuGet Packages
-*.nupkg
-# NuGet Symbol Packages
-*.snupkg
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
 
-# Others
-~$*
-*~
 
-# MSTest test Results
-[Tt]est[Rr]esult*/
-[Bb]uild[Ll]og.*
+# environment variables
+.env
+.env.production
 
-*.DS_Store
-wwwroot/DigitalGarden/manifest.txt
+# macOS-specific files
+.DS_Store

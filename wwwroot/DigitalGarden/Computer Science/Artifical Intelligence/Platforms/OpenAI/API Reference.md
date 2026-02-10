@@ -1,1 +1,0 @@
-OpenAI has a great [API reference](https://platform.openai.com/docs/api-reference/authentication) 

@@ -1,1 +1,0 @@
-The [OpenAI playground](https://platform.openai.com/playground) allows developers to interact with the various models that the company provides via API calls.

@@ -13,3 +13,4 @@ title: Links
 - [https://www.workworthy.ca/blog/processes-procedures-workflows-explained](https://www.workworthy.ca/blog/processes-procedures-workflows-explained)
 - [https://martinfowler.com/bliki/ConwaysLaw.html](https://martinfowler.com/bliki/ConwaysLaw.html)
 - [https://teamtopologies.com/book](https://teamtopologies.com/book)
+- [https://diataxis.fr/](https://diataxis.fr/)

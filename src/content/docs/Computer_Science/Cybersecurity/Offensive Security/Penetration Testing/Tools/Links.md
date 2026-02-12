@@ -21,3 +21,4 @@ title: Links
 - [https://treco.readthedocs.io/en/latest/index.html](https://treco.readthedocs.io/en/latest/index.html)
 - [https://fly.io/blog/code-and-let-live/](https://fly.io/blog/code-and-let-live/)
 - [https://docs.octopwn.com/](https://docs.octopwn.com/)
+- [https://github.com/brightio/penelope](https://github.com/brightio/penelope)

@@ -8,11 +8,10 @@ Just a tech.
 
 ## Technical Hobbies & Projects
 
-- **.NET Development** — Highly proficient in C#, focusing on _MVC APIs_, _Minimal APIs_, and _Blazor_, with a strong emphasis on **secure coding practices**.  
-- **Personal Projects** — This Digital Garden is built entirely with **Blazor WebAssembly**, inspired by _Material for MkDocs_. I’ve also implemented the same project using **Blazor Server**.  
+- **.NET Development** — Highly proficient in C#, focusing on _MVC APIs_, _Minimal APIs_, and _Blazor_, with a strong emphasis on **secure coding practices**.   
 - **Hack The Box** — [Hack The Box Profile](https://app.hackthebox.com/profile/927345). Developed two custom machines: _Blazorized_ and _TargetedOps_.  
 - **Open Source Contributions** — Contributing to C# security tools and frameworks.
-- **Book Reviews** — Reviewing books for **Manning Publications**, including:
+- **Book Reviews** — Reviewed books for **Manning Publications**:
   - _Secure APIs_  
   - _Acing the ISC2 Cybersecurity Certification_  
   - _Learn Docker in a Month of Lunches, 2nd Edition_  
@@ -23,7 +22,7 @@ Just a tech.
 Below you can find my CV:
 
 <iframe 
-  src="DigitalGarden/assets/mozhars_cv.pdf" 
+  src="public/mozhars_cv.pdf" 
   style="
     width: 100%;
     height: min(100vh, 1000px);

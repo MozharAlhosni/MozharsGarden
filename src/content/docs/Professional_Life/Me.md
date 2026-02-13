@@ -22,7 +22,7 @@ Just a tech.
 Below you can find my CV:
 
 <iframe 
-  src="public/mozhars_cv.pdf" 
+  src="./assets/mozhars_cv.pdf" 
   style="
     width: 100%;
     height: min(100vh, 1000px);

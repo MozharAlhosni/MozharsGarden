@@ -4,8 +4,9 @@ title: Floating Thoughts
 
 # Floating Thoughts
 
-- When working in enterprises, never ever assume, Always ensure.
+- When working in enterprises, never ever assume, always ensure.
 - When working in enterprises, explicit always overwins implicit.
+- When working large enterprises, understanding hierarchies is of utmost importance.
 - When working in enterprises, creating a cause for work is what differentiates between high-performing employees and others.
 - When working in enterprises, proactively predicting work that will be required one or two months—or more—in advance is paramount.
 - When working in enterprises/companies, one always needs to avoid pathways leading to conflicts.

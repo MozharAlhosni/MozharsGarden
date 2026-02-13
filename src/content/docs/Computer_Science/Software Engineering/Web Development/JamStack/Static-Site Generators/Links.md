@@ -18,3 +18,4 @@ title: Links
 - [Wiki.js](https://js.wiki/)
 - [https://github.com/cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
 - [https://starlight.astro.build/](https://starlight.astro.build/)
+- [https://github.com/shuding/nextra](https://github.com/shuding/nextra)

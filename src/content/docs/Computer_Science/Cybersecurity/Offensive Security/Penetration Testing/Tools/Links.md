@@ -22,3 +22,4 @@ title: Links
 - [https://fly.io/blog/code-and-let-live/](https://fly.io/blog/code-and-let-live/)
 - [https://docs.octopwn.com/](https://docs.octopwn.com/)
 - [https://github.com/brightio/penelope](https://github.com/brightio/penelope)
+- [https://github.com/kkrypt0nn/wordlists](https://github.com/kkrypt0nn/wordlists)

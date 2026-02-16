@@ -60,3 +60,4 @@ title: Links
 - [https://osquery.io/](https://osquery.io/)
 - [https://osctrl.net/](https://osctrl.net/)
 - [https://github.com/jmpsec/osctrl](https://github.com/jmpsec/osctrl)
+- [https://www.blackhatworld.com/members/](https://www.blackhatworld.com/members/)

@@ -19,3 +19,4 @@ title: Links
 - [https://cycle.io/](https://cycle.io/)
 - [https://static.googleusercontent.com/media/sre.google/en//static/pdf/practical-guide-to-cloud-migration.pdf](https://static.googleusercontent.com/media/sre.google/en//static/pdf/practical-guide-to-cloud-migration.pdf)
 - [https://www.civo.com/](https://www.civo.com/)
+- [https://cloudsecurity.club/](https://cloudsecurity.club/)

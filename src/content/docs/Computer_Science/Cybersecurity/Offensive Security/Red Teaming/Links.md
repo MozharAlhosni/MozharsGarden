@@ -4,6 +4,7 @@ title: Red Teaming
 
 # Red Teaming
 
+- [https://gtfobins.org/](https://gtfobins.org/)
 - [https://github.com/vari-sh/RedTeamGrimoire](https://github.com/vari-sh/RedTeamGrimoire)
 - [https://ihebski.github.io/A-Red-Teamer-diaries/](https://ihebski.github.io/A-Red-Teamer-diaries/)
 - [https://angryip.org/](https://angryip.org/)

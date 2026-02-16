@@ -4,6 +4,8 @@ title: Links
 
 # Links
 
+- [https://genai.owasp.org/ai-security-solutions-landscape/](https://genai.owasp.org/ai-security-solutions-landscape/)
+- [https://kai-greshake.de/](https://kai-greshake.de/)
 - [https://aivillage.org/](https://aivillage.org/)
 - [https://genai.owasp.org/llm-top-10/](https://genai.owasp.org/llm-top-10/)
 - [https://atlas.mitre.org/matrices/ATLAS](https://atlas.mitre.org/matrices/ATLAS)

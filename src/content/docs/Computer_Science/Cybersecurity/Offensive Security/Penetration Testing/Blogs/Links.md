@@ -4,6 +4,9 @@ title: Links
 
 # Links
 
+- [https://krypton.ninja/](https://krypton.ninja/)
+- [https://pretengineer.au/](https://pretengineer.au/)
+- [https://panosoikogr.github.io/](https://panosoikogr.github.io/)
 - [https://blog.johng4lt.com/](https://blog.johng4lt.com/)
 - [https://notes.benheater.com/](https://notes.benheater.com/)
 - [https://www.thehacker.recipes/](https://www.thehacker.recipes/)

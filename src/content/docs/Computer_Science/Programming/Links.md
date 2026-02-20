@@ -25,3 +25,4 @@ title: Links
 - [https://medium.com/javaguides/interviewer-asked-me-why-is-1-1-true-but-1000-1000-false-in-java-af810be7fdbf](https://medium.com/javaguides/interviewer-asked-me-why-is-1-1-true-but-1000-1000-false-in-java-af810be7fdbf)
 - [https://www.tcl-lang.org/](https://www.tcl-lang.org/)
 - [https://en.wikibooks.org/wiki/Tcl_Programming/TCL_and_ADP](https://en.wikibooks.org/wiki/Tcl_Programming/TCL_and_ADP)
+- [https://wiki.haskell.org/index.php?title=FFI_cook_book](https://wiki.haskell.org/index.php?title=FFI_cook_book)

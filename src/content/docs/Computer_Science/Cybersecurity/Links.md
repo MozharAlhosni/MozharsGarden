@@ -59,3 +59,7 @@ title: Links
 - [https://en.wikipedia.org/wiki/BadBIOS](https://en.wikipedia.org/wiki/BadBIOS)
 - [https://www.sans.org/white-papers](https://www.sans.org/white-papers)
 - [https://cloudsecurityalliance.org/research/topics](https://cloudsecurityalliance.org/research/topics)
+- [https://is.docs.wso2.com/en/5.9.0/](https://is.docs.wso2.com/en/5.9.0/)
+- [https://wso2.com/identity-server](https://wso2.com/identity-server)
+- [https://www.microsoft.com/en-us/security/blog/2025/05/21/lumma-stealer-breaking-down-the-delivery-techniques-and-capabilities-of-a-prolific-infostealer/](https://www.microsoft.com/en-us/security/blog/2025/05/21/lumma-stealer-breaking-down-the-delivery-techniques-and-capabilities-of-a-prolific-infostealer/)
+- [https://www.dan.me.uk/tornodes](https://www.dan.me.uk/tornodes)

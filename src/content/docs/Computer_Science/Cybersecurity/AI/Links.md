@@ -18,3 +18,4 @@ title: Links
 - [https://github.com/tailwindlabs/tailwindcss.com/pull/2388](https://github.com/tailwindlabs/tailwindcss.com/pull/2388)
 - [https://github.com/0x4m4/hexstrike-ai/](https://github.com/0x4m4/hexstrike-ai/)
 - [https://github.com/mbrg/power-pwn](https://github.com/mbrg/power-pwn)
+- [https://embracethered.com/blog/](https://embracethered.com/blog/)

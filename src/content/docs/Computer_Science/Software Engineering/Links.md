@@ -38,3 +38,4 @@ title: Links
 - [https://github.com/cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter)
 - [https://www.martinfowler.com/](https://www.martinfowler.com/)
 - [https://pear.php.net/index.php](https://pear.php.net/index.php)
+- [https://thorteaches.com/glossary/maintenance-hook/](https://thorteaches.com/glossary/maintenance-hook/)

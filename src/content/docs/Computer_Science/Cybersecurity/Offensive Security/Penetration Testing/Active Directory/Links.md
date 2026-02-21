@@ -49,3 +49,6 @@ title: Links
 - [https://github.com/GhostPack/PSPKIAudit](https://github.com/GhostPack/PSPKIAudit)
 - [https://github.com/vysecurity/ANGRYPUPPY](https://github.com/vysecurity/ANGRYPUPPY)
 - [https://github.com/skelsec/minikerberos](https://github.com/skelsec/minikerberos)
+- [https://www.semperis.com/blog/microsoft-entra-connect-compromise-explained/](https://www.semperis.com/blog/microsoft-entra-connect-compromise-explained/)
+- [https://specterops.io/blog/2025/07/30/entra-connect-attacker-tradecraft-part-3/](https://specterops.io/blog/2025/07/30/entra-connect-attacker-tradecraft-part-3/)
+- [https://aadinternals.com/](https://aadinternals.com/)

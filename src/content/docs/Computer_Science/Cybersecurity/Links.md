@@ -63,3 +63,4 @@ title: Links
 - [https://wso2.com/identity-server](https://wso2.com/identity-server)
 - [https://www.microsoft.com/en-us/security/blog/2025/05/21/lumma-stealer-breaking-down-the-delivery-techniques-and-capabilities-of-a-prolific-infostealer/](https://www.microsoft.com/en-us/security/blog/2025/05/21/lumma-stealer-breaking-down-the-delivery-techniques-and-capabilities-of-a-prolific-infostealer/)
 - [https://www.dan.me.uk/tornodes](https://www.dan.me.uk/tornodes)
+- [https://www.sciencedirect.com/topics/computer-science/vulnerability-window](https://www.sciencedirect.com/topics/computer-science/vulnerability-window)

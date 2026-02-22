@@ -4,6 +4,7 @@ title: Links
 
 # Links
 
+- [https://github.com/OWASP/wstg](https://github.com/OWASP/wstg)
 - [https://www.cyberark.com/resources/threat-research-blog/racing-and-fuzzing-http-3-open-sourcing-quicdraw](https://www.cyberark.com/resources/threat-research-blog/racing-and-fuzzing-http-3-open-sourcing-quicdraw)
 - [https://portswigger.net/research/websocket-turbo-intruder-unearthing-the-websocket-goldmine](https://portswigger.net/research/websocket-turbo-intruder-unearthing-the-websocket-goldmine)
 - [https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes](https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes)

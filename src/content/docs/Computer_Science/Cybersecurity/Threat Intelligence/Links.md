@@ -78,3 +78,7 @@ title: Links
 - [Documentation | CrowdSec](https://docs.crowdsec.net/)
 - [https://www.cisecurity.org/cybersecurity-threats](https://www.cisecurity.org/cybersecurity-threats)
 - [https://www.splunk.com/en_us/pdfs/gated/ebooks/top-50-cybersecurity-threats.pdf](https://www.splunk.com/en_us/pdfs/gated/ebooks/top-50-cybersecurity-threats.pdf)
+
+## Formats
+
+- [https://cloud.google.com/blog/topics/threat-intelligence/openioc-basics/](https://cloud.google.com/blog/topics/threat-intelligence/openioc-basics/)

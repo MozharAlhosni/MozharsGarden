@@ -4,6 +4,7 @@ title: Links
 
 # Links
 
+- [https://www.zynamics.com/bindiff.html](https://www.zynamics.com/bindiff.html)
 - [https://x64.halb.it/](https://x64.halb.it/)
 - [https://cutter.re/](https://cutter.re/)
 - [https://rizin.re/](https://rizin.re/])

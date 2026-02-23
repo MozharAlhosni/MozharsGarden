@@ -14,3 +14,4 @@ title: Links
 - [https://medium.com/partisia-blockchain/mpc-fhe-dp-zkp-tee-and-where-partisia-blockchain-fits-in-c8e051d053f7](https://medium.com/partisia-blockchain/mpc-fhe-dp-zkp-tee-and-where-partisia-blockchain-fits-in-c8e051d053f7)
 - [https://en.wikipedia.org/wiki/Homomorphic_encryption](https://en.wikipedia.org/wiki/Homomorphic_encryption)
 - [https://www.justice.gov/d9/criminal-ccips/legacy/2015/01/14/ssmanual2009_002.pdf](https://www.justice.gov/d9/criminal-ccips/legacy/2015/01/14/ssmanual2009_002.pdf)
+- [https://www.kingston.com/en/usb-flash-drives/encrypted](https://www.kingston.com/en/usb-flash-drives/encrypted)

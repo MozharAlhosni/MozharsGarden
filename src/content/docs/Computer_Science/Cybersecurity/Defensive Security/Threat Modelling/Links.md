@@ -14,3 +14,4 @@ title: Links
 - [https://www.mitre.org/sites/default/files/2021-11/prs-18-1725-ngci-enhanced-cyber-threat-model-for-financial-services-sector-institutions.pdf](https://www.mitre.org/sites/default/files/2021-11/prs-18-1725-ngci-enhanced-cyber-threat-model-for-financial-services-sector-institutions.pdf)
 - [https://www.mitre.org/sites/default/files/2021-11/pr-18-1613-ngci-enterprise-threat-model-technical-report.pdf](https://www.mitre.org/sites/default/files/2021-11/pr-18-1613-ngci-enterprise-threat-model-technical-report.pdf)
 - [https://www.mitre.org/sites/default/files/2021-11/pr-18-1631-ngci-system-of-systems-threat-model.pdf](https://www.mitre.org/sites/default/files/2021-11/pr-18-1631-ngci-system-of-systems-threat-model.pdf)
+- [https://versprite.com/blog/what-is-pasta-threat-modeling/](https://versprite.com/blog/what-is-pasta-threat-modeling/)

@@ -20,3 +20,7 @@ title: Links
 - [https://www.clio.com/wp-content/uploads/2025/09/2025-Legal-Trends-Report.pdf](https://www.clio.com/wp-content/uploads/2025/09/2025-Legal-Trends-Report.pdf)
 - [https://vault.com/best-companies-to-work-for/law/top-100-law-firms-rankings](https://vault.com/best-companies-to-work-for/law/top-100-law-firms-rankings)
 - [https://en.wikipedia.org/wiki/Legal_doublet](https://en.wikipedia.org/wiki/Legal_doublet)
+- [https://edrm.net/edrm-model/current/](https://edrm.net/edrm-model/current/)
+- [https://www.law.uc.edu/education/areasofstudy/litigation-alternative-dispute-resolution.html](https://www.law.uc.edu/education/areasofstudy/litigation-alternative-dispute-resolution.html)
+- [https://www.law.cornell.edu/wex/attorney-client_privilege](https://www.law.cornell.edu/wex/attorney-client_privilege)
+- [https://www.law.cornell.edu/wex/parol_evidence_rule](https://www.law.cornell.edu/wex/parol_evidence_rule)

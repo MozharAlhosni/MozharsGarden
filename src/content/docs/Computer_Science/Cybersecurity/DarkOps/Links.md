@@ -4,6 +4,8 @@ title: Links
 
 # Links
 
+- [https://www.whonix.org/](https://www.whonix.org/)
+- [https://www.qubes-os.org/](https://www.qubes-os.org/)
 - [https://temp-mail.org/en/](https://temp-mail.org/en/)
 - [https://lunaproxy.com](https://lunaproxy.com)
 - [https://natro92.fun/](https://natro92.fun/)

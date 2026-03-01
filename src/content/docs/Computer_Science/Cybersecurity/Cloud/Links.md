@@ -4,6 +4,8 @@ title: Links
 
 # Links
 
+
+- [https://www.cloudvulndb.org/](https://www.cloudvulndb.org/)
 - [https://csrc.nist.gov/pubs/sp/800/145/final](https://csrc.nist.gov/pubs/sp/800/145/final)
 - [https://csrc.nist.gov/pubs/sp/800/144/final](https://csrc.nist.gov/pubs/sp/800/144/final)
 - [https://blog.nviso.eu/category/cloud-security/](https://blog.nviso.eu/category/cloud-security/)

@@ -4,6 +4,7 @@ title: Links
 
 # Links
 
+- [https://wiz-sec-public.github.io/SITF/](https://wiz-sec-public.github.io/SITF/)
 - [https://threatmodeler.com/glossary/octave-threat-methodology/](https://threatmodeler.com/glossary/octave-threat-methodology/)
 - [OWASP Threat Dragon](https://www.threatdragon.com/#/)
 - [Threat Modeling Manifesto](https://www.threatmodelingmanifesto.org/)

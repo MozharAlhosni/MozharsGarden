@@ -4,6 +4,8 @@ title: Links
 
 # Links
 
+- [https://github.com/demisto/content](https://github.com/demisto/content)
+- [https://github.com/TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat)
 - [https://tf.nist.gov/tf-cgi/servers.cgi](https://tf.nist.gov/tf-cgi/servers.cgi)
 - [https://portal.magicsword.io/](https://portal.magicsword.io/)
 - [https://hoppr.dev/docs/next/intro](https://hoppr.dev/docs/next/intro)

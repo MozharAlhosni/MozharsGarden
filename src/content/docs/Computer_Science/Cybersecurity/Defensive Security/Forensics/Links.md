@@ -11,3 +11,6 @@ title: Links
 - [https://www.chinalawvision.com/2025/02/insurance-law/application-of-the-principle-of-reasonable-expectations-in-insurance-lawa-comparative-analysis-of-u-s-and-prc-jurisdictions/](https://www.chinalawvision.com/2025/02/insurance-law/application-of-the-principle-of-reasonable-expectations-in-insurance-lawa-comparative-analysis-of-u-s-and-prc-jurisdictions/)
 - [https://www.secretservice.gov/](https://www.secretservice.gov/)
 - [https://infragard.fbi.gov/](https://infragard.fbi.gov/)
+- [https://github.com/504ensicsLabs/LiME](https://github.com/504ensicsLabs/LiME)
+- [https://github.com/trailofbits/mquire](https://github.com/trailofbits/mquire)
+- [https://blog.trailofbits.com/2026/02/25/mquire-linux-memory-forensics-without-external-dependencies/](https://blog.trailofbits.com/2026/02/25/mquire-linux-memory-forensics-without-external-dependencies/)

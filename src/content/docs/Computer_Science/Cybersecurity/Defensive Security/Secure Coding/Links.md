@@ -27,3 +27,5 @@ title: Links
 - [https://learn.microsoft.com/en-us/windows/win32/api/processenv/nf-processenv-getcommandlinea#security-remarks](https://learn.microsoft.com/en-us/windows/win32/api/processenv/nf-processenv-getcommandlinea#security-remarks)
 - [https://pkg.go.dev/cmd/cgo](https://pkg.go.dev/cmd/cgo)
 - [https://en.wikipedia.org/wiki/Fagan_inspection](https://en.wikipedia.org/wiki/Fagan_inspection)
+- [https://sammy.codific.com/](https://sammy.codific.com/)
+- [https://codific.com/bsimm-building-security-in-maturity-model-a-complete-guide/](https://codific.com/bsimm-building-security-in-maturity-model-a-complete-guide/)

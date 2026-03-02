@@ -14,3 +14,4 @@ title: Links
 - [https://martinfowler.com/bliki/ConwaysLaw.html](https://martinfowler.com/bliki/ConwaysLaw.html)
 - [https://teamtopologies.com/book](https://teamtopologies.com/book)
 - [https://diataxis.fr/](https://diataxis.fr/)
+- [https://zachman-feac.com/zachman/about-the-zachman-framework](https://zachman-feac.com/zachman/about-the-zachman-framework)

@@ -65,3 +65,4 @@ title: Links
 - [https://www.dan.me.uk/tornodes](https://www.dan.me.uk/tornodes)
 - [https://www.sciencedirect.com/topics/computer-science/vulnerability-window](https://www.sciencedirect.com/topics/computer-science/vulnerability-window)
 - [https://www.winsyslog.com/](https://www.winsyslog.com/)
+- [https://blog.trailofbits.com/](https://blog.trailofbits.com/)

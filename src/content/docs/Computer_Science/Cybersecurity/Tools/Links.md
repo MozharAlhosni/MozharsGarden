@@ -12,3 +12,4 @@ title: Links
 - [https://www.mitmproxy.org/](https://www.mitmproxy.org/)
 - [https://github.com/paramiko/paramiko](https://github.com/paramiko/paramiko)
 - [https://man7.org/linux/man-pages/man1/minicom.1.html](https://man7.org/linux/man-pages/man1/minicom.1.html)
+- [https://fake-email.pro/](https://fake-email.pro/)

@@ -14,3 +14,5 @@ title: Links
 - [https://github.com/504ensicsLabs/LiME](https://github.com/504ensicsLabs/LiME)
 - [https://github.com/trailofbits/mquire](https://github.com/trailofbits/mquire)
 - [https://blog.trailofbits.com/2026/02/25/mquire-linux-memory-forensics-without-external-dependencies/](https://blog.trailofbits.com/2026/02/25/mquire-linux-memory-forensics-without-external-dependencies/)
+- [http://dnscookie.com/](http://dnscookie.com/)
+- 

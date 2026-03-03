@@ -2,6 +2,8 @@
 title: Links
 ---
 
+- [https://www.postgresql.org/message-id/46279257.6000102%40kaigai.gr.jp](https://www.postgresql.org/message-id/46279257.6000102%40kaigai.gr.jp)
+- [https://prabhnair.in/unseen-topics-of-cissp-you-must-know/](https://prabhnair.in/unseen-topics-of-cissp-you-must-know/)
 - [https://riskbasedauthentication.org/](https://riskbasedauthentication.org/)
 - [https://en.wikipedia.org/wiki/Stream_Control_Transmission_Protocol](https://en.wikipedia.org/wiki/Stream_Control_Transmission_Protocol)
 - [https://en.wikipedia.org/wiki/Diameter_(protocol)](https://en.wikipedia.org/wiki/Diameter_(protocol))

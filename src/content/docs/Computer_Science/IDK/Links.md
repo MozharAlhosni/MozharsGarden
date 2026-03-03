@@ -61,4 +61,4 @@ title: Links
 - [https://osctrl.net/](https://osctrl.net/)
 - [https://github.com/jmpsec/osctrl](https://github.com/jmpsec/osctrl)
 - [https://www.blackhatworld.com/members/](https://www.blackhatworld.com/members/)
-- [https://dockerlabs.collabnix.com/](https://dockerlabs.collabnix.com/)
+- [https://www.sectigo.com/certificate-manager](https://www.sectigo.com/certificate-manager)

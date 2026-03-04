@@ -4,6 +4,10 @@ title: Links
 
 # Links
 
+- [https://plot4.ai/library](https://plot4.ai/library)
+- [https://github.com/PLOT4ai/plot4ai-library](https://github.com/PLOT4ai/plot4ai-library)
+- [https://azure.github.io/PyRIT/index.html](https://azure.github.io/PyRIT/index.html)
+- [https://github.com/knostic/OpenAnt](https://github.com/knostic/OpenAnt)
 - [https://genai.owasp.org/ai-security-solutions-landscape/](https://genai.owasp.org/ai-security-solutions-landscape/)
 - [https://kai-greshake.de/](https://kai-greshake.de/)
 - [https://aivillage.org/](https://aivillage.org/)

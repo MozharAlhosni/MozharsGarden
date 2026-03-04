@@ -14,3 +14,5 @@ title: Links
 - [https://gvisor.dev/](https://gvisor.dev/)
 - [https://github.com/tillson/git-hound](https://github.com/tillson/git-hound)
 - [https://github.com/TryCatchHCF/DumpsterFire](https://github.com/TryCatchHCF/DumpsterFire)
+- [https://project-copacetic.github.io/copacetic/website/](https://project-copacetic.github.io/copacetic/website/)
+- [https://notaryproject.dev/](https://notaryproject.dev/)

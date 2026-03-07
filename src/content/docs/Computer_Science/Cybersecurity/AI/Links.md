@@ -4,6 +4,8 @@ title: Links
 
 # Links
 
+- [https://github.com/hfd3l/cybersecurity-gpts](https://github.com/hfd3l/cybersecurity-gpts)
+- [https://secml.readthedocs.io/en/v0.15/](https://secml.readthedocs.io/en/v0.15/)
 - [https://plot4.ai/library](https://plot4.ai/library)
 - [https://github.com/PLOT4ai/plot4ai-library](https://github.com/PLOT4ai/plot4ai-library)
 - [https://azure.github.io/PyRIT/index.html](https://azure.github.io/PyRIT/index.html)

@@ -4,6 +4,10 @@ title: Links
 
 # Links
 
+- [https://github.com/trustoncloud](https://github.com/trustoncloud)
+- [https://github.com/cairis-platform/cairis](https://github.com/cairis-platform/cairis)
+- [https://github.com/OWASP/pytm](https://github.com/OWASP/pytm)
+- [https://www.microsoft.com/en-us/download/details.aspx?id=49168](https://www.microsoft.com/en-us/download/details.aspx?id=49168)
 - [https://wiz-sec-public.github.io/SITF/](https://wiz-sec-public.github.io/SITF/)
 - [https://threatmodeler.com/glossary/octave-threat-methodology/](https://threatmodeler.com/glossary/octave-threat-methodology/)
 - [OWASP Threat Dragon](https://www.threatdragon.com/#/)

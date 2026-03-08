@@ -51,6 +51,24 @@ title: Study Notes
   - `Logging and monitoring`: _Operational metrics generally focus on the numbers and types of events that occur. KRIs focus on the proportion of assets whose logs are being monitored and the elapsed time between the start of an incident and the time when personnel begin to act._
 - `KRIs` are so-called because they are harbingers (_a person or thing that announces or signals the approach of another_) of information risk in an organization
 
+- KPI (Key Performance Indicator) → “Are we doing security well?”
+- KRI (Key Risk Indicator) → “Are we exposed to increasing risk?”
+- Examples of KPIs (Performance-Focused):
+  - Percentage of systems fully patched (Example: 95% of servers patched within 30 days.)
+  - Mean Time to Detect (MTTD) (Average time to identify a security incident.)
+  - Mean Time to Respond (MTTR) (Time taken to contain or remediate incidents.)
+  - Security awareness training completion rate (Example: 98% employee completion.)
+- These measure efficiency and effectiveness of security operations.
+
+- Examples of KRIs (Risk-Focused)
+  - Number of critical unpatched vulnerabilities (Example: 120 high-risk CVEs open.)
+  - Number of failed login attempts (Spike may indicate brute-force attempts.)
+  - Third-party vendors without security assessment (Indicates supply chain exposure.)
+  - Percentage of systems past end-of-life (EOL) (Unsupported systems increase risk.)
+
+- These measure risk exposure and threat level trends.
+- KPI = Performance (internal effectiveness)
+- KRI = Risk (exposure & potential loss)
 
 ## Disaster Recovery and Business Continuity
 
@@ -184,7 +202,7 @@ The security community depends on a common set of standards to provide a common 
 - `TCP Connect Scanning`: Opens a full connection to the remote system on the specified port. This scan type is used when the user running the scan does not have the necessary permissions to run a `half-open scan`. Most other scan types require the ability to send `raw packets`, and a user may be restricted by the OS from sending `handcrafted packets`.
 - `TCP ACK Scanning`: Sends a packet with the `ACK` flag set, indicating that it is part of an open connection. This type of scan may be done in an attempt to determine the rules enforced by a firewall and the firewall methodology.
 - `UDP Scanning`: Performs a scan of the remote system using the `UDP protocol`, checking for active `UDP services`. This scan types does not use the `three-way handshake`, because `UDP` is a `connectionless protocol`.
-- `Xmas Scanning`: Sends a packet with the `FIN`, `PSH`, and `URG` flags set. A packet with so many flags is said to be "lit up like a Christmas tree," leading to the scan's name.
+- `Xmas Scanning`: Sends a packet with the `FIN` (`finish`), `PSH` (`push`), and `URG` (`urgent`) flags set. A packet with so many flags is said to be "lit up like a Christmas tree," leading to the scan's name.
 
 - Port `515` is used by the `Line Printer Daemon` for network printing via the `LPR (Line Printer Remote)/LDP` protocol.
 - Port `1720` is used by `H.323`, a TCP-based `Voice over IP` and video conferencing protocol suite used for real-time audio, video, and data communication over IP networks.
@@ -199,4 +217,39 @@ Organizations that adopt a vulnerability management system should also adopt a w
 2. `Validation`: _Once a scanner detects a vulnerability, administrators should confirm that vulnerability to determine that it is not a false positive report_.
 3. `Remediation`: _Validated vulnerabilities should then be remediated. This may include applying a vendor-supplied security patch, modifying a device configuration, implementing a workaround to avoid the vulnerability, or installing a web application firewall or other control that prevents the exploitation of the vulnerability_.
 
-###
+### Code Review and Testing
+
+The most formal code review processes, known as `Fagan inspections`, follow a rigorous review and testing process with six steps:
+
+1. Planning
+2. Overview
+3. Preparation
+4. Inspection
+5. Rework
+6. Follow-up
+
+- `Interactive Application Security Testing` (`IAST`): _performs real-time analysis of runtime behavior, application performance, HTTP/HTTPS traffic, frameworks, components, and back-end connections_.
+- `Runtime Application Self-Protection` (`RASP`): _a tool that runs on a server and intercepts calls to and from an application and validates data requests_.
+
+### Fuzz Testing
+
+`Fuzz testing` is a specialized dynamic testing technique that provides many different types of input to software to stress its limits and find previously undetected flaws.
+
+There are two main categories of `fuzz testing`:
+
+- `Mutation (Dumb) Fuzzing`: Takes previous input values from actual operation of the software and manipulates (or _mutates_) it to created `fuzzed` input. It might alter the characters of the content, append strings to the end of the content, or perform other data manipulation techniques.
+- `Generational (Intelligent) Fuzzing`: Develops data models and creates new fuzzed input based on an understanding of the types of data used by the program.
+
+- `Potentially Unwanted Programs` (`PUP`)
+
+
+## Website Monitoring
+
+Security professionals need to monitor websites for performance management, troubleshooting, and the identification of potential security issues. This type of monitoring comes in two different forms:
+
+- `Passive Monitoring` analyzes actual network traffic sent to a website by capturing it as it travels over the network or reaches the server. This provides real-world monitoring data that gives administrators insight into what is actually happening on a network. `Real user monitoring` (`RUM`) is a variant of `passive monitoring` where the monitoring tool reassembles the activity of individual users to track their interaction with a website.
+- `Synthetic monitoring` (or `active monitoring`) performs artificial transactions against a website to assess performance.
+
+## eDiscovery
+
+- `Electronic discovery`, or `eDiscovery`, _is the process of identifying and delivering electronic information that can be used as evidence in legal cases_. 

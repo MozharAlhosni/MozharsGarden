@@ -4,6 +4,7 @@ title: Links
 
 # Links
 
+- [https://github.com/jpillora/chisel](https://github.com/jpillora/chisel)
 - [https://owasp.org/www-community/Vulnerability_Scanning_Tools](https://owasp.org/www-community/Vulnerability_Scanning_Tools)
 - [https://www.netexec.wiki/](https://www.netexec.wiki/)
 - [https://github.com/CuriousLearnerDev/TrafficEye](https://github.com/CuriousLearnerDev/TrafficEye)
@@ -21,6 +22,7 @@ title: Links
 - [https://github.com/ghostsecurity/reaper](https://github.com/ghostsecurity/reaper)
 - [https://treco.readthedocs.io/en/latest/index.html](https://treco.readthedocs.io/en/latest/index.html)
 - [https://fly.io/blog/code-and-let-live/](https://fly.io/blog/code-and-let-live/)
+- [https://octopwn.com/](https://octopwn.com/)
 - [https://docs.octopwn.com/](https://docs.octopwn.com/)
 - [https://github.com/brightio/penelope](https://github.com/brightio/penelope)
 - [https://github.com/kkrypt0nn/wordlists](https://github.com/kkrypt0nn/wordlists)

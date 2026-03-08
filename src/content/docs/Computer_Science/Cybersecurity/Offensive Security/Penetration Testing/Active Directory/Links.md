@@ -4,6 +4,7 @@ title: Links
 
 # Links
 
+- [https://github.com/micahvandeusen/gMSADumper](https://github.com/micahvandeusen/gMSADumper)
 - [https://zer1t0.gitlab.io/posts/attacking_ad/](https://zer1t0.gitlab.io/posts/attacking_ad/)
 - [https://www.ired.team/](https://www.ired.team/)
 - [CICADA8-Research/RemoteKrbRelay: Remote Kerberos Relay made easy! Advanced Kerberos Relay Framework](https://github.com/CICADA8-Research/RemoteKrbRelay)

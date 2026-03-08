@@ -4,6 +4,8 @@ title: Links
 
 # Links
 
+- [https://github.com/EdOverflow/can-i-take-over-xyz](https://github.com/EdOverflow/can-i-take-over-xyz)
+- [https://github.com/skelsec/aardwolf](https://github.com/skelsec/aardwolf)
 - [https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-115.pdf](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-115.pdf)
 - [SYN cookies - Wikipedia](https://en.wikipedia.org/wiki/SYN_cookies)
 - [https://github.com/OWASP/www-community](https://github.com/OWASP/www-community)

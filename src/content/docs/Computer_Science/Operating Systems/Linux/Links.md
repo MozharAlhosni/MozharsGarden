@@ -4,6 +4,7 @@ title: Links
 
 # Links
 
+- [https://sw.kovidgoyal.net/kitty/](https://sw.kovidgoyal.net/kitty/)
 - [https://refspecs.linuxfoundation.org/FHS_3.0/fhs-3.0.pdf](https://refspecs.linuxfoundation.org/FHS_3.0/fhs-3.0.pdf)
 - [https://supervisord.org/index.html](https://supervisord.org/index.html)
 - [https://tldp.org/](https://tldp.org/)

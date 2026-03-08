@@ -4,6 +4,7 @@ title: Links
 
 # Links
 
+- [https://github.com/oracle/oci-designer-toolkit](https://github.com/oracle/oci-designer-toolkit)
 - [https://netflix.github.io/](https://netflix.github.io/)
 - [https://istio.io/](https://istio.io/)
 - [https://developer.hashicorp.com/consul](https://developer.hashicorp.com/consul)

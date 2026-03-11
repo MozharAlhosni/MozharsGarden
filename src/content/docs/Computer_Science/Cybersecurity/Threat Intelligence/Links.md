@@ -41,6 +41,7 @@ title: Links
 - [https://abuse.ch/](https://abuse.ch/)
 - [https://threatfox.abuse.ch/](https://threatfox.abuse.ch/)
 - [https://www.anomali.com/products/threatstream](https://www.anomali.com/products/threatstream)
+- [https://www.criminalip.io/](https://www.criminalip.io/)
 - [https://www.vulncheck.com/product/exploit-intelligence](https://www.vulncheck.com/product/exploit-intelligence)
 - [https://www.opencve.io/](https://www.opencve.io/)
 - [https://www.advisoryweek.com/](https://www.advisoryweek.com/)
@@ -78,6 +79,7 @@ title: Links
 - [Documentation | CrowdSec](https://docs.crowdsec.net/)
 - [https://www.cisecurity.org/cybersecurity-threats](https://www.cisecurity.org/cybersecurity-threats)
 - [https://www.splunk.com/en_us/pdfs/gated/ebooks/top-50-cybersecurity-threats.pdf](https://www.splunk.com/en_us/pdfs/gated/ebooks/top-50-cybersecurity-threats.pdf)
+- [https://dehashed.com/](https://dehashed.com/)
 
 ## Formats
 

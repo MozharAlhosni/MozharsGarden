@@ -4,6 +4,14 @@ title: Links
 
 # Links
 
+- [http://dnscookie.com/](http://dnscookie.com/)
+- [https://www.dotmagazine.online/issues/digital-responsibility-and-sustainability/dns-cookies-transaction-mechanism](https://www.dotmagazine.online/issues/digital-responsibility-and-sustainability/dns-cookies-transaction-mechanism)
+- 
+- [https://doh.tiar.app/](https://doh.tiar.app/)
+- [https://www.rfc-editor.org/rfc/rfc8484](https://www.rfc-editor.org/rfc/rfc8484)
+- [https://www.rfc-editor.org/rfc/rfc9230](https://www.rfc-editor.org/rfc/rfc9230)
+- [https://github.com/m13253/dns-over-https](https://github.com/m13253/dns-over-https)
+- [https://jpgpi250.github.io/piholemanual/doc/Block%20DOH%20with%20pfsense.pdf](https://jpgpi250.github.io/piholemanual/doc/Block%20DOH%20with%20pfsense.pdf)
 - [https://about.rdap.org/](https://about.rdap.org/)
 - [https://certbot.eff.org/](https://certbot.eff.org/)
 - [https://github.com/acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh)

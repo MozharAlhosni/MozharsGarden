@@ -4,6 +4,7 @@ title: Tools
 
 # Tools
 
+- [https://detecting.cloud/](https://detecting.cloud/)
 - [https://github.com/prowler-cloud/prowler](https://github.com/prowler-cloud/prowler)
 - [https://prowler.com/](https://prowler.com/)
 - [https://github.com/dirkjanm/ROADtools](https://github.com/dirkjanm/ROADtools)

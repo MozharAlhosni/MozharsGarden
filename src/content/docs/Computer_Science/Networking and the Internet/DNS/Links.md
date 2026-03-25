@@ -4,9 +4,9 @@ title: Links
 
 # Links
 
+- [https://doc.powerdns.com/authoritative/index.html](https://doc.powerdns.com/authoritative/index.html)
 - [http://dnscookie.com/](http://dnscookie.com/)
 - [https://www.dotmagazine.online/issues/digital-responsibility-and-sustainability/dns-cookies-transaction-mechanism](https://www.dotmagazine.online/issues/digital-responsibility-and-sustainability/dns-cookies-transaction-mechanism)
-- 
 - [https://doh.tiar.app/](https://doh.tiar.app/)
 - [https://www.rfc-editor.org/rfc/rfc8484](https://www.rfc-editor.org/rfc/rfc8484)
 - [https://www.rfc-editor.org/rfc/rfc9230](https://www.rfc-editor.org/rfc/rfc9230)

@@ -4,6 +4,9 @@ title: Links
 
 # Links
 
+- [https://wezterm.org/](https://wezterm.org/)
+- [https://github.com/alacritty/alacritty](https://github.com/alacritty/alacritty)
+- [https://sw.kovidgoyal.net/kitty/](https://sw.kovidgoyal.net/kitty/)
 - [https://starship.rs/](https://starship.rs/)
 - [https://ghostty.org/](https://ghostty.org/)
 - [https://www.warp.dev/](https://www.warp.dev/)

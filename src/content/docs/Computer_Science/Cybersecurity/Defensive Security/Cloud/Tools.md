@@ -4,6 +4,14 @@ title: Tools
 
 # Tools
 
+- [https://github.com/aquasecurity/cloudsploit](https://github.com/aquasecurity/cloudsploit)
+- [https://github.com/turbot/steampipe](https://github.com/turbot/steampipe)
+- [https://github.com/cloudquery/cloudquery](https://github.com/cloudquery/cloudquery)
+- [https://github.com/deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper)
+- [https://github.com/someengineering/fixinventory](https://github.com/someengineering/fixinventory)
+- [https://github.com/opengovern/opensecurity](https://github.com/opengovern/opensecurity)
+- [https://github.com/someengineering/cloud-security-list](https://github.com/someengineering/cloud-security-list)
+- [https://github.com/bytedance/Elkeid](https://github.com/bytedance/Elkeid)
 - [https://detecting.cloud/](https://detecting.cloud/)
 - [https://github.com/prowler-cloud/prowler](https://github.com/prowler-cloud/prowler)
 - [https://prowler.com/](https://prowler.com/)

@@ -4,6 +4,10 @@ title: Links
 
 # Links
 
+- [https://hackviser.com/tactics/pentesting/services/rpcbind](https://hackviser.com/tactics/pentesting/services/rpcbind)
+- [https://github.com/xpn/RpcEnum](https://github.com/xpn/RpcEnum)
+- [https://github.com/s4vitar/rpcenum](https://github.com/s4vitar/rpcenum)
+- [https://www.geeksforgeeks.org/ethical-hacking/what-is-rpc-enumeration/](https://www.geeksforgeeks.org/ethical-hacking/what-is-rpc-enumeration/)
 - [https://projectdiscovery.io/blog/guide-to-dns-takeovers](https://projectdiscovery.io/blog/guide-to-dns-takeovers)
 - [https://benheater.com/](https://benheater.com/)
 - [https://sensepost.com/blog/2025/is-tls-more-secure-the-winrms-case./](https://sensepost.com/blog/2025/is-tls-more-secure-the-winrms-case./)

@@ -8,6 +8,8 @@ title: Links
 - [https://tailscale.com/](https://tailscale.com/)
 - [https://openbao.org/](https://openbao.org/)
 - [https://github.com/newren/git-filter-repo](https://github.com/newren/git-filter-repo)
+- [https://mmonit.com/](https://mmonit.com/)
+- [https://www.ox.security/](https://www.ox.security/)
 - [kind](https://kind.sigs.k8s.io/)
 - [https://buddy.works/](https://buddy.works/)
 - [kraud.cloud](https://kraud.cloud/)

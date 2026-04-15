@@ -17,6 +17,7 @@ I offer consultation services across all Cybersecurity domains, including:
 - **Policies, Standards & Procedures** review and improvement
 - **Regulatory Compliance** with bodies such as SAMA and NCA
 - **Cloud Security Posture Review** and alignment with CSA standards (CCM)
-- **Offensive** and **Defensive** projects
+- **Offensive** and **Defensive** security projects (reviewing PT reports and ensuring quality)
+- **Guiding your junior Cybersecurity staff** and helping them achieve the correct objectives
 
 Reach out: [mozharalhosni@gmail.com](mailto:mozharalhosni@gmail.com)

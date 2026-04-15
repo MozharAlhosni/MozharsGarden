@@ -13,10 +13,6 @@ export default defineConfig({
 			sidebar: 
 			[
 				{
-					label: 'Consultation Services',
-					link: '/consultation_services'
-				},
-				{
 					label: 'Computer Science',
 					autogenerate: { directory: 'Computer_Science'},
 					collapsed: true
@@ -55,6 +51,10 @@ export default defineConfig({
 					label: 'Professional Life',
 					autogenerate: { directory: 'Professional_Life' },
 					collapsed: true
+				},
+				{
+					label: 'Consultation Services',
+					link: '/consultation_services'
 				},
 				{
 					label: 'Psychology',

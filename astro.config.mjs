@@ -13,6 +13,10 @@ export default defineConfig({
 			sidebar: 
 			[
 				{
+					label: 'Consultation Services',
+					slug: 'Consultation_Services'
+				},
+				{
 					label: 'Computer Science',
 					autogenerate: { directory: 'Computer_Science'},
 					collapsed: true

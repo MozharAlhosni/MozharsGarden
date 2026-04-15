@@ -4,6 +4,8 @@ title: Links
 
 # Links
 
+- [https://www.obsidiansecurity.com/sspm-saas-security-posture-management](https://www.obsidiansecurity.com/sspm-saas-security-posture-management)
+- [https://pluto.security/](https://pluto.security/)
 - [https://github.com/hfd3l/cybersecurity-gpts](https://github.com/hfd3l/cybersecurity-gpts)
 - [https://secml.readthedocs.io/en/v0.15/](https://secml.readthedocs.io/en/v0.15/)
 - [https://plot4.ai/library](https://plot4.ai/library)
@@ -25,3 +27,5 @@ title: Links
 - [https://github.com/0x4m4/hexstrike-ai/](https://github.com/0x4m4/hexstrike-ai/)
 - [https://github.com/mbrg/power-pwn](https://github.com/mbrg/power-pwn)
 - [https://embracethered.com/blog/](https://embracethered.com/blog/)
+- [https://github.com/CyberAlbSecOP](https://github.com/CyberAlbSecOP)
+- [https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Prompt%20Injection/README.md](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Prompt%20Injection/README.md)

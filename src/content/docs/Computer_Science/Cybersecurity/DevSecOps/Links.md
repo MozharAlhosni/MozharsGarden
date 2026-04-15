@@ -16,3 +16,7 @@ title: Links
 - [https://github.com/TryCatchHCF/DumpsterFire](https://github.com/TryCatchHCF/DumpsterFire)
 - [https://project-copacetic.github.io/copacetic/website/](https://project-copacetic.github.io/copacetic/website/)
 - [https://notaryproject.dev/](https://notaryproject.dev/)
+- [https://devopscube.com/](https://devopscube.com/)
+- [https://github.com/aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator)
+- [https://learn.microsoft.com/en-us/compliance/assurance/assurance-microsoft-security-development-lifecycle](https://learn.microsoft.com/en-us/compliance/assurance/assurance-microsoft-security-development-lifecycle)
+- [https://www.microsoft.com/en-us/securityengineering/sdl/practices](https://www.microsoft.com/en-us/securityengineering/sdl/practices)

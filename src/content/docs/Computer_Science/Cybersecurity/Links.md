@@ -68,3 +68,5 @@ title: Links
 - [https://www.winsyslog.com/](https://www.winsyslog.com/)
 - [https://blog.trailofbits.com/](https://blog.trailofbits.com/)
 - [https://jerrygamblin.com/](https://jerrygamblin.com/)
+- [https://itnext.io/redtail-cryptominer-first-evidence-of-docker-api-targeting-c061096443f8](https://itnext.io/redtail-cryptominer-first-evidence-of-docker-api-targeting-c061096443f8)
+- [https://mondoo.com/](https://mondoo.com/)

@@ -4,6 +4,8 @@ title: Links
 
 # Links
 
+- [https://hstechdocs.helpsystems.com/manuals/cobaltstrike/current/userguide/content/topics/welcome_main.htm](https://hstechdocs.helpsystems.com/manuals/cobaltstrike/current/userguide/content/topics/welcome_main.htm)
+- [https://notes.benheater.com/shelves](https://notes.benheater.com/shelves)
 - [https://github.com/EdOverflow/can-i-take-over-xyz](https://github.com/EdOverflow/can-i-take-over-xyz)
 - [https://github.com/skelsec/aardwolf](https://github.com/skelsec/aardwolf)
 - [https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-115.pdf](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-115.pdf)

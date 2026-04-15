@@ -9,3 +9,4 @@ title: Links
 - [https://www.opswat.com/](https://www.opswat.com/)
 - [https://www.kiteworks.com/](https://www.kiteworks.com/)
 - [https://cymulate.com/breach-and-attack-simulation/](https://cymulate.com/breach-and-attack-simulation/)
+- [https://www.cycognito.com/](https://www.cycognito.com/)

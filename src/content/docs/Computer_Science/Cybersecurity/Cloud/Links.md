@@ -17,3 +17,5 @@ title: Links
 - [https://github.com/prowler-cloud/prowler](https://github.com/prowler-cloud/prowler)
 - [https://cloudsecurityalliance.org/research/topics/top-threats](https://cloudsecurityalliance.org/research/topics/top-threats)
 - [https://cloudsecurityalliance.org/artifacts/top-threats-to-cloud-computing-2025](https://cloudsecurityalliance.org/artifacts/top-threats-to-cloud-computing-2025)
+- [https://www.sentinelone.com/lp/cloud-security-risk-report/](https://www.sentinelone.com/lp/cloud-security-risk-report/)
+- [https://www.ncsc.gov.uk/collection/cloud](https://www.ncsc.gov.uk/collection/cloud)

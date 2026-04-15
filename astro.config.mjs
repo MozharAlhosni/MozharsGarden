@@ -14,7 +14,7 @@ export default defineConfig({
 			[
 				{
 					label: 'Consultation Services',
-					link: 'Consultation_Services'
+					link: '/Consultation_Services'
 				},
 				{
 					label: 'Computer Science',

@@ -4,6 +4,7 @@ title: Links
 
 # Links
 
+- [https://github.com/FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise)
 - [https://github.com/unslothai/unsloth](https://github.com/unslothai/unsloth)
 - [https://github.com/karpathy/nanoGPT](https://github.com/karpathy/nanoGPT)
 - [https://github.com/Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm9)

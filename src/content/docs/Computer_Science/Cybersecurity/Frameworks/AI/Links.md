@@ -1,0 +1,22 @@
+---
+title: Links
+---
+
+- [https://www.iso.org/standard/56581.html](https://www.iso.org/standard/56581.html)
+- [https://www.iso.org/standard/56582.html](https://www.iso.org/standard/56582.html)
+- [https://artificialintelligenceact.eu/the-act/](https://artificialintelligenceact.eu/the-act/)
+- [https://www.nist.gov/itl/ai-risk-management-framework](https://www.nist.gov/itl/ai-risk-management-framework)
+- [https://csrc.nist.gov/pubs/ir/8596/iprd](https://csrc.nist.gov/pubs/ir/8596/iprd)
+- [https://cloudsecurityalliance.org/artifacts/csa-large-language-model-llm-threats-taxonomy](https://cloudsecurityalliance.org/artifacts/csa-large-language-model-llm-threats-taxonomy)
+- [https://cloudsecurityalliance.org/artifacts/ai-model-risk-management-framework](https://cloudsecurityalliance.org/artifacts/ai-model-risk-management-framework)
+- [https://cloudsecurityalliance.org/artifacts/using-ai-for-offensive-security](https://cloudsecurityalliance.org/artifacts/using-ai-for-offensive-security)
+- [https://cloudsecurityalliance.org/artifacts/securing-llm-backed-systems-essential-authorization-practices](https://cloudsecurityalliance.org/artifacts/securing-llm-backed-systems-essential-authorization-practices)
+- [https://cloudsecurityalliance.org/artifacts/dont-panic-getting-real-about-ai-governance](https://cloudsecurityalliance.org/artifacts/dont-panic-getting-real-about-ai-governance)
+- [https://cloudsecurityalliance.org/artifacts/ai-organizational-responsibilities-governance-risk-management-compliance-and-cultural-aspects](https://cloudsecurityalliance.org/artifacts/ai-organizational-responsibilities-governance-risk-management-compliance-and-cultural-aspects)
+- [https://cloudsecurityalliance.org/artifacts/ai-risk-management-thinking-beyond-regulatory-boundaries](https://cloudsecurityalliance.org/artifacts/ai-risk-management-thinking-beyond-regulatory-boundaries)
+- [https://cloudsecurityalliance.org/artifacts/ai-organizational-responsibilities-ai-tools-and-applications](https://cloudsecurityalliance.org/artifacts/ai-organizational-responsibilities-ai-tools-and-applications)
+- [https://csrc.nist.gov/pubs/ai/100/2/e2023/final](https://csrc.nist.gov/pubs/ai/100/2/e2023/final)
+- [https://www.nist.gov/itl/ai-risk-management-framework](https://www.nist.gov/itl/ai-risk-management-framework)
+- [https://cloudsecurityalliance.org/research/publications?term=artificial-intelligence](https://cloudsecurityalliance.org/research/publications?term=artificial-intelligence)
+- [https://cloudsecurityalliance.org/artifacts/ai-organizational-responsibilities-core-security-responsibilities](https://cloudsecurityalliance.org/artifacts/ai-organizational-responsibilities-core-security-responsibilities)
+- 

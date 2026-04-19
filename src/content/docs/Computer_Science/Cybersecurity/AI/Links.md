@@ -2,9 +2,7 @@
 title: Links
 ---
 
-# Links
-
-- [https://www.obsidiansecurity.com/sspm-saas-security-posture-management](https://www.obsidiansecurity.com/sspm-saas-security-posture-management)
+- [https://csrc.nist.gov/pubs/ai/100/2/e2023/final](https://csrc.nist.gov/pubs/ai/100/2/e2023/final)
 - [https://pluto.security/](https://pluto.security/)
 - [https://github.com/hfd3l/cybersecurity-gpts](https://github.com/hfd3l/cybersecurity-gpts)
 - [https://secml.readthedocs.io/en/v0.15/](https://secml.readthedocs.io/en/v0.15/)

@@ -62,3 +62,6 @@ title: Links
 - [https://github.com/jmpsec/osctrl](https://github.com/jmpsec/osctrl)
 - [https://www.blackhatworld.com/members/](https://www.blackhatworld.com/members/)
 - [https://www.sectigo.com/certificate-manager](https://www.sectigo.com/certificate-manager)
+- [https://center3.com/global-network](https://center3.com/global-network)
+- [https://en.wikipedia.org/wiki/Phreaking](https://en.wikipedia.org/wiki/Phreaking)
+- [https://en.wikipedia.org/wiki/Crypto-shredding](https://en.wikipedia.org/wiki/Crypto-shredding)

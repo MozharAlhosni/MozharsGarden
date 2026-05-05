@@ -4,6 +4,7 @@ title: Links
 
 # Links
 
+- [https://www.bestpractices.dev/en](https://www.bestpractices.dev/en)
 - [https://wiki.sei.cmu.edu/confluence/display/java/SEI+CERT+Oracle+Coding+Standard+for+Java](https://wiki.sei.cmu.edu/confluence/display/java/SEI+CERT+Oracle+Coding+Standard+for+Java)
 - [https://wiki.sei.cmu.edu/confluence/display/seccode/SEI+CERT+Coding+Standards](https://wiki.sei.cmu.edu/confluence/display/seccode/SEI+CERT+Coding+Standards)
 - [https://github.com/tyranid/oleviewdotnet](https://github.com/tyranid/oleviewdotnet)

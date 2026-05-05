@@ -20,3 +20,4 @@ title: Links
 - [https://www.mitre.org/sites/default/files/2021-11/pr-18-1613-ngci-enterprise-threat-model-technical-report.pdf](https://www.mitre.org/sites/default/files/2021-11/pr-18-1613-ngci-enterprise-threat-model-technical-report.pdf)
 - [https://www.mitre.org/sites/default/files/2021-11/pr-18-1631-ngci-system-of-systems-threat-model.pdf](https://www.mitre.org/sites/default/files/2021-11/pr-18-1631-ngci-system-of-systems-threat-model.pdf)
 - [https://versprite.com/blog/what-is-pasta-threat-modeling/](https://versprite.com/blog/what-is-pasta-threat-modeling/)
+- [https://threat-modeling.com/dread-threat-modeling/](https://threat-modeling.com/dread-threat-modeling/)

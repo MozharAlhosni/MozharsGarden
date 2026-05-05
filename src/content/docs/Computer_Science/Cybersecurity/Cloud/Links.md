@@ -2,8 +2,6 @@
 title: Links
 ---
 
-# Links
-
 - [https://detecting.cloud/](https://detecting.cloud/)
 - [https://www.cloudvulndb.org/](https://www.cloudvulndb.org/)
 - [https://csrc.nist.gov/pubs/sp/800/145/final](https://csrc.nist.gov/pubs/sp/800/145/final)

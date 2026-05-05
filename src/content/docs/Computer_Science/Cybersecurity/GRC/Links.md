@@ -4,6 +4,8 @@ title: Links
 
 # Links
 
+- [https://allaboutgrc.com/](https://allaboutgrc.com/)
+- [https://www.eramba.org/grc-templates](https://www.eramba.org/grc-templates)
 - [https://github.com/Arudjreis/awesome-security-GRC](https://github.com/Arudjreis/awesome-security-GRC)
 - [https://www.infotech.com/browse/security/security-risk-strategy-governance/governance-risk-compliance](https://www.infotech.com/browse/security/security-risk-strategy-governance/governance-risk-compliance)
 - [https://www.itil.com/](https://www.itil.com/)

@@ -2,8 +2,13 @@
 title: Links
 ---
 
-# Links
-
+- [https://github.com/spinnaker/spinnaker](https://github.com/spinnaker/spinnaker)
+- [https://www.devx.com/terms/devsecops/](https://www.devx.com/terms/devsecops/)
+- [https://maturitymodel.cncf.io/](https://maturitymodel.cncf.io/)
+- [https://owaspsamm.org/](https://owaspsamm.org/)
+- [https://www.devsecops.org/](https://www.devsecops.org/)
+- [https://netflixtechblog.com/full-cycle-developers-at-netflix-a08c31f83249](https://netflixtechblog.com/full-cycle-developers-at-netflix-a08c31f83249)
+- [https://dsomm.owasp.org/circular-heatmap](https://dsomm.owasp.org/circular-heatmap)
 - [Trivy](https://trivy.dev/latest/)
 - [DefectDojo/django-DefectDojo: DevSecOps, ASPM, Vulnerability Management. All on one platform.](https://github.com/DefectDojo/django-DefectDojo)
 - [Introduction | Dependency-Track](https://docs.dependencytrack.org/)

@@ -65,3 +65,5 @@ title: Links
 - [https://center3.com/global-network](https://center3.com/global-network)
 - [https://en.wikipedia.org/wiki/Phreaking](https://en.wikipedia.org/wiki/Phreaking)
 - [https://en.wikipedia.org/wiki/Crypto-shredding](https://en.wikipedia.org/wiki/Crypto-shredding)
+- [https://remotedesktop.google.com/](https://remotedesktop.google.com/)
+- [https://www.psdevwiki.com/ps3/Main_Page](https://www.psdevwiki.com/ps3/Main_Page)

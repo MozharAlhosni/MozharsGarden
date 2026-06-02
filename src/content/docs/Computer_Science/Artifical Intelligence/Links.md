@@ -4,6 +4,7 @@ title: Links
 
 # Links
 
+- [https://hey.pi.ai/](https://hey.pi.ai/)
 - [https://github.com/FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise)
 - [https://github.com/unslothai/unsloth](https://github.com/unslothai/unsloth)
 - [https://github.com/karpathy/nanoGPT](https://github.com/karpathy/nanoGPT)

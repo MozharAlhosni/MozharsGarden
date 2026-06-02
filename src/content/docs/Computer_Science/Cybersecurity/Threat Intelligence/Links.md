@@ -10,7 +10,13 @@ title: Links
 
 ## Tactical and Operational
 
+- [https://censys.com/](https://censys.com/)
+- [https://platform.censys.io/home](https://platform.censys.io/home)
+- [https://krebsonsecurity.com/](https://krebsonsecurity.com/)
+- [https://grahamcluley.com/writing/](https://grahamcluley.com/writing/)
+- [https://www.trmlabs.com/](https://www.trmlabs.com/)
 - [https://www.cisa.gov/ais](https://www.cisa.gov/ais)
+- [https://www.circl.lu/services/misp-malware-information-sharing-platform/](https://www.circl.lu/services/misp-malware-information-sharing-platform/)
 - [https://cvefeed.io/](https://cvefeed.io/)
 - [https://oasis-open.github.io/cti-documentation/](https://oasis-open.github.io/cti-documentation/)
 - [https://stack.watch/](https://stack.watch/)

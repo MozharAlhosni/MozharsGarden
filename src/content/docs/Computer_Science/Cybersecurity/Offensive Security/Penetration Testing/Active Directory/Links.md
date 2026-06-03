@@ -4,6 +4,8 @@ title: Links
 
 # Links
 
+- [https://github.com/darkoperator/mimikatz-missing-manual](https://github.com/darkoperator/mimikatz-missing-manual)
+- [https://darkoperator.github.io/mimikatz-missing-manual/](https://darkoperator.github.io/mimikatz-missing-manual/)
 - [https://github.com/netblue30/firejail](https://github.com/netblue30/firejail)
 - [https://github.com/micahvandeusen/gMSADumper](https://github.com/micahvandeusen/gMSADumper)
 - [https://zer1t0.gitlab.io/posts/attacking_ad/](https://zer1t0.gitlab.io/posts/attacking_ad/)

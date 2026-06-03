@@ -10,6 +10,8 @@ title: Links
 - [https://github.com/karpathy/nanoGPT](https://github.com/karpathy/nanoGPT)
 - [https://github.com/Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm9)
 - [https://anythingllm.com/](https://anythingllm.com/)
+- [https://www.midjourney.com/home](https://www.midjourney.com/home)
+- [https://www.imagine.art/](https://www.imagine.art/)
 - [https://github.com/meta-pytorch/torchtune](https://github.com/meta-pytorch/torchtune)
 - [https://rytr.me/](https://rytr.me/)
 - [https://lmarena.ai/](https://lmarena.ai/)

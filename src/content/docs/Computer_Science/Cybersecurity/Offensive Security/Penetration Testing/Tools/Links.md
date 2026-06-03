@@ -19,7 +19,6 @@ title: Links
 - [https://github.com/outflanknl/seccomp-notify-injection](https://github.com/outflanknl/seccomp-notify-injection)
 - [https://exegol.com/](https://exegol.com/)
 - [https://github.com/ghostsecurity/reaper](https://github.com/ghostsecurity/reaper)
-- [https://treco.readthedocs.io/en/latest/index.html](https://treco.readthedocs.io/en/latest/index.html)
 - [https://fly.io/blog/code-and-let-live/](https://fly.io/blog/code-and-let-live/)
 - [https://octopwn.com/](https://octopwn.com/)
 - [https://docs.octopwn.com/](https://docs.octopwn.com/)

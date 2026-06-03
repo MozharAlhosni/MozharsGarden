@@ -15,6 +15,14 @@ title: Links
 - [https://atlas.mitre.org/matrices/ATLAS](https://atlas.mitre.org/matrices/ATLAS)
 - [https://openai.com/index/introducing-aardvark/](https://openai.com/index/introducing-aardvark/)
 
+# Literature
+
+- [https://arxiv.org/abs/2512.09882](https://arxiv.org/abs/2512.09882)
+- [https://csrc.nist.gov/pubs/ai/100/2/e2023/final](https://csrc.nist.gov/pubs/ai/100/2/e2023/final)
+- [https://www.dhs.gov/sites/default/files/publications/increasing_threats_of_deepfake_identities_0.pdf](https://www.dhs.gov/sites/default/files/publications/increasing_threats_of_deepfake_identities_0.pdf)
+- [https://crescendo-the-multiturn-jailbreak.github.io/](https://crescendo-the-multiturn-jailbreak.github.io/)
+- [https://crescendo-the-multiturn-jailbreak.github.io/assets/pdf/CrescendoFullPaper.pdf](https://crescendo-the-multiturn-jailbreak.github.io/assets/pdf/CrescendoFullPaper.pdf)
+
 # Misc
 
 - [https://embracethered.com/blog/](https://embracethered.com/blog/)
@@ -26,6 +34,7 @@ title: Links
 
 # Tools
 
+- [https://github.com/praetorian-inc/augustus](https://github.com/praetorian-inc/augustus)
 - [https://github.com/noperator/slice](https://github.com/noperator/slice)
 - [https://github.com/tailwindlabs/tailwindcss.com/pull/2388](https://github.com/tailwindlabs/tailwindcss.com/pull/2388)
 - [https://github.com/0x4m4/hexstrike-ai/](https://github.com/0x4m4/hexstrike-ai/)
@@ -39,8 +48,3 @@ title: Links
 
 - [https://airisk.mit.edu/](https://airisk.mit.edu/)
 - [https://www.dhs.gov/sites/default/files/publications/increasing_threats_of_deepfake_identities_0.pdf](https://www.dhs.gov/sites/default/files/publications/increasing_threats_of_deepfake_identities_0.pdf)
-
-# Literature
-
-- [https://arxiv.org/abs/2512.09882](https://arxiv.org/abs/2512.09882)
-- [https://csrc.nist.gov/pubs/ai/100/2/e2023/final](https://csrc.nist.gov/pubs/ai/100/2/e2023/final)

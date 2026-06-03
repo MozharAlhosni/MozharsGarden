@@ -4,6 +4,7 @@ title: Links
 
 # Links
 
+- [https://notes.incendium.rocks/pentesting-notes](https://notes.incendium.rocks/pentesting-notes)
 - [https://krypton.ninja/](https://krypton.ninja/)
 - [https://pretengineer.au/](https://pretengineer.au/)
 - [https://panosoikogr.github.io/](https://panosoikogr.github.io/)

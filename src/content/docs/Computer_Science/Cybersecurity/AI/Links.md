@@ -4,6 +4,7 @@ title: Links
 
 # GRC
 
+- [https://airisk.mit.edu/](https://airisk.mit.edu/)
 - [https://www.nist.gov/itl/ai-risk-management-framework](https://www.nist.gov/itl/ai-risk-management-framework)
 - [https://airc.nist.gov/technical-reports/](https://airc.nist.gov/technical-reports/)
 - [https://plot4.ai/library](https://plot4.ai/library)
@@ -22,11 +23,13 @@ title: Links
 - [https://www.dhs.gov/sites/default/files/publications/increasing_threats_of_deepfake_identities_0.pdf](https://www.dhs.gov/sites/default/files/publications/increasing_threats_of_deepfake_identities_0.pdf)
 - [https://crescendo-the-multiturn-jailbreak.github.io/](https://crescendo-the-multiturn-jailbreak.github.io/)
 - [https://crescendo-the-multiturn-jailbreak.github.io/assets/pdf/CrescendoFullPaper.pdf](https://crescendo-the-multiturn-jailbreak.github.io/assets/pdf/CrescendoFullPaper.pdf)
+- [https://www.dhs.gov/sites/default/files/publications/increasing_threats_of_deepfake_identities_0.pdf](https://www.dhs.gov/sites/default/files/publications/increasing_threats_of_deepfake_identities_0.pdf)
 
 # Misc
 
 - [https://embracethered.com/blog/](https://embracethered.com/blog/)
 - [https://pluto.security/](https://pluto.security/)
+- [https://jiep.github.io/offensive-ai-compilation/](https://jiep.github.io/offensive-ai-compilation/)
 - [https://github.com/hfd3l/cybersecurity-gpts](https://github.com/hfd3l/cybersecurity-gpts)
 - [https://secml.readthedocs.io/en/v0.15/](https://secml.readthedocs.io/en/v0.15/)
 - [https://www.microsoft.com/en-us/security/blog/2025/11/07/whisper-leak-a-novel-side-channel-cyberattack-on-remote-language-models/](https://www.microsoft.com/en-us/security/blog/2025/11/07/whisper-leak-a-novel-side-channel-cyberattack-on-remote-language-models/)
@@ -45,6 +48,4 @@ title: Links
 - [Home | Substack](https://substack.com/home/post/p-156004330)
 - [https://github.com/CyberAlbSecOP](https://github.com/CyberAlbSecOP)
 - [https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Prompt%20Injection/README.md](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Prompt%20Injection/README.md)
-
-- [https://airisk.mit.edu/](https://airisk.mit.edu/)
-- [https://www.dhs.gov/sites/default/files/publications/increasing_threats_of_deepfake_identities_0.pdf](https://www.dhs.gov/sites/default/files/publications/increasing_threats_of_deepfake_identities_0.pdf)
+- [https://github.com/Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss)

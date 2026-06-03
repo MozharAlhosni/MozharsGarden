@@ -11,6 +11,7 @@ title: Links
 ## Tactical and Operational
 
 - [https://censys.com/](https://censys.com/)
+- [https://github.com/opencti-platform/opencti](https://github.com/opencti-platform/opencti)
 - [https://platform.censys.io/home](https://platform.censys.io/home)
 - [https://krebsonsecurity.com/](https://krebsonsecurity.com/)
 - [https://grahamcluley.com/writing/](https://grahamcluley.com/writing/)

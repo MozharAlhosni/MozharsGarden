@@ -70,3 +70,4 @@ title: Links
 - [https://jerrygamblin.com/](https://jerrygamblin.com/)
 - [https://itnext.io/redtail-cryptominer-first-evidence-of-docker-api-targeting-c061096443f8](https://itnext.io/redtail-cryptominer-first-evidence-of-docker-api-targeting-c061096443f8)
 - [https://mondoo.com/](https://mondoo.com/)
+- [https://github.com/THUYimingLi/backdoor-learning-resources](https://github.com/THUYimingLi/backdoor-learning-resources)

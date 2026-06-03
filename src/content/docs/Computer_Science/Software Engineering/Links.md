@@ -39,3 +39,4 @@ title: Links
 - [https://www.martinfowler.com/](https://www.martinfowler.com/)
 - [https://pear.php.net/index.php](https://pear.php.net/index.php)
 - [https://thorteaches.com/glossary/maintenance-hook/](https://thorteaches.com/glossary/maintenance-hook/)
+- [https://nvie.com/](https://nvie.com/)

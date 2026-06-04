@@ -67,3 +67,4 @@ title: Links
 - [https://en.wikipedia.org/wiki/Crypto-shredding](https://en.wikipedia.org/wiki/Crypto-shredding)
 - [https://remotedesktop.google.com/](https://remotedesktop.google.com/)
 - [https://www.psdevwiki.com/ps3/Main_Page](https://www.psdevwiki.com/ps3/Main_Page)
+- [https://cv.iptc.org/newscodes](https://cv.iptc.org/newscodes)

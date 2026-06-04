@@ -15,6 +15,8 @@ title: Links
 - [https://aivillage.org/](https://aivillage.org/)
 - [https://atlas.mitre.org/matrices/ATLAS](https://atlas.mitre.org/matrices/ATLAS)
 - [https://openai.com/index/introducing-aardvark/](https://openai.com/index/introducing-aardvark/)
+- [https://biasbench.com/](https://biasbench.com/)
+- [https://www.aigl.blog/](https://www.aigl.blog/)
 
 # Literature
 
@@ -37,6 +39,7 @@ title: Links
 
 # Tools
 
+- [https://github.com/trailofbits/fickling](https://github.com/trailofbits/fickling)
 - [https://github.com/praetorian-inc/augustus](https://github.com/praetorian-inc/augustus)
 - [https://github.com/noperator/slice](https://github.com/noperator/slice)
 - [https://github.com/tailwindlabs/tailwindcss.com/pull/2388](https://github.com/tailwindlabs/tailwindcss.com/pull/2388)

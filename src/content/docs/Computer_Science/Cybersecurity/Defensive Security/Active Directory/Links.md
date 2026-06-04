@@ -8,3 +8,5 @@ title: Links
 - [https://www.semperis.com/purple-knight/](https://www.semperis.com/purple-knight/)
 - [https://www.semperis.com/forest-druid/](https://www.semperis.com/forest-druid/)
 - [https://www.pingcastle.com/](https://www.pingcastle.com/)
+- [https://github.com/davehull/kansa](https://github.com/davehull/kansa)
+- [https://garethrouse.com/categories/incident-response/](https://garethrouse.com/categories/incident-response/)

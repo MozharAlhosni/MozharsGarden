@@ -12,3 +12,5 @@ title: Links
 - [https://strangebee.com/cortex/](https://strangebee.com/cortex/)
 - [https://tryaisoc.com/](https://tryaisoc.com/)
 - [https://github.com/cyb3rxp/awesome-soc](https://github.com/cyb3rxp/awesome-soc)
+- [https://shuffler.io/](https://shuffler.io/)
+- [https://github.com/shuffle/shuffle](https://github.com/shuffle/shuffle)

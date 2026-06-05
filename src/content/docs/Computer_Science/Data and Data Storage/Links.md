@@ -18,3 +18,4 @@ title: Links
 - [https://openrefine.org/](https://openrefine.org/)
 - [https://www.fpc.gov/resources/fipps/](https://www.fpc.gov/resources/fipps/)
 - [https://dvc.org/](https://dvc.org/)
+- [https://en.wikipedia.org/wiki/EDIFACT](https://en.wikipedia.org/wiki/EDIFACT)

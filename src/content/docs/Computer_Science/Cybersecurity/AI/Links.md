@@ -17,6 +17,7 @@ title: Links
 - [https://openai.com/index/introducing-aardvark/](https://openai.com/index/introducing-aardvark/)
 - [https://biasbench.com/](https://biasbench.com/)
 - [https://www.aigl.blog/](https://www.aigl.blog/)
+- [https://www.onetrust.com/solutions/ai-governance/](https://www.onetrust.com/solutions/ai-governance/)
 
 # Literature
 
@@ -26,9 +27,12 @@ title: Links
 - [https://crescendo-the-multiturn-jailbreak.github.io/](https://crescendo-the-multiturn-jailbreak.github.io/)
 - [https://crescendo-the-multiturn-jailbreak.github.io/assets/pdf/CrescendoFullPaper.pdf](https://crescendo-the-multiturn-jailbreak.github.io/assets/pdf/CrescendoFullPaper.pdf)
 - [https://www.dhs.gov/sites/default/files/publications/increasing_threats_of_deepfake_identities_0.pdf](https://www.dhs.gov/sites/default/files/publications/increasing_threats_of_deepfake_identities_0.pdf)
+- [https://cdn.openai.com/pdf/18a02b5d-6b67-4cec-ab64-68cdfbddebcd/preparedness-framework-v2.pdf](https://cdn.openai.com/pdf/18a02b5d-6b67-4cec-ab64-68cdfbddebcd/preparedness-framework-v2.pdf)
+- [https://openai.com/research/index/](https://openai.com/research/index/)
 
 # Misc
 
+- [https://rnsaffn.com/poison3/](https://rnsaffn.com/poison3/)
 - [https://embracethered.com/blog/](https://embracethered.com/blog/)
 - [https://pluto.security/](https://pluto.security/)
 - [https://jiep.github.io/offensive-ai-compilation/](https://jiep.github.io/offensive-ai-compilation/)
@@ -52,3 +56,4 @@ title: Links
 - [https://github.com/CyberAlbSecOP](https://github.com/CyberAlbSecOP)
 - [https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Prompt%20Injection/README.md](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Prompt%20Injection/README.md)
 - [https://github.com/Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss)
+- [https://github.com/noperator/siftrank](https://github.com/noperator/siftrank)

@@ -57,3 +57,4 @@ title: Links
 - [https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Prompt%20Injection/README.md](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Prompt%20Injection/README.md)
 - [https://github.com/Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss)
 - [https://github.com/noperator/siftrank](https://github.com/noperator/siftrank)
+- [https://github.com/codescan-ai/codescan](https://github.com/codescan-ai/codescan)

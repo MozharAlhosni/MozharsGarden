@@ -18,3 +18,4 @@ title: Links
 - [https://www.sentinelone.com/lp/cloud-security-risk-report/](https://www.sentinelone.com/lp/cloud-security-risk-report/)
 - [https://www.ncsc.gov.uk/collection/cloud](https://www.ncsc.gov.uk/collection/cloud)
 - [https://www.obsidiansecurity.com/sspm-saas-security-posture-management](https://www.obsidiansecurity.com/sspm-saas-security-posture-management)
+- [https://www.zeroday.cloud/](https://www.zeroday.cloud/)

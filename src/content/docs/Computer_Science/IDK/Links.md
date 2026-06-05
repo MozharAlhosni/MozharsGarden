@@ -68,3 +68,6 @@ title: Links
 - [https://remotedesktop.google.com/](https://remotedesktop.google.com/)
 - [https://www.psdevwiki.com/ps3/Main_Page](https://www.psdevwiki.com/ps3/Main_Page)
 - [https://cv.iptc.org/newscodes](https://cv.iptc.org/newscodes)
+- [https://learn.microsoft.com/en-us/visualstudio/vsto/office-solutions-development-overview-vsto?view=visualstudio](https://learn.microsoft.com/en-us/visualstudio/vsto/office-solutions-development-overview-vsto?view=visualstudio)
+- [https://www.dyalog.com/](https://www.dyalog.com/)
+- [https://mastering.dyalog.com/README.html](https://mastering.dyalog.com/README.html)

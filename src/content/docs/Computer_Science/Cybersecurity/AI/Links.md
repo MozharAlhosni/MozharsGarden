@@ -18,6 +18,7 @@ title: Links
 - [https://biasbench.com/](https://biasbench.com/)
 - [https://www.aigl.blog/](https://www.aigl.blog/)
 - [https://www.onetrust.com/solutions/ai-governance/](https://www.onetrust.com/solutions/ai-governance/)
+- [https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401689](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401689)
 
 # Literature
 
@@ -58,3 +59,4 @@ title: Links
 - [https://github.com/Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss)
 - [https://github.com/noperator/siftrank](https://github.com/noperator/siftrank)
 - [https://github.com/codescan-ai/codescan](https://github.com/codescan-ai/codescan)
+- [https://www.cyberark.com/resources/threat-research-blog/bytecodellm-privacy-in-the-llm-era-byte-code-to-source-code](https://www.cyberark.com/resources/threat-research-blog/bytecodellm-privacy-in-the-llm-era-byte-code-to-source-code)

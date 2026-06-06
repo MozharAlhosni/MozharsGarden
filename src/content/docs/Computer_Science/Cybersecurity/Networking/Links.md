@@ -11,3 +11,5 @@ title: Links
 - [https://en.wikipedia.org/wiki/AS2](https://en.wikipedia.org/wiki/AS2)
 - [https://en.wikipedia.org/wiki/Value-added_network](https://en.wikipedia.org/wiki/Value-added_network)
 - [https://ecgrid.com/as2-part-1-what-is-it/](https://ecgrid.com/as2-part-1-what-is-it/)
+- [https://yurisk.info/category/fortigate.html](https://yurisk.info/category/fortigate.html)
+- [https://www.fortiguard.com/psirt](https://www.fortiguard.com/psirt)

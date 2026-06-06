@@ -1,0 +1,26 @@
+---
+title: Tools
+---
+
+- [https://github.com/promptfoo/promptfoo](https://github.com/promptfoo/promptfoo)
+- [https://www.promptfoo.dev/docs/intro/](https://www.promptfoo.dev/docs/intro/)
+- [https://github.com/NVIDIA/garak](https://github.com/NVIDIA/garak)
+- [https://docs.garak.ai/garak](https://docs.garak.ai/garak)
+- [https://github.com/usnistgov/dioptra](https://github.com/usnistgov/dioptra)
+- [https://github.com/microsoft/PyRIT](https://github.com/microsoft/PyRIT)
+- [https://github.com/trailofbits/fickling](https://github.com/trailofbits/fickling)
+- [https://github.com/praetorian-inc/augustus](https://github.com/praetorian-inc/augustus)
+- [https://github.com/noperator/slice](https://github.com/noperator/slice)
+- [https://github.com/tailwindlabs/tailwindcss.com/pull/2388](https://github.com/tailwindlabs/tailwindcss.com/pull/2388)
+- [https://github.com/0x4m4/hexstrike-ai/](https://github.com/0x4m4/hexstrike-ai/)
+- [https://github.com/mbrg/power-pwn](https://github.com/mbrg/power-pwn)
+- [https://azure.github.io/PyRIT/index.html](https://azure.github.io/PyRIT/index.html)
+- [https://github.com/knostic/OpenAnt](https://github.com/knostic/OpenAnt)
+- [https://kai-greshake.de/](https://kai-greshake.de/)
+- [Home | Substack](https://substack.com/home/post/p-156004330)
+- [https://github.com/CyberAlbSecOP](https://github.com/CyberAlbSecOP)
+- [https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Prompt%20Injection/README.md](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Prompt%20Injection/README.md)
+- [https://github.com/Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss)
+- [https://github.com/noperator/siftrank](https://github.com/noperator/siftrank)
+- [https://github.com/codescan-ai/codescan](https://github.com/codescan-ai/codescan)
+- [https://www.cyberark.com/resources/threat-research-blog/bytecodellm-privacy-in-the-llm-era-byte-code-to-source-code](https://www.cyberark.com/resources/threat-research-blog/bytecodellm-privacy-in-the-llm-era-byte-code-to-source-code)

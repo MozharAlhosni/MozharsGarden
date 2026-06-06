@@ -20,16 +20,7 @@ title: Links
 - [https://www.onetrust.com/solutions/ai-governance/](https://www.onetrust.com/solutions/ai-governance/)
 - [https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401689](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401689)
 
-# Literature
 
-- [https://arxiv.org/abs/2512.09882](https://arxiv.org/abs/2512.09882)
-- [https://csrc.nist.gov/pubs/ai/100/2/e2023/final](https://csrc.nist.gov/pubs/ai/100/2/e2023/final)
-- [https://www.dhs.gov/sites/default/files/publications/increasing_threats_of_deepfake_identities_0.pdf](https://www.dhs.gov/sites/default/files/publications/increasing_threats_of_deepfake_identities_0.pdf)
-- [https://crescendo-the-multiturn-jailbreak.github.io/](https://crescendo-the-multiturn-jailbreak.github.io/)
-- [https://crescendo-the-multiturn-jailbreak.github.io/assets/pdf/CrescendoFullPaper.pdf](https://crescendo-the-multiturn-jailbreak.github.io/assets/pdf/CrescendoFullPaper.pdf)
-- [https://www.dhs.gov/sites/default/files/publications/increasing_threats_of_deepfake_identities_0.pdf](https://www.dhs.gov/sites/default/files/publications/increasing_threats_of_deepfake_identities_0.pdf)
-- [https://cdn.openai.com/pdf/18a02b5d-6b67-4cec-ab64-68cdfbddebcd/preparedness-framework-v2.pdf](https://cdn.openai.com/pdf/18a02b5d-6b67-4cec-ab64-68cdfbddebcd/preparedness-framework-v2.pdf)
-- [https://openai.com/research/index/](https://openai.com/research/index/)
 
 # Misc
 
@@ -41,22 +32,3 @@ title: Links
 - [https://secml.readthedocs.io/en/v0.15/](https://secml.readthedocs.io/en/v0.15/)
 - [https://www.microsoft.com/en-us/security/blog/2025/11/07/whisper-leak-a-novel-side-channel-cyberattack-on-remote-language-models/](https://www.microsoft.com/en-us/security/blog/2025/11/07/whisper-leak-a-novel-side-channel-cyberattack-on-remote-language-models/)
 - [https://www.ncsc.gov.uk/blog-post/prompt-injection-is-not-sql-injection](https://www.ncsc.gov.uk/blog-post/prompt-injection-is-not-sql-injection)
-
-# Tools
-
-- [https://github.com/trailofbits/fickling](https://github.com/trailofbits/fickling)
-- [https://github.com/praetorian-inc/augustus](https://github.com/praetorian-inc/augustus)
-- [https://github.com/noperator/slice](https://github.com/noperator/slice)
-- [https://github.com/tailwindlabs/tailwindcss.com/pull/2388](https://github.com/tailwindlabs/tailwindcss.com/pull/2388)
-- [https://github.com/0x4m4/hexstrike-ai/](https://github.com/0x4m4/hexstrike-ai/)
-- [https://github.com/mbrg/power-pwn](https://github.com/mbrg/power-pwn)
-- [https://azure.github.io/PyRIT/index.html](https://azure.github.io/PyRIT/index.html)
-- [https://github.com/knostic/OpenAnt](https://github.com/knostic/OpenAnt)
-- [https://kai-greshake.de/](https://kai-greshake.de/)
-- [Home | Substack](https://substack.com/home/post/p-156004330)
-- [https://github.com/CyberAlbSecOP](https://github.com/CyberAlbSecOP)
-- [https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Prompt%20Injection/README.md](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Prompt%20Injection/README.md)
-- [https://github.com/Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss)
-- [https://github.com/noperator/siftrank](https://github.com/noperator/siftrank)
-- [https://github.com/codescan-ai/codescan](https://github.com/codescan-ai/codescan)
-- [https://www.cyberark.com/resources/threat-research-blog/bytecodellm-privacy-in-the-llm-era-byte-code-to-source-code](https://www.cyberark.com/resources/threat-research-blog/bytecodellm-privacy-in-the-llm-era-byte-code-to-source-code)

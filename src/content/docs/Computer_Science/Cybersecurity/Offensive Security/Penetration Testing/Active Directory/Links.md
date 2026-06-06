@@ -4,6 +4,7 @@ title: Links
 
 # Links
 
+- [https://github.com/capture0x/AdStrike](https://github.com/capture0x/AdStrike)
 - [https://github.com/darkoperator/mimikatz-missing-manual](https://github.com/darkoperator/mimikatz-missing-manual)
 - [https://darkoperator.github.io/mimikatz-missing-manual/](https://darkoperator.github.io/mimikatz-missing-manual/)
 - [https://github.com/netblue30/firejail](https://github.com/netblue30/firejail)

@@ -22,7 +22,7 @@ Just a tech.
 ## Technical Hobbies & Projects
 
 - **.NET Development** — Highly proficient in C#, focusing on _MVC APIs_, _Minimal APIs_, and _Blazor_, with a strong emphasis on **secure coding practices**.   
-- **Hack The Box** — [Hack The Box Profile](https://app.hackthebox.com/profile/927345). Developed two custom machines: _Blazorized_ and _TargetedOps_.  
+- **Hack The Box** — [Hack The Box Profile](https://app.hackthebox.com/profile/927345). Developed two custom machines: _Blazorized_ and _TargetedOps_ (yet to be accepted/released).
 - **Book Reviews** — Reviewed books for **Manning Publications**, including:
   - _Secure APIs_  
   - _Acing the ISC2 Cybersecurity Certification_  

@@ -37,7 +37,7 @@ Below you can find my CV:
   src="/mozhars_cv.pdf" 
   style="
     width: 100%;
-    height: min(100vh, 1000px);
+    height: 2000px;
     border: 2px solid #0c91e3ff; 
     border-radius: 8px;
     ">

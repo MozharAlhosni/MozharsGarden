@@ -4,6 +4,7 @@ title: Links
 
 # Links
 
+- [https://github.com/umami-software/umami](https://github.com/umami-software/umami)
 - [https://ceno.app/en/index.html?](https://ceno.app/en/index.html?)
 - [https://datapatrol.com/](https://datapatrol.com/)
 - [https://www.enzuzo.com/](https://www.enzuzo.com/)
@@ -19,3 +20,4 @@ title: Links
 - [https://www.fpc.gov/resources/fipps/](https://www.fpc.gov/resources/fipps/)
 - [https://www.rfc-editor.org/rfc/rfc1087.html](https://www.rfc-editor.org/rfc/rfc1087.html)
 - [https://gdpr-info.eu/](https://gdpr-info.eu/)
+- [https://www.danielsolove.com/understanding-privacy/](https://www.danielsolove.com/understanding-privacy/)

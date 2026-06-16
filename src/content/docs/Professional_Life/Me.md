@@ -36,6 +36,5 @@ Below you can find my CV:
 <embed
   src="/mozhars_cv.pdf"
   type="application/pdf"
-  width="100%"
-  height="2000px"
+  style="width:100%; height:100vh; border:2px solid #0c91e3ff;border-radius:8px;"
 />

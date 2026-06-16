@@ -33,12 +33,9 @@ Just a tech.
 
 Below you can find my CV:
 
-<iframe 
-  src="/mozhars_cv.pdf" 
-  style="
-    width: 100%;
-    height: 2000px;
-    border: 2px solid #0c91e3ff; 
-    border-radius: 8px;
-    ">
-</iframe>
+<embed
+  src="/mozhars_cv.pdf"
+  type="application/pdf"
+  width="100%"
+  height="2000px"
+/>

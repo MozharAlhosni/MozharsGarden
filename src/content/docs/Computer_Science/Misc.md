@@ -2,8 +2,6 @@
 title: Misc
 ---
 
-# Misc
-
 To get the long and short names of paths in windows:
 
 ```powershell

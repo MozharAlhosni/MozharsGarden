@@ -2,8 +2,7 @@
 title: Links
 ---
 
-# Links
-
+- [https://mll.sh/](https://mll.sh/)
 - [https://notes.incendium.rocks/pentesting-notes](https://notes.incendium.rocks/pentesting-notes)
 - [https://krypton.ninja/](https://krypton.ninja/)
 - [https://pretengineer.au/](https://pretengineer.au/)

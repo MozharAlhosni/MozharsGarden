@@ -2,8 +2,7 @@
 title: Links
 ---
 
-# Links
-
+- [https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/](https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/)
 - [https://hackviser.com/tactics/pentesting/services/rpcbind](https://hackviser.com/tactics/pentesting/services/rpcbind)
 - [https://github.com/xpn/RpcEnum](https://github.com/xpn/RpcEnum)
 - [https://github.com/s4vitar/rpcenum](https://github.com/s4vitar/rpcenum)

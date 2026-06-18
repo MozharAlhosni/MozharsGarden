@@ -24,3 +24,4 @@ title: Links
 - [https://docs.octopwn.com/](https://docs.octopwn.com/)
 - [https://github.com/brightio/penelope](https://github.com/brightio/penelope)
 - [https://github.com/kkrypt0nn/wordlists](https://github.com/kkrypt0nn/wordlists)
+- [https://github.com/strikoder/OffensiveSecurityScripts](https://github.com/strikoder/OffensiveSecurityScripts)

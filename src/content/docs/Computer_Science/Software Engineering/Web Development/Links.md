@@ -5,6 +5,7 @@ title: Links
 # Links
 
 - [https://kinsta.com/](https://kinsta.com/)
+- [https://paseto.io/](https://paseto.io/)
 - [https://htmlreference.io/](https://htmlreference.io/)
 - [https://pagespeed.web.dev/](https://pagespeed.web.dev/)
 - [https://infra.spec.whatwg.org/#biblio-rfc2119](https://infra.spec.whatwg.org/#biblio-rfc2119)

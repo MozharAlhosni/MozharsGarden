@@ -7,6 +7,8 @@ title: Red Teaming
 - [Ansible Playbook Privilege Escalation | Linux Privilege Escalation](https://morgan-bin-bash.gitbook.io/linux-privilege-escalation)
 - [https://gtfobins.org/](https://gtfobins.org/)
 - [https://github.com/vari-sh/RedTeamGrimoire](https://github.com/vari-sh/RedTeamGrimoire)
+- [https://www.expireddomains.net/](https://www.expireddomains.net/)
+- 
 - [https://ihebski.github.io/A-Red-Teamer-diaries/](https://ihebski.github.io/A-Red-Teamer-diaries/)
 - [https://angryip.org/](https://angryip.org/)
 - [https://klezvirus.github.io/](https://klezvirus.github.io/)

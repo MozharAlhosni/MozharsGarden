@@ -51,3 +51,4 @@ title: Red Teaming
 - [https://github.com/Binject/universal](https://github.com/Binject/universal)
 - [https://github.com/qsecure-labs/overlord](https://github.com/qsecure-labs/overlord)
 - [https://github.com/microsoft/windows-rs](https://github.com/microsoft/windows-rs)
+- [https://github.com/bishopfox/unredacter](https://github.com/bishopfox/unredacter)

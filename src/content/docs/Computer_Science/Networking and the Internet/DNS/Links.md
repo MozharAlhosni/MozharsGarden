@@ -2,8 +2,9 @@
 title: Links
 ---
 
-# Links
-
+- [http://unixwiz.net/techtips/iguide-kaminsky-dns-vuln.html](http://unixwiz.net/techtips/iguide-kaminsky-dns-vuln.html)
+- [https://datatracker.ietf.org/doc/html/draft-vixie-dnsext-dns0x20-00](https://datatracker.ietf.org/doc/html/draft-vixie-dnsext-dns0x20-00)
+- [https://hypothetical.me/short/dns-0x20/](https://hypothetical.me/short/dns-0x20/)
 - [https://doc.powerdns.com/authoritative/index.html](https://doc.powerdns.com/authoritative/index.html)
 - [http://dnscookie.com/](http://dnscookie.com/)
 - [https://www.dotmagazine.online/issues/digital-responsibility-and-sustainability/dns-cookies-transaction-mechanism](https://www.dotmagazine.online/issues/digital-responsibility-and-sustainability/dns-cookies-transaction-mechanism)

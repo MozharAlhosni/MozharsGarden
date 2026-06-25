@@ -19,3 +19,5 @@ title: Links
 - [https://www.fpc.gov/resources/fipps/](https://www.fpc.gov/resources/fipps/)
 - [https://dvc.org/](https://dvc.org/)
 - [https://en.wikipedia.org/wiki/EDIFACT](https://en.wikipedia.org/wiki/EDIFACT)
+- [https://clickhouse.com/](https://clickhouse.com/)
+- [https://github.com/airbytehq/airbyte](https://github.com/airbytehq/airbyte)

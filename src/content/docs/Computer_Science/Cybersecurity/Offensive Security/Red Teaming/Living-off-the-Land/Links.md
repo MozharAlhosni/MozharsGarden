@@ -23,3 +23,5 @@ title: Links
 - [https://github.com/magisterquis/lutlol](https://github.com/magisterquis/lutlol)
 - [TLDRBins](https://tldrbins.github.io/)
 - [WADComs](https://wadcoms.github.io/)
+- [https://lolfsaas.github.io/](https://lolfsaas.github.io/)
+- [https://lolexfil.github.io/](https://lolexfil.github.io/)

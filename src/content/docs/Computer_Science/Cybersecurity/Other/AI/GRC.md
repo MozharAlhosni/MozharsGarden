@@ -1,8 +1,6 @@
 ---
-title: Links
+title: GRC
 ---
-
-# GRC
 
 - [https://airisk.mit.edu/](https://airisk.mit.edu/)
 - [https://www.nist.gov/itl/ai-risk-management-framework](https://www.nist.gov/itl/ai-risk-management-framework)
@@ -19,16 +17,3 @@ title: Links
 - [https://www.aigl.blog/](https://www.aigl.blog/)
 - [https://www.onetrust.com/solutions/ai-governance/](https://www.onetrust.com/solutions/ai-governance/)
 - [https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401689](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401689)
-
-
-
-# Misc
-
-- [https://rnsaffn.com/poison3/](https://rnsaffn.com/poison3/)
-- [https://embracethered.com/blog/](https://embracethered.com/blog/)
-- [https://pluto.security/](https://pluto.security/)
-- [https://jiep.github.io/offensive-ai-compilation/](https://jiep.github.io/offensive-ai-compilation/)
-- [https://github.com/hfd3l/cybersecurity-gpts](https://github.com/hfd3l/cybersecurity-gpts)
-- [https://secml.readthedocs.io/en/v0.15/](https://secml.readthedocs.io/en/v0.15/)
-- [https://www.microsoft.com/en-us/security/blog/2025/11/07/whisper-leak-a-novel-side-channel-cyberattack-on-remote-language-models/](https://www.microsoft.com/en-us/security/blog/2025/11/07/whisper-leak-a-novel-side-channel-cyberattack-on-remote-language-models/)
-- [https://www.ncsc.gov.uk/blog-post/prompt-injection-is-not-sql-injection](https://www.ncsc.gov.uk/blog-post/prompt-injection-is-not-sql-injection)

@@ -8,7 +8,6 @@ title: Links
 - [https://github.com/notthehiddenwiki/NTHW](https://github.com/notthehiddenwiki/NTHW)
 - [https://github.com/Berkanktk/CyberSecurity/](https://github.com/Berkanktk/CyberSecurity/)
 - [https://github.com/vitalysim/Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources)
-- [arXiv](https://arxiv.org/)
 - [https://insinuator.net/](https://insinuator.net/)
 - [https://github.com/Velocidex/WinPmem?tab=readme-ov-file](https://github.com/Velocidex/WinPmem?tab=readme-ov-file)
 - [https://kb.cert.org/vuls/bypublished/desc/](https://kb.cert.org/vuls/bypublished/desc/)

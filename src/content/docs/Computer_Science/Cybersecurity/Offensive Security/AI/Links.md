@@ -9,3 +9,4 @@ title: Links
 - [https://avidml.org/](https://avidml.org/)
 - [https://itsbroken.ai/cheatsheet/](https://itsbroken.ai/cheatsheet/)
 - [https://github.com/McKern3l/RAGdrag](https://github.com/McKern3l/RAGdrag)
+- [https://role-confusion.github.io/](https://role-confusion.github.io/)

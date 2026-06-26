@@ -5,6 +5,8 @@ title: Links
 - [http://unixwiz.net/techtips/iguide-kaminsky-dns-vuln.html](http://unixwiz.net/techtips/iguide-kaminsky-dns-vuln.html)
 - [https://www.kb.cert.org/vuls/id/800113](https://www.kb.cert.org/vuls/id/800113)
 - [https://datatracker.ietf.org/doc/html/draft-vixie-dnsext-dns0x20-00](https://datatracker.ietf.org/doc/html/draft-vixie-dnsext-dns0x20-00)
+- [https://www.dotmagazine.online/topics/dns](https://www.dotmagazine.online/topics/dns)
+- [https://datatracker.ietf.org/doc/html/rfc7129](https://datatracker.ietf.org/doc/html/rfc7129)
 - [https://hypothetical.me/short/dns-0x20/](https://hypothetical.me/short/dns-0x20/)
 - [https://doc.powerdns.com/authoritative/index.html](https://doc.powerdns.com/authoritative/index.html)
 - [http://dnscookie.com/](http://dnscookie.com/)

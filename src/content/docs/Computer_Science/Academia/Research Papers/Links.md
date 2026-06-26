@@ -2,8 +2,6 @@
 title: Links
 ---
 
-# Links
-
 - [https://www.amazon.com/Operating-System-Concepts-Abraham-Silberschatz-ebook/dp/B07CVKH7BD](https://www.amazon.com/Operating-System-Concepts-Abraham-Silberschatz-ebook/dp/B07CVKH7BD)
 - [https://crypto.stanford.edu/seclab/sem.html](https://crypto.stanford.edu/seclab/sem.html)
 - [https://crypto.stanford.edu/~dabo/cs255/](https://crypto.stanford.edu/~dabo/cs255/)
@@ -27,4 +25,3 @@ title: Links
 - [https://arxiv.org/pdf/2401.01991.pdf](https://arxiv.org/pdf/2401.01991.pdf)
 - [https://arxiv.org/pdf/2312.16533.pdf](https://arxiv.org/pdf/2312.16533.pdf)
 - [https://arxiv.org/pdf/2312.15392.pdf](https://arxiv.org/pdf/2312.15392.pdf)
-- The [Cryptography and Security](https://arxiv.org/list/cs.CR/recent)

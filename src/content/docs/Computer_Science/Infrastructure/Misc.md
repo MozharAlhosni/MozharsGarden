@@ -1,5 +1,5 @@
 ---
-title: Misc
+title: Misc Commands
 ---
 
 To get the long and short names of paths in windows:

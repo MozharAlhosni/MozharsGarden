@@ -7,7 +7,7 @@ Tired of stochastic parrots that confidently answer everything — right or wron
 I offer consultation services across all Cybersecurity domains, including:
 
 - **AI Security Governance**
-- **AI Threat Modelling & Risk Assessments** for your stochastic parrot projects and ensuring all LLM threats (as per CSA) do not manifest in them ;)
+- **AI Threat Modelling & Risk Assessments** for your stochastic parrot projects and ensuring all LLM threats/risks do not manifest in them ;)
 - **ISO 27001 ISMS Implementation**
 - **Security Integration into your SDLC**
 - **Candidate Vetting & Interviewing** to identify the right fit

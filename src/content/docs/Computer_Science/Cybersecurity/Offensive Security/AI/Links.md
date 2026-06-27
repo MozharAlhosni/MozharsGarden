@@ -2,8 +2,6 @@
 title: Links
 ---
 
-# Links
-
 - [https://www.cyberark.com/resources/threat-research-blog/jailbreaking-every-llm-with-one-simple-click](https://www.cyberark.com/resources/threat-research-blog/jailbreaking-every-llm-with-one-simple-click)
 - [https://www.cyberark.com/resources/threat-research-blog/anatomy-of-an-llm-rce](https://www.cyberark.com/resources/threat-research-blog/anatomy-of-an-llm-rce)
 - [https://www.microsoft.com/en-us/security/blog/2025/11/07/whisper-leak-a-novel-side-channel-cyberattack-on-remote-language-models/](https://www.microsoft.com/en-us/security/blog/2025/11/07/whisper-leak-a-novel-side-channel-cyberattack-on-remote-language-models/)
@@ -17,3 +15,18 @@ title: Links
 - [https://www.reddit.com/r/google_antigravity/comments/1p82or6/google_antigravity_just_deleted_the_contents_of/](https://www.reddit.com/r/google_antigravity/comments/1p82or6/google_antigravity_just_deleted_the_contents_of/)
 - [https://github.com/SECFORCE/LLMGoat](https://github.com/SECFORCE/LLMGoat)
 - [https://brave.com/blog/unseeable-prompt-injections/](https://brave.com/blog/unseeable-prompt-injections/)
+- [https://www.hexstrike.com/](https://www.hexstrike.com/)
+- [https://github.com/elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S)
+- [https://github.com/leondz/lm_risk_cards](https://github.com/leondz/lm_risk_cards)
+- [https://reference.garak.ai/en/latest/index.html](https://reference.garak.ai/en/latest/index.html)
+- [https://avidml.org/](https://avidml.org/)
+- [https://itsbroken.ai/cheatsheet/](https://itsbroken.ai/cheatsheet/)
+- [https://github.com/McKern3l/RAGdrag](https://github.com/McKern3l/RAGdrag)
+- [https://role-confusion.github.io/](https://role-confusion.github.io/)
+- [https://rnsaffn.com/poison3/](https://rnsaffn.com/poison3/)
+- [https://embracethered.com/blog/](https://embracethered.com/blog/)
+- [https://pluto.security/](https://pluto.security/)
+- [https://github.com/hfd3l/cybersecurity-gpts](https://github.com/hfd3l/cybersecurity-gpts)
+- [https://secml.readthedocs.io/en/v0.15/](https://secml.readthedocs.io/en/v0.15/)
+- [https://www.microsoft.com/en-us/security/blog/2025/11/07/whisper-leak-a-novel-side-channel-cyberattack-on-remote-language-models/](https://www.microsoft.com/en-us/security/blog/2025/11/07/whisper-leak-a-novel-side-channel-cyberattack-on-remote-language-models/)
+- [https://www.ncsc.gov.uk/blog-post/prompt-injection-is-not-sql-injection](https://www.ncsc.gov.uk/blog-post/prompt-injection-is-not-sql-injection)

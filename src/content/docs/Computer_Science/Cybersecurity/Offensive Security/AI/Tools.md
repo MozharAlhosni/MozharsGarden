@@ -2,6 +2,7 @@
 title: Tools
 ---
 
+- [https://jiep.github.io/offensive-ai-compilation/](https://jiep.github.io/offensive-ai-compilation/)
 - [https://github.com/promptfoo/promptfoo](https://github.com/promptfoo/promptfoo)
 - [https://www.promptfoo.dev/docs/intro/](https://www.promptfoo.dev/docs/intro/)
 - [https://github.com/NVIDIA/garak](https://github.com/NVIDIA/garak)

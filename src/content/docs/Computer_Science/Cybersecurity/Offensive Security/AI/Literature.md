@@ -12,3 +12,5 @@ title: Literature
 - [https://openai.com/research/index/](https://openai.com/research/index/)
 - [https://arxiv.org/abs/2312.02119](https://arxiv.org/abs/2312.02119)
 - [https://arxiv.org/abs/2310.08419](https://arxiv.org/abs/2310.08419)
+- [https://arxiv.org/abs/2603.12277](https://arxiv.org/abs/2603.12277)
+- [https://arxiv.org/abs/2404.13208](https://arxiv.org/abs/2404.13208)

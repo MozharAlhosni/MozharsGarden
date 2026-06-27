@@ -28,3 +28,5 @@ To download a website:
 ```bash
 wget --mirror --convert-links --adjust-extensions --page-requisites --no-parent https://website
 ```
+
+or use [https://github.com/tamnd/kage](https://github.com/tamnd/kage)

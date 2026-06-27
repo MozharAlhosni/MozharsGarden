@@ -2,8 +2,7 @@
 title: Links
 ---
 
-# Links
-
+- [https://github.com/tamnd/kage](https://github.com/tamnd/kage)
 - [https://github.com/The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker)
 - [https://hstechdocs.helpsystems.com/manuals/cobaltstrike/current/userguide/content/topics/welcome_main.htm](https://hstechdocs.helpsystems.com/manuals/cobaltstrike/current/userguide/content/topics/welcome_main.htm)
 - [https://p3ta-tricks.com/](https://p3ta-tricks.com/)

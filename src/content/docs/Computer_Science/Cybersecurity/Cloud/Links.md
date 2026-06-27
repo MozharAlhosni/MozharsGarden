@@ -2,6 +2,7 @@
 title: Links
 ---
 
+- [https://www.enisa.europa.eu/publications/cloud-computing-risk-assessment](https://www.enisa.europa.eu/publications/cloud-computing-risk-assessment)
 - [https://detecting.cloud/](https://detecting.cloud/)
 - [https://www.cloudvulndb.org/](https://www.cloudvulndb.org/)
 - [https://csrc.nist.gov/pubs/sp/800/145/final](https://csrc.nist.gov/pubs/sp/800/145/final)

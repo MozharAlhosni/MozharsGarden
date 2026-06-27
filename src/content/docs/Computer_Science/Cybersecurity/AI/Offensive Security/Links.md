@@ -10,3 +10,5 @@ title: Links
 - [https://itsbroken.ai/cheatsheet/](https://itsbroken.ai/cheatsheet/)
 - [https://github.com/McKern3l/RAGdrag](https://github.com/McKern3l/RAGdrag)
 - [https://role-confusion.github.io/](https://role-confusion.github.io/)
+- [https://rnsaffn.com/poison3/](https://rnsaffn.com/poison3/)
+- [https://embracethered.com/blog/](https://embracethered.com/blog/)

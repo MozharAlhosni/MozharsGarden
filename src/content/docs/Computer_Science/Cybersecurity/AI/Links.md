@@ -2,14 +2,6 @@
 title: Links
 ---
 
-
-
-
-
-# Misc
-
-- [https://rnsaffn.com/poison3/](https://rnsaffn.com/poison3/)
-- [https://embracethered.com/blog/](https://embracethered.com/blog/)
 - [https://pluto.security/](https://pluto.security/)
 - [https://jiep.github.io/offensive-ai-compilation/](https://jiep.github.io/offensive-ai-compilation/)
 - [https://github.com/hfd3l/cybersecurity-gpts](https://github.com/hfd3l/cybersecurity-gpts)

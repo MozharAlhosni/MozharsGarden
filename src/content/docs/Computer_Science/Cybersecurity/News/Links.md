@@ -2,8 +2,6 @@
 title: Links
 ---
 
-# Links
-
 - [https://labs.watchtowr.com/](https://labs.watchtowr.com/)
 - [https://hivepro.com/](https://hivepro.com/)
 - [https://darkwebinformer.com/](https://darkwebinformer.com/)

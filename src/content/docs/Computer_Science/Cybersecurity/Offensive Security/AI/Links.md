@@ -34,3 +34,5 @@ title: Links
 - [https://embracethered.com/blog/posts/2024/hiding-and-finding-text-with-unicode-tags/](https://embracethered.com/blog/posts/2024/hiding-and-finding-text-with-unicode-tags/)
 - [https://x.com/rez0__/status/1745545813512663203](https://x.com/rez0__/status/1745545813512663203)
 - [https://embracethered.com/blog/posts/2026/toctou-agent-what-you-click-is-not-what-you-get/](https://embracethered.com/blog/posts/2026/toctou-agent-what-you-click-is-not-what-you-get/)
+- [https://simonwillison.net/2022/Sep/12/prompt-injection/](https://simonwillison.net/2022/Sep/12/prompt-injection/)
+- [https://simonwillison.net/tags/prompt-injection/](https://simonwillison.net/tags/prompt-injection/)

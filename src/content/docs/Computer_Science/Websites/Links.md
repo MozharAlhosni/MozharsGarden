@@ -2,6 +2,7 @@
 title: Links
 ---
 
+- [https://www.websitehunt.co/](https://www.websitehunt.co/)
 - [https://terriblesoftware.org/](https://terriblesoftware.org/)
 - [https://how.complexsystems.fail/](https://how.complexsystems.fail/)
 - [https://endler.dev/](https://endler.dev/)

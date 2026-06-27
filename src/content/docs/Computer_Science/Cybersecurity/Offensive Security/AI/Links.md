@@ -33,3 +33,4 @@ title: Links
 - [https://reference.garak.ai/en/latest/ascii_smuggling.html#variant-smuggling](https://reference.garak.ai/en/latest/ascii_smuggling.html#variant-smuggling)
 - [https://embracethered.com/blog/posts/2024/hiding-and-finding-text-with-unicode-tags/](https://embracethered.com/blog/posts/2024/hiding-and-finding-text-with-unicode-tags/)
 - [https://x.com/rez0__/status/1745545813512663203](https://x.com/rez0__/status/1745545813512663203)
+- [https://embracethered.com/blog/posts/2026/toctou-agent-what-you-click-is-not-what-you-get/](https://embracethered.com/blog/posts/2026/toctou-agent-what-you-click-is-not-what-you-get/)

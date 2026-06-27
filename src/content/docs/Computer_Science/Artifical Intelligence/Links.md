@@ -46,3 +46,4 @@ title: Links
 - [https://chat.z.ai/](https://chat.z.ai/)
 - [https://mimo.xiaomi.com/blog/mimo-v2-flash](https://mimo.xiaomi.com/blog/mimo-v2-flash)
 - [https://www.mcpjam.com/](https://www.mcpjam.com/)
+- [https://webarena.dev/](https://webarena.dev/)

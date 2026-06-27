@@ -32,3 +32,4 @@ title: Links
 - [https://www.ncsc.gov.uk/blog-post/prompt-injection-is-not-sql-injection](https://www.ncsc.gov.uk/blog-post/prompt-injection-is-not-sql-injection)
 - [https://reference.garak.ai/en/latest/ascii_smuggling.html#variant-smuggling](https://reference.garak.ai/en/latest/ascii_smuggling.html#variant-smuggling)
 - [https://embracethered.com/blog/posts/2024/hiding-and-finding-text-with-unicode-tags/](https://embracethered.com/blog/posts/2024/hiding-and-finding-text-with-unicode-tags/)
+- [https://x.com/rez0__/status/1745545813512663203](https://x.com/rez0__/status/1745545813512663203)

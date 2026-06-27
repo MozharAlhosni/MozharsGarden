@@ -36,3 +36,4 @@ title: Links
 - [https://embracethered.com/blog/posts/2026/toctou-agent-what-you-click-is-not-what-you-get/](https://embracethered.com/blog/posts/2026/toctou-agent-what-you-click-is-not-what-you-get/)
 - [https://simonwillison.net/2022/Sep/12/prompt-injection/](https://simonwillison.net/2022/Sep/12/prompt-injection/)
 - [https://simonwillison.net/tags/prompt-injection/](https://simonwillison.net/tags/prompt-injection/)
+- [https://specterops.io/blog/2026/06/11/building-an-indirect-prompt-injection-workflow/](https://specterops.io/blog/2026/06/11/building-an-indirect-prompt-injection-workflow/)

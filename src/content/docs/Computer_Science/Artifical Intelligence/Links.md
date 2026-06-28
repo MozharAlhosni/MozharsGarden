@@ -47,3 +47,4 @@ title: Links
 - [https://mimo.xiaomi.com/blog/mimo-v2-flash](https://mimo.xiaomi.com/blog/mimo-v2-flash)
 - [https://www.mcpjam.com/](https://www.mcpjam.com/)
 - [https://webarena.dev/](https://webarena.dev/)
+- [https://www.kaggle.com/](https://www.kaggle.com/)

@@ -37,3 +37,4 @@ title: Links
 - [https://simonwillison.net/2022/Sep/12/prompt-injection/](https://simonwillison.net/2022/Sep/12/prompt-injection/)
 - [https://simonwillison.net/tags/prompt-injection/](https://simonwillison.net/tags/prompt-injection/)
 - [https://specterops.io/blog/2026/06/11/building-an-indirect-prompt-injection-workflow/](https://specterops.io/blog/2026/06/11/building-an-indirect-prompt-injection-workflow/)
+- [https://www.microsoft.com/en-us/security/blog/2024/06/26/mitigating-skeleton-key-a-new-type-of-generative-ai-jailbreak-technique/](https://www.microsoft.com/en-us/security/blog/2024/06/26/mitigating-skeleton-key-a-new-type-of-generative-ai-jailbreak-technique/)

@@ -15,3 +15,5 @@ title: Literature
 - [https://arxiv.org/abs/2603.12277](https://arxiv.org/abs/2603.12277)
 - [https://arxiv.org/abs/2404.13208](https://arxiv.org/abs/2404.13208)
 - [https://arxiv.org/abs/2510.09023](https://arxiv.org/abs/2510.09023)
+- [https://arxiv.org/pdf/2407.13833](https://arxiv.org/pdf/2407.13833)
+- [https://arxiv.org/pdf/2310.19852](https://arxiv.org/pdf/2310.19852)

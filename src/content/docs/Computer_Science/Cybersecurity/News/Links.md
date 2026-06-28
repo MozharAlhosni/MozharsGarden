@@ -2,6 +2,8 @@
 title: Links
 ---
 
+- [https://dbugs.ptsecurity.com/](https://dbugs.ptsecurity.com/)
+- [https://talkback.sh/](https://talkback.sh/)
 - [https://www.ncsc.gov.uk/section/keep-up-to-date](https://www.ncsc.gov.uk/section/keep-up-to-date)
 - [https://labs.watchtowr.com/](https://labs.watchtowr.com/)
 - [https://hivepro.com/](https://hivepro.com/)

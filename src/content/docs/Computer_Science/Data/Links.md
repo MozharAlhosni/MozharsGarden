@@ -2,8 +2,7 @@
 title: Links
 ---
 
-# Links
-
+- [https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html](https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html)
 - [https://db.cs.cmu.edu/papers/2025/zeng-sigmod2025.pdf](https://db.cs.cmu.edu/papers/2025/zeng-sigmod2025.pdf)
 - [https://github.com/apache/hudi](https://github.com/apache/hudi)
 - [https://rocketreach.co](https://rocketreach.co)

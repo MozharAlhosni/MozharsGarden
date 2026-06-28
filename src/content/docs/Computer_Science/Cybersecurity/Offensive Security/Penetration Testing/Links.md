@@ -2,6 +2,7 @@
 title: Links
 ---
 
+- [https://starlabs.sg/blog/2026/06-old-wine-in-a-new-bottle-a-decade-old-lxd-group-root-re-armed/](https://starlabs.sg/blog/2026/06-old-wine-in-a-new-bottle-a-decade-old-lxd-group-root-re-armed/)
 - [https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/](https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/)
 - [https://hackviser.com/tactics/pentesting/services/rpcbind](https://hackviser.com/tactics/pentesting/services/rpcbind)
 - [https://github.com/xpn/RpcEnum](https://github.com/xpn/RpcEnum)

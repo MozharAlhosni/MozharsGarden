@@ -2,8 +2,6 @@
 title: Links
 ---
 
-# Links
-
 - [https://github.com/capture0x/AdStrike](https://github.com/capture0x/AdStrike)
 - [https://github.com/darkoperator/mimikatz-missing-manual](https://github.com/darkoperator/mimikatz-missing-manual)
 - [https://darkoperator.github.io/mimikatz-missing-manual/](https://darkoperator.github.io/mimikatz-missing-manual/)
@@ -57,3 +55,4 @@ title: Links
 - [https://www.semperis.com/blog/microsoft-entra-connect-compromise-explained/](https://www.semperis.com/blog/microsoft-entra-connect-compromise-explained/)
 - [https://specterops.io/blog/2025/07/30/entra-connect-attacker-tradecraft-part-3/](https://specterops.io/blog/2025/07/30/entra-connect-attacker-tradecraft-part-3/)
 - [https://aadinternals.com/](https://aadinternals.com/)
+- [https://github.com/Luct0r/KerberOPSEC](https://github.com/Luct0r/KerberOPSEC)

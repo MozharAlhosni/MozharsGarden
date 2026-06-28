@@ -14,3 +14,4 @@ title: Literature
 - [https://arxiv.org/abs/2310.08419](https://arxiv.org/abs/2310.08419)
 - [https://arxiv.org/abs/2603.12277](https://arxiv.org/abs/2603.12277)
 - [https://arxiv.org/abs/2404.13208](https://arxiv.org/abs/2404.13208)
+- [https://arxiv.org/abs/2510.09023](https://arxiv.org/abs/2510.09023)

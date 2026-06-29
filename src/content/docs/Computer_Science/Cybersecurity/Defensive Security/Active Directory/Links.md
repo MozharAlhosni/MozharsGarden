@@ -12,6 +12,7 @@ title: Links
 - [https://www.semperis.com/forest-druid/](https://www.semperis.com/forest-druid/)
 - [https://www.pingcastle.com/](https://www.pingcastle.com/)
 - [https://github.com/davehull/kansa](https://github.com/davehull/kansa)
+- [https://activedirectorypro.com/install-rsat-remote-server-administration-tools-windows-10/](https://activedirectorypro.com/install-rsat-remote-server-administration-tools-windows-10/)
 
 # Links
 

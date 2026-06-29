@@ -2,8 +2,6 @@
 title: Links
 ---
 
-# Links
-
 - [https://raytracing.github.io/](https://raytracing.github.io/)
 - [https://www.scratchapixel.com/index.html](https://www.scratchapixel.com/index.html)
 - [https://www.pbr-book.org/4ed/contents](https://www.pbr-book.org/4ed/contents)
@@ -14,3 +12,8 @@ title: Links
 - [https://www.color.org/index.xalter](https://www.color.org/index.xalter)
 - [https://troff.org/](https://troff.org/)
 - [https://cmd.inp.nsk.su/old/cmd2/manuals/gnudocs/gnudocs/uucp/uucp_86.html](https://cmd.inp.nsk.su/old/cmd2/manuals/gnudocs/gnudocs/uucp/uucp_86.html)
+- [https://registry.color.org/rgb-registry/displayp3](https://registry.color.org/rgb-registry/displayp3)
+- [https://developer.mozilla.org/en-US/docs/Glossary/Color_space](https://developer.mozilla.org/en-US/docs/Glossary/Color_space)
+- [https://developer.mozilla.org/en-US/docs/Glossary/Gamut](https://developer.mozilla.org/en-US/docs/Glossary/Gamut)
+- [https://www.canva.com/colors/color-wheel/](https://www.canva.com/colors/color-wheel/)
+- [https://en.wikipedia.org/wiki/Color_wheel](https://en.wikipedia.org/wiki/Color_wheel)

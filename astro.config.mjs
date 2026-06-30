@@ -9,6 +9,9 @@ export default defineConfig({
 		starlight({
 			plugins: [starlightCatppuccin()],
 			title: 'Mozhar\'s Garden',
+			customCss: [
+				'@fontsource/lobster/400.css'
+			],
 			social: [ { icon: 'github', label: 'GitHub', href: 'https://github.com/MozharAlhosni/MozharsGarden' } ],
 			sidebar: 
 			[

@@ -2,6 +2,7 @@
 title: Links
 ---
 
+- [https://forge.itsbroken.ai/](https://forge.itsbroken.ai/)
 - [https://www.cyberark.com/resources/threat-research-blog/jailbreaking-every-llm-with-one-simple-click](https://www.cyberark.com/resources/threat-research-blog/jailbreaking-every-llm-with-one-simple-click)
 - [https://www.cyberark.com/resources/threat-research-blog/anatomy-of-an-llm-rce](https://www.cyberark.com/resources/threat-research-blog/anatomy-of-an-llm-rce)
 - [https://www.microsoft.com/en-us/security/blog/2025/11/07/whisper-leak-a-novel-side-channel-cyberattack-on-remote-language-models/](https://www.microsoft.com/en-us/security/blog/2025/11/07/whisper-leak-a-novel-side-channel-cyberattack-on-remote-language-models/)

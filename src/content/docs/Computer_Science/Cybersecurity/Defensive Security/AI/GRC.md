@@ -2,6 +2,7 @@
 title: GRC
 ---
 
+- [https://forge.itsbroken.ai/](https://forge.itsbroken.ai/)
 - [https://airisk.mit.edu/](https://airisk.mit.edu/)
 - [https://www.nist.gov/itl/ai-risk-management-framework](https://www.nist.gov/itl/ai-risk-management-framework)
 - [https://airc.nist.gov/technical-reports/](https://airc.nist.gov/technical-reports/)
@@ -17,3 +18,7 @@ title: GRC
 - [https://www.aigl.blog/](https://www.aigl.blog/)
 - [https://www.onetrust.com/solutions/ai-governance/](https://www.onetrust.com/solutions/ai-governance/)
 - [https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401689](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401689)
+- [https://www.microsoft.com/en-us/security/blog/2026/06/04/updating-taxonomy-failure-modes-agentic-ai-systems-year-red-teaming-taught-us/](https://www.microsoft.com/en-us/security/blog/2026/06/04/updating-taxonomy-failure-modes-agentic-ai-systems-year-red-teaming-taught-us/)
+- [https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/bade/documents/products-and-services/en-us/security/Taxonomy-of-Failure-Modes-in-Agentic-AI-Systems-v2-0.pdf](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/bade/documents/products-and-services/en-us/security/Taxonomy-of-Failure-Modes-in-Agentic-AI-Systems-v2-0.pdf)
+- [https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/final/en-us/microsoft-brand/documents/Taxonomy-of-Failure-Mode-in-Agentic-AI-Systems-Whitepaper.pdf](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/final/en-us/microsoft-brand/documents/Taxonomy-of-Failure-Mode-in-Agentic-AI-Systems-Whitepaper.pdf)
+- [https://www.microsoft.com/en-us/security/blog/tag/frontier-ai-models/](https://www.microsoft.com/en-us/security/blog/tag/frontier-ai-models/)

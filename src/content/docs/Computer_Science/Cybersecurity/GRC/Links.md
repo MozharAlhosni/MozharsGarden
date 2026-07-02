@@ -3,6 +3,7 @@ title: Links
 ---
 
 - [https://grc.engineering/](https://grc.engineering/)
+- [https://blog.grc.engineering/](https://blog.grc.engineering/)
 - [https://allaboutgrc.com/](https://allaboutgrc.com/)
 - [https://www.eramba.org/grc-templates](https://www.eramba.org/grc-templates)
 - [https://github.com/Arudjreis/awesome-security-GRC](https://github.com/Arudjreis/awesome-security-GRC)

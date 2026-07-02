@@ -2,6 +2,4 @@
 title: Books
 ---
 
-# Books
-
 TBA

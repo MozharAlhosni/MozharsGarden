@@ -2,8 +2,6 @@
 title: Links
 ---
 
-# Links
-
 - [https://archive.epic.org/crypto/clipper/](https://archive.epic.org/crypto/clipper/)
 - [https://en.wikipedia.org/wiki/Clipper_chip](https://en.wikipedia.org/wiki/Clipper_chip)
 - [https://www.europarl.europa.eu/cmsdata/179163/20090225ATT50418EN.pdf](https://www.europarl.europa.eu/cmsdata/179163/20090225ATT50418EN.pdf)

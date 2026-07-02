@@ -2,8 +2,6 @@
 title: Links
 ---
 
-# Links
-
 - [https://github.com/0x-Apollyon/Malnus-Carlware](https://github.com/0x-Apollyon/Malnus-Carlware)
 - [https://github.com/spartan-conseil/ratchatpt](https://github.com/spartan-conseil/ratchatpt)
 - [https://developer.valvesoftware.com/wiki/Source_RCON_Protocol](https://developer.valvesoftware.com/wiki/Source_RCON_Protocol)

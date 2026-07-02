@@ -2,8 +2,6 @@
 title: Links
 ---
 
-# Links
-
 - [https://pagure.io/freeipa](https://pagure.io/freeipa)
 - [https://www.port389.org/](https://www.port389.org/)
 - [https://www.dogtagpki.org/wiki/PKI_Main_Page](https://www.dogtagpki.org/wiki/PKI_Main_Page)

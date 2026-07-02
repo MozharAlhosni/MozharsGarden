@@ -2,8 +2,6 @@
 title: Links
 ---
 
-# Links
-
 - [https://github.com/umami-software/umami](https://github.com/umami-software/umami)
 - [https://ceno.app/en/index.html?](https://ceno.app/en/index.html?)
 - [https://datapatrol.com/](https://datapatrol.com/)

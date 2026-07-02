@@ -2,8 +2,6 @@
 title: Links
 ---
 
-# Links
-
 - [https://www.netlify.com/](https://www.netlify.com/)
 - [https://static.app/](https://static.app/)
 - [https://wasmer.io/static-site-hosting](https://wasmer.io/static-site-hosting)

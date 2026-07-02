@@ -2,8 +2,6 @@
 title: Links
 ---
 
-# Links
-
 - [https://www.lookuptables.com/](https://www.lookuptables.com/)
 - [https://blog.stackademic.com](https://blog.stackademic.com)
 - [freebsd/freebsd-src: The FreeBSD src tree publish-only repository. Experimenting with 'simple' pull requests....](https://github.com/freebsd/freebsd-src)

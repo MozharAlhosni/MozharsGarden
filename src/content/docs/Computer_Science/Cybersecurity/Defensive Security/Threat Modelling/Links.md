@@ -2,8 +2,6 @@
 title: Links
 ---
 
-# Links
-
 - [https://github.com/trustoncloud](https://github.com/trustoncloud)
 - [https://github.com/cairis-platform/cairis](https://github.com/cairis-platform/cairis)
 - [https://github.com/OWASP/pytm](https://github.com/OWASP/pytm)

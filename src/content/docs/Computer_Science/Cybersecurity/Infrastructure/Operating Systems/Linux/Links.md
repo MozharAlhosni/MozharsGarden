@@ -2,8 +2,6 @@
 title: Links
 ---
 
-# Links
-
 - [https://linuxsecurity.com/](https://linuxsecurity.com/)
 - [https://linux-audit.com/](https://linux-audit.com/)
 - [https://roguesecurity.dev/blog/systemd-hardening](https://roguesecurity.dev/blog/systemd-hardening)

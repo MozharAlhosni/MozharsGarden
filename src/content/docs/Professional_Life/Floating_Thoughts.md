@@ -2,8 +2,6 @@
 title: Floating Thoughts
 ---
 
-# Floating Thoughts
-
 - When working in enterprises, never ever assume, always ensure.
 - When working in enterprises, explicit always overwins implicit.
 - When working in large enterprises, understanding hierarchies is of utmost importance.

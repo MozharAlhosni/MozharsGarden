@@ -2,8 +2,6 @@
 title: Links
 ---
 
-# Links
-
 - [https://www.regular-expressions.info/catastrophic.html](https://www.regular-expressions.info/catastrophic.html)
 - [https://www.regular-expressions.info/toolong.html](https://www.regular-expressions.info/toolong.html)
 - [https://www.regular-expressions.info/redos.html](https://www.regular-expressions.info/redos.html)

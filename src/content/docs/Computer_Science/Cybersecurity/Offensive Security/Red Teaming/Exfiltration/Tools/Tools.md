@@ -2,8 +2,6 @@
 title: Tools
 ---
 
-# Tools
-
 - [https://github.com/projectdiscovery/interactsh](https://github.com/projectdiscovery/interactsh)
 - [https://app.interactsh.com/#/](https://app.interactsh.com/#/)
 - [https://pinggy.io/](https://pinggy.io/)

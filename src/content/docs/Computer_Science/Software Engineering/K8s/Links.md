@@ -2,8 +2,6 @@
 title: Links
 ---
 
-# Links
-
 - [https://rook.io/](https://rook.io/)
 - [https://coredns.io/](https://coredns.io/)
 - [https://www.uber.com/blog/m3/](https://www.uber.com/blog/m3/)

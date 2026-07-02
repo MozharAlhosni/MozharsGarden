@@ -2,9 +2,7 @@
 title: Blazorized
 ---
 
-# Blazorized
-
-## Introduction
+# Introduction
 
 `Blazorized` is a Windows machine with a focus on exploiting [Blazor](https://learn.microsoft.com/en-us/aspnet/core/blazor/?view=aspnetcore-7.0#blazor-webassembly) web applications for the foothold and abusing misconfigured DACLs for privilege escalation. `Blazorized` forces players to research new technologies and how they can abuse them; additionally, it teaches players not to always rely on automated tools, as they will not always show abusable attack paths.
 

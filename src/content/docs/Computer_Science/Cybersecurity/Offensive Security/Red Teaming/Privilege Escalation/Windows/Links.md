@@ -2,8 +2,6 @@
 title: Links
 ---
 
-# Links
-
 - [https://github.com/itm4n/PrivescCheck](https://github.com/itm4n/PrivescCheck)
 - [https://www.crowdstrike.com/en-us/blog/4-ways-adversaries-hijack-dlls/](https://www.crowdstrike.com/en-us/blog/4-ways-adversaries-hijack-dlls/)
 - [http://remoteawesomethoughts.blogspot.com/2019/05/windows-10-task-schedulerservice.html](http://remoteawesomethoughts.blogspot.com/2019/05/windows-10-task-schedulerservice.html)

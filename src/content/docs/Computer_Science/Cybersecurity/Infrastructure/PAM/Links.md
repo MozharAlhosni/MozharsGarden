@@ -2,8 +2,6 @@
 title: Links
 ---
 
-# Links
-
 - [https://github.com/topics/pam](https://github.com/topics/pam)
 - [https://github.com/bytebase/bytebase](https://github.com/bytebase/bytebase)
 - [https://github.com/hoophq/hoop](https://github.com/hoophq/hoop)

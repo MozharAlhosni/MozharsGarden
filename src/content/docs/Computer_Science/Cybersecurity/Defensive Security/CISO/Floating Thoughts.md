@@ -1,8 +1,6 @@
 ---
-title: Links
+title: Floating Thoughts
 ---
-
-# Floating Thoughts
 
 - When serving as a CISO, one must assess and operate by viewing work from three different aspects, `Strategic`, `Tactical`, and `Operational`.
 - When serving as a CISO, delegation of tasks is an indicator of maturity.

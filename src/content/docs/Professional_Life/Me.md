@@ -2,11 +2,9 @@
 title: Me
 ---
 
-# Me
-
 Just a tech.
 
-## Skills
+# Skills
 
 - Cybersecurity Governance, Risk, and Compliance (GRC), including strong familiarity with NIST publications and the ISO/IEC 27000 family of standards (all 50+)
 - Enterprise Governance, Risk, and Compliance (GRC)
@@ -19,7 +17,7 @@ Just a tech.
 - C# web development (ASP.NET, MVC, Minimal APIs, Blazor)
 - Web application security and secure coding reviews
 
-## Technical Hobbies & Projects
+# Technical Hobbies & Projects
 
 - **.NET Development** — Highly proficient in C#, focusing on _MVC APIs_, _Minimal APIs_, and _Blazor_, with a strong emphasis on **secure coding practices**.   
 - **Hack The Box** — [Hack The Box Profile](https://app.hackthebox.com/profile/927345). Developed two custom machines: _Blazorized_ and _TargetedOps_ (yet to be accepted/released).
@@ -29,7 +27,7 @@ Just a tech.
   - _Learn Docker in a Month of Lunches, 2nd Edition_  
 - **Emerging Tech & Security** — Enthusiastic about **WebAssembly (WASM)** and continuously exploring the latest in web security trends and research.
 
-## CV
+# CV
 
 Below you can find my CV:
 

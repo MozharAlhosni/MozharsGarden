@@ -2,8 +2,6 @@
 title: Links
 ---
 
-# Links
-
 - [https://research.splunk.com/detections/](https://research.splunk.com/detections/)
 - [https://www.myeventlog.com/](https://www.myeventlog.com/)
 - [https://www.intel471.com/blog/understanding-and-threat-hunting-for-rmm-software-misuse](https://www.intel471.com/blog/understanding-and-threat-hunting-for-rmm-software-misuse)

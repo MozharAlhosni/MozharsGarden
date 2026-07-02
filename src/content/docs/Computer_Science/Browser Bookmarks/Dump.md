@@ -2,13 +2,9 @@
 title: Bookmarks Dump
 ---
 
-# Bookmark Dump
-
 I always bookmark interesting things I come by when serving the web. Below is a dump of links collected throughout years.
 
 Later on I will need to clean it up and categorize things.
-
-## Bookmarks
 
 - [All-in-one incident management platform | incident.io](https://incident.io/)
 - [GeoIP web services demo | MaxMind](https://www.maxmind.com/en/geoip-web-services-demo?ip_address=)

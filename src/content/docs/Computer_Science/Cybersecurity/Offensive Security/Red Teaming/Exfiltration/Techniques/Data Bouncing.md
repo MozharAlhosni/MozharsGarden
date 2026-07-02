@@ -2,16 +2,15 @@
 title: Data Bouncing
 ---
 
-# Data Bouncing
 
-## Links
+# Links
 
 - [https://github.com/Unit-259/dataBouncing](https://github.com/Unit-259/dataBouncing)
 - [https://github.com/N1ckDunn/DataBouncing](https://github.com/N1ckDunn/DataBouncing)
 - [https://github.com/N1ckDunn/Interocitor](https://github.com/N1ckDunn/Interocitor)
 - [https://thecontractor.io/data-bouncing/](https://thecontractor.io/data-bouncing/)
 
-## Demo
+# Demo
 
 - Run [https://github.com/projectdiscovery/interactsh](https://github.com/projectdiscovery/interactsh):
 

@@ -2,8 +2,6 @@
 title: Links
 ---
 
-# Links
-
 - [https://github.com/jj-vcs/jj](https://github.com/jj-vcs/jj)
 - [https://steveklabnik.github.io/jujutsu-tutorial/introduction/introduction.html](https://steveklabnik.github.io/jujutsu-tutorial/introduction/introduction.html)
 - [https://git-send-email.io](https://git-send-email.io)

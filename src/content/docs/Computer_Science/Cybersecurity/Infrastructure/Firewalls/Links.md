@@ -2,8 +2,6 @@
 title: Links
 ---
 
-# Links
-
 - [https://github.com/teler-sh/teler-waf](https://github.com/teler-sh/teler-waf)
 - [https://github.com/owasp-modsecurity/ModSecurity](https://github.com/owasp-modsecurity/ModSecurity)
 - [https://coreruleset.org/](https://coreruleset.org/)

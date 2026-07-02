@@ -2,8 +2,6 @@
 title: Maps
 ---
 
-# Maps
-
 - [https://cybermap.kaspersky.com/](https://cybermap.kaspersky.com/)
 - [https://threatmap.bitdefender.com/](https://threatmap.bitdefender.com/)
 - [https://talosintelligence.com/fullpage_maps/pulse](https://talosintelligence.com/fullpage_maps/pulse)

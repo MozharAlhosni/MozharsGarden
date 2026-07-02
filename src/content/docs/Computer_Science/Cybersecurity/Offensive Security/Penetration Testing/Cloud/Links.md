@@ -2,8 +2,6 @@
 title: Links
 ---
 
-# Links
-
 # Knowledge bases
 
 - [https://cloudseclist.com/past-issues/](https://cloudseclist.com/past-issues/)

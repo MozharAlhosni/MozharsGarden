@@ -2,8 +2,6 @@
 title: Links
 ---
 
-# Links
-
 - [https://docs.kernel.org/index.html#](https://docs.kernel.org/index.html#)
 - [https://www.linuxserver.io/](https://www.linuxserver.io/)
 - [https://systemd.io/](https://systemd.io/)

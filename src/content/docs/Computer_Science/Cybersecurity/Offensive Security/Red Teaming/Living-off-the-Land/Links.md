@@ -2,8 +2,6 @@
 title: Links
 ---
 
-# Links
-
 - [https://lolol.farm/](https://lolol.farm/)
 - [https://lolrmm.io/](https://lolrmm.io/)
 - [https://br0k3nlab.com/LoFP/](https://br0k3nlab.com/LoFP/)

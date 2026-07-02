@@ -2,13 +2,11 @@
 title: Links
 ---
 
-# Links
-
-## Strategic
+# Strategic
 
 - [https://www.enisa.europa.eu/publications/enisa-threat-landscape-2025](https://www.enisa.europa.eu/publications/enisa-threat-landscape-2025)
 
-## Tactical and Operational
+# Tactical and Operational
 
 - [https://censys.com/](https://censys.com/)
 - [https://github.com/opencti-platform/opencti](https://github.com/opencti-platform/opencti)
@@ -89,6 +87,6 @@ title: Links
 - [https://www.splunk.com/en_us/pdfs/gated/ebooks/top-50-cybersecurity-threats.pdf](https://www.splunk.com/en_us/pdfs/gated/ebooks/top-50-cybersecurity-threats.pdf)
 - [https://dehashed.com/](https://dehashed.com/)
 
-## Formats
+# Formats
 
 - [https://cloud.google.com/blog/topics/threat-intelligence/openioc-basics/](https://cloud.google.com/blog/topics/threat-intelligence/openioc-basics/)

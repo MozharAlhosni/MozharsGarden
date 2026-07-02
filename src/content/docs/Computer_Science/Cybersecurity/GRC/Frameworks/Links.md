@@ -2,8 +2,6 @@
 title: Links
 ---
 
-# Links
-
 - [https://www.nist.gov/itl/ai-risk-management-framework](https://www.nist.gov/itl/ai-risk-management-framework)
 - [https://airc.nist.gov/airmf-resources/playbook/](https://airc.nist.gov/airmf-resources/playbook/)
 - [https://csrc.nist.gov/Projects/risk-management/publications](https://csrc.nist.gov/Projects/risk-management/publications)

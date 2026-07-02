@@ -2,8 +2,6 @@
 title: Links
 ---
 
-# Links
-
 - [https://wezterm.org/](https://wezterm.org/)
 - [https://github.com/alacritty/alacritty](https://github.com/alacritty/alacritty)
 - [https://sw.kovidgoyal.net/kitty/](https://sw.kovidgoyal.net/kitty/)

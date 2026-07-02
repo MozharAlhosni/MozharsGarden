@@ -2,8 +2,6 @@
 title: Links
 ---
 
-# Links
-
 - [https://sure.is/ansi/](https://sure.is/ansi/)
 - [https://16colo.rs/](https://16colo.rs/)
 - [https://www.a10networks.com](https://www.a10networks.com)
@@ -22,11 +20,11 @@ title: Links
 - [https://opensearch.org/](https://opensearch.org/)
 - [https://www.netdata.cloud/](https://www.netdata.cloud/)
 
-## Printing Password Protected PDFs
+# Printing Password Protected PDFs
 
 - One technique to print a password-protected PDF on MacOS is to open the file with `ColorSync Utility` and then print it. It won't bother asking for the password.
 
-## BitLocker Encrypted Devices
+# BitLocker Encrypted Devices
 
 If you have a BitLocker encrypted drive and you know the password (for example cracking it with `bitlocker2john`) of BitLocker but NOT any password for any account within it, this can be easily bypassed by attaching the drive as a second drive to any Windows device you own and decrypt it to access all the contents of the disk freely using [manage-bde](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/manage-bde):
 
@@ -34,11 +32,11 @@ If you have a BitLocker encrypted drive and you know the password (for example c
 manage-bde -unlock D: -Password
 ```
 
-## SOAR
+# SOAR
 
 In Cybersecurity literature, SOAR can be either `Security Orchestration, Automation, and Response` or `State-of-the-Art Resources`.
 
-## docx to Markdown
+# docx to Markdown
 
 https://gist.github.com/plembo/409a8d7b1bae66622dbcd26337bbb185
 
@@ -47,11 +45,11 @@ $ myfilename="example"
 pandoc -t markdown_strict --extract-media='./attachments/$myfilename' $myfilename.docx -o $myfilename.md
 ```
 
-## SSL Passthrough
+# SSL Passthrough
 
 [SSL Passthrough](https://www.ssl2buy.com/wiki/ssl-passthrough-work) is the opposite of [SSL Termination/Offloading](https://www.ssl2buy.com/wiki/ssl-offloading).
 
-## Disable Copy-Pasting, DevTools, and SingleFile
+# Disable Copy-Pasting, DevTools, and SingleFile
 
 Below is a snippet that might be helpful:
 

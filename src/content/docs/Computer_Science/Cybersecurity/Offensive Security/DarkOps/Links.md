@@ -2,8 +2,6 @@
 title: Links
 ---
 
-# Links
-
 - [https://www.cnblogs.com/](https://www.cnblogs.com/)
 - [https://www.whonix.org/](https://www.whonix.org/)
 - [https://www.qubes-os.org/](https://www.qubes-os.org/)

@@ -2,8 +2,6 @@
 title: Links
 ---
 
-# Links
-
 - [https://kinsta.com/](https://kinsta.com/)
 - [https://paseto.io/](https://paseto.io/)
 - [https://htmlreference.io/](https://htmlreference.io/)

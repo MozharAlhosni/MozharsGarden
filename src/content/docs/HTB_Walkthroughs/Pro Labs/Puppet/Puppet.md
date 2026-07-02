@@ -2,8 +2,6 @@
 title: Puppet
 ---
 
-# Puppet
-
 Entry Point IP: `10.13.38.33`.
 
 ## Reconnaissance

@@ -2,8 +2,6 @@
 title: Links
 ---
 
-# Links
-
 - [https://capec.mitre.org](https://capec.mitre.org)
 - [https://www.cyber.mil/dccs/](https://www.cyber.mil/dccs/)
 - [STIG VIEWER](https://stigviewer.com/)

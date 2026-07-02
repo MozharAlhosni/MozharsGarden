@@ -2,8 +2,6 @@
 title: Links
 ---
 
-# Links
-
 - [https://www.atomicredteam.io/atomic-red-team](https://www.atomicredteam.io/atomic-red-team)
 - [https://atomicgen.io/](https://atomicgen.io/)
 - [https://listings.pcisecuritystandards.org/documents/Penetration-Testing-Guidance-v1_1.pdf](https://listings.pcisecuritystandards.org/documents/Penetration-Testing-Guidance-v1_1.pdf)

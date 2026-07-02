@@ -1,7 +1,5 @@
 ---
-title: Links
+title: SLSA
 ---
-
-# SLSA
 
 - [https://slsa.dev/](https://slsa.dev/)

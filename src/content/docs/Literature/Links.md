@@ -9,3 +9,4 @@ title: Links
 - [https://marcusolang.substack.com/p/im-kenyan-i-dont-write-like-chatgpt](https://marcusolang.substack.com/p/im-kenyan-i-dont-write-like-chatgpt)
 - [https://www.futilitycloset.com](https://www.futilitycloset.com)
 - [https://en.wikipedia.org/wiki/Summum_bonum](https://en.wikipedia.org/wiki/Summum_bonum)
+- [https://ludwig.guru/](https://ludwig.guru/)

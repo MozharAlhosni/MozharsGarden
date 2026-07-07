@@ -42,3 +42,4 @@ title: Links
 - [https://specterops.io/blog/2026/06/10/oops-i-weaponized-the-database-abusing-ai-features-in-mssql-2025](https://specterops.io/blog/2026/06/10/oops-i-weaponized-the-database-abusing-ai-features-in-mssql-2025)
 - [https://github.com/gershsec/mssql2025-poc](https://github.com/gershsec/mssql2025-poc)
 - [https://itsbroken.ai/stuck-on-prompt-injection/](https://itsbroken.ai/stuck-on-prompt-injection/)
+- [https://specterops.io/blog/2026/06/11/building-an-indirect-prompt-injection-workflow/#](https://specterops.io/blog/2026/06/11/building-an-indirect-prompt-injection-workflow/#)

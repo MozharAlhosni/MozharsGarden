@@ -38,13 +38,13 @@ export default defineConfig({
 					collapsed: true
 				},
 				{
-					label: 'Management',
-					autogenerate: { directory: 'Management' },
+					label: 'Corporate',
+					autogenerate: { directory: 'Corporate' },
 					collapsed: true
 				},
 				{
-					label: 'Misc',
-					autogenerate: { directory: 'Misc' },
+					label: 'Sciences',
+					autogenerate: { directory: 'Sciences' },
 					collapsed: true
 				},
 				{

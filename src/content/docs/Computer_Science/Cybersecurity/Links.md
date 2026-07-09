@@ -70,3 +70,5 @@ title: Links
 - [https://mondoo.com/](https://mondoo.com/)
 - [https://github.com/THUYimingLi/backdoor-learning-resources](https://github.com/THUYimingLi/backdoor-learning-resources)
 - [https://github.com/mozilla/MozDef](https://github.com/mozilla/MozDef)
+- [https://filesec.io/](https://filesec.io/)
+- [https://vx-underground.org/](https://vx-underground.org/)

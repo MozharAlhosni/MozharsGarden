@@ -27,3 +27,5 @@ title: Links
 - [https://lothardware.com.tr/](https://lothardware.com.tr/)
 - [https://lolbas-project.github.io/](https://lolbas-project.github.io/)
 - [https://gtfobins.org/](https://gtfobins.org/)
+- [https://lottunnels.github.io/#](https://lottunnels.github.io/#)
+- [https://0xv1n.github.io/LOLGlobs/](https://0xv1n.github.io/LOLGlobs/)

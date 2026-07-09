@@ -2,8 +2,7 @@
 title: Tools
 ---
 
-# Tools
-
+- [https://awseye.com/](https://awseye.com/)
 - [https://github.com/aquasecurity/cloudsploit](https://github.com/aquasecurity/cloudsploit)
 - [https://github.com/turbot/steampipe](https://github.com/turbot/steampipe)
 - [https://github.com/cloudquery/cloudquery](https://github.com/cloudquery/cloudquery)

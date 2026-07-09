@@ -2,6 +2,7 @@
 title: Links
 ---
 
+- [https://github.com/MatrixTM/MHDDoS](https://github.com/MatrixTM/MHDDoS)
 - [https://github.com/projectdiscovery/katana](https://github.com/projectdiscovery/katana)
 - [https://github.com/jpillora/chisel](https://github.com/jpillora/chisel)
 - [https://owasp.org/www-community/Vulnerability_Scanning_Tools](https://owasp.org/www-community/Vulnerability_Scanning_Tools)
@@ -11,6 +12,8 @@ title: Links
 - [https://github.com/MegaManSec/SSH-Snake](https://github.com/MegaManSec/SSH-Snake)
 - [https://github.com/EgeBalci/evilreplay](https://github.com/EgeBalci/evilreplay)
 - [https://github.com/CravateRouge/bloodyAD](https://github.com/CravateRouge/bloodyAD)
+- [https://github.com/ph4ntonn/Impost3r](https://github.com/ph4ntonn/Impost3r)
+- [https://github.com/m8sec/nullinux](https://github.com/m8sec/nullinux)
 - [https://github.com/CravateRouge/autobloody](https://github.com/CravateRouge/autobloody)
 - [https://docs.ludus.cloud/](https://docs.ludus.cloud/)
 - [https://horizon3.ai/nodezero/](https://horizon3.ai/nodezero/)

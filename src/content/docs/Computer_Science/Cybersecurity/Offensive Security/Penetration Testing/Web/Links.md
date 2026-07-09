@@ -15,3 +15,4 @@ title: Links
 - [https://github.com/maycon/TRECO](https://github.com/maycon/TRECO)
 - [https://www.invicti.com/learn/json-injection](https://www.invicti.com/learn/json-injection)
 - [https://bishopfox.com/blog/json-interoperability-vulnerabilities](https://bishopfox.com/blog/json-interoperability-vulnerabilities)
+- [https://cspbypass.com/](https://cspbypass.com/)

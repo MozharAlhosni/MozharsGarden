@@ -8,6 +8,11 @@ title: Links
 
 # Tactical and Operational
 
+- [https://webscout.io/](https://webscout.io/)
+- [https://spur.us/](https://spur.us/)
+- [https://www.team-cymru.com/](https://www.team-cymru.com/)
+- [https://www.greynoise.io/](https://www.greynoise.io/)
+- [https://radar.cloudflare.com/](https://radar.cloudflare.com/)
 - [https://censys.com/](https://censys.com/)
 - [https://github.com/opencti-platform/opencti](https://github.com/opencti-platform/opencti)
 - [https://platform.censys.io/home](https://platform.censys.io/home)

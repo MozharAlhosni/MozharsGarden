@@ -18,3 +18,5 @@ title: Links
 - [https://app.skyfi.com/analytics/annotated-naval-dataset](https://app.skyfi.com/analytics/annotated-naval-dataset)
 - [http://www.navweaps.com/](http://www.navweaps.com/)
 - [https://www.europarl.europa.eu/cmsdata/179163/20090225ATT50418EN.pdf](https://www.europarl.europa.eu/cmsdata/179163/20090225ATT50418EN.pdf)
+- [https://intelx.io/](https://intelx.io/)
+- [https://he.net/3d-map/](https://he.net/3d-map/)

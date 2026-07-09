@@ -13,6 +13,12 @@ title: Links
 - [https://www.pingcastle.com/](https://www.pingcastle.com/)
 - [https://github.com/davehull/kansa](https://github.com/davehull/kansa)
 - [https://activedirectorypro.com/install-rsat-remote-server-administration-tools-windows-10/](https://activedirectorypro.com/install-rsat-remote-server-administration-tools-windows-10/)
+- [https://github.com/jakehildreth/Locksmith](https://github.com/jakehildreth/Locksmith)
+- [https://github.com/p0dalirius/LDAPmonitor](https://github.com/p0dalirius/LDAPmonitor)
+- [https://github.com/blackhillsinfosec/EventLogging](https://github.com/blackhillsinfosec/EventLogging)
+- [https://github.com/capture0x/AdStrike](https://github.com/capture0x/AdStrike)
+- [https://github.com/mihemihe/myADMonitor](https://github.com/mihemihe/myADMonitor)
+- [https://github.com/Leo4j/Invoke-ADEnum](https://github.com/Leo4j/Invoke-ADEnum)
 
 # Links
 

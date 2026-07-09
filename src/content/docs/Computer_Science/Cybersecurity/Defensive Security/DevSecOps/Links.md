@@ -2,6 +2,8 @@
 title: Links
 ---
 
+- [https://github.com/Infisical/infisical](https://github.com/Infisical/infisical)
+- [https://github.com/trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog)
 - [https://firecracker-microvm.github.io/](https://firecracker-microvm.github.io/)
 - [https://github.com/spinnaker/spinnaker](https://github.com/spinnaker/spinnaker)
 - [https://www.devx.com/terms/devsecops/](https://www.devx.com/terms/devsecops/)

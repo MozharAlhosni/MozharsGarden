@@ -23,3 +23,7 @@ title: Links
 - [WADComs](https://wadcoms.github.io/)
 - [https://lolfsaas.github.io/](https://lolfsaas.github.io/)
 - [https://lolexfil.github.io/](https://lolexfil.github.io/)
+- [https://boostsecurityio.github.io/lotp/](https://boostsecurityio.github.io/lotp/)
+- [https://lothardware.com.tr/](https://lothardware.com.tr/)
+- [https://lolbas-project.github.io/](https://lolbas-project.github.io/)
+- [https://gtfobins.org/](https://gtfobins.org/)

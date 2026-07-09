@@ -22,3 +22,4 @@ title: Links
 - [https://docs.ejabberd.im/admin/guide/security/](https://docs.ejabberd.im/admin/guide/security/)
 - [https://wiki.xmpp.org/web/Securing_XMPP](https://wiki.xmpp.org/web/Securing_XMPP)
 - [https://github.com/hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists)
+- [https://github.com/mdecrevoisier/Microsoft-eventlog-mindmap](https://github.com/mdecrevoisier/Microsoft-eventlog-mindmap)

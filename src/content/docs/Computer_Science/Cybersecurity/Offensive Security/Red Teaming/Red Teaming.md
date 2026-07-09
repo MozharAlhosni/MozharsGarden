@@ -6,7 +6,11 @@ title: Red Teaming
 - [https://gtfobins.org/](https://gtfobins.org/)
 - [https://github.com/vari-sh/RedTeamGrimoire](https://github.com/vari-sh/RedTeamGrimoire)
 - [https://www.expireddomains.net/](https://www.expireddomains.net/)
-- 
+- [https://github.com/PaulNorman01/Forensia](https://github.com/PaulNorman01/Forensia)
+- [https://github.com/ihebski/A-Red-Teamer-diaries](https://github.com/ihebski/A-Red-Teamer-diaries)
+- [https://github.com/p0dalirius/ExtractBitlockerKeys](https://github.com/p0dalirius/ExtractBitlockerKeys)
+- [https://github.com/p0dalirius/Accessibility-swap-login-LPE](https://github.com/p0dalirius/Accessibility-swap-login-LPE)
+- [https://github.com/blackarrowsec/mssqlproxy](https://github.com/blackarrowsec/mssqlproxy)
 - [https://ihebski.github.io/A-Red-Teamer-diaries/](https://ihebski.github.io/A-Red-Teamer-diaries/)
 - [https://angryip.org/](https://angryip.org/)
 - [https://klezvirus.github.io/](https://klezvirus.github.io/)

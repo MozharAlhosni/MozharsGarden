@@ -25,3 +25,4 @@ title: Tools
 - [https://github.com/noperator/siftrank](https://github.com/noperator/siftrank)
 - [https://github.com/codescan-ai/codescan](https://github.com/codescan-ai/codescan)
 - [https://www.cyberark.com/resources/threat-research-blog/bytecodellm-privacy-in-the-llm-era-byte-code-to-source-code](https://www.cyberark.com/resources/threat-research-blog/bytecodellm-privacy-in-the-llm-era-byte-code-to-source-code)
+- [https://github.com/KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon)

@@ -14,3 +14,5 @@ title: Links
 - [Royal Apps](https://royalapps.com/ts/mac/buy)
 - [https://github.com/ading2210/linuxpdf](https://github.com/ading2210/linuxpdf)
 - [https://en.wikipedia.org/wiki/DIMM](https://en.wikipedia.org/wiki/DIMM)
+- [https://github.com/glandium/vmfs-tools](https://github.com/glandium/vmfs-tools)
+- [https://github.com/fox-it/dissect.vmfs](https://github.com/fox-it/dissect.vmfs)

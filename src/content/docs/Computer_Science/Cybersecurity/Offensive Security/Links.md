@@ -2,8 +2,13 @@
 title: Links
 ---
 
+- [https://web-check.xyz/](https://web-check.xyz/)
+- [https://github.com/betterleaks/betterleaks](https://github.com/betterleaks/betterleaks)
+- [https://github.com/gitleaks/gitleaks](https://github.com/gitleaks/gitleaks)
+- [https://ipcheck.ing/](https://ipcheck.ing/)
 - [https://github.com/tamnd/kage](https://github.com/tamnd/kage)
 - [https://github.com/The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker)
+- [https://github.com/Pennyw0rth/NetExec](https://github.com/Pennyw0rth/NetExec)
 - [https://hstechdocs.helpsystems.com/manuals/cobaltstrike/current/userguide/content/topics/welcome_main.htm](https://hstechdocs.helpsystems.com/manuals/cobaltstrike/current/userguide/content/topics/welcome_main.htm)
 - [https://p3ta-tricks.com/](https://p3ta-tricks.com/)
 - [https://www.elttam.com/resources](https://www.elttam.com/resources)
@@ -80,3 +85,5 @@ title: Links
 - [https://gracker.ai/cybersecurity-tools/category/network-cloud/cloud-security](https://gracker.ai/cybersecurity-tools/category/network-cloud/cloud-security)
 - [https://cybersectools.com/](https://cybersectools.com/)
 - [https://github.com/V33RU/tcpk](https://github.com/V33RU/tcpk)
+- [https://github.com/0xdea/tactical-exploitation](https://github.com/0xdea/tactical-exploitation)
+- [https://github.com/r1cksec/cheatsheets](https://github.com/r1cksec/cheatsheets)

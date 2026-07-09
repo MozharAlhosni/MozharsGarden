@@ -12,3 +12,5 @@ title: Links
 - [https://github.com/cyb3rxp/awesome-soc](https://github.com/cyb3rxp/awesome-soc)
 - [https://shuffler.io/](https://shuffler.io/)
 - [https://github.com/shuffle/shuffle](https://github.com/shuffle/shuffle)
+- [https://docs.securityonion.net/en/3/main/](https://docs.securityonion.net/en/3/main/)
+- [https://github.com/Security-Onion-Solutions/securityonion/](https://github.com/Security-Onion-Solutions/securityonion/)

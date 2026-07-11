@@ -10,3 +10,5 @@ title: Links
 - [https://www.futilitycloset.com](https://www.futilitycloset.com)
 - [https://en.wikipedia.org/wiki/Summum_bonum](https://en.wikipedia.org/wiki/Summum_bonum)
 - [https://ludwig.guru/](https://ludwig.guru/)
+- [https://en.wikipedia.org/wiki/Darwin_Information_Typing_Architecture](https://en.wikipedia.org/wiki/Darwin_Information_Typing_Architecture)
+- [https://www.dita-ot.org/](https://www.dita-ot.org/)

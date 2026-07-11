@@ -43,3 +43,4 @@ title: Links
 - [https://github.com/gershsec/mssql2025-poc](https://github.com/gershsec/mssql2025-poc)
 - [https://itsbroken.ai/stuck-on-prompt-injection/](https://itsbroken.ai/stuck-on-prompt-injection/)
 - [https://specterops.io/blog/2026/06/11/building-an-indirect-prompt-injection-workflow/#](https://specterops.io/blog/2026/06/11/building-an-indirect-prompt-injection-workflow/#)
+- [https://blog.trailofbits.com/2026/03/31/how-we-made-trail-of-bits-ai-native-so-far/](https://blog.trailofbits.com/2026/03/31/how-we-made-trail-of-bits-ai-native-so-far/)

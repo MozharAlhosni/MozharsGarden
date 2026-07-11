@@ -2,6 +2,7 @@
 title: Links
 ---
 
+- [https://swarm.ptsecurity.com/](https://swarm.ptsecurity.com/)
 - [https://web-check.xyz/](https://web-check.xyz/)
 - [https://github.com/betterleaks/betterleaks](https://github.com/betterleaks/betterleaks)
 - [https://github.com/gitleaks/gitleaks](https://github.com/gitleaks/gitleaks)
@@ -87,3 +88,5 @@ title: Links
 - [https://github.com/V33RU/tcpk](https://github.com/V33RU/tcpk)
 - [https://github.com/0xdea/tactical-exploitation](https://github.com/0xdea/tactical-exploitation)
 - [https://github.com/r1cksec/cheatsheets](https://github.com/r1cksec/cheatsheets)
+- [https://labs.jamessawyer.co.uk/cves/](https://labs.jamessawyer.co.uk/cves/)
+- [https://blablalinux.be/](https://blablalinux.be/)

@@ -2,6 +2,7 @@
 title: Links
 ---
 
+- [https://www.synacktiv.com/en/publications%253Ffield_tags_target_id%253D4](https://www.synacktiv.com/en/publications%253Ffield_tags_target_id%253D4)
 - [https://github.com/sinfulz/JustTryHarder](https://github.com/sinfulz/JustTryHarder)
 - [https://starlabs.sg/blog/2026/06-old-wine-in-a-new-bottle-a-decade-old-lxd-group-root-re-armed/](https://starlabs.sg/blog/2026/06-old-wine-in-a-new-bottle-a-decade-old-lxd-group-root-re-armed/)
 - [https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/](https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/)
@@ -28,3 +29,4 @@ title: Links
 - [https://advisories.checkpoint.com/defense/advisories/public/2010/sbp-2010-16.html/](https://advisories.checkpoint.com/defense/advisories/public/2010/sbp-2010-16.html/)
 - [https://mxtoolbox.com/dmarc/details/what-are-null-mx-records](https://mxtoolbox.com/dmarc/details/what-are-null-mx-records)
 - [https://github.com/m14r41/PentestingEverything](https://github.com/m14r41/PentestingEverything)
+- [https://blog.securelayer7.net/cve-2026-44963-veeam-backup-authenticated-rce-binaryformatter-bypass/](https://blog.securelayer7.net/cve-2026-44963-veeam-backup-authenticated-rce-binaryformatter-bypass/)

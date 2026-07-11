@@ -26,3 +26,6 @@ title: Tools
 - [https://github.com/codescan-ai/codescan](https://github.com/codescan-ai/codescan)
 - [https://www.cyberark.com/resources/threat-research-blog/bytecodellm-privacy-in-the-llm-era-byte-code-to-source-code](https://www.cyberark.com/resources/threat-research-blog/bytecodellm-privacy-in-the-llm-era-byte-code-to-source-code)
 - [https://github.com/KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon)
+- [https://github.com/elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST)
+- [https://trustedsec.com/blog/welcoming-obfusgit](https://trustedsec.com/blog/welcoming-obfusgit)
+- [https://github.com/trailofbits/skills](https://github.com/trailofbits/skills)

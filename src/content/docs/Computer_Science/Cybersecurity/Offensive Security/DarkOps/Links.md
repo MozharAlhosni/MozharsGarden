@@ -24,3 +24,5 @@ title: Links
 - [https://github.com/jery0843/torforge](https://github.com/jery0843/torforge)
 - [https://github.com/gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile)
 - [https://www.buskill.in/](https://www.buskill.in/)
+- [https://www.praetorian.com/blog/llm-kernel-exploit-development/](https://www.praetorian.com/blog/llm-kernel-exploit-development/)
+- [https://api.c99.nl/](https://api.c99.nl/)

@@ -22,3 +22,5 @@ title: Links
 - [https://github.com/airbytehq/airbyte](https://github.com/airbytehq/airbyte)
 - [https://www.dlapiperdataprotection.com/](https://www.dlapiperdataprotection.com/)
 - [https://learn.microsoft.com/en-us/microsoft-365/enterprise/o365-data-locations?view=o365-worldwide](https://learn.microsoft.com/en-us/microsoft-365/enterprise/o365-data-locations?view=o365-worldwide)
+- [https://www.dataguard.com/blog/ropa/](https://www.dataguard.com/blog/ropa/)
+- [https://arc.cdata.com/](https://arc.cdata.com/)

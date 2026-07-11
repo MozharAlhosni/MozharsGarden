@@ -48,3 +48,4 @@ title: Links
 - [https://graphviz.org/](https://graphviz.org/)
 - [https://brevio.pro/](https://brevio.pro/)
 - [https://stargate.tibuntu.fr/](https://stargate.tibuntu.fr/)
+- [https://www.ftc.gov/legal-library/browse/rules/childrens-online-privacy-protection-rule-coppa](https://www.ftc.gov/legal-library/browse/rules/childrens-online-privacy-protection-rule-coppa)

@@ -2,6 +2,7 @@
 title: Links
 ---
 
+- [https://cloud.google.com/blog/topics/threat-intelligence/recovering-active-adfs-signing-keys-machine-dpapi/](https://cloud.google.com/blog/topics/threat-intelligence/recovering-active-adfs-signing-keys-machine-dpapi/)
 - [https://github.com/wh0amitz/SharpADWS](https://github.com/wh0amitz/SharpADWS)
 - [https://github.com/mverschu/adwsdomaindump](https://github.com/mverschu/adwsdomaindump)
 - [https://github.com/dirkjanm/ldapdomaindump](https://github.com/dirkjanm/ldapdomaindump)

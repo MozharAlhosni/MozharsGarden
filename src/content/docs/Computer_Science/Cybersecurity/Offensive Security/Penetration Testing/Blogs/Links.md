@@ -2,6 +2,7 @@
 title: Links
 ---
 
+- [https://blog.evan.lat/](https://blog.evan.lat/)
 - [https://mll.sh/](https://mll.sh/)
 - [https://notes.incendium.rocks/pentesting-notes](https://notes.incendium.rocks/pentesting-notes)
 - [https://krypton.ninja/](https://krypton.ninja/)

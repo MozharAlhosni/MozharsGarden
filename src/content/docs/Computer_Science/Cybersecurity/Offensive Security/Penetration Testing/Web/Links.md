@@ -16,3 +16,4 @@ title: Links
 - [https://www.invicti.com/learn/json-injection](https://www.invicti.com/learn/json-injection)
 - [https://bishopfox.com/blog/json-interoperability-vulnerabilities](https://bishopfox.com/blog/json-interoperability-vulnerabilities)
 - [https://cspbypass.com/](https://cspbypass.com/)
+- [https://slcyber.io/research-center/two-bypasses-for-chromes-sanitizer-api/](https://slcyber.io/research-center/two-bypasses-for-chromes-sanitizer-api/)

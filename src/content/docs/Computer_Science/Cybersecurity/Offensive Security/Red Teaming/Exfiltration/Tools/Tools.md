@@ -25,3 +25,4 @@ title: Tools
 - [https://github.com/x011/smtp-tunnel-proxy](https://github.com/x011/smtp-tunnel-proxy)
 - [https://freedns.afraid.org/](https://freedns.afraid.org/)
 - [https://technitium.com/dns/](https://technitium.com/dns/)
+- [https://webhook.site/#!/view/6e24fb46-cede-4086-9fe0-98d60cdae5ee](https://webhook.site/#!/view/6e24fb46-cede-4086-9fe0-98d60cdae5ee)

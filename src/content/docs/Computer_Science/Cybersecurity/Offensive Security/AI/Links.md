@@ -2,6 +2,9 @@
 title: Links
 ---
 
+- [https://projectzero.google/2024/06/project-naptime.html](https://projectzero.google/2024/06/project-naptime.html)
+- [https://blog.zsec.uk/tag/ai/](https://blog.zsec.uk/tag/ai/)
+- [https://blog.zsec.uk/harnessing-harnesses/](https://blog.zsec.uk/harnessing-harnesses/)
 - [https://forge.itsbroken.ai/](https://forge.itsbroken.ai/)
 - [https://www.cyberark.com/resources/threat-research-blog/jailbreaking-every-llm-with-one-simple-click](https://www.cyberark.com/resources/threat-research-blog/jailbreaking-every-llm-with-one-simple-click)
 - [https://www.cyberark.com/resources/threat-research-blog/anatomy-of-an-llm-rce](https://www.cyberark.com/resources/threat-research-blog/anatomy-of-an-llm-rce)

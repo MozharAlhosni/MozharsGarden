@@ -74,3 +74,4 @@ title: Links
 - [https://github.com/lkarlslund/ldapnomnom](https://github.com/lkarlslund/ldapnomnom)
 - [https://github.com/ANSSI-FR/ADTimeline](https://github.com/ANSSI-FR/ADTimeline)
 - [https://github.com/layer8secure/SilentHound](https://github.com/layer8secure/SilentHound)
+- [https://github.com/SpecterOps/TierZeroTable](https://github.com/SpecterOps/TierZeroTable)

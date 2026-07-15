@@ -30,3 +30,8 @@ title: Links
 - [https://mxtoolbox.com/dmarc/details/what-are-null-mx-records](https://mxtoolbox.com/dmarc/details/what-are-null-mx-records)
 - [https://github.com/m14r41/PentestingEverything](https://github.com/m14r41/PentestingEverything)
 - [https://blog.securelayer7.net/cve-2026-44963-veeam-backup-authenticated-rce-binaryformatter-bypass/](https://blog.securelayer7.net/cve-2026-44963-veeam-backup-authenticated-rce-binaryformatter-bypass/)
+- [https://github.com/SpecterOps/GitHound](https://github.com/SpecterOps/GitHound)
+- [https://github.com/SpecterOps/SnowHound](https://github.com/SpecterOps/SnowHound)
+- [https://github.com/SpecterOps/JamfHound](https://github.com/SpecterOps/JamfHound)
+- [https://github.com/SpecterOps/OktaHound](https://github.com/SpecterOps/OktaHound)
+- [https://github.com/SpecterOps/1PassHound](https://github.com/SpecterOps/1PassHound)

@@ -40,3 +40,4 @@ title: Links
 - [https://scotthelme.co.uk/report-uri-penetration-test-2025/](https://scotthelme.co.uk/report-uri-penetration-test-2025/)
 - [https://projectdiscovery.io/blog/year-in-review-the-vulnerabilities-that-defined-2025](https://projectdiscovery.io/blog/year-in-review-the-vulnerabilities-that-defined-2025)
 - [https://wiki.hackerium.io/](https://wiki.hackerium.io/)
+- [https://specterops.io/blog/?category%5B%5D=research](https://specterops.io/blog/?category%5B%5D=research)

@@ -2,6 +2,12 @@
 title: Tools
 ---
 
+- [https://github.com/evilsocket/audit](https://github.com/evilsocket/audit)
+- [https://github.com/visa/visa-vulnerability-agentic-harness](https://github.com/visa/visa-vulnerability-agentic-harness)
+- [https://github.com/alpha-omega-security/scrutineer](https://github.com/alpha-omega-security/scrutineer)
+- [https://github.com/faizann24/baby-naptime](https://github.com/faizann24/baby-naptime)
+- [https://github.com/gadievron/raptor](https://github.com/gadievron/raptor)
+- [https://github.com/anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness)
 - [https://jiep.github.io/offensive-ai-compilation/](https://jiep.github.io/offensive-ai-compilation/)
 - [https://github.com/promptfoo/promptfoo](https://github.com/promptfoo/promptfoo)
 - [https://www.promptfoo.dev/docs/intro/](https://www.promptfoo.dev/docs/intro/)

@@ -18,11 +18,6 @@ export default defineConfig({
 					collapsed: true
 				},
 				{
-					label: 'HTB Walkthroughs',
-					autogenerate: { directory: 'HTB_Walkthroughs' },
-					collapsed: true
-				},
-				{
 					label: 'Intelligence Gathering',
 					autogenerate: { directory: 'Intelligence_Gathering' },
 					collapsed: true
@@ -53,13 +48,18 @@ export default defineConfig({
 					collapsed: true
 				},
 				{
-					label: 'Consultation Services',
-					link: '/consultation_services'
-				},
-				{
 					label: 'Psychology',
 					autogenerate: { directory: 'Psychology' },
 					collapsed: true
+				},
+				{
+					label: 'Finance',
+					autogenerate: { directory: 'Finance'},
+					collapsed: true
+				},
+				{
+					label: 'Consultation Services',
+					link: '/consultation_services'
 				},
 			],
 		}),

@@ -2,6 +2,7 @@
 title: Links
 ---
 
+- [https://github.com/reactos/reactos](https://github.com/reactos/reactos)
 - [https://www.vergiliusproject.com/](https://www.vergiliusproject.com/)
 - [https://thesysadminschool.com/systems-administration-101/](https://thesysadminschool.com/systems-administration-101/)
 - [https://attuneops.io/windows-sysadmin-tools/](https://attuneops.io/windows-sysadmin-tools/)

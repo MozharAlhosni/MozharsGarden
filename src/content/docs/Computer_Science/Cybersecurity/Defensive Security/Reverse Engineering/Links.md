@@ -38,4 +38,4 @@ title: Links
 - [https://github.com/avast/retdec](https://github.com/avast/retdec)
 - [https://rev.ng/](https://rev.ng/)
 - [https://threatblogger.com/2024/02/27/x64dbg-snowman-decompiler/](https://threatblogger.com/2024/02/27/x64dbg-snowman-decompiler/)
-- 
+- [https://scc.binary.ninja/](https://scc.binary.ninja/)

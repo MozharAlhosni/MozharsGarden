@@ -25,3 +25,4 @@ title: Links
 - [https://github.com/drwscefn/AxHound](https://github.com/drwscefn/AxHound)
 - [https://xenon-2.gitbook.io/writeups/](https://xenon-2.gitbook.io/writeups/)
 - [https://scythe.io/](https://scythe.io/)
+- [https://github.com/SeroSkiid/SeroC2](https://github.com/SeroSkiid/SeroC2)

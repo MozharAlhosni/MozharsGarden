@@ -15,3 +15,4 @@ title: Links
 - [https://blog.balliskit.com/tutorial-sliver-c2-with-balliskit-macropack-and-shellcodepack-452e94c24b19](https://blog.balliskit.com/tutorial-sliver-c2-with-balliskit-macropack-and-shellcodepack-452e94c24b19)
 - [https://github.com/Chaelsoo/nimcrypt](https://github.com/Chaelsoo/nimcrypt)
 - [https://github.com/SadeghHayeri/GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel)
+- [https://github.com/MatheuZSecurity/Furtex](https://github.com/MatheuZSecurity/Furtex)

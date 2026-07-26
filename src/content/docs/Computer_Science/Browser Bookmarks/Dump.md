@@ -238,7 +238,6 @@ Later on I will need to clean it up and categorize things.
 - [The Intuition Behind ECDSA | By RareSkills – RareSkills](https://rareskills.io/post/ecdsa-tutorial)
 - [RepoView: Scientific Linux 41 ia64](https://ftp.riken.jp/Linux/scientific/obsolete/41/ia64/SL/RPMS/repodata/index.html)
 - [Ubuntu Security | Ubuntu](https://ubuntu.com/security)
-- [STIGs Document Library](https://www.cyber.mil/stigs/downloads/?_dl_facet_stigs=operating-systems%2Cunix-linux)
 - [dani-garcia/vaultwarden: Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs](https://github.com/dani-garcia/vaultwarden)
 - [Infinite Scale - the new cloud-native data platform](https://owncloud.com/infinite-scale/)
 - [atc22-holzbauer.pdf](https://www.usenix.org/system/files/atc22-holzbauer.pdf)

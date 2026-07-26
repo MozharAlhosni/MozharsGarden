@@ -4,8 +4,11 @@ title: Links
 
 - [https://cloud.google.com/blog/topics/threat-intelligence/recovering-active-adfs-signing-keys-machine-dpapi/](https://cloud.google.com/blog/topics/threat-intelligence/recovering-active-adfs-signing-keys-machine-dpapi/)
 - [https://github.com/wh0amitz/SharpADWS](https://github.com/wh0amitz/SharpADWS)
+- [https://github.com/xforcered/SOAPy](https://github.com/xforcered/SOAPy)
 - [https://github.com/mverschu/adwsdomaindump](https://github.com/mverschu/adwsdomaindump)
 - [https://github.com/dirkjanm/ldapdomaindump](https://github.com/dirkjanm/ldapdomaindump)
+- [https://github.com/Friends-Security/ShadowHound](https://github.com/Friends-Security/ShadowHound)
+- [https://ipurple.team/2025/08/12/active-directory-enumeration-adws/](https://ipurple.team/2025/08/12/active-directory-enumeration-adws/)
 - [https://github.com/jakehildreth/BlueTuxedo](https://github.com/jakehildreth/BlueTuxedo)
 - [https://github.com/lefayjey/SharpSQLPwn](https://github.com/lefayjey/SharpSQLPwn)
 - [https://github.com/Leo4j/Invoke-ADEnum](https://github.com/Leo4j/Invoke-ADEnum)

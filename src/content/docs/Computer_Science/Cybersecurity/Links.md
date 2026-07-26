@@ -72,3 +72,4 @@ title: Links
 - [https://github.com/mozilla/MozDef](https://github.com/mozilla/MozDef)
 - [https://filesec.io/](https://filesec.io/)
 - [https://vx-underground.org/](https://vx-underground.org/)
+- [https://hacker-simulator.com/](https://hacker-simulator.com/)

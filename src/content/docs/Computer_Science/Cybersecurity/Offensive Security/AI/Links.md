@@ -2,6 +2,7 @@
 title: Links
 ---
 
+- [https://semgrep.dev/blog/2026/comparing-open-source-ai-code-security-harnesses/](https://semgrep.dev/blog/2026/comparing-open-source-ai-code-security-harnesses/)
 - [https://projectzero.google/2024/06/project-naptime.html](https://projectzero.google/2024/06/project-naptime.html)
 - [https://blog.zsec.uk/tag/ai/](https://blog.zsec.uk/tag/ai/)
 - [https://blog.zsec.uk/harnessing-harnesses/](https://blog.zsec.uk/harnessing-harnesses/)

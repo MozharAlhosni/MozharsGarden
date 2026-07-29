@@ -10,5 +10,6 @@ title: Links
 - [https://learn.microsoft.com/en-us/sysinternals/downloads/psshutdown](https://learn.microsoft.com/en-us/sysinternals/downloads/psshutdown)
 - [https://learn.microsoft.com/en-us/sysinternals/downloads/autologon](https://learn.microsoft.com/en-us/sysinternals/downloads/autologon)
 - [https://github.com/Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas)
-- [https://github.com/hellzerg/optimizer?tab=readme-ov-file](https://github.com/hellzerg/optimizer?tab=readme-ov-file)
+- [https://github.com/hellzerg/optimizer](https://github.com/hellzerg/optimizer)
 - [https://github.com/hellzerg/optimizerNXT](https://github.com/hellzerg/optimizerNXT)
+- [https://www.powershellgallery.com/](https://www.powershellgallery.com/)

@@ -58,8 +58,8 @@ export default defineConfig({
 					collapsed: true
 				},
 				{
-					label: 'Consultation Services',
-					link: '/consultation_services'
+					label: 'Cybersecurity Consulting and Security Engagements',
+					link: '/cybersecurity_consulting_and_security_engagements'
 				},
 			],
 		}),

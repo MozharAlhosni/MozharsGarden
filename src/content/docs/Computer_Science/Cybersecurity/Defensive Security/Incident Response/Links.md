@@ -11,3 +11,5 @@ title: Links
 - [https://www.pagerduty.com/](https://www.pagerduty.com/)
 - [https://www.ibm.com/support/pages/system/files/inline-images/resilient/article_attachments/115010703549/Resilient_User_Guide.pdf](https://www.ibm.com/support/pages/system/files/inline-images/resilient/article_attachments/115010703549/Resilient_User_Guide.pdf)
 - [https://www.crowdstrike.com/explore/crowdstrike-content/whitepaper-incident-response-plans-frontline-lessons](https://www.crowdstrike.com/explore/crowdstrike-content/whitepaper-incident-response-plans-frontline-lessons)
+- [https://www.kali.org/tools/rkhunter/](https://www.kali.org/tools/rkhunter/)
+- [https://aide.github.io/](https://aide.github.io/)

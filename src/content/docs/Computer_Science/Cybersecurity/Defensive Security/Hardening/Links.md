@@ -10,3 +10,4 @@ title: Links
 - [https://docs.chef.io/inspec/](https://docs.chef.io/inspec/)
 - [https://www.stigviewer.com/stigs](https://www.stigviewer.com/stigs)
 - [https://www.cyber.mil/](https://www.cyber.mil/)
+- [https://ncp.nist.gov/repository](https://ncp.nist.gov/repository)

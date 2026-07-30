@@ -10,3 +10,4 @@ title: Links
 - [https://knowledge.broadcom.com/external/article/396963/vmware-vsphere-security-configuration-gu.html](https://knowledge.broadcom.com/external/article/396963/vmware-vsphere-security-configuration-gu.html)
 - [https://www.stigviewer.com/stigs/vmware_vsphere_80_esxi](https://www.stigviewer.com/stigs/vmware_vsphere_80_esxi)
 - [https://virtualizationreview.com/articles/2018/09/10/how-to-use-vami.aspx](https://virtualizationreview.com/articles/2018/09/10/how-to-use-vami.aspx)
+- [https://vminfrastructure.com/](https://vminfrastructure.com/)

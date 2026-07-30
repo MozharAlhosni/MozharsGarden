@@ -22,3 +22,4 @@ title: Links
 - [https://www.law.uc.edu/education/areasofstudy/litigation-alternative-dispute-resolution.html](https://www.law.uc.edu/education/areasofstudy/litigation-alternative-dispute-resolution.html)
 - [https://www.law.cornell.edu/wex/attorney-client_privilege](https://www.law.cornell.edu/wex/attorney-client_privilege)
 - [https://www.law.cornell.edu/wex/parol_evidence_rule](https://www.law.cornell.edu/wex/parol_evidence_rule)
+- [https://en.wikipedia.org/wiki/Quorum](https://en.wikipedia.org/wiki/Quorum)

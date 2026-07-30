@@ -1,5 +1,6 @@
 ---
 title: Cybersecurity Consulting & Security Engagements
+slug: cybersecurity-consulting-and-security-engagements
 ---
 
 I provide **cybersecurity consulting and hands-on security engagements** across the full spectrum of cybersecurity — from GRC to infrastructure hardening and offensive security operations.

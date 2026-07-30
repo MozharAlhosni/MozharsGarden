@@ -59,7 +59,7 @@ export default defineConfig({
 				},
 				{
 					label: 'Cybersecurity Consulting and Security Engagements',
-					link: '/cybersecurity consulting and security engagements'
+					slug: 'cybersecurity-consulting-and-security-engagements',
 				},
 			],
 		}),

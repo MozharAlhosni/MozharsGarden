@@ -16,3 +16,4 @@ title: Links
 - [https://en.wikipedia.org/wiki/DIMM](https://en.wikipedia.org/wiki/DIMM)
 - [https://github.com/glandium/vmfs-tools](https://github.com/glandium/vmfs-tools)
 - [https://github.com/fox-it/dissect.vmfs](https://github.com/fox-it/dissect.vmfs)
+- [https://www.amd.com/en/products/processors/server/epyc.html](https://www.amd.com/en/products/processors/server/epyc.html)

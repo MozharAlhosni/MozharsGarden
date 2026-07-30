@@ -70,3 +70,4 @@ title: Links
 - [https://learn.microsoft.com/en-us/visualstudio/vsto/office-solutions-development-overview-vsto?view=visualstudio](https://learn.microsoft.com/en-us/visualstudio/vsto/office-solutions-development-overview-vsto?view=visualstudio)
 - [https://www.dyalog.com/](https://www.dyalog.com/)
 - [https://mastering.dyalog.com/README.html](https://mastering.dyalog.com/README.html)
+- [https://en.wikipedia.org/wiki/Extensible_Host_Controller_Interface](https://en.wikipedia.org/wiki/Extensible_Host_Controller_Interface)

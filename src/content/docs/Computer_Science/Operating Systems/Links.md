@@ -2,6 +2,7 @@
 title: Links
 ---
 
+- [https://github.com/netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz)
 - [https://www.lookuptables.com/](https://www.lookuptables.com/)
 - [https://blog.stackademic.com](https://blog.stackademic.com)
 - [freebsd/freebsd-src: The FreeBSD src tree publish-only repository. Experimenting with 'simple' pull requests....](https://github.com/freebsd/freebsd-src)
@@ -17,3 +18,4 @@ title: Links
 - [https://github.com/glandium/vmfs-tools](https://github.com/glandium/vmfs-tools)
 - [https://github.com/fox-it/dissect.vmfs](https://github.com/fox-it/dissect.vmfs)
 - [https://www.amd.com/en/products/processors/server/epyc.html](https://www.amd.com/en/products/processors/server/epyc.html)
+- [https://linuxcontainers.org/](https://linuxcontainers.org/)

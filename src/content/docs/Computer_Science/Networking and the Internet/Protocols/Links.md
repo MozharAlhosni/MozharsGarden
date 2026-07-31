@@ -12,3 +12,4 @@ title: Links
 - [https://www.icir.org/gregor/tools/ms-smb-protocols.html](https://www.icir.org/gregor/tools/ms-smb-protocols.html)
 - [https://en.wikipedia.org/wiki/Precision_Time_Protocol](https://en.wikipedia.org/wiki/Precision_Time_Protocol)
 - [https://en.wikipedia.org/wiki/ISCSI](https://en.wikipedia.org/wiki/ISCSI)
+- [https://en.wikipedia.org/wiki/CardDAV](https://en.wikipedia.org/wiki/CardDAV)

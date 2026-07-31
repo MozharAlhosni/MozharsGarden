@@ -2,6 +2,7 @@
 title: Links
 ---
 
+- [https://dnsmonitor.com/resources/dns-check-kb/](https://dnsmonitor.com/resources/dns-check-kb/)
 - [http://unixwiz.net/techtips/iguide-kaminsky-dns-vuln.html](http://unixwiz.net/techtips/iguide-kaminsky-dns-vuln.html)
 - [https://www.kb.cert.org/vuls/id/800113](https://www.kb.cert.org/vuls/id/800113)
 - [https://datatracker.ietf.org/doc/html/draft-vixie-dnsext-dns0x20-00](https://datatracker.ietf.org/doc/html/draft-vixie-dnsext-dns0x20-00)
@@ -27,3 +28,4 @@ title: Links
 - [OJ/gobuster: Directory/File, DNS and VHost busting tool written in Go](https://github.com/OJ/gobuster)
 - [GitHub - coredns/coredns: CoreDNS is a DNS server that chains plugins](https://github.com/coredns/coredns)
 - [https://technitium.com/dns/](https://technitium.com/dns/)
+- [https://www.knot-dns.cz/](https://www.knot-dns.cz/)

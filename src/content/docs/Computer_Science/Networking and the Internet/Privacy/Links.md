@@ -2,6 +2,8 @@
 title: Links
 ---
 
+- [https://www.ietf.org/rfc/rfc9458.html](https://www.ietf.org/rfc/rfc9458.html)
+- [https://support.mozilla.org/en-US/kb/ohttp-explained](https://support.mozilla.org/en-US/kb/ohttp-explained)
 - [https://www.reddit.com/r/privacy/comments/16qt33e/does_hidden_networks_make_sense/](https://www.reddit.com/r/privacy/comments/16qt33e/does_hidden_networks_make_sense/)
 - [https://github.com/undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy)
 - [https://github.com/AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome)

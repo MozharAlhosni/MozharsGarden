@@ -9,7 +9,7 @@ Whether you need strategic guidance, a security assessment, infrastructure harde
 
 If you need help with any of the areas below, feel free to reach out at **[mozharalhosni@gmail.com](mailto:mozharalhosni@gmail.com)**.
 
-# Governance, Risk & Compliance
+## Governance, Risk & Compliance
 
 - **AI Security Governance**
 - **AI Threat Modelling & Risk Assessments**
@@ -18,7 +18,7 @@ If you need help with any of the areas below, feel free to reach out at **[mozha
 - **Regulatory Compliance**
 - **Policies, Standards & Procedures**
 
-# Security Architecture & Infrastructure Hardening
+## Security Architecture & Infrastructure Hardening
 
 Hands-on security hardening and secure configuration reviews across a broad range of infrastructure and enterprise technology stacks, including:
 
@@ -31,7 +31,7 @@ Hands-on security hardening and secure configuration reviews across a broad rang
 - **SASE environments**
 - **Cloud environments and security configurations**
 
-# Offensive Security & Targeted Operations
+## Offensive Security & Targeted Operations
 
 Offensive security engagements:
 
@@ -45,18 +45,18 @@ Offensive security engagements:
 - **Penetration Testing Report Reviews**
 - **Remediation Validation**
 
-# Secure Development & Engineering
+## Secure Development & Engineering
 
 - **Security Integration into the SDLC**
 - **Documentation Digitization and Modernization**
 
-# Incident Response & Defensive Security
+## Incident Response & Defensive Security
 
 - **Cybersecurity Incident Response Plan Reviews and Improvement**
 - **Defensive Security Projects**
 - **Security Posture Improvement**
 
-# Cybersecurity Talent & Team Development
+## Cybersecurity Talent & Team Development
 
 - **Candidate Vetting & Technical Interviewing**
 - **Cybersecurity Team Mentoring and Development**

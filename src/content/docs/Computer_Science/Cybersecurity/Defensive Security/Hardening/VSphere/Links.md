@@ -11,3 +11,5 @@ title: Links
 - [https://www.stigviewer.com/stigs/vmware_vsphere_80_esxi](https://www.stigviewer.com/stigs/vmware_vsphere_80_esxi)
 - [https://virtualizationreview.com/articles/2018/09/10/how-to-use-vami.aspx](https://virtualizationreview.com/articles/2018/09/10/how-to-use-vami.aspx)
 - [https://vminfrastructure.com/](https://vminfrastructure.com/)
+- [https://github.com/AlbinoGazelle/esxi-testing-toolkit](https://github.com/AlbinoGazelle/esxi-testing-toolkit)
+- [https://detect.fyi/vmware-esxi-logging-detection-opportunities-4fb56411ec21](https://detect.fyi/vmware-esxi-logging-detection-opportunities-4fb56411ec21)

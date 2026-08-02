@@ -2,6 +2,8 @@
 title: Links
 ---
 
+- [https://github.com/tomwechsler/Ethical_Hacking_and_Penetration_Testing](https://github.com/tomwechsler/Ethical_Hacking_and_Penetration_Testing)
+- [https://code.mil/](https://code.mil/)
 - [https://en.wikipedia.org/wiki/Chaos_Communication_Congress](https://en.wikipedia.org/wiki/Chaos_Communication_Congress)
 - [https://raw.githack.com/](https://raw.githack.com/)
 - [https://github.com/Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)

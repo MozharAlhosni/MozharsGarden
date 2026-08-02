@@ -13,3 +13,4 @@ title: Links
 - [https://www.intel.com/content/www/us/en/products/details/processors/xeon/features/software-guard-extensions.html](https://www.intel.com/content/www/us/en/products/details/processors/xeon/features/software-guard-extensions.html)
 - [https://www.intel.com/content/www/us/en/developer/tools/trust-domain-extensions/overview.html](https://www.intel.com/content/www/us/en/developer/tools/trust-domain-extensions/overview.html)
 - [https://www.intel.com/content/www/us/en/support/articles/000025873/processors.html](https://www.intel.com/content/www/us/en/support/articles/000025873/processors.html)
+- [https://en.wikipedia.org/wiki/ROCA_vulnerability](https://en.wikipedia.org/wiki/ROCA_vulnerability)

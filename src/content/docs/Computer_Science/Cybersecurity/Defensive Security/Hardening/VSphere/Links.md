@@ -3,6 +3,8 @@ title: Links
 ---
 
 - [https://github.com/vmware/vcf-security-and-compliance-guidelines/tree/main/security-configuration-hardening-guide/vsphere](https://github.com/vmware/vcf-security-and-compliance-guidelines/tree/main/security-configuration-hardening-guide/vsphere)
+- [https://github.com/vmware/vcf-security-and-compliance-guidelines](https://github.com/vmware/vcf-security-and-compliance-guidelines)
+- [https://www.vmware.com/docs/vmware-best-practices-for-hardening-your-infrastructure](https://www.vmware.com/docs/vmware-best-practices-for-hardening-your-infrastructure)
 - [https://techdocs.broadcom.com/us/en/vmware-cis/vsphere/vsphere/8-0/vsphere-security.html](https://techdocs.broadcom.com/us/en/vmware-cis/vsphere/vsphere/8-0/vsphere-security.html)
 - [https://www.vmware.com/docs/compliance-vulnerability-scanning-frequently-asked-questions](https://www.vmware.com/docs/compliance-vulnerability-scanning-frequently-asked-questions)
 - [https://knowledge.broadcom.com/external/article/424026/security-hardening-for-esxi-and-vcenter.html](https://knowledge.broadcom.com/external/article/424026/security-hardening-for-esxi-and-vcenter.html)
@@ -13,3 +15,4 @@ title: Links
 - [https://vminfrastructure.com/](https://vminfrastructure.com/)
 - [https://github.com/AlbinoGazelle/esxi-testing-toolkit](https://github.com/AlbinoGazelle/esxi-testing-toolkit)
 - [https://detect.fyi/vmware-esxi-logging-detection-opportunities-4fb56411ec21](https://detect.fyi/vmware-esxi-logging-detection-opportunities-4fb56411ec21)
+- [https://www.mirazon.com/thin-disk-vs-thick-lazy-zeroed-disk-vs-thick-eager-zeroed-disk-understanding-vmwares-disk-types/](https://www.mirazon.com/thin-disk-vs-thick-lazy-zeroed-disk-vs-thick-eager-zeroed-disk-understanding-vmwares-disk-types/)

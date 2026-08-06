@@ -2,6 +2,7 @@
 title: Links
 ---
 
+- [https://en.wikipedia.org/wiki/HTML_Application](https://en.wikipedia.org/wiki/HTML_Application)
 - [https://swarm.ptsecurity.com/](https://swarm.ptsecurity.com/)
 - [https://web-check.xyz/](https://web-check.xyz/)
 - [https://github.com/betterleaks/betterleaks](https://github.com/betterleaks/betterleaks)

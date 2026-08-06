@@ -29,3 +29,5 @@ title: Links
 - [GitHub - coredns/coredns: CoreDNS is a DNS server that chains plugins](https://github.com/coredns/coredns)
 - [https://technitium.com/dns/](https://technitium.com/dns/)
 - [https://www.knot-dns.cz/](https://www.knot-dns.cz/)
+- [https://dnsfly.net/articles/dns-over-https-explained](https://dnsfly.net/articles/dns-over-https-explained)
+- [https://www.simonpainter.com/encrypted-dns/](https://www.simonpainter.com/encrypted-dns/)

@@ -16,3 +16,6 @@ title: Links
 - [https://github.com/AlbinoGazelle/esxi-testing-toolkit](https://github.com/AlbinoGazelle/esxi-testing-toolkit)
 - [https://detect.fyi/vmware-esxi-logging-detection-opportunities-4fb56411ec21](https://detect.fyi/vmware-esxi-logging-detection-opportunities-4fb56411ec21)
 - [https://www.mirazon.com/thin-disk-vs-thick-lazy-zeroed-disk-vs-thick-eager-zeroed-disk-understanding-vmwares-disk-types/](https://www.mirazon.com/thin-disk-vs-thick-lazy-zeroed-disk-vs-thick-eager-zeroed-disk-understanding-vmwares-disk-types/)
+- [https://www.huntress.com/blog/hypervisor-defenses-against-ransomware-targeting-esxi](https://www.huntress.com/blog/hypervisor-defenses-against-ransomware-targeting-esxi)
+- [https://www.vmware.com/resources/hardening-guides](https://www.vmware.com/resources/hardening-guides)
+- [https://socprime.com/active-threats/esxi-hypervisors-against-ransomware/](https://socprime.com/active-threats/esxi-hypervisors-against-ransomware/)

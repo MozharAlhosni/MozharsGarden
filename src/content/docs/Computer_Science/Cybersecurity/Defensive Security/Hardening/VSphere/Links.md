@@ -19,3 +19,4 @@ title: Links
 - [https://www.huntress.com/blog/hypervisor-defenses-against-ransomware-targeting-esxi](https://www.huntress.com/blog/hypervisor-defenses-against-ransomware-targeting-esxi)
 - [https://www.vmware.com/resources/hardening-guides](https://www.vmware.com/resources/hardening-guides)
 - [https://socprime.com/active-threats/esxi-hypervisors-against-ransomware/](https://socprime.com/active-threats/esxi-hypervisors-against-ransomware/)
+- [https://www.niap-ccevs.org/protectionprofiles/409](https://www.niap-ccevs.org/protectionprofiles/409)

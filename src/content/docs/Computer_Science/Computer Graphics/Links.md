@@ -18,3 +18,4 @@ title: Links
 - [https://www.canva.com/colors/color-wheel/](https://www.canva.com/colors/color-wheel/)
 - [https://en.wikipedia.org/wiki/Color_wheel](https://en.wikipedia.org/wiki/Color_wheel)
 - [https://holocloth.vercel.app/](https://holocloth.vercel.app/)
+- [https://github.com/tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract)

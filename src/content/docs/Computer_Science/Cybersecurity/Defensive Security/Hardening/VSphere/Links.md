@@ -20,3 +20,4 @@ title: Links
 - [https://www.vmware.com/resources/hardening-guides](https://www.vmware.com/resources/hardening-guides)
 - [https://socprime.com/active-threats/esxi-hypervisors-against-ransomware/](https://socprime.com/active-threats/esxi-hypervisors-against-ransomware/)
 - [https://www.niap-ccevs.org/protectionprofiles/409](https://www.niap-ccevs.org/protectionprofiles/409)
+- [https://vminfrastructure.com/category/vmware/security/](https://vminfrastructure.com/category/vmware/security/)

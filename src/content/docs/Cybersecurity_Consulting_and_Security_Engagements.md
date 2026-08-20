@@ -13,7 +13,7 @@ If you need help with any of the areas below, feel free to reach out at **[mozha
 
 - **AI Security Governance**
 - **AI Threat Modelling & Risk Assessments**
-- **ISO 27001 ISMS Implementation**
+- **ISO 27001 ISMS Implementation** and getting **ISO certs**
 - **Cybersecurity Risk Assessments**
 - **Regulatory Compliance**
 - **Policies, Standards & Procedures**

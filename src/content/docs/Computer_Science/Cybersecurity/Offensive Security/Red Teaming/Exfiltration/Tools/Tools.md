@@ -2,6 +2,7 @@
 title: Tools
 ---
 
+- [https://github.com/PaulSec/DET](https://github.com/PaulSec/DET)
 - [https://github.com/projectdiscovery/interactsh](https://github.com/projectdiscovery/interactsh)
 - [https://app.interactsh.com/#/](https://app.interactsh.com/#/)
 - [https://pinggy.io/](https://pinggy.io/)
@@ -32,3 +33,4 @@ title: Tools
 - [https://www.ezyzip.com/create-split-zip-files.html](https://www.ezyzip.com/create-split-zip-files.html)
 - [https://www.ilovezip.com/split-zip](https://www.ilovezip.com/split-zip)
 - [https://tiiny.host/](https://tiiny.host/)
+- [https://github.com/RobinDavid/LSB-Steganography](https://github.com/RobinDavid/LSB-Steganography)

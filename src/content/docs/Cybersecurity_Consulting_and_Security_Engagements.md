@@ -35,7 +35,7 @@ Hands-on security hardening and secure configuration reviews across a broad rang
 
 Offensive security engagements:
 
-- **Bypassing DLPs** and **SASEs**
+- **Bypassing DLPs** (guaranteed) and **SASEs**
 - **Penetration Testing**
 - **Infrastructure and Network Security Testing**
 - **Active Directory Security Assessments**

@@ -8,3 +8,5 @@ title: Links
 - [https://cybersecurity.opentext.com/products/email-security/email-encryption/](https://cybersecurity.opentext.com/products/email-security/email-encryption/)
 - [https://greathorn.com](https://greathorn.com)
 - [https://spamassassin.apache.org/gtube/](https://spamassassin.apache.org/gtube/)
+- [https://mxtoolbox.com/emailhealth](https://mxtoolbox.com/emailhealth)
+- [https://www.learndmarc.com/](https://www.learndmarc.com/)

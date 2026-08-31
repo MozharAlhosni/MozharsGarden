@@ -13,3 +13,4 @@ title: Tools
 - [https://www.sans.org/tools/sift-workstation](https://www.sans.org/tools/sift-workstation)
 - [https://github.com/teamdfir/protocol-sift](https://github.com/teamdfir/protocol-sift)
 - [https://csilinux.com/](https://csilinux.com/)
+- [https://docs.metaspike.com/](https://docs.metaspike.com/)

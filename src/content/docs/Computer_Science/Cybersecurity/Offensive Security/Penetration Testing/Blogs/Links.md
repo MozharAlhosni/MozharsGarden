@@ -2,6 +2,8 @@
 title: Links
 ---
 
+- [https://alexdhital.gitbook.io/pentesting-notes](https://alexdhital.gitbook.io/pentesting-notes)
+- [https://bl4ckarch.github.io/](https://bl4ckarch.github.io/)
 - [https://blog.evan.lat/](https://blog.evan.lat/)
 - [https://mll.sh/](https://mll.sh/)
 - [https://notes.incendium.rocks/pentesting-notes](https://notes.incendium.rocks/pentesting-notes)

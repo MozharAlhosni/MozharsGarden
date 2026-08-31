@@ -2,6 +2,7 @@
 title: Links
 ---
 
+- [https://evasions.checkpoint.com/](https://evasions.checkpoint.com/)
 - [https://github.com/ValdikSS/goodbyeDPI](https://github.com/ValdikSS/goodbyeDPI)
 - [https://github.com/gfwlist/gfwlist](https://github.com/gfwlist/gfwlist)
 - [https://matheuzsecurity.github.io/hacking/bypassing-elastic/](https://matheuzsecurity.github.io/hacking/bypassing-elastic/)
@@ -16,3 +17,5 @@ title: Links
 - [https://github.com/Chaelsoo/nimcrypt](https://github.com/Chaelsoo/nimcrypt)
 - [https://github.com/SadeghHayeri/GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel)
 - [https://github.com/MatheuZSecurity/Furtex](https://github.com/MatheuZSecurity/Furtex)
+- [https://amsi.fail/](https://amsi.fail/)
+- [https://github.com/matro7sh/BypassAV](https://github.com/matro7sh/BypassAV)

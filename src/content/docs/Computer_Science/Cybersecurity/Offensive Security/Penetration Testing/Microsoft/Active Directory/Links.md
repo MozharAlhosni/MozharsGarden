@@ -2,6 +2,14 @@
 title: Links
 ---
 
+- [https://github.com/p0dalirius/GhostSPN](https://github.com/p0dalirius/GhostSPN)
+- [https://orange-cyberdefense.github.io/ocd-mindmaps/img/mindmap_ad_dark_classic_2025.03.excalidraw.svg](https://orange-cyberdefense.github.io/ocd-mindmaps/img/mindmap_ad_dark_classic_2025.03.excalidraw.svg)
+- [https://github.com/davidprowe/BadBlood](https://github.com/davidprowe/BadBlood)
+- [https://www.robwillis.info/2025/03/purple-teaming-ad-with-bloodhound-community-edition-ad-miner/](https://www.robwillis.info/2025/03/purple-teaming-ad-with-bloodhound-community-edition-ad-miner/)
+- [https://github.com/AD-Security/AD_Miner](https://github.com/AD-Security/AD_Miner)
+- [https://github.com/FuzzySecurity/StandIn](https://github.com/FuzzySecurity/StandIn)
+- [https://amsi.fail/](https://amsi.fail/)
+- [https://github.com/danielbohannon/Invoke-Obfuscation](https://github.com/danielbohannon/Invoke-Obfuscation)
 - [https://cloud.google.com/blog/topics/threat-intelligence/recovering-active-adfs-signing-keys-machine-dpapi/](https://cloud.google.com/blog/topics/threat-intelligence/recovering-active-adfs-signing-keys-machine-dpapi/)
 - [https://github.com/wh0amitz/SharpADWS](https://github.com/wh0amitz/SharpADWS)
 - [https://github.com/xforcered/SOAPy](https://github.com/xforcered/SOAPy)
@@ -78,3 +86,4 @@ title: Links
 - [https://github.com/ANSSI-FR/ADTimeline](https://github.com/ANSSI-FR/ADTimeline)
 - [https://github.com/layer8secure/SilentHound](https://github.com/layer8secure/SilentHound)
 - [https://github.com/SpecterOps/TierZeroTable](https://github.com/SpecterOps/TierZeroTable)
+- [https://www.rbtsec.com/blog/practical-guide-to-adcs-attacks-using-lolbas/](https://www.rbtsec.com/blog/practical-guide-to-adcs-attacks-using-lolbas/)

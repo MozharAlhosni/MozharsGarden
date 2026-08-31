@@ -9,3 +9,5 @@ title: Links
 - [https://pagure.io](https://pagure.io)
 - [TortoiseHg](https://tortoisehg.bitbucket.io/)
 - [https://www.sonatype.com/products/sonatype-nexus-repository](https://www.sonatype.com/products/sonatype-nexus-repository)
+- [https://cursor.com/origin](https://cursor.com/origin)
+- [https://linear.app/](https://linear.app/)

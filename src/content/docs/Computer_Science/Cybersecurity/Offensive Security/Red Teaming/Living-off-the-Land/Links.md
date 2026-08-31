@@ -29,3 +29,4 @@ title: Links
 - [https://gtfobins.org/](https://gtfobins.org/)
 - [https://lottunnels.github.io/#](https://lottunnels.github.io/#)
 - [https://0xv1n.github.io/LOLGlobs/](https://0xv1n.github.io/LOLGlobs/)
+- [https://lolad-project.github.io/](https://lolad-project.github.io/)

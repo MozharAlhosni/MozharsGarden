@@ -23,3 +23,4 @@ title: Links
 - [https://www.law.cornell.edu/wex/attorney-client_privilege](https://www.law.cornell.edu/wex/attorney-client_privilege)
 - [https://www.law.cornell.edu/wex/parol_evidence_rule](https://www.law.cornell.edu/wex/parol_evidence_rule)
 - [https://en.wikipedia.org/wiki/Quorum](https://en.wikipedia.org/wiki/Quorum)
+- [https://en.wikipedia.org/wiki/Sic](https://en.wikipedia.org/wiki/Sic)

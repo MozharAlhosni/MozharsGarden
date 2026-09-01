@@ -14,3 +14,5 @@ title: Links
 - [https://github.com/snovvcrash/peas](https://github.com/snovvcrash/peas)
 - [https://github.com/dirkjanm/privexchange/](https://github.com/dirkjanm/privexchange/)
 - [https://github.com/sensepost/ruler](https://github.com/sensepost/ruler)
+- [https://gist.github.com/snovvcrash/4e76aaf2a8750922f546eed81aa51438#file-oaburl-py](https://gist.github.com/snovvcrash/4e76aaf2a8750922f546eed81aa51438#file-oaburl-py)
+- [https://github.com/kh4sh3i/exchange-penetration-testing](https://github.com/kh4sh3i/exchange-penetration-testing)

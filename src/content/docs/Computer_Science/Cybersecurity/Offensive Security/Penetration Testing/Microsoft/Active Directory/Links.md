@@ -2,6 +2,7 @@
 title: Links
 ---
 
+- [https://github.com/FalconForceTeam/SOAPHound](https://github.com/FalconForceTeam/SOAPHound)
 - [https://github.com/p0dalirius/GhostSPN](https://github.com/p0dalirius/GhostSPN)
 - [https://orange-cyberdefense.github.io/ocd-mindmaps/img/mindmap_ad_dark_classic_2025.03.excalidraw.svg](https://orange-cyberdefense.github.io/ocd-mindmaps/img/mindmap_ad_dark_classic_2025.03.excalidraw.svg)
 - [https://github.com/davidprowe/BadBlood](https://github.com/davidprowe/BadBlood)
@@ -87,3 +88,7 @@ title: Links
 - [https://github.com/layer8secure/SilentHound](https://github.com/layer8secure/SilentHound)
 - [https://github.com/SpecterOps/TierZeroTable](https://github.com/SpecterOps/TierZeroTable)
 - [https://www.rbtsec.com/blog/practical-guide-to-adcs-attacks-using-lolbas/](https://www.rbtsec.com/blog/practical-guide-to-adcs-attacks-using-lolbas/)
+- [https://ziomsec.com/blog/domain-enum-with-lolbas/](https://ziomsec.com/blog/domain-enum-with-lolbas/)
+- [https://github.com/logangoins/soapy](https://github.com/logangoins/soapy)
+- [https://github.com/xforcered/SoaPy](https://github.com/xforcered/SoaPy)
+- [https://github.com/sosdave/KeyTabExtract](https://github.com/sosdave/KeyTabExtract)

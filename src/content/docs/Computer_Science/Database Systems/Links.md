@@ -37,3 +37,4 @@ title: Links
 - [https://docs.base14.io/blog/introducing-pgx/](https://docs.base14.io/blog/introducing-pgx/)
 - [https://github.com/launchbadge/sqlx](https://github.com/launchbadge/sqlx)
 - [https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html](https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html)
+- [https://github.com/debezium/debezium](https://github.com/debezium/debezium)

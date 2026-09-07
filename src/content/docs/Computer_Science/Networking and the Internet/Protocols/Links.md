@@ -2,6 +2,7 @@
 title: Links
 ---
 
+- [https://learn.microsoft.com/en-us/windows/win32/ipc/mailslots](https://learn.microsoft.com/en-us/windows/win32/ipc/mailslots)
 - [https://smpp.org/](https://smpp.org/)
 - [https://en.wikipedia.org/wiki/GPRS_Tunnelling_Protocol](https://en.wikipedia.org/wiki/GPRS_Tunnelling_Protocol)
 - [https://en.wikipedia.org/wiki/PFCP](https://en.wikipedia.org/wiki/PFCP)

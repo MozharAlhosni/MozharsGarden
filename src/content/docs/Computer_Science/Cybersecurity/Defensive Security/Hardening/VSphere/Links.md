@@ -2,6 +2,7 @@
 title: Links
 ---
 
+- [https://mikecybersec.notion.site/ESXi-IR-Guide-0ffbcec7272244d6b10dba4f4d16a7c8](https://mikecybersec.notion.site/ESXi-IR-Guide-0ffbcec7272244d6b10dba4f4d16a7c8)
 - [https://github.com/vmware/vcf-security-and-compliance-guidelines/tree/main/security-configuration-hardening-guide/vsphere](https://github.com/vmware/vcf-security-and-compliance-guidelines/tree/main/security-configuration-hardening-guide/vsphere)
 - [https://github.com/vmware/vcf-security-and-compliance-guidelines](https://github.com/vmware/vcf-security-and-compliance-guidelines)
 - [https://www.vmware.com/docs/vmware-best-practices-for-hardening-your-infrastructure](https://www.vmware.com/docs/vmware-best-practices-for-hardening-your-infrastructure)

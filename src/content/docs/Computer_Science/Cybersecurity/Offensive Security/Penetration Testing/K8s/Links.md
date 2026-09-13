@@ -4,6 +4,7 @@ title: Links
 
 - [https://github.com/BishopFox/badPods](https://github.com/BishopFox/badPods)
 - [https://kubehound.io/](https://kubehound.io/)
+- [https://github.com/DataDog/KubeHound](https://github.com/DataDog/KubeHound)
 - [https://github.com/cyberark/KubiScan](https://github.com/cyberark/KubiScan)
 - [https://github.com/aquasecurity/kube-hunter](https://github.com/aquasecurity/kube-hunter)
 - [https://www.aquasec.com/cloud-native-academy/kubernetes-in-production/kubernetes-security-best-practices-10-steps-to-securing-k8s/](https://www.aquasec.com/cloud-native-academy/kubernetes-in-production/kubernetes-security-best-practices-10-steps-to-securing-k8s/)

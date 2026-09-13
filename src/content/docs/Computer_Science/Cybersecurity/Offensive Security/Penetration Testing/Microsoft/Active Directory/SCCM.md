@@ -17,4 +17,4 @@ title: SCCM
 - [https://github.com/garrettfoster13/sccmhunter](https://github.com/garrettfoster13/sccmhunter)
 - [https://www.systemsecurity.com/publications/active-directory-spotlight-attacking-the-microsoft-configuration-manager](https://www.systemsecurity.com/publications/active-directory-spotlight-attacking-the-microsoft-configuration-manager)
 - [https://github.com/1njected/CMLoot](https://github.com/1njected/CMLoot)
-- 
+- [https://github.com/SpecterOps/ConfigManBearPig](https://github.com/SpecterOps/ConfigManBearPig)

@@ -2,6 +2,8 @@
 title: Links
 ---
 
+- [https://www.dcshadow.com/](https://www.dcshadow.com/)
+- [https://github.com/NetSPI/AD-PathFinder](https://github.com/NetSPI/AD-PathFinder)
 - [https://pentestlaboratories.com/2021/06/01/threat-hunting-amsi-bypasses/](https://pentestlaboratories.com/2021/06/01/threat-hunting-amsi-bypasses/)
 - [https://docs.specterops.io/ghostpack-docs](https://docs.specterops.io/ghostpack-docs)
 - [https://github.com/garrettfoster13/aced](https://github.com/garrettfoster13/aced)

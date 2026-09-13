@@ -71,3 +71,4 @@ title: Links
 - [https://www.dyalog.com/](https://www.dyalog.com/)
 - [https://mastering.dyalog.com/README.html](https://mastering.dyalog.com/README.html)
 - [https://en.wikipedia.org/wiki/Extensible_Host_Controller_Interface](https://en.wikipedia.org/wiki/Extensible_Host_Controller_Interface)
+- [https://help.1e.com/](https://help.1e.com/)

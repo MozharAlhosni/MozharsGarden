@@ -35,7 +35,6 @@ title: Links
 - [Windows PrivEsc with SeBackupPrivilege | by Nairuz Abulhul | R3d Buck3T | Medium](https://medium.com/r3d-buck3t/windows-privesc-with-sebackupprivilege-65d2cd1eb960)
 - [🔐Blog of Osanda - Security Researching and Reverse Engineering](https://osandamalith.com/)
 - [Okta for Red Teamers - TrustedSec](https://www.trustedsec.com/blog/okta-for-red-teamers/)
-- [GitHub - diego-treitos/linux-smart-enumeration: Linux enumeration tool for pentesting and CTFs with verbosity levels](https://github.com/diego-treitos/linux-smart-enumeration/tree/master)
 - [GitHub - 0xb11a1/yetAnotherObfuscator: C# obfuscator that bypass windows defender](https://github.com/0xb11a1/yetAnotherObfuscator)
 - [scanf Bypasses | Binary Exploitation](https://ir0nstone.gitbook.io/notes/misc/scanf-bypasses)
 - [deeb blog](https://blog.deeb.ch/)

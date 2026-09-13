@@ -17,4 +17,3 @@ title: Links
 - [https://zitadel.com/](https://zitadel.com/)
 - [https://scim.cloud/](https://scim.cloud/)
 - [https://docs.evolveum.com/book/practical-identity-management-with-midpoint.pdf](https://docs.evolveum.com/book/practical-identity-management-with-midpoint.pdf)
-- [https://www.openiam.com/](https://www.openiam.com/)

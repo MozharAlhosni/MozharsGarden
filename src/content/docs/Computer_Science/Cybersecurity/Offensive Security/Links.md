@@ -38,7 +38,6 @@ title: Links
 - [GitHub - diego-treitos/linux-smart-enumeration: Linux enumeration tool for pentesting and CTFs with verbosity levels](https://github.com/diego-treitos/linux-smart-enumeration/tree/master)
 - [GitHub - 0xb11a1/yetAnotherObfuscator: C# obfuscator that bypass windows defender](https://github.com/0xb11a1/yetAnotherObfuscator)
 - [scanf Bypasses | Binary Exploitation](https://ir0nstone.gitbook.io/notes/misc/scanf-bypasses)
-- [TGTDeleg | Pentest Everything](https://viperone.gitbook.io/pentest-everything/psmapexec/modules/tgtdeleg)
 - [deeb blog](https://blog.deeb.ch/)
 - [GitHub - alufers/mitmproxy2swagger: Automagically reverse-engineer REST APIs via capturing traffic](https://github.com/alufers/mitmproxy2swagger)
 - [PT SWARM – Positive Technologies Offensive Team](https://swarm.ptsecurity.com/)
@@ -91,3 +90,5 @@ title: Links
 - [https://github.com/r1cksec/cheatsheets](https://github.com/r1cksec/cheatsheets)
 - [https://labs.jamessawyer.co.uk/cves/](https://labs.jamessawyer.co.uk/cves/)
 - [https://blablalinux.be/](https://blablalinux.be/)
+- [https://linuxcommandlibrary.com/basic/hackingtools](https://linuxcommandlibrary.com/basic/hackingtools)
+- 

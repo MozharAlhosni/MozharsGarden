@@ -2,6 +2,9 @@
 title: Tools
 ---
 
+- [https://github.com/simsong/bulk_extractor](https://github.com/simsong/bulk_extractor)
+- [https://github.com/jessek/hashdeep](https://github.com/jessek/hashdeep)
+- [https://github.com/volatilityfoundation/volatility3](https://github.com/volatilityfoundation/volatility3)
 - [https://www.magnetforensics.com/](https://www.magnetforensics.com/)
 - [https://github.com/keydet89/RegRipper3.0](https://github.com/keydet89/RegRipper3.0)
 - [https://ericzimmerman.github.io/](https://ericzimmerman.github.io/)
@@ -14,3 +17,5 @@ title: Tools
 - [https://github.com/teamdfir/protocol-sift](https://github.com/teamdfir/protocol-sift)
 - [https://csilinux.com/](https://csilinux.com/)
 - [https://docs.metaspike.com/](https://docs.metaspike.com/)
+- [https://github.com/google/rekall](https://github.com/google/rekall)
+- [https://github.com/refirmlabs/binwalk](https://github.com/refirmlabs/binwalk)

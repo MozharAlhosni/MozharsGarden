@@ -14,3 +14,4 @@ title: Links
 - [https://github.com/shuffle/shuffle](https://github.com/shuffle/shuffle)
 - [https://docs.securityonion.net/en/3/main/](https://docs.securityonion.net/en/3/main/)
 - [https://github.com/Security-Onion-Solutions/securityonion/](https://github.com/Security-Onion-Solutions/securityonion/)
+- [https://github.com/3CORESec/testmynids.org](https://github.com/3CORESec/testmynids.org)

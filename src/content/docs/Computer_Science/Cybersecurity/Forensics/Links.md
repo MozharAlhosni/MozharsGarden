@@ -2,6 +2,7 @@
 title: Links
 ---
 
+- [https://ponderthebits.com/](https://ponderthebits.com/)
 - [https://learn.microsoft.com/en-us/purview/ediscovery-teams-legal-hold?bc=%2Fmicrosoftteams%2Fbreadcrumb%2Ftoc.json&toc=%2Fmicrosoftteams%2Ftoc.json](https://learn.microsoft.com/en-us/purview/ediscovery-teams-legal-hold?bc=%2Fmicrosoftteams%2Fbreadcrumb%2Ftoc.json&toc=%2Fmicrosoftteams%2Ftoc.json)
 - [https://csrc.nist.gov/pubs/sp/800/86/final](https://csrc.nist.gov/pubs/sp/800/86/final)
 - [https://uia.org/s/or/en/1100029648](https://uia.org/s/or/en/1100029648)

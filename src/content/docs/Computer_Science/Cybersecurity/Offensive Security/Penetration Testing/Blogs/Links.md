@@ -2,6 +2,7 @@
 title: Links
 ---
 
+- [https://viperone.gitbook.io/pentest-everything](https://viperone.gitbook.io/pentest-everything)
 - [https://alexdhital.gitbook.io/pentesting-notes](https://alexdhital.gitbook.io/pentesting-notes)
 - [https://bl4ckarch.github.io/](https://bl4ckarch.github.io/)
 - [https://blog.evan.lat/](https://blog.evan.lat/)

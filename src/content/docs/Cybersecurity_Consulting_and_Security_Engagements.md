@@ -9,6 +9,12 @@ Whether you need strategic guidance, a security assessment, infrastructure harde
 
 If you need help with any of the areas below, feel free to reach out at **[mozharalhosni@gmail.com](mailto:mozharalhosni@gmail.com)**.
 
+## Forensic Investigations
+
+- **Windows Forensic Investigations**
+- **Linux Forensic Investigations**
+- **Android Forensic Investigations**
+
 ## Governance, Risk & Compliance
 
 - **AI Security Governance**

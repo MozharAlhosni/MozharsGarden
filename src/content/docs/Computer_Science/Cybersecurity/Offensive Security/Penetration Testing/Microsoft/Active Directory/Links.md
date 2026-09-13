@@ -2,6 +2,12 @@
 title: Links
 ---
 
+- [https://pentestlaboratories.com/2021/06/01/threat-hunting-amsi-bypasses/](https://pentestlaboratories.com/2021/06/01/threat-hunting-amsi-bypasses/)
+- [https://docs.specterops.io/ghostpack-docs](https://docs.specterops.io/ghostpack-docs)
+- [https://github.com/garrettfoster13/aced](https://github.com/garrettfoster13/aced)
+- [https://leo4j.gitbook.io/amnesiac](https://leo4j.gitbook.io/amnesiac)
+- [https://github.com/Leo4j/Invoke-SessionHunter](https://github.com/Leo4j/Invoke-SessionHunter)
+- [https://github.com/Leo4j/PowerDACL](https://github.com/Leo4j/PowerDACL)
 - [https://github.com/FalconForceTeam/SOAPHound](https://github.com/FalconForceTeam/SOAPHound)
 - [https://github.com/p0dalirius/GhostSPN](https://github.com/p0dalirius/GhostSPN)
 - [https://orange-cyberdefense.github.io/ocd-mindmaps/img/mindmap_ad_dark_classic_2025.03.excalidraw.svg](https://orange-cyberdefense.github.io/ocd-mindmaps/img/mindmap_ad_dark_classic_2025.03.excalidraw.svg)
@@ -92,3 +98,5 @@ title: Links
 - [https://github.com/logangoins/soapy](https://github.com/logangoins/soapy)
 - [https://github.com/xforcered/SoaPy](https://github.com/xforcered/SoaPy)
 - [https://github.com/sosdave/KeyTabExtract](https://github.com/sosdave/KeyTabExtract)
+- [https://www.tiraniddo.dev/2019/11/the-internals-of-applocker-part-1.html](https://www.tiraniddo.dev/2019/11/the-internals-of-applocker-part-1.html)
+- [https://github.com/mandiant/SilkETW](https://github.com/mandiant/SilkETW)

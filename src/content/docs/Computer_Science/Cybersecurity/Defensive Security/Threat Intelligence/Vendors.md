@@ -16,3 +16,4 @@ title: Vendors
 - [https://threatfox.abuse.ch/](https://threatfox.abuse.ch/)
 - [https://www.opentext.com/products/threat-intelligence](https://www.opentext.com/products/threat-intelligence)
 - [https://driftnet.io/](https://driftnet.io/)
+- [https://ellio.tech/en/](https://ellio.tech/en/)

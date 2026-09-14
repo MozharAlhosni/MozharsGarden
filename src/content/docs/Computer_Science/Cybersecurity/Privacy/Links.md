@@ -10,3 +10,4 @@ title: Links
 - [https://globalprivacycontrol.org/](https://globalprivacycontrol.org/)
 - [https://jshelter.org/](https://jshelter.org/)
 - [https://gitlab.torproject.org/tpo/core/oniux](https://gitlab.torproject.org/tpo/core/oniux)
+- [https://gitweb.torproject.org/torsocks.git](https://gitweb.torproject.org/torsocks.git)

@@ -72,3 +72,6 @@ title: Links
 - [https://mastering.dyalog.com/README.html](https://mastering.dyalog.com/README.html)
 - [https://en.wikipedia.org/wiki/Extensible_Host_Controller_Interface](https://en.wikipedia.org/wiki/Extensible_Host_Controller_Interface)
 - [https://help.1e.com/](https://help.1e.com/)
+- [https://clew.se/](https://clew.se/)
+- [https://en.wikipedia.org/wiki/EBCDIC](https://en.wikipedia.org/wiki/EBCDIC)
+- 

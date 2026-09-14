@@ -10,3 +10,5 @@ title: Links
 - [https://spamassassin.apache.org/gtube/](https://spamassassin.apache.org/gtube/)
 - [https://mxtoolbox.com/emailhealth](https://mxtoolbox.com/emailhealth)
 - [https://www.learndmarc.com/](https://www.learndmarc.com/)
+- [https://en.wikipedia.org/wiki/Hashcash](https://en.wikipedia.org/wiki/Hashcash)
+- 

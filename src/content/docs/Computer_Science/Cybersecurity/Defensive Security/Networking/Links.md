@@ -6,3 +6,4 @@ title: Links
 - [https://github.com/pavel-odintsov/fastnetmon](https://github.com/pavel-odintsov/fastnetmon)
 - [https://github.com/gamemann/xdp-firewall](https://github.com/gamemann/xdp-firewall)
 - [https://datatracker.ietf.org/doc/html/rfc3046](https://datatracker.ietf.org/doc/html/rfc3046)
+- [https://github.com/FoxIO-LLC/ja4](https://github.com/FoxIO-LLC/ja4)

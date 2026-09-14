@@ -13,3 +13,4 @@ title: Links
 - [https://teamtopologies.com/book](https://teamtopologies.com/book)
 - [https://diataxis.fr/](https://diataxis.fr/)
 - [https://zachman-feac.com/zachman/about-the-zachman-framework](https://zachman-feac.com/zachman/about-the-zachman-framework)
+- [https://www.managers.org.uk/education-and-learning/qualifications/qualification-library/level-7-strategic-management-and-leadership-practice/](https://www.managers.org.uk/education-and-learning/qualifications/qualification-library/level-7-strategic-management-and-leadership-practice/)

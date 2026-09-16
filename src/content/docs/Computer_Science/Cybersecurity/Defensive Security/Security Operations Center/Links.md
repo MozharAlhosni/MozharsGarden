@@ -2,6 +2,7 @@
 title: Links
 ---
 
+- [https://securityoperationscost.com/](https://securityoperationscost.com/)
 - [https://www.mitre.org/sites/default/files/2022-04/11-strategies-of-a-world-class-cybersecurity-operations-center.pdf](https://www.mitre.org/sites/default/files/2022-04/11-strategies-of-a-world-class-cybersecurity-operations-center.pdf)
 - [https://www.socfortress.co/](https://www.socfortress.co/)
 - [https://github.com/socfortress/CoPilot](https://github.com/socfortress/CoPilot)
@@ -12,5 +13,3 @@ title: Links
 - [https://github.com/cyb3rxp/awesome-soc](https://github.com/cyb3rxp/awesome-soc)
 - [https://shuffler.io/](https://shuffler.io/)
 - [https://github.com/shuffle/shuffle](https://github.com/shuffle/shuffle)
-- [https://docs.securityonion.net/en/3/main/](https://docs.securityonion.net/en/3/main/)
-- [https://github.com/Security-Onion-Solutions/securityonion/](https://github.com/Security-Onion-Solutions/securityonion/)

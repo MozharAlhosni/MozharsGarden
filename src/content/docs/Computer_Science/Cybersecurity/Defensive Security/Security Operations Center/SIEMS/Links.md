@@ -2,6 +2,7 @@
 title: Links
 ---
 
+- [https://siemcostcalculator.com/](https://siemcostcalculator.com/)
 - [https://graylog.org/](https://graylog.org/)
 - [https://www.selecthub.com/c/siem-tools/](https://www.selecthub.com/c/siem-tools/)
 - [https://github.com/elastic/logstash](https://github.com/elastic/logstash)
@@ -14,3 +15,5 @@ title: Links
 - [https://www.splunk.com/en_us/products/enterprise-security.html](https://www.splunk.com/en_us/products/enterprise-security.html)
 - [https://www.opentext.com/products/security-log-analytics](https://www.opentext.com/products/security-log-analytics)
 - [https://guardsix.com/product/siem](https://guardsix.com/product/siem)
+- [https://docs.securityonion.net/en/3/main/](https://docs.securityonion.net/en/3/main/)
+- [https://github.com/Security-Onion-Solutions/securityonion/](https://github.com/Security-Onion-Solutions/securityonion/)

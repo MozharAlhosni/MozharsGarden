@@ -102,3 +102,4 @@ title: Links
 - [https://github.com/sosdave/KeyTabExtract](https://github.com/sosdave/KeyTabExtract)
 - [https://www.tiraniddo.dev/2019/11/the-internals-of-applocker-part-1.html](https://www.tiraniddo.dev/2019/11/the-internals-of-applocker-part-1.html)
 - [https://github.com/mandiant/SilkETW](https://github.com/mandiant/SilkETW)
+- [https://learn.microsoft.com/en-us/windows/win32/winrm/ws-management-protocol](https://learn.microsoft.com/en-us/windows/win32/winrm/ws-management-protocol)

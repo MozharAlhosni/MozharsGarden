@@ -7,3 +7,4 @@ title: Links
 - [https://en.wikipedia.org/wiki/Memory_ballooning](https://en.wikipedia.org/wiki/Memory_ballooning)
 - [https://pve.proxmox.com/wiki/Main_Page](https://pve.proxmox.com/wiki/Main_Page)
 - [https://www.starwindsoftware.com/blog/esxi-vsphere-vcenter/](https://www.starwindsoftware.com/blog/esxi-vsphere-vcenter/)
+- [https://www.sangfor.com/cloud-and-infrastructure/products/hci-hyper-converged-infrastructure](https://www.sangfor.com/cloud-and-infrastructure/products/hci-hyper-converged-infrastructure)

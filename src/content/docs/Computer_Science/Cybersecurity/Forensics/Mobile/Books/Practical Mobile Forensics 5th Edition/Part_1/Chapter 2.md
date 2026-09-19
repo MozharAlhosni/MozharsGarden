@@ -105,4 +105,15 @@ title: Chapter 2 iOS Architecture, Security, and Filesystem Overview
 #### App sandboxing
 
 - Each iOS application runs within its own sandbox, a restricted environment that isolates the application's files, memory, and system resources from the rest of the OS. By default, an app can only access its own data directory and has no visibility into the data stored by other apps. Access to protected resources such as contacts, photos, camera, microphone, calendars, or location services requires explicit user permission and appropriate application entitlements.
-- 
+- **Sandboxing** significantly reduces the impact of malware and prevents one compromised application from accessing another application's data. From a forensic perspective, it also means that application data is typically stored within isolated containers. The forensic investigator therefore must locate and analyze each application's sandbox individually when recovering artifacts such as messages, documents, cached files, or configuration data.
+- (**Tip**: _The forensic investigator should not rely only on an application's display name when locating its forensic artifacts. The forensic investigator should identify an application by its bundle identifier and examine its data container, shared App Group containers, preferences, caches, and related databases. Evidence associated with a single application may exist in several locations._)
+
+#### Code signing
+
+
+
+#### Entitlements
+
+
+## Keychain and iCloud security
+

@@ -7,3 +7,4 @@ title: Links
 - [https://github.com/CISOfy/lynis](https://github.com/CISOfy/lynis)
 - [https://www.open-scap.org/](https://www.open-scap.org/)
 - [https://github.com/jonaslejon/linux-security-audit-plugin/](https://github.com/jonaslejon/linux-security-audit-plugin/)
+- [https://github.com/microsoft/sysmonforlinux](https://github.com/microsoft/sysmonforlinux)

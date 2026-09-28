@@ -25,3 +25,4 @@ title: Links
 - [https://github.com/NUWCDIVNPT/stig-manager](https://github.com/NUWCDIVNPT/stig-manager)
 - [https://security.uconn.edu/server-hardening-standard-windows/](https://security.uconn.edu/server-hardening-standard-windows/)
 - [https://techcommunity.microsoft.com/blog/microsoft-security-baselines/security-baseline-for-windows-server-2025-version-2602/4496468](https://techcommunity.microsoft.com/blog/microsoft-security-baselines/security-baseline-for-windows-server-2025-version-2602/4496468)
+- [https://github.com/goss-org/goss](https://github.com/goss-org/goss)

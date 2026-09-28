@@ -2,6 +2,7 @@
 title: Links
 ---
 
+- [https://github.com/Yaxxine7/ASRepCatcher](https://github.com/Yaxxine7/ASRepCatcher)
 - [https://www.dcshadow.com/](https://www.dcshadow.com/)
 - [https://github.com/NetSPI/AD-PathFinder](https://github.com/NetSPI/AD-PathFinder)
 - [https://pentestlaboratories.com/2021/06/01/threat-hunting-amsi-bypasses/](https://pentestlaboratories.com/2021/06/01/threat-hunting-amsi-bypasses/)
@@ -103,3 +104,4 @@ title: Links
 - [https://www.tiraniddo.dev/2019/11/the-internals-of-applocker-part-1.html](https://www.tiraniddo.dev/2019/11/the-internals-of-applocker-part-1.html)
 - [https://github.com/mandiant/SilkETW](https://github.com/mandiant/SilkETW)
 - [https://learn.microsoft.com/en-us/windows/win32/winrm/ws-management-protocol](https://learn.microsoft.com/en-us/windows/win32/winrm/ws-management-protocol)
+- [https://blog.deephacking.tech/en/posts/asreq-asrep-tgsrep-kerberos/](https://blog.deephacking.tech/en/posts/asreq-asrep-tgsrep-kerberos/)

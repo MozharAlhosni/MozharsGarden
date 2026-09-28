@@ -2,6 +2,7 @@
 title: Links
 ---
 
+- [https://infiltr8.io/redbook/](https://infiltr8.io/redbook/)
 - [https://viperone.gitbook.io/pentest-everything](https://viperone.gitbook.io/pentest-everything)
 - [https://alexdhital.gitbook.io/pentesting-notes](https://alexdhital.gitbook.io/pentesting-notes)
 - [https://bl4ckarch.github.io/](https://bl4ckarch.github.io/)

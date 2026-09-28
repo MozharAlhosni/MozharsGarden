@@ -19,3 +19,6 @@ title: Links
 - [https://github.com/MatheuZSecurity/Furtex](https://github.com/MatheuZSecurity/Furtex)
 - [https://amsi.fail/](https://amsi.fail/)
 - [https://github.com/matro7sh/BypassAV](https://github.com/matro7sh/BypassAV)
+- [https://trustedsec.com/blog/the-art-of-bypassing-kerberoast-detections-with-orpheus](https://trustedsec.com/blog/the-art-of-bypassing-kerberoast-detections-with-orpheus)
+- [https://github.com/trustedsec/orpheus](https://github.com/trustedsec/orpheus)
+- [https://github.com/mgeeky/Stracciatella](https://github.com/mgeeky/Stracciatella)

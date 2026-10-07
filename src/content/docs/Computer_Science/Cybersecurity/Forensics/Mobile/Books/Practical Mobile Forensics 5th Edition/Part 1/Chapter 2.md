@@ -11,7 +11,7 @@ title: Chapter 2 iOS Architecture, Security, and Filesystem Overview
 - At the center of the mobile ecosystem is iOS, which shares foundational technologies with macOS. Both are build on **Darwin**, an open-source operating system foundation that combines the **XNU kernel** with components derived from **Mach** and **BSD**.
 - Key elements of the **iOS ecosystem** that a forensic examiner must understand:
   - **iOS versions and supported devices**: _Each version of iOS supports specific hardware models. Older devices may be vulnerable to publicly known exploits (such as bootrom vulnerabilities affecting certain chipsets), whereas newer devices incorporate stronger hardware-backed security features that significantly limit forensic acquisition options. As a result, tool support often depends on both the device model and the installed iOS version. Conversely, devices running the latest versions of iOS, including iOS26, generally provide the fewest publicly available acquisition options because of continually evolving hardware and software protection._
-  - **Apple ID and iCloud**: _The Apple ID is central to the user's identity and ties together backups, messages, photos, and app data across devices using iCloud. Gaining lawful access to iCloud data can be an important source of evidence when on-device acquisition is not possible. Users may also enable advanced data protection (ADP), which extends end-to-end encryption to many additional categories of iCloud data. When ADP is enabled, Apple cannot decrypt or provide this protected data, which can significantly limit the evidence available through lawful requests. Understanding whether ADP is enabled is therefore an important consideration during an iOS forensic investigation._
+  - **Apple ID and iCloud**: _The Apple ID is central to the user's identity and ties together backups, messages, photos, and app data across devices using iCloud. Gaining lawful access to iCloud data can be an important source of evidence when on-device acquisition is not possible. Users may also enable **advanced data protection** (**ADP**), which extends **end-to-end encryption** to many additional categories of iCloud data. When **ADP** is enabled, Apple cannot decrypt or provide this protected data, which can significantly limit the evidence available through lawful requests. Understanding whether **ADP** is enabled is therefore an important consideration during an iOS forensic investigation._
   - (**Tip**: _Never evaluate acquisition options based on the iOS version alone, Record the exact device model, chip generation, iOS version and build, lock state, and available authentication material before selecting an acquisition method. Two devices running the same iOS version may support very different acquisition techniques._)
   - **App Store and sandboxing**: _Each application normally operates within its own container and has limited access to data belonging to other applications. Authorized data sharing may occur through system APIs, entitlements, App Groups, extensions, user-selected files, or other controlled mechanisms. During analysis, the forensic investigator may therefore need to examine an application's primary container, shared containers, preferences, caches, and related system records._
   - **Secure Enclave**: _Supported Apple devices use the Secure Enclave as an isolated security subsystem for sensitive operations involving passcode, biometrics, and cryptographic key management._
@@ -110,10 +110,37 @@ title: Chapter 2 iOS Architecture, Security, and Filesystem Overview
 
 #### Code signing
 
-
+- Apple requires all executable code running on iOS devices to be digitally signed using certificates issued through Apple's code signing infrastructure. Before an application or system component is executed, iOS verifies its digital signature to ensure that it has not been modified and originates from a trusted source. If signature verification fails, the operating system prevents the code from executing.
 
 #### Entitlements
 
+- **Entitlements** are special permissions embedded within an application's code signature that define which privileged system capabilities the application is allowed to use.
+- Certain entitlements are reserved exclusively for Apple system applications, while others require explicit approval from Apple during the application signing process.
+- From a forensic perspective, entitlements provide valuable insight into an application's capabilities and intended behavior. Examining an application's entitlements can help a forensic investigator understand which system resources the application was authorized to access, how it interacts with other applications or services, and where relevant forensic artifacts are likely to be stored.
 
 ## Keychain and iCloud security
 
+- The **iOS Keychain** is a secure credential storage system used to protect sensitive information such as usernames, passwords, cryptographic keys, digital certificates, Wi-Fi credentials, VPN settings, authentication tokens, and other secrets.
+- **iOS Keychain** stores data in a **SQLite database**, protected using hardware-backed encryption and access controls that tie its availability to both device-specific cryptographic keys and user authentication.
+- Each Keychain entry consists of a data value and metadata that describes its attributes such as the associated service, account identifier, creation timestamp, and accessibility level. Applications store and retrieve items through a controlled API, and they are only permitted to access items that they own or that are shared via specific entitlements.
+- Keychain availability varies significantly by acquisition method, device state, and the accessibility class assigned to each Keychain item. Some Keychain material may be included in encrypted local backups or recovered through supported forensic acquisition methods, while more strongly protected items remain dependent on device-specific cryptographic keys and authentication state.
+
+## Access groups and access control
+
+- One of the most important security features of Keychain is its use of **access groups** and **access control** policies to determine which apps or processes are allowed to access a particular Keychain item. Each Keychain item is associated with an access group, a logical grouping of apps that are allowed to share secure data.
+- **ACLs** provide fine-grained control over when and how data can be accessed. This includes restrictions such as requiring biometric authentication, limiting access to only when the device is unlocked, or allowing background access under certain conditions. These access policies are enforced by the operating system and, in some cases, the Secure Enclave itself.
+
+## iCloud Keychain and end-to-end encryption
+
+- To enhance usability, Apple introduced iCloud Keychain, a feature that synchronizes Keychain data across the user's Apple devices.
+- iCloud Keychain data is protected using **end-to-end encryption**, meaning that it is encrypted on the source device, transmitted in encrypted form, and only decrypted on the target device.
+- The encryption keys are derived from the user's device passcode and a complex chain of trust established through **Secure iCloud Key Escrow**.
+- This system uses iCloud Key Vaults and escrowed key material to authenticate and verify the user's identity without ever exposing the actual Keychain contents to Apple. In addition to passwords, passkeys created using Apple's Passwords app are also synchronized through iCloud Keychain using end-to-end encryption.
+- To enroll a new device in iCloud Keychain, the user must approve it from an existing trusted device or use two-factor authentication.
+- Beginning with recent iOS releases, including iOS 26, users manage many of these credentials through Apple's dedicated Passwords app, which provides a unified interface for passwords, passkeys, verification codes, and shared credentials while continuing to rely on the underlying iCloud Keychain infrastructure.
+- Users may also enabled **ADP** to extend **end-to-end encryption** to additional categories of iCloud data, including iCloud backups, Photos, Notes, and other supported services. When enabled, Apple no longer possesses the encryption keys required to decrypt data, significantly reducing the amount of cloud-based evidence available through lawful requests. Consequently, determining whether ADP is enabled has become an important step during modern iOS forensic investigations.
+
+## Forensic relevance and extraction challenges
+
+- From a forensic analysis perspective, the Keychain and iCloud Keychain present both valuable opportunities and significant barriers. On an unlocked device, it is often possible to extract some Keychain data using tools such as **Cellebrite UFED**, **Magnet AXIOM**, or **Elcomsoft iOS Forensic Toolkit**. However, data protected by more restrictive access controls such as "When Unlocked" or "After First Unlock" may still be inaccessible depending on the device state.
+- 

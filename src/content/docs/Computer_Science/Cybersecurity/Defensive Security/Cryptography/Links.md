@@ -2,6 +2,7 @@
 title: Links
 ---
 
+- [https://std.neuromancer.sk/](https://std.neuromancer.sk/)
 - [https://steganography.live/info](https://steganography.live/info)
 - [https://en.wikipedia.org/wiki/Kerckhoffs%27s_principle](https://en.wikipedia.org/wiki/Kerckhoffs%27s_principle)
 - [https://www.cryptomuseum.com/](https://www.cryptomuseum.com/)

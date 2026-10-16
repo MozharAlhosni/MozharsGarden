@@ -22,3 +22,4 @@ title: Links
 - [https://trustedsec.com/blog/the-art-of-bypassing-kerberoast-detections-with-orpheus](https://trustedsec.com/blog/the-art-of-bypassing-kerberoast-detections-with-orpheus)
 - [https://github.com/trustedsec/orpheus](https://github.com/trustedsec/orpheus)
 - [https://github.com/mgeeky/Stracciatella](https://github.com/mgeeky/Stracciatella)
+- [https://jxy-s.github.io/herpaderping/](https://jxy-s.github.io/herpaderping/)

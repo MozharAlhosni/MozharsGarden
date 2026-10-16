@@ -13,3 +13,5 @@ title: Links
 - [https://github.com/mandatoryprogrammer/CursedChrome](https://github.com/mandatoryprogrammer/CursedChrome)
 - [https://evilginx.com/](https://evilginx.com/)
 - [https://emkei.cz/](https://emkei.cz/)
+- [https://github.com/elceef/dnstwist](https://github.com/elceef/dnstwist)
+- [https://www.brevo.com/](https://www.brevo.com/)

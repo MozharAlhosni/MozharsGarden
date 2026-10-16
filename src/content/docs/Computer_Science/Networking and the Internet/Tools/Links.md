@@ -13,3 +13,4 @@ title: Links
 - [https://www.simpletiger.com/resources/glossary/rss-really-simple-syndication](https://www.simpletiger.com/resources/glossary/rss-really-simple-syndication)
 - [https://www.whonix.org/wiki/Rss](https://www.whonix.org/wiki/Rss)
 - [https://unimus.net/](https://unimus.net/)
+- [https://www.lantopolog.com/](https://www.lantopolog.com/)

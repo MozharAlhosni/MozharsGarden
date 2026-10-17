@@ -14,12 +14,17 @@ export default defineConfig({
 			[
 				{
 					label: 'Computer Science',
-					autogenerate: { directory: 'Computer Science'},
+					autogenerate: { directory: 'Computer_Science'},
 					collapsed: true
 				},
 				{
 					label: 'Intelligence Gathering',
-					autogenerate: { directory: 'Intelligence Gathering' },
+					autogenerate: { directory: 'Intelligence_Gathering' },
+					collapsed: true
+				},
+				{
+					label: 'Warfare',
+					autogenerate: { directory: 'Warfare' },
 					collapsed: true
 				},
 				{

@@ -18,3 +18,5 @@ title: Links
 - [https://docs.securityonion.net/en/3/main/](https://docs.securityonion.net/en/3/main/)
 - [https://github.com/Security-Onion-Solutions/securityonion/](https://github.com/Security-Onion-Solutions/securityonion/)
 - [https://github.com/tenzir/tenzir](https://github.com/tenzir/tenzir)
+- [https://github.com/stamparm/maltrail](https://github.com/stamparm/maltrail)
+- [https://www.sekuripy.hr/labs/maltrail/](https://www.sekuripy.hr/labs/maltrail/)

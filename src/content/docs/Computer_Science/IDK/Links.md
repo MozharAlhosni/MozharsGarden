@@ -74,4 +74,4 @@ title: Links
 - [https://help.1e.com/](https://help.1e.com/)
 - [https://clew.se/](https://clew.se/)
 - [https://en.wikipedia.org/wiki/EBCDIC](https://en.wikipedia.org/wiki/EBCDIC)
-- 
+- [https://tinylittleoffice.com/](https://tinylittleoffice.com/)

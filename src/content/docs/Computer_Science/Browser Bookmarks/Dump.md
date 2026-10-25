@@ -297,7 +297,6 @@ Later on I will need to clean it up and categorize things.
 - [Archer® Technologies LLC](https://www.archerirm.com/)
 - [The Hacker’s Choice | Founded in 1995](https://www.thc.org/segfault/buy-an-upgrade/)
 - [iden3 | Circom](https://iden3.io/circom)
-- [open-appsec | Automatic Open Source WAF &amp; API Security](https://www.openappsec.io/)
 - [Main features - HTTPie 3.2.1 (latest) docs](https://httpie.io/docs/cli/main-features)
 - [Documentation of the GNU Project - GNU Project - Free Software Foundation](https://www.gnu.org/doc/doc.html)
 - [Spendesk](https://app.spendesk.com/app/l3y0s7vnv29gss/requests/all/_k59v2twpeavzh)

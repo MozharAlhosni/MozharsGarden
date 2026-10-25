@@ -20,3 +20,4 @@ title: Tools
 - [https://github.com/google/rekall](https://github.com/google/rekall)
 - [https://github.com/refirmlabs/binwalk](https://github.com/refirmlabs/binwalk)
 - [https://www.comae.com/](https://www.comae.com/)
+- [https://www.x-ways.net/](https://www.x-ways.net/)

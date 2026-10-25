@@ -19,7 +19,6 @@ title: Links
 - [https://github.com/AD-Security/AD_Miner](https://github.com/AD-Security/AD_Miner)
 - [https://github.com/FuzzySecurity/StandIn](https://github.com/FuzzySecurity/StandIn)
 - [https://amsi.fail/](https://amsi.fail/)
-- [https://github.com/danielbohannon/Invoke-Obfuscation](https://github.com/danielbohannon/Invoke-Obfuscation)
 - [https://cloud.google.com/blog/topics/threat-intelligence/recovering-active-adfs-signing-keys-machine-dpapi/](https://cloud.google.com/blog/topics/threat-intelligence/recovering-active-adfs-signing-keys-machine-dpapi/)
 - [https://github.com/wh0amitz/SharpADWS](https://github.com/wh0amitz/SharpADWS)
 - [https://github.com/xforcered/SOAPy](https://github.com/xforcered/SOAPy)

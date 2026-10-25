@@ -23,3 +23,5 @@ title: Links
 - [https://github.com/trustedsec/orpheus](https://github.com/trustedsec/orpheus)
 - [https://github.com/mgeeky/Stracciatella](https://github.com/mgeeky/Stracciatella)
 - [https://jxy-s.github.io/herpaderping/](https://jxy-s.github.io/herpaderping/)
+- [https://github.com/danielbohannon/Invoke-Obfuscation](https://github.com/danielbohannon/Invoke-Obfuscation)
+- [https://github.com/bashfuscator/bashfuscator](https://github.com/bashfuscator/bashfuscator)

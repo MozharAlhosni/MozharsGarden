@@ -6,3 +6,4 @@ title: Links
 - [https://docs.defectdojo.com/](https://docs.defectdojo.com/)
 - [https://securitylab.github.com/secure-code-game/](https://securitylab.github.com/secure-code-game/)
 - [https://github.com/PyCQA/bandit](https://github.com/PyCQA/bandit)
+- [https://www.openappsec.io/](https://www.openappsec.io/)

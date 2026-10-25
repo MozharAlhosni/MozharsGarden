@@ -24,3 +24,4 @@ title: Links
 - [https://www.law.cornell.edu/wex/parol_evidence_rule](https://www.law.cornell.edu/wex/parol_evidence_rule)
 - [https://en.wikipedia.org/wiki/Quorum](https://en.wikipedia.org/wiki/Quorum)
 - [https://en.wikipedia.org/wiki/Sic](https://en.wikipedia.org/wiki/Sic)
+- [https://www.acquisition.gov/far/8.405-3](https://www.acquisition.gov/far/8.405-3)

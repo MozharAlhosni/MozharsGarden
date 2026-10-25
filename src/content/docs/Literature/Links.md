@@ -12,3 +12,4 @@ title: Links
 - [https://ludwig.guru/](https://ludwig.guru/)
 - [https://en.wikipedia.org/wiki/Darwin_Information_Typing_Architecture](https://en.wikipedia.org/wiki/Darwin_Information_Typing_Architecture)
 - [https://www.dita-ot.org/](https://www.dita-ot.org/)
+- [https://en.wikipedia.org/wiki/Black_swan_theory](https://en.wikipedia.org/wiki/Black_swan_theory)

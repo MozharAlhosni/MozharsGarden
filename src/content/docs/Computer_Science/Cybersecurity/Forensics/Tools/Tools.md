@@ -21,3 +21,4 @@ title: Tools
 - [https://github.com/refirmlabs/binwalk](https://github.com/refirmlabs/binwalk)
 - [https://www.comae.com/](https://www.comae.com/)
 - [https://www.x-ways.net/](https://www.x-ways.net/)
+- [https://www.forensafe.com/index.html](https://www.forensafe.com/index.html)

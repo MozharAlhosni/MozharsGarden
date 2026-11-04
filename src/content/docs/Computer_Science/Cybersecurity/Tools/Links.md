@@ -19,3 +19,5 @@ title: Links
 - [https://esimplans.com/](https://esimplans.com/)
 - [https://who.is/](https://who.is/)
 - [https://pcre2project.github.io/pcre2/](https://pcre2project.github.io/pcre2/)
+- [https://www.urlvoid.com/](https://www.urlvoid.com/)
+- [https://www.filescan.io/](https://www.filescan.io/)

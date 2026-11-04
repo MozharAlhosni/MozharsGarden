@@ -40,3 +40,5 @@ title: Links
 - [https://threatblogger.com/2024/02/27/x64dbg-snowman-decompiler/](https://threatblogger.com/2024/02/27/x64dbg-snowman-decompiler/)
 - [https://scc.binary.ninja/](https://scc.binary.ninja/)
 - [https://github.com/ayoubfaouzi/al-khaser](https://github.com/ayoubfaouzi/al-khaser)
+- [https://www.joesecurity.org/](https://www.joesecurity.org/)
+- [https://github.com/struppigel/PortEx](https://github.com/struppigel/PortEx)

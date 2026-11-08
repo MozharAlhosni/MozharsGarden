@@ -13,3 +13,4 @@ title: Links
 - [https://github.com/cyb3rxp/awesome-soc](https://github.com/cyb3rxp/awesome-soc)
 - [https://shuffler.io/](https://shuffler.io/)
 - [https://github.com/shuffle/shuffle](https://github.com/shuffle/shuffle)
+- [https://strontic.github.io/](https://strontic.github.io/)

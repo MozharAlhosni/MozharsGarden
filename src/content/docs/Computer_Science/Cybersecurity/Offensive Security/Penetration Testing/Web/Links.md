@@ -18,3 +18,4 @@ title: Links
 - [https://bishopfox.com/blog/json-interoperability-vulnerabilities](https://bishopfox.com/blog/json-interoperability-vulnerabilities)
 - [https://cspbypass.com/](https://cspbypass.com/)
 - [https://slcyber.io/research-center/two-bypasses-for-chromes-sanitizer-api/](https://slcyber.io/research-center/two-bypasses-for-chromes-sanitizer-api/)
+- [https://en.wikipedia.org/wiki/CRIME](https://en.wikipedia.org/wiki/CRIME)

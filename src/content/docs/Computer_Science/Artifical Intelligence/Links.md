@@ -2,6 +2,7 @@
 title: Links
 ---
 
+- [https://www.agentastic.dev/](https://www.agentastic.dev/)
 - [https://modal.com/](https://modal.com/)
 - [https://context7.com/](https://context7.com/)
 - [https://trellis3d.net/](https://trellis3d.net/)

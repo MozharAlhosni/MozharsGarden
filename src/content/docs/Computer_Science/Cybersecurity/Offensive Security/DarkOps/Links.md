@@ -2,6 +2,7 @@
 title: Links
 ---
 
+- [https://cxsecurity.com/](https://cxsecurity.com/)
 - [https://www.cnblogs.com/](https://www.cnblogs.com/)
 - [https://www.whonix.org/](https://www.whonix.org/)
 - [https://www.qubes-os.org/](https://www.qubes-os.org/)

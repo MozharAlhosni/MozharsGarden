@@ -22,3 +22,4 @@ title: Tools
 - [https://www.comae.com/](https://www.comae.com/)
 - [https://www.x-ways.net/](https://www.x-ways.net/)
 - [https://www.forensafe.com/index.html](https://www.forensafe.com/index.html)
+- [https://www.opentext.com/products/forensic](https://www.opentext.com/products/forensic)

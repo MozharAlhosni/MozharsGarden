@@ -2,6 +2,7 @@
 title: Literature
 ---
 
+- [https://stolen-thoughts.com/](https://stolen-thoughts.com/)
 - [https://arxiv.org/abs/2512.09882](https://arxiv.org/abs/2512.09882)
 - [https://csrc.nist.gov/pubs/ai/100/2/e2023/final](https://csrc.nist.gov/pubs/ai/100/2/e2023/final)
 - [https://www.dhs.gov/sites/default/files/publications/increasing_threats_of_deepfake_identities_0.pdf](https://www.dhs.gov/sites/default/files/publications/increasing_threats_of_deepfake_identities_0.pdf)

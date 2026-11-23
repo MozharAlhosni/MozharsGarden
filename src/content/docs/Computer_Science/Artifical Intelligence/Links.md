@@ -2,6 +2,7 @@
 title: Links
 ---
 
+- [https://herdr.dev/](https://herdr.dev/)
 - [https://vllm.ai/](https://vllm.ai/)
 - [https://www.agentastic.dev/](https://www.agentastic.dev/)
 - [https://modal.com/](https://modal.com/)
